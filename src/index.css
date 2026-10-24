@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos globales y reset */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #07090c;
+  color: #e2e8f0;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Custom Dark Fantasy Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #0d1117;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #273344;
+  border-radius: 3px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #c5a059;
+}
+
+/* Ocultar barra de scroll para deslizamiento táctil horizontal */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Mejoras táctiles en móvil */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Ajustes de Leaflet para integración oscura */
+.leaflet-container {
+  background-color: #07090c !important;
+  font-family: inherit;
+}
+
+/* Personalización del Popup de Leaflet */
+.leaflet-popup-content-wrapper {
+  background: #0d1117 !important;
+  color: #f1f5f9 !important;
+  border: 1px solid rgba(197, 160, 89, 0.45) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.8), 0 0 15px rgba(197, 160, 89, 0.2) !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: inherit !important;
+}
+
+.leaflet-popup-tip {
+  background: #0d1117 !important;
+  border: 1px solid rgba(197, 160, 89, 0.45) !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: #94a3b8 !important;
+  padding: 6px !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+  color: #ffffff !important;
+}
+
+/* Controles de zoom de Leaflet */
+.leaflet-control-zoom {
+  border: 1px solid rgba(197, 160, 89, 0.3) !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5) !important;
+}
+
+.leaflet-control-zoom a {
+  background-color: #0e1117 !important;
+  color: #c5a059 !important;
+  border-bottom: 1px solid #1f2937 !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: #1c2430 !important;
+  color: #e5c17b !important;
+}
+
+/* Atribución estilizada y no invasiva para Leaflet */
+.leaflet-control-attribution {
+  background-color: rgba(13, 17, 23, 0.88) !important;
+  backdrop-filter: blur(6px) !important;
+  color: #64748b !important;
+  border-top: 1px solid rgba(42, 53, 71, 0.7) !important;
+  border-left: 1px solid rgba(42, 53, 71, 0.7) !important;
+  border-top-left-radius: 8px !important;
+  padding: 3px 10px !important;
+  font-size: 10px !important;
+  margin: 0 !important;
+  z-index: 400 !important;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5) !important;
+}
+
+.leaflet-control-attribution a {
+  color: #c5a059 !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+}
+
+.leaflet-control-attribution a:hover {
+  color: #e8cb8d !important;
+  text-decoration: underline !important;
+}

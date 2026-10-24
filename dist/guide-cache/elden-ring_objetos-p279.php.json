@@ -1,0 +1,30 @@
+{
+  "title": "Dedo Sangriento",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p279.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/dedo-sangriento.jpg"
+  ],
+  "lore": "Objeto para jugar online.\n\n(Se puede utilizar desde el menú Multijugador).\n\n \n\nIntenta invadir el mundo de otro jugador.\n\nSi lo consigues, llegarás como invasor (Dedo Sangriento) y tu objetivo será derrotar al Poseedor de Dedos de ese mundo.\n\n \n\nLa uña de este dedo presenta restos de sangre brillante. Su pálida y enfermiza piel ya no siente nada, pero la uña sufre el más dulce de los dolores.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Intenta invadir el mundo de otro jugador."
+      ],
+      "text": "Intenta invadir el mundo de otro jugador.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te lo da  Varré, el Rostro Alabastrado  al avanzar lo suficiente en su historia."
+      ],
+      "text": "-Te lo da  Varré, el Rostro Alabastrado  al avanzar lo suficiente en su historia.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Multijugador"
+}

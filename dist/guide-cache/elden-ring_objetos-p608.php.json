@@ -1,0 +1,30 @@
+{
+  "title": "Frasco podrido",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p608.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-podrido.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro ritual.\n\nEstá decorado con un blasón en forma de alas escarlatas.\n\n \n\nLánzalo contra los enemigos para provocar una acumulación de putrefacción roja.\n\n \n\nLa putrefacción burbujea desde el pantano de Aeonia y carcome la vida como una despiadada plaga.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se lanza a los enemigos para provocar la acumulación de putrefacción roja."
+      ],
+      "text": "Se lanza a los enemigos para provocar la acumulación de putrefacción roja.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Seta tóxica  x2,  Flor áurea descolorida  x2 y  Mariposa de Aeonia  x1 (necesitas el  Manual de guerrero nómada [22] )."
+      ],
+      "text": "-Se puede crear con  Seta tóxica  x2,  Flor áurea descolorida  x2 y  Mariposa de Aeonia  x1 (necesitas el  Manual de guerrero nómada [22] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

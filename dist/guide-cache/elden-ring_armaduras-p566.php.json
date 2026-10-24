@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de Gaius",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p566.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-gaius.jpg"
+  ],
+  "lore": "Armadura pectoral de hierro negro del comandante Gaius.\n\nForma parte de una armadura decorada con un diseño de semillas caídas.\n\n \n\nGaius fue el discípulo más antiguo del mismo Señor de alabastro que enseñó la técnica gravitatoria a Radahn y a Gaea.",
+  "intro": [
+    "-Te la vende Enia por 12.000 runas después de haber derrotado al jefazo Caballero putrefacto."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 20.1",
+        "Negación de daños",
+        "-Físico: 16.8",
+        "-VS golpe: 15.7",
+        "-VS tajo: 19.7",
+        "-VS perforación: 19.2",
+        "-Magia: 14.1",
+        "-Fuego: 13.8",
+        "-Rayo: 13.8",
+        "-Sagrado: 13.8",
+        "Resistencia",
+        "-Inmunidad: 67",
+        "-Robustez: 83",
+        "-Concentración: 55",
+        "-Vitalidad: 55",
+        "-Aplomo: 38"
+      ],
+      "text": "-Peso: 20.1\nNegación de daños\n-Físico: 16.8\n-VS golpe: 15.7\n-VS tajo: 19.7\n-VS perforación: 19.2\n-Magia: 14.1\n-Fuego: 13.8\n-Rayo: 13.8\n-Sagrado: 13.8\nResistencia\n-Inmunidad: 67\n-Robustez: 83\n-Concentración: 55\n-Vitalidad: 55\n-Aplomo: 38",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

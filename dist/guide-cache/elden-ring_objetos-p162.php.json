@@ -1,0 +1,32 @@
+{
+  "title": "Grasa de sangre",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p162.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/grasa-de-sangre.jpg"
+  ],
+  "lore": "Grasa solidificada creada a partir de una combinación de materiales de color rojo sangre. Objeto que puede crearse.\n\n \n\nRecubre el arma y produce hemorragias.\n\nEl efecto dura poco tiempo.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Recubre el arma e inflige hemorragia."
+      ],
+      "text": "Recubre el arma e inflige hemorragia.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Resina de raíz  x1 y  Rosa sangrienta  x1 (necesitas el  Manual de guerrero nómada [6] ).",
+        "-Encuentras 2 en un cadáver en el cementerio de la \"Iglesia de la peregrinación\" en  Península del Llanto .",
+        "-Encuentras 3 en un cadáver rodeado de medusas en  Liurnia (Oeste) ."
+      ],
+      "text": "-Se puede crear con  Resina de raíz  x1 y  Rosa sangrienta  x1 (necesitas el  Manual de guerrero nómada [6] ).\n-Encuentras 2 en un cadáver en el cementerio de la \"Iglesia de la peregrinación\" en  Península del Llanto .\n-Encuentras 3 en un cadáver rodeado de medusas en  Liurnia (Oeste) .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

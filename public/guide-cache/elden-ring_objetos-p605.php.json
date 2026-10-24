@@ -1,0 +1,30 @@
+{
+  "title": "Frasco volcánico",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p605.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-volcanico.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene roca volcánica pulverizada.\n\n \n\nLánzalo contra los enemigos para liberar una nube de calor que infligirá daño continuado durante un breve período a quienes se encuentren dentro de su alcance.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Crea una nube de calor, lo que provoca daño por fuego de forma constante."
+      ],
+      "text": "Crea una nube de calor, lo que provoca daño por fuego de forma constante.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Piedra volcánica  x2 (necesitas el  Manual de guerrero nómada [20] )."
+      ],
+      "text": "-Se puede crear con  Piedra volcánica  x2 (necesitas el  Manual de guerrero nómada [20] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Capucha de tela azul",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p5.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/capucha-de-tela-azul.jpg"
+  ],
+  "lore": "Capucha de guerrero nómada.\n\nEl color azul del tejido simboliza las aguas resplandecientes, que fluyen como la espada en manos de su portador.\n\n \n\nAl igual que las aguas tranquilas se vuelven turbias, la inactividad lleva a la decadencia.\n\nLos guerreros deben viajar siempre sin rumbo.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Guerrero.",
+    "-Te la vende el Comerciante solitario 2 por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.7",
+        "Negación de daños",
+        "-Físico: 2.8",
+        "-VS golpe: 2.8",
+        "-VS tajo: 2.3",
+        "-VS perforación: 2.3",
+        "-Magia: 3.1",
+        "-Fuego: 3.4",
+        "-Rayo: 3.8",
+        "-Sagrado: 2.8",
+        "Resistencia",
+        "-Inmunidad: 24",
+        "-Robustez: 15",
+        "-Concentración: 18",
+        "-Vitalidad: 18",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.7\nNegación de daños\n-Físico: 2.8\n-VS golpe: 2.8\n-VS tajo: 2.3\n-VS perforación: 2.3\n-Magia: 3.1\n-Fuego: 3.4\n-Rayo: 3.8\n-Sagrado: 2.8\nResistencia\n-Inmunidad: 24\n-Robustez: 15\n-Concentración: 18\n-Vitalidad: 18\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

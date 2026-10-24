@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de Caballero de la Muerte",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p580.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-caballero-de-la-muerte.jpg"
+  ],
+  "lore": "Armadura dorada de los Caballeros de la Muerte. Está adornada con una imagen anticuada del Árbol Áureo.\n\n \n\nMejora las habilidades y los encantamientos del culto a los dragones antiguos de la capital.\n\n \n\nEstos caballeros, que antaño formaban parte de la guardia personal de Godwyn, buscaban el cadáver sustituto de su maestro transfigurado, para la nueva era de los nacidos en la oscuridad.",
+  "intro": [
+    "-La encuentras en un cadáver en las Catacumbas de Luz Oscura."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 11.2",
+        "Negación de daños",
+        "-Físico: 12.6",
+        "-VS golpe: 10.7",
+        "-VS tajo: 12.2",
+        "-VS perforación: 12.2",
+        "-Magia: 9.3",
+        "-Fuego: 9.7",
+        "-Rayo: 12.4",
+        "-Sagrado: 8.2",
+        "Resistencia",
+        "-Inmunidad: 25",
+        "-Robustez: 42",
+        "-Concentración: 16",
+        "-Vitalidad: 42",
+        "-Aplomo: 22"
+      ],
+      "text": "-Peso: 11.2\nNegación de daños\n-Físico: 12.6\n-VS golpe: 10.7\n-VS tajo: 12.2\n-VS perforación: 12.2\n-Magia: 9.3\n-Fuego: 9.7\n-Rayo: 12.4\n-Sagrado: 8.2\nResistencia\n-Inmunidad: 25\n-Robustez: 42\n-Concentración: 16\n-Vitalidad: 42\n-Aplomo: 22",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

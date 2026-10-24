@@ -1,0 +1,61 @@
+{
+  "title": "Espadón de lagarto",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p340.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadon-de-lagarto.jpg"
+  ],
+  "lore": "Peculiar arma que llevan los diablillos.\n\nEspadón forjado con la forma de un lagarto de lengua bífida.\n\n \n\nHabilidad: Pisotón y tajo vertical\n\nPrepara tu arma y adopta una posición baja para que la mayoría de los ataques del enemigo no te hagan retroceder.\n\nAcompáála con un ataque potente para ejecutar un golpe hacia arriba.",
+  "intro": [
+    "-Lo pueden soltar los diablillos de las Catacumbas del río Escorpión y Catacumbas de Grieta Neblinosa."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 14"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Golpe/Perf.",
+        "-Peso: 9.5",
+        "-Habilidad: Pisotón y tajo vertical",
+        "-Coste de PC: 5 (- 8)",
+        "Potencia de ataque",
+        "-Físico: 140",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 35.0",
+        "-Fuego: 35.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 43",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Golpe/Perf.\n-Peso: 9.5\n-Habilidad: Pisotón y tajo vertical\n-Coste de PC: 5 (- 8)\nPotencia de ataque\n-Físico: 140\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 35.0\n-Fuego: 35.0\n-Rayo: 35.0\n-Sagrado: 35.0\n-Estabilidad: 43\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

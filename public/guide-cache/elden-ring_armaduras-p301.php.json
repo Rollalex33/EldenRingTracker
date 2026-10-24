@@ -1,0 +1,47 @@
+{
+  "title": "Brazos fúngicos",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p301.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/brazos-fungicos.jpg"
+  ],
+  "lore": "Hongos que crecen por todo el cuerpo.\n\nEstos hongos de tamaño descomunal han colonizado los brazos.\n\n \n\nPara quienes se ven embelesados por la putrefacción roja, son un atuendo sagrado que te hace arraigar en la tierra.",
+  "intro": [
+    "-Los encuentras en un cadáver en la Cueva de Aguahirviente, en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 1.7",
+        "Negación de daños",
+        "-Físico: 1.5",
+        "-VS golpe: 1.7",
+        "-VS tajo: 0.6",
+        "-VS perforación: 1.3",
+        "-Magia: 3.3",
+        "-Fuego: 1.3",
+        "-Rayo: 3.2",
+        "-Sagrado: 3.2",
+        "Resistencia",
+        "-Inmunidad: 34",
+        "-Robustez: 8",
+        "-Concentración: 30",
+        "-Vitalidad: 25",
+        "-Aplomo: 0"
+      ],
+      "text": "-Peso: 1.7\nNegación de daños\n-Físico: 1.5\n-VS golpe: 1.7\n-VS tajo: 0.6\n-VS perforación: 1.3\n-Magia: 3.3\n-Fuego: 1.3\n-Rayo: 3.2\n-Sagrado: 3.2\nResistencia\n-Inmunidad: 34\n-Robustez: 8\n-Concentración: 30\n-Vitalidad: 25\n-Aplomo: 0",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

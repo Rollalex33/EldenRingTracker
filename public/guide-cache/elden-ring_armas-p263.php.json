@@ -1,0 +1,63 @@
+{
+  "title": "Hojas negras de gárgola",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p263.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hojas-negras-de-gargola.jpg"
+  ],
+  "lore": "Hoja doble de bronce que portaban las gárgols denodadas, arreglada con adipocira ennegrecida.\n\nInflige daño sagrado.\n\n \n\nEsa es la marca de quienes sirven a Maliketh, la Hoja Negra.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientas tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-Las suelta el jefazo Fiel de la Hoja Negra en Tierras prohibidas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 18",
+        "-Destreza: 15",
+        "-Fe: 22"
+      ],
+      "text": "-Fuerza: 18\n-Destreza: 15\n-Fe: 22",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hoja doble",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 8.5",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 81",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 97",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 32.0",
+        "-Magia: 26.0",
+        "-Fuego: 26.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 59.0",
+        "-Estabilidad: 32",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hoja doble\n-Tipo de daño: Estándar/Perforación\n-Peso: 8.5\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 81\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 97\n-Crítico: 100\nProtección contra daños\n-Físicos: 32.0\n-Magia: 26.0\n-Fuego: 26.0\n-Rayo: 26.0\n-Sagrado: 59.0\n-Estabilidad: 32\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hojas dobles"
+}

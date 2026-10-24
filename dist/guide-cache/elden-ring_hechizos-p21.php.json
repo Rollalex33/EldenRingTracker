@@ -1,0 +1,28 @@
+{
+  "title": "Arco grande de Loretta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p21.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arco-grande-de-loretta.jpg"
+  ],
+  "lore": "Hechizo utilizado por la Guardia Real Loretta.\n\n \n\nCrea un gran arco mágico y dispara una flecha de gran tamaño.\n\nLa potencia de este hechizo aumenta al cargar. Mantén pulsado para mantener la flecha en posición.\n\n \n\nSe dice que el arco era el arma preferida por Loretta.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar a la jefaza Guardia Real Loretta."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara una gran flecha de un gran arco mágico.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 26"
+      ],
+      "text": "Dispara una gran flecha de un gran arco mágico.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 24\n-Ranuras: 1\n-Inteligencia necesaria: 26",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

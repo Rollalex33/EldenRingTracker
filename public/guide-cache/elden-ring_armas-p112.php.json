@@ -1,0 +1,61 @@
+{
+  "title": "Hacha de sacrificador",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p112.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hacha-de-sacrificador.jpg"
+  ],
+  "lore": "Destral utilizado en un antiguo ritual de sacrificio. En él, se representa a un ave de la muerte como si fuese una deidad malévola.\n\n \n\nAún se conserva el poder del ritual. Restaura una pequeña cantidad de PC al dar muerte a un enemigo.\n\n \n\nHabilidad: Golpes salvajes\n\nBalancea tu arma con desenfreno.\n\nSigue balanceándola mientras mantienes el botón pulsado. Puedes acompañarla con un ataque normal o potente.",
+  "intro": [
+    "-La consigues como recompensa por derrotar al jefazo Ave de la muerte."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 5.5",
+        "-Habilidad: Golpes salvajes",
+        "-Coste de PC: 2 (10 15)",
+        "Potencia de ataque",
+        "-Físico: 128",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Estándar\n-Peso: 5.5\n-Habilidad: Golpes salvajes\n-Coste de PC: 2 (10 15)\nPotencia de ataque\n-Físico: 128\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 49.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 33\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

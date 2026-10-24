@@ -1,0 +1,61 @@
+{
+  "title": "Hoja rocosa del rey dragón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p295.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-rocosa-del-rey-dragon.jpg"
+  ],
+  "lore": "Una espada perforante que contiene un rayo primigenio.\n\nUn fragmento del poder del señor dragón, que se obtiene de un recuerdo.\n\n \n\nEsta arma posee un gran poder contra los lamentables dragones mortales de hoy en día.\n\n \n\nHabilidad única: Transmutación tempestuosa\n\nTransfórmate temporalmente en una tempestuosa nube roja y surca los cielos antes de revelar tu verdadera forma y lanzar una hoja cargada de electricidad.\n\nMantén la habilidad para aumentar el alcance de tu transmutación tempestuosa.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del señor dragón (y 20.000 runas) a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 18",
+        "-Destreza: 37"
+      ],
+      "text": "-Fuerza: 18\n-Destreza: 37",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada de embestida pesada",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 8.0",
+        "-Habilidad: Transmutación tempestuosa",
+        "-Coste de PC: 28",
+        "Potencia de ataque",
+        "-Físico: 92",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 59",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 46.0",
+        "-Magia: 32.0",
+        "-Fuego: 32.0",
+        "-Rayo: 32.0",
+        "-Sagrado: 46.0",
+        "-Estabilidad: 34",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada de embestida pesada\n-Tipo de daño: Estándar/Perforación\n-Peso: 8.0\n-Habilidad: Transmutación tempestuosa\n-Coste de PC: 28\nPotencia de ataque\n-Físico: 92\n-Magia: 0\n-Fuego: 0\n-Rayo: 59\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 46.0\n-Magia: 32.0\n-Fuego: 32.0\n-Rayo: 32.0\n-Sagrado: 46.0\n-Estabilidad: 34\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas de embestida pesadas"
+}

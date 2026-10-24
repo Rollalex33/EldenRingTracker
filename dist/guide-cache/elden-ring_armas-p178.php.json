@@ -1,0 +1,74 @@
+{
+  "title": "Cinquedea",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p178.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_2.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_3.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_4.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_5.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_6.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_7.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cinquedea_8.jpg"
+  ],
+  "lore": "Espada corta cedida a los clérigos de alta jerarquía de Farum Azula.\n\nAumenta la potencia de los encantamientos de bestia.\n\n \n\nEl diseño rinde homenaje a los cinco dedos de una bestia, símbolo de la inteligencia que se otorgó antaño a los suyos.\n\n \n\nHabilidad: Quiebro\n\nUna habilidad apreciada por aquellos que son ágiles y veloces.\n\nRealiza una maniobra rápida para rodear los objetivos marcados.",
+  "intro": [
+    "Según sales del “Santuario de la bestia” en Montedrago,  gira a la derecha y déjate caer a la rama del precipicio por donde  te mostramos en Eliteguias con estas imágenes de arriba.",
+    "Déjate caer a la siguiente rama y desde el extremo de ésta, al  tejado de justo debajo (fíjate en la cutreflecha).",
+    "Salta a la estructura de la “copa” y déjate caer con mucho  cuidado por la parte derecha al bordillo de abajo (camina en paralelo  y un poquito torcido para caer con más seguridad, sino es fácil  caer al vacío). En cualquier caso, si todo ha ido bien, recibirás  un poco de daño, pero no morirás.",
+    "Llama al caballo y salta en dirección hacia donde habías venido,  luego desde ahí a la parte inferior. Ya en “tierra firme”,  elimina al murciélago si quieres y a saltar otra vez al bordillo de  la columna.",
+    "Si te tiras directamente a la siguiente plataforma de abajo, morirás,  incluso aunque vayas con caballo, así que tienes que saltar con  cuidado de bordillo en bordillo. Para el segundo de esos bordillos  tenes que dejarte caer (no saltar) y luego realizar el doble salto,  sino caerás directamente a la plataforma.",
+    "Entonces ve hacia el Norte hasta finalmente llegar a ese balcón en  el que está el arma. Y ya que estamos aquí, no te olvides del Talismán de escudo con blasón de dragón."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 3.5",
+        "-Habilidad: Quiebro",
+        "-Coste de PC: 3",
+        "Potencia de ataque",
+        "-Físico: 98",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 43.0",
+        "-Magia: 25.0",
+        "-Fuego: 25.0",
+        "-Rayo: 25.0",
+        "-Sagrado: 25.0",
+        "-Estabilidad: 18",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 3.5\n-Habilidad: Quiebro\n-Coste de PC: 3\nPotencia de ataque\n-Físico: 98\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 43.0\n-Magia: 25.0\n-Fuego: 25.0\n-Rayo: 25.0\n-Sagrado: 25.0\n-Estabilidad: 18\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

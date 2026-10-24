@@ -1,0 +1,28 @@
+{
+  "title": "Lanza fulgurante helada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p40.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-fulgurante-helada.jpg"
+  ],
+  "lore": "Encantamiento que canaliza el poder de los soldados draconianos.\n\n \n\nCrea una lanza de rayos de hielo y la clava en el suelo desde las alturas. AL impactar, la lanza estalla y genera estelas de rayos que avanzan hacia delante.\n\n \n\nLos draconianos nacieron en la CIudad Eterna, donde desconocían tanto el cielo como el rayo verdaderos. En su lugar, el rayo de hielo era su arma.",
+  "intro": [
+    "-Lo consigues como recompensa por derrotar al jefazo Soldado draconiano de Nokstella."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Apuñala con una lanza de rayo de hielo desde las alturas.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 29",
+        "-Ranuras: 1",
+        "-Fe necesaria: 34"
+      ],
+      "text": "Apuñala con una lanza de rayo de hielo desde las alturas.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 29\n-Ranuras: 1\n-Fe necesaria: 34",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

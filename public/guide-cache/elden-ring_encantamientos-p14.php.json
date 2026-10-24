@@ -1,0 +1,28 @@
+{
+  "title": "La llama de la locura",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p14.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/la-llama-de-la-locura.jpg"
+  ],
+  "lore": "Encantamiento que se origina a partir de los Tres Dedos enloquecidos.\n\n \n\nProvoca que la llama amarilla de la locura se encienda en los ojos del lanzador.\n\nEl alcance de la ráfaga aumenta al cargarlo.\n\n \n\nLa llama de la locura inflige daño y provoca la acumulación de locura. Este encantamiento también provoca la acumulación de locura en el lanzador y solo es eficaz contra los Sinluz.",
+  "intro": [
+    "-En un cadáver en \"Baptisterio de Callu\" en Península del Llanto."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Emite una ráfaga de la llama amarilla de la locura por los ojos.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 16",
+        "-Ranuras: 1",
+        "-Fe necesaria: 16"
+      ],
+      "text": "Emite una ráfaga de la llama amarilla de la locura por los ojos.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 16\n-Ranuras: 1\n-Fe necesaria: 16",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

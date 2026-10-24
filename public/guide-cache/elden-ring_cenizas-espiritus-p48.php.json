@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de bastardo alado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p48.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-bastardo-alado.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de un bastardo alado.\n\n \n\nUn espíritu con la característica de poseer alas que echa a volar para lanzar flechas con su arco. Los bastardos se consideran un castigo por entrar en contacto con el crisol y, desde que nacen, son tratados como esclavos o algo peor.",
+  "intro": [
+    "-Se encuentran en un cadáver en el interior de las Catacumbas repulsivas, en Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Inoca el espíritu de un bastardo alado.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 37"
+      ],
+      "text": "Inoca el espíritu de un bastardo alado.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 37",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

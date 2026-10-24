@@ -1,0 +1,28 @@
+{
+  "title": "Misil gravitatorio",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p80.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/misil-gravitatorio.jpg"
+  ],
+  "lore": "Una de las hechicerías de piedras refulgentes que manipulan las fuerzas gravitatorias.\n\n \n\nDispara un proyectil que atrae a los enemigos antes de explotar.\n\nSi se carga, aumenta su potencia.\n\n \n\nSe dice que se originó en la oscuridad total del más allá, el hogar de las Bestias de la Estrella fugaz.",
+  "intro": [
+    "-Lo consigues como recompensa por derrotar al jefazo Bestia de la Estrella fugaz en Interior de Vista Sombría."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara un rayo de gravedad que atrae al enemigo.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 36"
+      ],
+      "text": "Dispara un rayo de gravedad que atrae al enemigo.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 18\n-Ranuras: 1\n-Inteligencia necesaria: 36",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

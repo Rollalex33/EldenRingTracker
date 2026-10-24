@@ -1,0 +1,29 @@
+{
+  "title": "Ira de Gelmir",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p63.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ira-de-gelmir.jpg"
+  ],
+  "lore": "Uno de los hechizos creador a partir del magma de Monte Gelmir.\n\n \n\nConjura una ola de magma que surge de la tierra y cubre la zona.\n\nLa potencia de este hechizo aumenta al cargarlo.\n\n \n\nEste hechizo se lanza en representación de la furia del volcán, pero la arrogancia de intentar dominarlo es propio únicamente de hombres y víboras.",
+  "intro": [
+    "-Te lo da Bernahl como recompensa por haberle ayudado con su  contrato."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Cubre la zona con una erupción de magma que surge de la tierra.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 16",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 28",
+        "-Fe necesaria: 15"
+      ],
+      "text": "Cubre la zona con una erupción de magma que surge de la tierra.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 16\n-Ranuras: 1\n-Inteligencia necesaria: 28\n-Fe necesaria: 15",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

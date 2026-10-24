@@ -1,0 +1,28 @@
+{
+  "title": "Ira a distancia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p113.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ira-a-distancia.jpg"
+  ],
+  "lore": "Encantamiento del Árbol Áureo que fue descubierto en el Reino de las Sombras.\n\n \n\nLanza una onda de choque dorada que hace retroceder a los enemigos cercanos.\n\nSi se carga, cambia la intensidad del tamaño de la onda.\n\n \n\nCuando el Círculo de Elden se vio fragmentado, los habitantes del Reino de las Smbras también lo sintieron... y se temieron que fuese una señal de la ira del Árbol Áureo.",
+  "intro": [
+    "-Lo encuentras en un cadáver en el punto indicado de Fortaleza sombría (segunda visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Lanza una onda de choque dorada que hace retroceder a los enemigos cercanos.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Fe necesaria: 34"
+      ],
+      "text": "Lanza una onda de choque dorada que hace retroceder a los enemigos cercanos.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 18\n-Ranuras: 1\n-Fe necesaria: 34",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

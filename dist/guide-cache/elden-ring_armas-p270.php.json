@@ -1,0 +1,63 @@
+{
+  "title": "Lanza ritual fúnebre",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p270.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-ritual-funebre.jpg"
+  ],
+  "lore": "Lanza ritual utilizada por los antiguos sacerdots a los que se les permitía estar entre las aves d ela muerte.\n\n \n\nLos sacerdotes se convirtieron en guardianes de las aves a través del rito de la Muerte, que también servía como juramento de su lejana resurrección.\n\n \n\nHabilidad única: Ritual invocalanzas\n\nLevanta la lanza sobre tu cabeza para dirigir tus plegarias al cielo e invocar una lluvia de lanzas espectrales.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Ave del ritual fúnebre en Picos de los gigantes."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 20",
+        "-Inteligencia: 18"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 20\n-Inteligencia: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza",
+        "-Tipo de daño: Perforación",
+        "-Peso: 6.5",
+        "-Habilidad: Ritual invocalanzas",
+        "-Coste de PC: 20",
+        "Potencia de ataque",
+        "-Físico: 99",
+        "-Magia: 64",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 54.0",
+        "-Magia: 32.0",
+        "-Fuego: 27.0",
+        "-Rayo: 27.0",
+        "-Sagrado: 27.0",
+        "-Estabilidad: 36",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza\n-Tipo de daño: Perforación\n-Peso: 6.5\n-Habilidad: Ritual invocalanzas\n-Coste de PC: 20\nPotencia de ataque\n-Físico: 99\n-Magia: 64\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 54.0\n-Magia: 32.0\n-Fuego: 27.0\n-Rayo: 27.0\n-Sagrado: 27.0\n-Estabilidad: 36\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas"
+}

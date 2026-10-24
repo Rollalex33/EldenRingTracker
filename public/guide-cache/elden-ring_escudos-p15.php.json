@@ -1,0 +1,60 @@
+{
+  "title": "Escudo del Reino del Sol",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p15.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-del-reino-del-sol.jpg"
+  ],
+  "lore": "Escudo de honor que muestra una ciudad coronada por el sol. Ha vivido días mejores.\n\n \n\nDebido al desgaste que sufre el escudo, el asiento del sol ha desaparecido ya hace tiempo.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Lo pueden soltar uno de los esqueletos que están por el riachuelo que va por la parte norte del lago en Necrolimbo. Y también cualquier otro esqueleto que lo lleve equipado, como por ejemplo los del cementerio de Colina Tormentosa por donde consigues las Cenizas de soldado de Godrick.",
+    "-También lo pueden soltar los esqueletos de Farum Azula.",
+    "-Lo pueden soltar los enemigos del Foso del dragón (Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8"
+      ],
+      "text": "-Fuerza: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo mediano",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 74",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 85.0",
+        "-Magia: 44.0",
+        "-Fuego: 27.0",
+        "-Rayo: 40.0",
+        "-Sagrado: 56.0",
+        "-Estabilidad: 40"
+      ],
+      "text": "-Categoría: Escudo mediano\n-Tipo de ataque: Golpe\n-Peso: 3.5\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 74\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 85.0\n-Magia: 44.0\n-Fuego: 27.0\n-Rayo: 40.0\n-Sagrado: 56.0\n-Estabilidad: 40",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Medianos"
+}

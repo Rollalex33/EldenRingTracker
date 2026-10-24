@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de sangre maldita",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p596.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-sangre-maldita.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro ritual.\n\nEstá decorado con el blasón del Señor de la Sangre.\n\n \n\nLánzalo contra los enemgos para rociarlos con sangre maldita y hacer que los espíritus invocados los asalten con un rabioso fervor.\n\n \n\nEs un recuerdo del Señor de la Sangre.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se lanza para rociar al enemigo con sangre maldita."
+      ],
+      "text": "Se lanza para rociar al enemigo con sangre maldita.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x2,  Sangre de bestia  x1 y  Rosa sangrienta  x1 (necesitas el  Manual de guerrero nómada [12] )."
+      ],
+      "text": "-Se puede crear con  Seta  x2,  Sangre de bestia  x1 y  Rosa sangrienta  x1 (necesitas el  Manual de guerrero nómada [12] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

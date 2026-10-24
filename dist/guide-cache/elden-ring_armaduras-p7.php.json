@@ -1,0 +1,48 @@
+{
+  "title": "Pañuelo de bandido",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p7.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/panuelo-de-bandido.jpg"
+  ],
+  "lore": "Pañuelo de tela negra que cubre la boca.\n\n \n\nPredilecta de los bandidos para ocultar su rostro. Proporciona cierta protección contra el veneno.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Bandido.",
+    "-Te lo vende Comerciante nómada 3 por 40 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.0",
+        "Negación de daños",
+        "-Físico: 2.8",
+        "-VS golpe: 3.1",
+        "-VS tajo: 3.1",
+        "-VS perforación: 3.1",
+        "-Magia: 3.1",
+        "-Fuego: 3.4",
+        "-Rayo: 3.6",
+        "-Sagrado: 3.1",
+        "Resistencia",
+        "-Inmunidad: 30",
+        "-Robustez: 14",
+        "-Concentración: 14",
+        "-Vitalidad: 16",
+        "-Aplomo: 0"
+      ],
+      "text": "-Peso: 3.0\nNegación de daños\n-Físico: 2.8\n-VS golpe: 3.1\n-VS tajo: 3.1\n-VS perforación: 3.1\n-Magia: 3.1\n-Fuego: 3.4\n-Rayo: 3.6\n-Sagrado: 3.1\nResistencia\n-Inmunidad: 30\n-Robustez: 14\n-Concentración: 14\n-Vitalidad: 16\n-Aplomo: 0",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

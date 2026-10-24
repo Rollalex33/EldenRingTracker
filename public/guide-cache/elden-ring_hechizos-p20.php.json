@@ -1,0 +1,28 @@
+{
+  "title": "Punzada cariana",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p20.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/punzada-cariana.jpg"
+  ],
+  "lore": "Uno de los hechizos  de la familia real cariana.\n\n \n\nConjura un espadón mágico que puedes utilizar para ensartar a tus enemigos.\n\nEl paso inicial se alarga al cargar.\n\n \n\nEste hechizo es el equivalente al Espadón cariano.\n\nAltamente letal cuando se usa contra enemigos que cabalgan solos.",
+  "intro": [
+    "-Lo suelta un escarabajo en los jardines de la Mansión de los  Caria, en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Empala a los enemigos con el espadón mágico.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 17",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 27"
+      ],
+      "text": "Empala a los enemigos con el espadón mágico.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 17\n-Ranuras: 1\n-Inteligencia necesaria: 27",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

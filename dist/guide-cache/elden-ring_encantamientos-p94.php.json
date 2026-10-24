@@ -1,0 +1,28 @@
+{
+  "title": "Lanza fulgurante de dragón antiguo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p94.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-fulgurante-de-dragon-antiguo.jpg"
+  ],
+  "lore": "Un encantamiento secreto del culto a los dragones antiguos de la capital.\n\n \n\nCrea una lanza de rayo rojo la clava en el suelo desde las alturas.\n\nEn el impacto, la lanza estalla y forma estelas fulgurantes que cubren el área.\n\n \n\nEn la leyenda, se dice que el rayo era el arma que utilizaban los dragones antiguos.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn o Miriel por 8.500 runas tras haberle entregado el Devocionario del dragón antiguo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Apuñala con una lanza de rayo rojo desde las alturas.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 25",
+        "-Ranuras: 1",
+        "-Fe necesaria: 32"
+      ],
+      "text": "Apuñala con una lanza de rayo rojo desde las alturas.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 25\n-Ranuras: 1\n-Fe necesaria: 32",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Martillo de acero negro",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p307.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/martillo-de-acero-negro.jpg"
+  ],
+  "lore": "Arma de los Caballeros Negros, sirvientes de Messmer el Empalador. Gran martillo de acero negro con detalles decorativos dorados.\n\n \n\nBendecida con un encantamiento del Árbol Áureo. Si se imbuye de poder sacro, se amplifican su efecto y poder.\n\n \n\nHabilidad: Indómito\n\nAfianza tu posición y prepárate para los ataques para aumentar brevemente el aplomo.\n\nEl daño recibido se verá reducido durante la preparación.",
+  "intro": [
+    "-Lo suelta el Caballero Negro en la Iglesia de la consolación, en Llanura de las Tumbas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 25",
+        "-Destreza: 11",
+        "-Fe: 17"
+      ],
+      "text": "-Fuerza: 25\n-Destreza: 11\n-Fe: 17",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 12.0",
+        "-Habilidad: Indómito",
+        "-Coste de PC: 9 (- -)",
+        "Potencia de ataque",
+        "-Físico: 140",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 42",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 72.0",
+        "-Magia: 38.0",
+        "-Fuego: 38.0",
+        "-Rayo: 38.0",
+        "-Sagrado: 45.0",
+        "-Estabilidad: 47",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 12.0\n-Habilidad: Indómito\n-Coste de PC: 9 (- -)\nPotencia de ataque\n-Físico: 140\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 42\n-Crítico: 100\nProtección contra daños\n-Físicos: 72.0\n-Magia: 38.0\n-Fuego: 38.0\n-Rayo: 38.0\n-Sagrado: 45.0\n-Estabilidad: 47\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

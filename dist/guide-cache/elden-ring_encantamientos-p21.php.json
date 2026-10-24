@@ -1,0 +1,28 @@
+{
+  "title": "Empuje",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p21.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/empuje.jpg"
+  ],
+  "lore": "Encantamiento de los fieles de los Dos Dedos.\n\n \n\nGenera una onda de choque que hace retroceder a los enemigos cercanos.\n\nSi se carga, aumenta el tamaño de la onda de choque.\n\n \n\n¡Recuerda, Sinluz! Si de verdad sigues la senda de la fe, debes prepararte para rechazar todo lo demás.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Produce una onda de choque que empuja a los enemigos y los aleja.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 9",
+        "-Ranuras: 1",
+        "-Fe necesaria: 12"
+      ],
+      "text": "Produce una onda de choque que empuja a los enemigos y los aleja.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 9\n-Ranuras: 1\n-Fe necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

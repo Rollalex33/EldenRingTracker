@@ -1,0 +1,63 @@
+{
+  "title": "Sello de la Comunión Dragontina",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p18.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/sello-de-la-comunion-dragontina.jpg"
+  ],
+  "lore": "Sello de sangre de dragón informe decorado con un blasón de la Comunión Dragontina. Mejora los encantamientos de la Comunión Dragontina.\n\n \n\nEl sacrificio que devora el corazón le otorga su poder.\n\nDe hecho, la naturaleza de la Comunión Dragontina es demasiado primitiva como para considerar adecuado el término \"encantamiento\".\n\n \n\nEste sello también escala los encantamientos con arcano.\n\n \n\nHabilidad: Sin habilidad\n\nEsta arma no tiene ninguna habilidad\n\nSi el arma que llevas en la otra mano tiene alguna habilidad, se utilizará dicha habilidad.",
+  "intro": [
+    "-Lo suelta un espíritu al derrotarlo en Tumba del héroe de los aledaños."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fe: 10",
+        "-Arcano: 10"
+      ],
+      "text": "-Fe: 10\n-Arcano: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fe: D",
+        "-Arcano: C"
+      ],
+      "text": "-Fe: D\n-Arcano: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Sello sagrado",
+        "-Tipo de daño: Golpe",
+        "-Peso: 0.0",
+        "-Habilidad: Sin habilidad",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 25",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Encantamiento: 205",
+        "Protección contra daños",
+        "-Físicos: 25.0",
+        "-Magia: 15.0",
+        "-Fuego: 15.0",
+        "-Rayo: 15.0",
+        "-Sagrado: 15.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos",
+        "-Potencia los hechizos de la Comunión Dragontina."
+      ],
+      "text": "-Categoría: Sello sagrado\n-Tipo de daño: Golpe\n-Peso: 0.0\n-Habilidad: Sin habilidad\n-Coste de PC: -\nPotencia de ataque\n-Físico: 25\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Encantamiento: 205\nProtección contra daños\n-Físicos: 25.0\n-Magia: 15.0\n-Fuego: 15.0\n-Rayo: 15.0\n-Sagrado: 15.0\n-Estabilidad: 15\nEfectos pasivos\n-Potencia los hechizos de la Comunión Dragontina.",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Sellos sagrados"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Lanza del Empalador",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p376.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-del-empalador.jpg"
+  ],
+  "lore": "Arma de Messmer el Empalador.\n\nGran lanza con una hoja combada en forma de llama ondulante.\n\nReforjada con las artes del Reino de las Sombras, puede lanzarse ejecutando un ataque fuerte, un ataque fuerte a la carrera o un ataque fuerte a caballo. Carga el ataque para producir llamas al impactar.\n\n \n\nHabilidad única: Asalto de Messmer\n\nUna feroz sucesión de ataques con la punta de una llameante lanza. Vuelve a pulsar para realizar hasta dos ataques adicionales.\n\nEL movimiento final clava el arma en el suelo para crear innumerables réplicas por la zona.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del Empalador a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 35",
+        "-Fe: 18"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 35\n-Fe: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza larga",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 9.5",
+        "-Habilidad: Asalto de Messmer",
+        "-Coste de PC: 15 (- 9)",
+        "Potencia de ataque",
+        "-Físico: 85",
+        "-Magia: 0",
+        "-Fuego: 102",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 48.0",
+        "-Magia: 32.0",
+        "-Fuego: 32.0",
+        "-Rayo: 64.0",
+        "-Sagrado: 32.0",
+        "-Estabilidad: 45",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza larga\n-Tipo de daño: Estándar/Perf.\n-Peso: 9.5\n-Habilidad: Asalto de Messmer\n-Coste de PC: 15 (- 9)\nPotencia de ataque\n-Físico: 85\n-Magia: 0\n-Fuego: 102\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 48.0\n-Magia: 32.0\n-Fuego: 32.0\n-Rayo: 64.0\n-Sagrado: 32.0\n-Estabilidad: 45\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas largas"
+}

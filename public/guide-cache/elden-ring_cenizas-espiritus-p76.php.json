@@ -1,0 +1,32 @@
+{
+  "title": "Cenizas de hurgadedo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p76.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-hurgadedo.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-hurgadedo_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-hurgadedo_2.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-hurgadedo_3.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-hurgadedo_4.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-hurgadedo_5.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de un hurgadedo.\n\n \n\nEste joven y diminuto hurgadedo es muy leal a su hechicero y está ansioso por restaurar sus PS. No es de extrañar, ya que a esta edad, los hurgadedos aún se sienten muy ligados a su madre.",
+  "intro": [
+    "Dirígete al punto indicado de \"Interior de Vista Sombría\" y déjate caer (con cuidado) por los bordillos de ese agujero.",
+    "Si continúas por el siguiente túnel, encontrarás un cadáver en el exterior con una Runa del Reino de las Sombras (6)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de un hurgadedo.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 80"
+      ],
+      "text": "Invoca el espíritu de un hurgadedo.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 80",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

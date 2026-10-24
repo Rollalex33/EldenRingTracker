@@ -1,0 +1,63 @@
+{
+  "title": "Trenza roja de gigante",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p277.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/trenza-roja-de-gigante.jpg"
+  ],
+  "lore": "Gran látigo tejido con el bermellón pelo de un gigante de fuego.\n\n \n\nTodos los gigantes son pelirrojos, y se dice que Radagon aborrecía sus rojizas trenzas. Quizás fue una maldición de los suyos.\n\n \n\nHabilidad única: Danza de las llamas\n\nImbuye la trenza roja de la llama de los gigantes y arremete contra tu entorno con una serie de ágiles golpes.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del gigante de fuego (y 10.000 runas) a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 18",
+        "-Destreza: 12",
+        "-Fe: 21"
+      ],
+      "text": "-Fuerza: 18\n-Destreza: 12\n-Fe: 21",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Látigo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 2.5",
+        "-Habilidad: Danza de las llamas",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 82",
+        "-Magia: 0",
+        "-Fuego: 53",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 24.0",
+        "-Magia: 12.0",
+        "-Fuego: 26.0",
+        "-Rayo: 12.0",
+        "-Sagrado: 12.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Látigo\n-Tipo de daño: Golpe\n-Peso: 2.5\n-Habilidad: Danza de las llamas\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 82\n-Magia: 0\n-Fuego: 53\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 24.0\n-Magia: 12.0\n-Fuego: 26.0\n-Rayo: 12.0\n-Sagrado: 12.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Látigos"
+}

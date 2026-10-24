@@ -1,0 +1,47 @@
+{
+  "title": "Túnica de hechicero errante (mod.)",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p310.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tunica-de-hechicero-errante-mod.jpg"
+  ],
+  "lore": "Túnica común de tela gruesa.\n\nLa llevaba el hechicero errante Wilhelm, uno de los primeros Sinluz que visitaron la Mesa Redonda.\n\n \n\nWilhelm, un estudiante silencioso de la hechicería que llegó a establecer contacto con la corriente primigenia, fue abocado a la confrontación con su amigo Vargram. Se dice que fue entonces hecho prisionero de la Mesa Redonda.",
+  "intro": [
+    "-La encuentras en un cadáver en la \"Aldea del ermitaño\" en Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.2",
+        "Negación de daños",
+        "-Físico: 2.7",
+        "-VS golpe: 2.7",
+        "-VS tajo: 5.3",
+        "-VS perforación: 2.7",
+        "-Magia: 12.8",
+        "-Fuego: 12.4",
+        "-Rayo: 11.9",
+        "-Sagrado: 12.8",
+        "Resistencia",
+        "-Inmunidad: 31",
+        "-Robustez: 20",
+        "-Concentración: 62",
+        "-Vitalidad: 66",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 3.2\nNegación de daños\n-Físico: 2.7\n-VS golpe: 2.7\n-VS tajo: 5.3\n-VS perforación: 2.7\n-Magia: 12.8\n-Fuego: 12.4\n-Rayo: 11.9\n-Sagrado: 12.8\nResistencia\n-Inmunidad: 31\n-Robustez: 20\n-Concentración: 62\n-Vitalidad: 66\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

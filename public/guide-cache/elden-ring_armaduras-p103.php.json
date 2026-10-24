@@ -1,0 +1,47 @@
+{
+  "title": "Casco de caballero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p103.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-caballero.jpg"
+  ],
+  "lore": "Casco de hierro de un caballero desconocido.\n\nEstá hecho de una fina placa de hierro.\n\n \n\nEsta protección metálica es pesada, pero ofrece una considerable negación de daños.",
+  "intro": [
+    "-Te lo venden las Doncellas gemelas quiescentes por 3.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.6",
+        "Negación de daños",
+        "-Físico: 4.4",
+        "-VS golpe: 4.2",
+        "-VS tajo: 4.8",
+        "-VS perforación: 4.8",
+        "-Magia: 3.8",
+        "-Fuego: 3.8",
+        "-Rayo: 3.4",
+        "-Sagrado: 3.1",
+        "Resistencia",
+        "-Inmunidad: 12",
+        "-Robustez: 22",
+        "-Concentración: 8",
+        "-Vitalidad: 8",
+        "-Aplomo: 6"
+      ],
+      "text": "-Peso: 4.6\nNegación de daños\n-Físico: 4.4\n-VS golpe: 4.2\n-VS tajo: 4.8\n-VS perforación: 4.8\n-Magia: 3.8\n-Fuego: 3.8\n-Rayo: 3.4\n-Sagrado: 3.1\nResistencia\n-Inmunidad: 12\n-Robustez: 22\n-Concentración: 8\n-Vitalidad: 8\n-Aplomo: 6",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

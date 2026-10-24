@@ -1,0 +1,64 @@
+{
+  "title": "Espada de caballero trol",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p106.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-caballero-trol.jpg"
+  ],
+  "lore": "Espadón con una piedra refulgente azul incrustada.\n\nArma de los trols al servicio de la familia real cariana. Los trols fueron llamados al servicio cuando la reina invocó el juramento que hicieron. Son tratados como auténticos caballeros de Caria y luchan como iguales junto a sus camaradas humanos.\n\n \n\nHabilidad: Rugido de trol\n\nMira al horizonte y suelta un intenso rugido para crear potentes ondas de choque que harán retroceder a los enemigos que te rodean.\n\nAcompáñala con un ataque potente para arrojar el arma violentamente.",
+  "intro": [
+    "-La suelta el espíritu gigante de un caballero que te encuentras en el punto indicado de Liurnia (Este), un poco más al Norte de \"Calzada norte de Liurnia\".",
+    "-También hay otro en la Mansión de los  Caria, en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 14",
+        "-Inteligencia: 18"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 14\n-Inteligencia: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 18.0",
+        "-Habilidad: Rugido de trol",
+        "-Coste de PC: 22",
+        "Potencia de ataque",
+        "-Físico: 124",
+        "-Magia: 80",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 70.0",
+        "-Magia: 55.0",
+        "-Fuego: 43.0",
+        "-Rayo: 43.0",
+        "-Sagrado: 43.0",
+        "-Estabilidad: 50",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada colosal\n-Tipo de daño: Estándar\n-Peso: 18.0\n-Habilidad: Rugido de trol\n-Coste de PC: 22\nPotencia de ataque\n-Físico: 124\n-Magia: 80\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 70.0\n-Magia: 55.0\n-Fuego: 43.0\n-Rayo: 43.0\n-Sagrado: 43.0\n-Estabilidad: 50\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas colosales"
+}

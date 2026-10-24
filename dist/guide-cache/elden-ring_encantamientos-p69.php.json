@@ -1,0 +1,28 @@
+{
+  "title": "Ayuda de señor",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p69.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ayuda-de-senor.jpg"
+  ],
+  "lore": "Encantamiento otorgado por los Dos Dedos a los Sinluz que se consideraban dignos de convertirse en señores.\n\n \n\nReduce la acumulación de veneno, las hemorragias y el sueño del lanzador y de los aliados cercanos. Además, cura el envenenamiento.\n\n \n\nMantén el encantamiento para seguir rezando y retrasar la activación.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn o Miriel por 2.500 runas tras haberle entregado el Devocionario de los Dos Dedos."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Reduce la acumulación de veneno, hemorragias y sueño propia y de los aliados.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 12",
+        "-Ranuras: 1",
+        "-Fe necesaria: 12"
+      ],
+      "text": "Reduce la acumulación de veneno, hemorragias y sueño propia y de los aliados.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 12\n-Ranuras: 1\n-Fe necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

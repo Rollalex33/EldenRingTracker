@@ -1,0 +1,28 @@
+{
+  "title": "Lunas gemelas de Rellana",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p72.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lunas-gemelas-de-rellana.jpg"
+  ],
+  "lore": "Hechicería de Rellana, la Caballera de la Luna Gemela.\n\nAsociada a una princesa cariana.\n\n \n\nEncarna lunas gemelas superpuestas que golpean sucesiva y violentamente la tierra y la sacuden con su luz.\n\n \n\nEn su infancia, ella y su hermana mayor Rennala conocieron estas lunas acurrucadas la una junto a la otra.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de la Cab. de la Luna Gemela a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Encarna lunas gemelas y golpea repetidamente el suelo.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 47",
+        "-Ranuras: 2",
+        "-Inteligencia necesaria: 72"
+      ],
+      "text": "Encarna lunas gemelas y golpea repetidamente el suelo.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 47\n-Ranuras: 2\n-Inteligencia necesaria: 72",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

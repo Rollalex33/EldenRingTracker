@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de monje ígneo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p58.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-monje-igneo.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de un monje ígneo.\n\n \n\nEspíritu de un corpulento monje que vigilaba la llama de los gigantes. Está versado en encantamientos de fuego y es inmune al mismo.\n\nAunque carga con el deber de vigilar la llama, tras muchos años de deber solemne, al final sucumbió a su encanto.",
+  "intro": [
+    "-Se encuentra dentro de un cofren las Catacumbas de  los Picos de los gigantes."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de un monje ígneo.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 85"
+      ],
+      "text": "Invoca el espíritu de un monje ígneo.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 85",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

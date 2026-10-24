@@ -1,0 +1,61 @@
+{
+  "title": "Hacha de medialuna",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p85.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hacha-de-medialuna.jpg"
+  ],
+  "lore": "Gran hacha de hoja grande y arqueada y mango largo. La \"media luna\" de su nombre procede de la nostalgia.\n\n \n\nEs perfecta para barrer a los enemigos gracias a su largo mango.\n\n \n\nHabilidad: Grito de guerra\n\nDa un grito de guerra para avivar el espíritu y aumentar tu potencia de ataque.\n\nMientras está activo, transforma los ataques potentes en ataques de carga.",
+  "intro": [
+    "-La pueden soltar los exiliados del Castillo de Velo Tormentoso que la lleven equipada."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 25",
+        "-Destreza: 15"
+      ],
+      "text": "-Fuerza: 25\n-Destreza: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 12.5",
+        "-Habilidad: Grito de guerra",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 146",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran hacha\n-Tipo de daño: Estándar\n-Peso: 12.5\n-Habilidad: Grito de guerra\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 146\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes hachas"
+}

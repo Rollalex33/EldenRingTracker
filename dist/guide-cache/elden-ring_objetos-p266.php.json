@@ -1,0 +1,33 @@
+{
+  "title": "Llave de espada imbuida",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p266.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/llave-de-espada-imbuida.jpg"
+  ],
+  "lore": "Llave de piedra en forma de espada.\n\nEs un objeto especial imbuido de una poderosa magia azul.\n\n \n\nPermite romper el sello de las estatuas de diablillo encargadas de custodiar los portales de transposición que hay consagrados en cada campanario. Sin embargo, la llave quedará incrustada en el interior de la estatua tras su uso, por lo que solo podrás emplearla una vez.\n\n \n\n¡Piénsatelo bien antes de gastarla!",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Abre un portal de trasposición, pero desaparece al usarla."
+      ],
+      "text": "Abre un portal de trasposición, pero desaparece al usarla.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Encuentras 1 dentro de un cofre en uno de los campanarios de \"Los cuatro campanarios\" en  Liurnia (Oeste) .",
+        "-Encuentras 1 en un cadáver en la  Academia de Raya Lucaria , en  Liurnia (Norte) .",
+        "-Encuentras 1 dentro de un cofre en  Sellia  (gracias al usuario   HellGryphuS   por el dato).",
+        "-Encuentras 1 dentro de un cofre en el  Castillo de Ensis  (DLC  Shadow of the Erdtree )."
+      ],
+      "text": "-Encuentras 1 dentro de un cofre en uno de los campanarios de \"Los cuatro campanarios\" en  Liurnia (Oeste) .\n-Encuentras 1 en un cadáver en la  Academia de Raya Lucaria , en  Liurnia (Norte) .\n-Encuentras 1 dentro de un cofre en  Sellia  (gracias al usuario   HellGryphuS   por el dato).\n-Encuentras 1 dentro de un cofre en el  Castillo de Ensis  (DLC  Shadow of the Erdtree ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Objetos principales"
+}

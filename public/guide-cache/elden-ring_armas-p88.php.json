@@ -1,0 +1,59 @@
+{
+  "title": "Martillo de piedra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p88.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/martillo-de-piedra.jpg"
+  ],
+  "lore": "Arma elaborada con piedra común. La portaba un obrero que lideró una revuelta y, posteriormente, se convirtió en un campeón.\n\n \n\nIncluso comparada con otras mazas de su tamaño, esta arma es especialmente pesada. Se necesita la fuerza de un gigante para empuñarla.\n\n \n\nHabilidad: Rugido bárbaro\n\nSuelta un rugido bestial para infundirte ánimos y aumentar tu potencia de ataque.\n\nMientras está activa, transforma los ataques potentes en un salvaje ataque combinado.",
+  "intro": [
+    "-Lo encuentras en un cadáver en el Castillo de Velo Tormentoso."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza:31"
+      ],
+      "text": "-Fuerza:31",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: B"
+      ],
+      "text": "-Fuerza: B",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 12.5",
+        "-Habilidad: Rugido bárbaro",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 122",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 74.0",
+        "-Magia: 40.0",
+        "-Fuego: 40.0",
+        "-Rayo: 40.0",
+        "-Sagrado: 40.0",
+        "-Estabilidad: 48",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 12.5\n-Habilidad: Rugido bárbaro\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 122\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 74.0\n-Magia: 40.0\n-Fuego: 40.0\n-Rayo: 40.0\n-Sagrado: 40.0\n-Estabilidad: 48\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

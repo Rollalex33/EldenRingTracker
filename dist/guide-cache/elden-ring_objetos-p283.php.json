@@ -1,0 +1,31 @@
+{
+  "title": "Mapa del lugar de encuentro",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p283.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/mapa-del-lugar-de-encuentro.jpg"
+  ],
+  "lore": "Mapa sencillo encontrado en un cadáver.\n\nParece indicar un lugar de encuentro.\n\n \n\nSeguro que el hombre que lo llevaba encima ansiaba una lave de piedra refulgente, la única forma de acceder a la Academia.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Mapa sencillo que indica la localización de encuentro.",
+        "Indica la localización de la  Llave de piedra refulgente de la Academia , aunque no hace falta tenerlo para conseguirla."
+      ],
+      "text": "Mapa sencillo que indica la localización de encuentro.\nIndica la localización de la  Llave de piedra refulgente de la Academia , aunque no hace falta tenerlo para conseguirla.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "En un cadáver junto a la puerta de entrada de la  Academia de Raya Lucaria ."
+      ],
+      "text": "En un cadáver junto a la puerta de entrada de la  Academia de Raya Lucaria .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Objetos principales"
+}

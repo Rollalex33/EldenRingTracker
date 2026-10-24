@@ -1,0 +1,36 @@
+{
+  "title": "Ceniza de Guerra: Golpes giratorios",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p63.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/alabarda-de-caballero-proscrito.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"De calidad\" y la siguiente habilidad:\n\n\"Golpes giratorios: Hace girar el arma con fuerza continua alrededor del cuerpo para golpear a los enemigos circundantes. Puedes encadenar ataques normales y fuertes mientras continúas girando\".\n\nSe usa en armas de asta, alabardas y lanzas largas.",
+  "intro": [
+    "Consulta la sección de armas de EliteGuías para más detalles sobre la obtención de la Alabarda de caballero proscrito +8."
+  ],
+  "sections": [
+    {
+      "heading": "Información y Afinidades",
+      "lines": [
+        "Puede usarse en armas de asta, alabardas, lanzas dobles y segadores.",
+        "Tipo / Afinidad: De calidad (Quality)",
+        "Efecto: Golpes giratorios continuos con opción de remate cargado."
+      ],
+      "text": "Puede usarse en armas de asta y alabardas.\n-Tipo: De calidad",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Viene equipada de serie en la Alabarda de caballero proscrito +8.",
+        "Se puede desenganchar en cualquier Lugar de Gracia para aplicarla a otras armas.",
+        "La suelta Edgar al derrotarlo en el Castillo de Morne (Península del Llanto) o cuando te invade como espíritu hostil (\"Edgar el Vengador\") en la Choza del vengador en Liurnia."
+      ],
+      "text": "-Viene equipada en la Alabarda de caballero proscrito +8 de Edgar.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "De calidad"
+}

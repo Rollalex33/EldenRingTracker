@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de la soledad",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p501.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-la-soledad.jpg"
+  ],
+  "lore": "Armadura pectoral de acero de los caballeros de la soledad.\n\nForma parte de una pesada armadura que cubre todo el cuerpo con sus placas de acero superpuestas y está ataviada con un manto negro.\n\n \n\nSe dice que los mausoleos sin nombre del Reino de las Sombras albergan los espíritus de los guerreros que perdieron su nombre o su corazón.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Caballero de la soledad."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 24.0",
+        "Negación de daños",
+        "-Físico: 18.7",
+        "-VS golpe: 17.7",
+        "-VS tajo: 18.3",
+        "-VS perforación: 17.5",
+        "-Magia: 13.3",
+        "-Fuego: 14.5",
+        "-Rayo: 13.5",
+        "-Sagrado: 13.8",
+        "Resistencia",
+        "-Inmunidad: 60",
+        "-Robustez: 63",
+        "-Concentración: 99",
+        "-Vitalidad: 50",
+        "-Aplomo: 45"
+      ],
+      "text": "-Peso: 24.0\nNegación de daños\n-Físico: 18.7\n-VS golpe: 17.7\n-VS tajo: 18.3\n-VS perforación: 17.5\n-Magia: 13.3\n-Fuego: 14.5\n-Rayo: 13.5\n-Sagrado: 13.8\nResistencia\n-Inmunidad: 60\n-Robustez: 63\n-Concentración: 99\n-Vitalidad: 50\n-Aplomo: 45",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de carne de cañón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p128.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-carne-de-canon.jpg"
+  ],
+  "lore": "Armadura que llevan los carnes de cañón delgados, mezquinos y sucios.\n\n \n\nLos campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que sserán extirpadas del recuerdo de la historia. Aquí es donde sirven los carne de cañón como infatigables y anónimos vigilantes.",
+  "intro": [
+    "-La pueden soltar los \"Carne de cañón\" que hay por Liurnia (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.7",
+        "Negación de daños",
+        "-Físico: 8.8",
+        "-VS golpe: 10.2",
+        "-VS tajo: 9.5",
+        "-VS perforación: 8.0",
+        "-Magia: 10.2",
+        "-Fuego: 10.2",
+        "-Rayo: 10.9",
+        "-Sagrado: 10.2",
+        "Resistencia",
+        "-Inmunidad: 67",
+        "-Robustez: 35",
+        "-Concentración: 50",
+        "-Vitalidad: 50",
+        "-Aplomo: 6"
+      ],
+      "text": "-Peso: 7.7\nNegación de daños\n-Físico: 8.8\n-VS golpe: 10.2\n-VS tajo: 9.5\n-VS perforación: 8.0\n-Magia: 10.2\n-Fuego: 10.2\n-Rayo: 10.9\n-Sagrado: 10.2\nResistencia\n-Inmunidad: 67\n-Robustez: 35\n-Concentración: 50\n-Vitalidad: 50\n-Aplomo: 6",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

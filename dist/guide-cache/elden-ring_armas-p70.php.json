@@ -1,0 +1,61 @@
+{
+  "title": "Lanza-espada custodia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p70.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-espada-custodia.jpg"
+  ],
+  "lore": "Arma compuesta por un mango largo y una hoja amplia tallada a partir del tronco de un viejo árbol.\n\n \n\nEmpuñada por los guardianes de los árboles áureos pequeños, famosos por ser expertos en las artes de combate. La potencia de esta arma cambia considerablemente en función de la destreza.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-La pueden soltar los guardianes árbol que están cerca del “Árbol  Áureo pequeño” en Península del Llanto y en general, de cualquier otro árbol áureo pequeño."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 17",
+        "-Destreza: 16"
+      ],
+      "text": "-Fuerza: 17\n-Destreza: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 9.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6",
+        "Potencia de ataque",
+        "-Físico: 139",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 57.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Estándar/Perforación\n-Peso: 9.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6\nPotencia de ataque\n-Físico: 139\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 57.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

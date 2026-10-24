@@ -1,0 +1,48 @@
+{
+  "title": "Chaleco de tela azul",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p6.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/chaleco-de-tela-azul.jpg"
+  ],
+  "lore": "Chaleco de guerrero nómada.\n\nEl color azul del tejido simboliza las aguas resplandecientes, que fluyen como la espada en manos de su portador.\n\n \n\nAl igual que las aguas tranquilas se vuelven turbias, la inactividad lleva a la decadencia.\n\nLos guerreros deben viajar siempre sin rumbo.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Guerrero.",
+    "-Te lo vende el Comerciante solitario 2 por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.7",
+        "Negación de daños",
+        "-Físico: 9.5",
+        "-VS golpe: 9.5",
+        "-VS tajo: 8.0",
+        "-VS perforación: 8.0",
+        "-Magia: 10.2",
+        "-Fuego: 10.9",
+        "-Rayo: 11.9",
+        "-Sagrado: 9.5",
+        "Resistencia",
+        "-Inmunidad: 63",
+        "-Robustez: 42",
+        "-Concentración: 50",
+        "-Vitalidad: 50",
+        "-Aplomo: 6"
+      ],
+      "text": "-Peso: 7.7\nNegación de daños\n-Físico: 9.5\n-VS golpe: 9.5\n-VS tajo: 8.0\n-VS perforación: 8.0\n-Magia: 10.2\n-Fuego: 10.9\n-Rayo: 11.9\n-Sagrado: 9.5\nResistencia\n-Inmunidad: 63\n-Robustez: 42\n-Concentración: 50\n-Vitalidad: 50\n-Aplomo: 6",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

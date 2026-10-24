@@ -1,0 +1,47 @@
+{
+  "title": "Capucha de viejo aristócrata",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p59.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/capucha-de-viejo-aristorata.jpg"
+  ],
+  "lore": "Capucha de tela suave.\n\nLa llevan los nobles de la Capital, en especial los ancianos.\n\n \n\nEstos muertos vivientes errantes que abandonaron su lugar de origen tras la Devastación son el lamentable resultado de la existencia de la vida eterna.",
+  "intro": [
+    "-La pueden soltar los de la muchedumbre que sigue a los gigantes del carro, por el camino al norte del lago en Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.2",
+        "Negación de daños",
+        "-Físico: 2.5",
+        "-VS golpe: 2.5",
+        "-VS tajo: 2.3",
+        "-VS perforación: 2.5",
+        "-Magia: 3.4",
+        "-Fuego: 3.6",
+        "-Rayo: 3.4",
+        "-Sagrado: 2.5",
+        "Resistencia",
+        "-Inmunidad: 18",
+        "-Robustez: 11",
+        "-Concentración: 15",
+        "-Vitalidad: 16",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.2\nNegación de daños\n-Físico: 2.5\n-VS golpe: 2.5\n-VS tajo: 2.3\n-VS perforación: 2.5\n-Magia: 3.4\n-Fuego: 3.6\n-Rayo: 3.4\n-Sagrado: 2.5\nResistencia\n-Inmunidad: 18\n-Robustez: 11\n-Concentración: 15\n-Vitalidad: 16\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

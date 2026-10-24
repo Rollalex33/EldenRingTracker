@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de soldado de escudo grande",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-soldado-de-escudo-grande.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar cinco espíritus de soldados de escudo grande.\n\n \n\nSon los espíritus de soldados de escudo grande pertenecientes a los Halcones Caídos, el escuadrón encargado de explorar la Ciudad Eterna en su día.\n\nAunque sus métodos son algo rudimentarios, trabajan bien como escuadrón y atraen la atención de los enemigos o lanzan lalmas espectrales desde la retaguardia.",
+  "intro": [
+    "-Las encuentras en un cadáver en Nokron."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca los espíritus de cinco soldados de escudo grande.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 74"
+      ],
+      "text": "Invoca los espíritus de cinco soldados de escudo grande.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 74",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Capucha cerúlea",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p280.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/capucha-cerulea.jpg"
+  ],
+  "lore": "Capa con capucha de color cerúleo.\n\nLa llevan los miembros de la realeza desterrados.\n\nAumenta la mente.\n\n \n\nEstas capas se entregaban a quienes debían embarcarse en misiones a tierras remotas de las que jamás regresarían. ¿Pero qué otra opción tenían, si habían visto la gía de la Gracia?",
+  "intro": [
+    "-Se encuentra en un cadáver en la hoguera de “Pasos orientales del molinar” en  el punto ya indicado de la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 1.7",
+        "Negación de daños",
+        "-Físico: 1.4",
+        "-VS golpe: 2.1",
+        "-VS tajo: 1.8",
+        "-VS perforación: 0.9",
+        "-Magia: 4.6",
+        "-Fuego: 4.7",
+        "-Rayo: 4.4",
+        "-Sagrado: 4.5",
+        "Resistencia",
+        "-Inmunidad: 20",
+        "-Robustez: 10",
+        "-Concentración: 29",
+        "-Vitalidad: 27",
+        "-Aplomo: 0"
+      ],
+      "text": "-Peso: 1.7\nNegación de daños\n-Físico: 1.4\n-VS golpe: 2.1\n-VS tajo: 1.8\n-VS perforación: 0.9\n-Magia: 4.6\n-Fuego: 4.7\n-Rayo: 4.4\n-Sagrado: 4.5\nResistencia\n-Inmunidad: 20\n-Robustez: 10\n-Concentración: 29\n-Vitalidad: 27\n-Aplomo: 0",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

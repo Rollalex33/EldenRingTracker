@@ -1,0 +1,28 @@
+{
+  "title": "Zarza pecaminosa",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p17.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/zarza-pecaminosa.jpg"
+  ],
+  "lore": "Un hechizo aberrante descubierto por criminales exiliados.\n\nSe trata de los hechizos más vilipendiados por la Academia.\n\n \n\nHiere al invocador con espinas pecaminosas que crean una espiral de espinas sangrientas.\n\nEste hechizo se puede lanzar repetidamente, hasta un total de tres veces.\n\n \n\nLos culpables, cuyos ojos fueron arrancados con espinas, viven en la oscuridad eterna. Allí descubrieron la estrella sangrienta.",
+  "intro": [
+    "-Lo suelta un enemigo cerca del campamento de monjes ígneos en Liurnia (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca espinas a partir de una espiral de tu propia sangre.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 6",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 24"
+      ],
+      "text": "Invoca espinas a partir de una espiral de tu propia sangre.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 6\n-Ranuras: 1\n-Inteligencia necesaria: 24",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

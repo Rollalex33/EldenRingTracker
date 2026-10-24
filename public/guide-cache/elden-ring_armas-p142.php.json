@@ -1,0 +1,54 @@
+{
+  "title": "Ballesta de la Luna Llena",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p142.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ballesta-de-la-luna-negra.jpg"
+  ],
+  "lore": "Una ballesta mágica única, con detalles exquisitamente elaborados. Fue fabricada para celebrar la unión matrimonial, y con ella la reconciliación, de las casas del Árbol Áureo y la Luna Llena, Leyndell y Raya Lucaria. Los dos anillos bailan al recargar el arma. Revela su auténtica valía cuando se usa con saetas imbuidas de esencia sagrada.\n\n \n\nHabilidad: Patada\n\nLevanta bien la pierna para darle una patada a tu enemigo.\n\nResulta eficaz contra enemigos en guardia y puede romper su posición.\n\nA veces, lo más eficaz es lo más simple.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en la Academia de Raya Lucaria, en Liurnia (Norte)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 10",
+        "-Inteligencia: 14"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 10\n-Inteligencia: 14",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Ballesta",
+        "-Tipo de daño: Nada",
+        "-Peso: 4.0",
+        "-Habilidad: Patada",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 50",
+        "-Magia: 50",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Alcance: 42",
+        "Protección contra daños",
+        "-Físicos: -",
+        "-Magia: -",
+        "-Fuego: -",
+        "-Rayo: -",
+        "-Sagrado: -",
+        "-Estabilidad: -",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Ballesta\n-Tipo de daño: Nada\n-Peso: 4.0\n-Habilidad: Patada\n-Coste de PC: -\nPotencia de ataque\n-Físico: 50\n-Magia: 50\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Alcance: 42\nProtección contra daños\n-Físicos: -\n-Magia: -\n-Fuego: -\n-Rayo: -\n-Sagrado: -\n-Estabilidad: -\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Ballesta"
+}

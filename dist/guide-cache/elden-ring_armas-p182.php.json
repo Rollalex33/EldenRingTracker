@@ -1,0 +1,64 @@
+{
+  "title": "Antorcha de llama espectral",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p182.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/antorcha-de-llama-espectral.jpg"
+  ],
+  "lore": "Antorcha metálica que arde con una gélida llama espectral.\n\nUtensilio de los Halcones Caídos que rondan por los ríos subterráneos. AL emplearse las últimas ascuas en la larga búsqueda de la banda, empezaron a quemar huesos de sus compañeros. Así surgió la llama espectral y se selló su destino como moradores del mundo subterráneo para la eternidad.\n\n \n\nHabilidad: Ataque con antorcha\n\nEmbiste con tu antorcha hacia delante para prender fuego al enemigo.\n\nEsta habilidad es especialmente efectiva contra los enemigos débiles ante el fuego.",
+  "intro": [
+    "-La encuentras en un cadáver en Nokron (gracias al usuario Demarr Jr por el dato)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 10",
+        "-Inteligencia: 14"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 10\n-Inteligencia: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: E",
+        "-Inteligenia: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: E\n-Inteligenia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Antorcha",
+        "-Tipo de daño: Golpe",
+        "-Peso: 2.5",
+        "-Habilidad: Ataque con antorcha",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 50",
+        "-Magia: 90",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 21.0",
+        "-Magia: 42.0",
+        "-Fuego: 13.0",
+        "-Rayo: 13.0",
+        "-Sagrado: 13.0",
+        "-Estabilidad: 19",
+        "Efectos pasivos",
+        "-Provoca la acumulación de congelación (65)."
+      ],
+      "text": "-Categoría: Antorcha\n-Tipo de daño: Golpe\n-Peso: 2.5\n-Habilidad: Ataque con antorcha\n-Coste de PC: -\nPotencia de ataque\n-Físico: 50\n-Magia: 90\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 21.0\n-Magia: 42.0\n-Fuego: 13.0\n-Rayo: 13.0\n-Sagrado: 13.0\n-Estabilidad: 19\nEfectos pasivos\n-Provoca la acumulación de congelación (65).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Antorcha"
+}

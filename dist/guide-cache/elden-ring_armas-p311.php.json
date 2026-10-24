@@ -1,0 +1,63 @@
+{
+  "title": "Brazo de sanguinemigo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p311.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/brazo-de-sanguinemigo.jpg"
+  ],
+  "lore": "Arma de los sanguinemigos.\n\nBrazo arrancado del cadáver de un congénere y esgrimido como arma improvisada.\n\n \n\nSantificado como un ritual de sangre, es capaz de rociar la sangre almacenada en su interior al ejecutar un ataque fuerte.\n\n \n\nHabilidad: Indómito\n\nAfianza tu posición y prepárate para los ataques para aumentar brevemente el aplomo.\n\n \n\nEl daño recibido se verá reducido durante la preparación.",
+  "intro": [
+    "-Lo pueden soltar los \"gorditos\" en la Ciudad de posibilidades que lo tengan equipado."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 28",
+        "-Destreza: 11",
+        "-Arcano: 16"
+      ],
+      "text": "-Fuerza: 28\n-Destreza: 11\n-Arcano: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Arcano: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Golpe",
+        "-Peso: 20.0",
+        "-Habilidad: Indómito",
+        "-Coste de PC: 9 (- -)",
+        "Potencia de ataque",
+        "-Físico: 147",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 76.0",
+        "-Magia: 46.0",
+        "-Fuego: 46.0",
+        "-Rayo: 46.0",
+        "-Sagrado: 46.0",
+        "-Estabilidad: 51",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Golpe\n-Peso: 20.0\n-Habilidad: Indómito\n-Coste de PC: 9 (- -)\nPotencia de ataque\n-Físico: 147\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 76.0\n-Magia: 46.0\n-Fuego: 46.0\n-Rayo: 46.0\n-Sagrado: 46.0\n-Estabilidad: 51\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

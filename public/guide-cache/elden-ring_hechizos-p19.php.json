@@ -1,0 +1,28 @@
+{
+  "title": "Rompetierra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p19.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/rompetierra.jpg"
+  ],
+  "lore": "Uno de los hechizos  de piedras refulgentes de la Academia de Raya Lucaria.\n\n \n\nImbuye la punta del bastón del invocador de magia, para después de clavarla en el suelo y crear una onda de choque mágica.\n\nPermite un ataque adicional.\n\n \n\nUn hechizo excavapiedra utilizado por los mineros de piedras refulgentes de la mina de cristal. En la Academia, el uso de este hechizo era un estigma que marcaba a los eruditos fracasados.",
+  "intro": [
+    "-Lo encuentras en un cadáver en la Mina de cristal de Raya Lucaria, en Liurnia (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Clava el bastón en el suelo para provocar una onda de choque.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 10",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 15"
+      ],
+      "text": "Clava el bastón en el suelo para provocar una onda de choque.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 10\n-Ranuras: 1\n-Inteligencia necesaria: 15",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

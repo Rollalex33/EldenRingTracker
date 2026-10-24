@@ -1,0 +1,64 @@
+{
+  "title": "Guadaña aureolada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p164.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guadana-aureolada.jpg"
+  ],
+  "lore": "Guadaña de guerra usada por los Caballeros Imputrescibles que lucharon junot a Malenia, la Espada de Miquella.\n\n \n\nEra el arma de los comandantes del ejército de Malenia y su hoja de media aureola inflige daño sagrado.\n\n \n\nHabilidad única: Anillo de luz de Miquella\n\nInvoca el halo resplandeciente de Miquella y lánzalo hacia delante.\n\nPuedes lanzar varios anillos en rápida sucesión.",
+  "intro": [
+    "-La pueden soltar los “Caballeros imputrescibles” en el pantano  de Aeonia, en Caelid (principal)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 13",
+        "-Destreza: 16",
+        "-Fe: 15"
+      ],
+      "text": "-Fuerza: 13\n-Destreza: 16\n-Fe: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Guadaña",
+        "-Tipo de daño: Tajo",
+        "-Peso: 8.5",
+        "-Habilidad: Anillo de luz de Miquella",
+        "-Coste de PC: 11 (- 11)",
+        "Potencia de ataque",
+        "-Físico: 118",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 76",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 42.0",
+        "-Magia: 29.0",
+        "-Fuego: 29.0",
+        "-Rayo: 29.0",
+        "-Sagrado: 42.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos",
+        "-Provca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Guadaña\n-Tipo de daño: Tajo\n-Peso: 8.5\n-Habilidad: Anillo de luz de Miquella\n-Coste de PC: 11 (- 11)\nPotencia de ataque\n-Físico: 118\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 76\n-Crítico: 100\nProtección contra daños\n-Físicos: 42.0\n-Magia: 29.0\n-Fuego: 29.0\n-Rayo: 29.0\n-Sagrado: 42.0\n-Estabilidad: 31\nEfectos pasivos\n-Provca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Guadaña"
+}

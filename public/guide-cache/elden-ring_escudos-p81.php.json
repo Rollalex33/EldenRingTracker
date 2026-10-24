@@ -1,0 +1,61 @@
+{
+  "title": "Escudo de embestida ritual",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p81.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-embestida-ritual.jpg"
+  ],
+  "lore": "Un \"escudo embestida\", o combinación de arma y escudo.\n\nPermite atacar y protegerse a la vez.\n\n \n\nFue un arma usada antaño en combates rituales en honor al Árbol Áureo; una costumbre ahora perdida.\n\n \n\nHabilidad: Arremetida con escudo\n\nUna habilidad que utiliza el escudo para atacar.\n\nVuelve a pulsar para realizar hasta tres ataques adicionales.",
+  "intro": [
+    "En el Coliseo de Caelid. Tienes que ir desde el lugar de gracia “Pozo  profundo de Siofra” (Tarnished Pack).",
+    "[Ver localización]"
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 13",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 13\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo embestida",
+        "-Tipo de ataque: Estándar/Perf.",
+        "-Peso: 10.0",
+        "-Habilidad: Arremetida con escudo",
+        "-Coste de PC: - (- -)",
+        "Potencia de ataque",
+        "-Físico: 135",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 82.0",
+        "-Magia: 42.0",
+        "-Fuego: 35.0",
+        "-Rayo: 52.0",
+        "-Sagrado: 52.0",
+        "-Estabilidad: 55"
+      ],
+      "text": "-Categoría: Escudo embestida\n-Tipo de ataque: Estándar/Perf.\n-Peso: 10.0\n-Habilidad: Arremetida con escudo\n-Coste de PC: - (- -)\nPotencia de ataque\n-Físico: 135\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 82.0\n-Magia: 42.0\n-Fuego: 35.0\n-Rayo: 52.0\n-Sagrado: 52.0\n-Estabilidad: 55",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Escudo embestida"
+}

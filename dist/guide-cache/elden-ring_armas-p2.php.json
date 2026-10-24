@@ -1,0 +1,63 @@
+{
+  "title": "Uchigatana",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p2.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/uchigatana.jpg"
+  ],
+  "lore": "Una catana con hoja curva larga de una sola cara.\n\nUn arma única que empuñan los samurái de los territorios del cañaveral.\n\n \n\nLa hoja, con su diseño ondulado, presume de una precisión extraordinaria, y sus ataques de tajo provocan hemorragias.\n\n \n\nHabilidad: Desenvainar\n\nHabilidad de los asesinos de los territorios del cañaveral.\n\nEnvaina la espada y mantenla a la altura de la cadera en posición de alerta.\n\nAcompáñala con un ataque normal o potente para realizar un ataque de tajo rápido.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Samurái.",
+    "-La encuentras en un cadáver en las Catacumbas de la Muerte en Colina Tormentosa."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 15"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Catana",
+        "-Tipo de daño: Tajo/Perforación",
+        "-Peso: 5.5",
+        "-Habilidad: Desenvainar",
+        "-Coste de PC: - (10 15)",
+        "Potencia de ataque",
+        "-Físico: 115",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 45.0",
+        "-Magia: 30.0",
+        "-Fuego: 30.0",
+        "-Rayo: 30.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos",
+        "Provoca la acumulación de hemorragias (45)."
+      ],
+      "text": "-Categoría: Catana\n-Tipo de daño: Tajo/Perforación\n-Peso: 5.5\n-Habilidad: Desenvainar\n-Coste de PC: - (10 15)\nPotencia de ataque\n-Físico: 115\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 45.0\n-Magia: 30.0\n-Fuego: 30.0\n-Rayo: 30.0\n-Sagrado: 30.0\n-Estabilidad: 30\nEfectos pasivos\nProvoca la acumulación de hemorragias (45).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Catanas"
+}

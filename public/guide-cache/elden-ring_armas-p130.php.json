@@ -1,0 +1,61 @@
+{
+  "title": "Alabarda de medialuna",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p130.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/alabarda-de-medialuna.jpg"
+  ],
+  "lore": "Arma empuñada por los albináuricos jóvenes.\n\n \n\nSe dice que el filo recuerda a las ondulaciones que se producen al caer una gota sobre el agua. Su potencia de ataque escala con el atributo de arcano que posea su portador.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-La podrán soltar los “albináuricos” en el cementerio al Este de la Mansión de los  Caria, en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 12",
+        "-Arcano: 20"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 12\n-Arcano: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Arcano: B"
+      ],
+      "text": "-Arcano: B",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 8.5",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 86",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 56.0",
+        "-Magia: 35.0",
+        "-Fuego: 35.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 43",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Estándar/Perforación\n-Peso: 8.5\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 86\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 56.0\n-Magia: 35.0\n-Fuego: 35.0\n-Rayo: 35.0\n-Sagrado: 35.0\n-Estabilidad: 43\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

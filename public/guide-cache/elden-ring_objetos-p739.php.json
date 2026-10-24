@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de aceite grande",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p739.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-aceite-grande.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado, pero espacioso.\n\nContiene en su interior una considerable cantidad de materiales.\n\n \n\nLánzalo contra los enemigos para bañarlos con una densa capa de aceite, lo cual los hace más susceptibles al daño de fuego.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se lanza a los enemigos para empaparlos con una gran capa de aceite."
+      ],
+      "text": "Se lanza a los enemigos para empaparlos con una gran capa de aceite.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta de carne blanca  x3 y  Gema de rocío  x3 (necesitas el  Manual de gran tarroteniente (3) )."
+      ],
+      "text": "-Se puede crear con  Seta de carne blanca  x3 y  Gema de rocío  x3 (necesitas el  Manual de gran tarroteniente (3) ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

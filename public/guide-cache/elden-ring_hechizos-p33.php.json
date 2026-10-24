@@ -1,0 +1,28 @@
+{
+  "title": "Cometa esquirlado de piedra refulgente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p33.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cometa-esquirlado-de-piedra-refulgente.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes de la Academia de Raya Lucaria.\n\n \n\nDispara un cometa mágico con una cola radiante.\n\nEste hechizo se puede lanzar repetidamente y mientras estás en movimiento. Su potencia aumenta al cargarlo.\n\n \n\nUn hechizo antiguo registrado en el epítome de Karolos, el más venerado de la Academia.",
+  "intro": [
+    "-Te lo vende Hechicera Sellen o Miriel por 12.000 runas, tras haberle entregado el Pergamino del epítome."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara con rapidez proyectiles mágicos de piedra refulgente.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 17",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 36"
+      ],
+      "text": "Dispara con rapidez proyectiles mágicos de piedra refulgente.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 17\n-Ranuras: 1\n-Inteligencia necesaria: 36",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

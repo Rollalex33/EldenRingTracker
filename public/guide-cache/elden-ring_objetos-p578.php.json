@@ -1,0 +1,30 @@
+{
+  "title": "Tarro de hierro aromático",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p578.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tarro-de-hierro-aromatico.jpg"
+  ],
+  "lore": "Arte prohibido de los perfumistas corruptos.\n\nPuede crearse con una botella de perfume.\n\n \n\nConsume PC para convertirse temporalmente el cuerpo en acero a fin de aumentar el aplomo y la negación de daños a costa de la movilidad y la resistencia al rayo.\n\n \n\nEste arte requiere fragmentos de tarros nobles capturados. Los perfumsitas corruptos están claramente aliados con los cazadores furtivos de tarros.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC para convertir temporalmente el cuerpo del portador en acero."
+      ],
+      "text": "Consume PC para convertir temporalmente el cuerpo del portador en acero.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Flor de Altus  x2,  Musgo de cueva incipiente  x1,  Fragmento de tarro viviente  x3 (necesitas el  Manual de perfumista [3] )."
+      ],
+      "text": "-Se puede crear con  Flor de Altus  x2,  Musgo de cueva incipiente  x1,  Fragmento de tarro viviente  x3 (necesitas el  Manual de perfumista [3] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

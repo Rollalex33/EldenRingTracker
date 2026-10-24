@@ -1,0 +1,63 @@
+{
+  "title": "Árbol de Siluria",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p190.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arbol-de-siluria.jpg"
+  ],
+  "lore": "El Árbol de Siluria, arma de uno de los dos Caballeros del crisol más importantes.\n\n \n\nLa forma primigenia del Árbol Áureo es similar en esencia a la vida misma, por lo que esta lanza, de diseño inspirado en su crisol, está imbuida de una antigua esencia sagrada.\n\n \n\nHabilidad única: Pesar de Siluria\n\nEmbiste con la lanza arbórea en un movimiento en espiral para envolverla en un vórtice en viento.\n\nLos ataques cargados te permiten hacer volar a los enemigos por los aires, así como lanzar el tornado hacia delante.",
+  "intro": [
+    "-Se consigue como recompena por derrotar a la jefaza Caballera del crisol Siluria."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 27",
+        "-Destreza: 13",
+        "-Fe: 20"
+      ],
+      "text": "-Fuerza: 27\n-Destreza: 13\n-Fe: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza larga",
+        "-Tipo de daño: Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Pesar de Siluria",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 90",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 90",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 51.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 55.0",
+        "-Estabilidad: 46",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza larga\n-Tipo de daño: Perforación\n-Peso: 10.0\n-Habilidad: Pesar de Siluria\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 90\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 90\n-Crítico: 100\nProtección contra daños\n-Físicos: 51.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 55.0\n-Estabilidad: 46\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas largas"
+}

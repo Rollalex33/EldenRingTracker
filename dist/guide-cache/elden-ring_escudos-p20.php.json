@@ -1,0 +1,58 @@
+{
+  "title": "Escudo de madera con blasón de llama",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p20.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-madera-con-blason-de-llama.jpg"
+  ],
+  "lore": "Un escudo largo de madera y tamaño mediano. Fácl de portar y bastante ligero para su tamaño. Lo usan los soldados de la aldea que sufre la enfermedad de la locura.\n\n \n\nLa llama amarilla es el símbolo de la enfermedad y sire como advertencia a quienes osen acercarse a la aldea.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-En un cadáver en una de las casas de \"La aldea enfermada\" en Península del Llanto."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8"
+      ],
+      "text": "-Fuerza: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo mediano",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 76",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 83.0",
+        "-Magia: 43.0",
+        "-Fuego: 32.0",
+        "-Rayo: 42.0",
+        "-Sagrado: 50.0",
+        "-Estabilidad: 39"
+      ],
+      "text": "-Categoría: Escudo mediano\n-Tipo de ataque: Golpe\n-Peso: 3.5\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 76\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 83.0\n-Magia: 43.0\n-Fuego: 32.0\n-Rayo: 42.0\n-Sagrado: 50.0\n-Estabilidad: 39",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Medianos"
+}

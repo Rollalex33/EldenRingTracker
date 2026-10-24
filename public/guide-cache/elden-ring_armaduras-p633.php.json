@@ -1,0 +1,48 @@
+{
+  "title": "Casco de acero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p633.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-acero.jpg"
+  ],
+  "lore": "Casco de acero grueso con lustre negro. Es muy pesado, pero proporciona una elevada capacidad de negación de daños.\n\n \n\nUn equipo protector ideal para quienes dependen de sí mismos en el campo de batalla.\n\n \n\nTanto si quieres barrer al enemigo como escapar de una embestida mortal, lo más importante es permanecer en pie.",
+  "intro": [
+    "-Forma parte del equipamiento inicial de la clase Caballero pesado (Tarnished Pack).",
+    "-Te lo vende el Comerciante solitario 1 (Tarnished Pack)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.9",
+        "Negación de daños",
+        "-Físico: 7.2",
+        "-VS golpe: 5.4",
+        "-VS tajo: 7.5",
+        "-VS perforación: 6.8",
+        "-Magia: 3.5",
+        "-Fuego: 5.1",
+        "-Rayo: 2.6",
+        "-Sagrado: 3.4",
+        "Resistencia",
+        "-Inmunidad: 18",
+        "-Robustez: 33",
+        "-Concentración: 14",
+        "-Vitalidad: 13",
+        "-Aplomo: 13"
+      ],
+      "text": "-Peso: 7.9\nNegación de daños\n-Físico: 7.2\n-VS golpe: 5.4\n-VS tajo: 7.5\n-VS perforación: 6.8\n-Magia: 3.5\n-Fuego: 5.1\n-Rayo: 2.6\n-Sagrado: 3.4\nResistencia\n-Inmunidad: 18\n-Robustez: 33\n-Concentración: 14\n-Vitalidad: 13\n-Aplomo: 13",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

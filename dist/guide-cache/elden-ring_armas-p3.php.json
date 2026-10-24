@@ -1,0 +1,62 @@
+{
+  "title": "Espada larga",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p3.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-larga.jpg"
+  ],
+  "lore": "Espada recta con hoja de doble filo.\n\n \n\nAdemás del fiable daño estándar que inflige, esta arma perfectamente equilibrada puede ejecutar potentes ataques de perforación.\n\n \n\nHabilidad: Combate\n\nEsta habilidad comienza con la espada en posición horizontal.\n\nRompe la guarida enemiga con un ataque normal o bien corre y embiste con un ataque potente.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Vagante.",
+    "-Te la venden las Doncellas gemelas quiescentes por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 3.5",
+        "-Habilidad: Combate",
+        "-Coste de PC: -(6 8)",
+        "Potencia de ataque",
+        "-Físico: 110",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 45.0",
+        "-Magia: 30.0",
+        "-Fuego: 30.0",
+        "-Rayo: 30.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 3.5\n-Habilidad: Combate\n-Coste de PC: -(6 8)\nPotencia de ataque\n-Físico: 110\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 45.0\n-Magia: 30.0\n-Fuego: 30.0\n-Rayo: 30.0\n-Sagrado: 30.0\n-Estabilidad: 30\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

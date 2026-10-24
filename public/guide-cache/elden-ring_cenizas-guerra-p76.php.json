@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Suelo sagrado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p76.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-suelo-sagrado.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Sagrado\" y la siguiente habilidad:\n\n \n\n\"Suelo sagrado: Levanta el escudo para consagrar la tierra del Árbol Áureo, restaurando de manera constante los PS y aumentando tu defensa y la de tus aliados dentro del área de efecto\".\n\n \n\nPuede usarse en todos los escudos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en todos los escudos.",
+        "-Tipo: Sagrado"
+      ],
+      "text": "Puede usarse en todos los escudos.\n-Tipo: Sagrado",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "La sueltan los carruajes en la  Tumba del héroe de Auriza  ( Afueras de la capital ) cuando haces que choquen entre ellos."
+      ],
+      "text": "La sueltan los carruajes en la  Tumba del héroe de Auriza  ( Afueras de la capital ) cuando haces que choquen entre ellos.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Sagrado"
+}

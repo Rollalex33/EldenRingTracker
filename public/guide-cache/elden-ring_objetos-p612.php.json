@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de moscas acordonado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p612.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-moscas-acordonado.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene una mezcla de residuos y está envuelto con un cordón corto que te ayudará a lanzarlo.\n\n \n\nLánzalo contra los enemigos a tus espaldas para liberar un enjambre de moscas, cuyos colmillos infligirán innumerables y dolorosas laceraciones a su víctima mientras el chirriante sonido de sus alas mermará su cordura.\n\n \n\nLas lavaras que se encuentran en los desechos se alimentan de sangre y se convierten en viles moscas que poseen una vida extremadamente corta.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se lanza hacia atrás para liberar un enjambre de moscas."
+      ],
+      "text": "Se lanza hacia atrás para liberar un enjambre de moscas.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x1,  Excremento manchado de sangre  x1 y  Cuerda  x1 (necesitas el  Manual de guerrero nómada [24] )."
+      ],
+      "text": "-Se puede crear con  Seta  x1,  Excremento manchado de sangre  x1 y  Cuerda  x1 (necesitas el  Manual de guerrero nómada [24] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

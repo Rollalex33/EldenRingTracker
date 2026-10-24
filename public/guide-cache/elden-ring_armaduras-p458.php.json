@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de caballero del Dragón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p458.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-caballero-del-dragon.jpg"
+  ],
+  "lore": "Armadura de hierro negro de los caballeros del dragón.\n\nConfeccionada usando restos de un dragón cazado. Emblema de orgullo, tanto como cazadores de dragones como partícipes de la comunión.\n\n \n\nLa capa está confeccionada con la membrama de un ala de dragón.",
+  "intro": [
+    "-La encuentras dentro de un cofre en Farum Azula junto con el resto del set, en la sección del Casco ya te damos indicaciones más concretas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 9.2",
+        "Negación de daños",
+        "-Físico: 11.4",
+        "-VS golpe: 9.5",
+        "-VS tajo: 11.9",
+        "-VS perforación: 11.4",
+        "-Magia: 10.2",
+        "-Fuego: 11.4",
+        "-Rayo: 8.8",
+        "-Sagrado: 10.2",
+        "Resistencia",
+        "-Inmunidad: 25",
+        "-Robustez: 46",
+        "-Concentración: 21",
+        "-Vitalidad: 21",
+        "-Aplomo: 14"
+      ],
+      "text": "-Peso: 9.2\nNegación de daños\n-Físico: 11.4\n-VS golpe: 9.5\n-VS tajo: 11.9\n-VS perforación: 11.4\n-Magia: 10.2\n-Fuego: 11.4\n-Rayo: 8.8\n-Sagrado: 10.2\nResistencia\n-Inmunidad: 25\n-Robustez: 46\n-Concentración: 21\n-Vitalidad: 21\n-Aplomo: 14",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

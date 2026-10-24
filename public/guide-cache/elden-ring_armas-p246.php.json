@@ -1,0 +1,61 @@
+{
+  "title": "Gran garra de dragón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p246.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-garra-de-dragon.jpg"
+  ],
+  "lore": "Arma que, según se dice, ha sido tallada a partir de la garra de un gran dragón antiguo y empuñada por los grotescos centineas agrestes que aún sirven al Árbol Áureo.\n\n \n\nLa garra está imbuida en rayo y permite perforar con facilidad a los débiles descendientes de los dragones.\n\n \n\nHabilidad: Indómito\n\nAfianza tu posición y prepárate para los ataques para aumentar brevemente el aplomo.\n\nEl daño recibido se verá reducido durante la preparación.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Centinela agreste draconiano."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 30",
+        "-Destreza: 14"
+      ],
+      "text": "-Fuerza: 30\n-Destreza: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 16.0",
+        "-Habilidad: Indómito",
+        "-Coste de PC: 9",
+        "Potencia de ataque",
+        "-Físico: 120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 78",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 40.0",
+        "-Fuego: 40.0",
+        "-Rayo: 52.0",
+        "-Sagrado: 40.0",
+        "-Estabilidad: 47",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Estándar\n-Peso: 16.0\n-Habilidad: Indómito\n-Coste de PC: 9\nPotencia de ataque\n-Físico: 120\n-Magia: 0\n-Fuego: 0\n-Rayo: 78\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 40.0\n-Fuego: 40.0\n-Rayo: 52.0\n-Sagrado: 40.0\n-Estabilidad: 47\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

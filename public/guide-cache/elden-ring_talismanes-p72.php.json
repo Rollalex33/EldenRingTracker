@@ -1,0 +1,38 @@
+{
+  "title": "Talismán de escamas del crisol",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p72.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/talisman-de-escamas-del-crisol.jpg"
+  ],
+  "lore": "Un talismán fabricado con una escama, característica propia de la morfología de algunas bestias.\n\nSe dice que antaño crecían en los humanos.\n\n \n\nReduce el daño recibido de golpes críticos.\n\n \n\nUn vestigio del crisol de la vida primigenia. En parte, surgió de la involución y, antaño, se consideraba significante de lo divino, pero a medida que la civilización ha ido avanzando, se ha ido despreciando por considerarse impuro.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Reduce el daño sufrido por golpes críticos."
+      ],
+      "text": "Reduce el daño sufrido por golpes críticos.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 1.1"
+      ],
+      "text": "-Peso: 1.1",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo encuentras en un cadáver en las  Catacumbas de Leyndell ."
+      ],
+      "text": "-Lo encuentras en un cadáver en las  Catacumbas de Leyndell .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes"
+}

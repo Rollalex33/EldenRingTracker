@@ -1,0 +1,48 @@
+{
+  "title": "Armadura de acero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p634.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-acero.jpg"
+  ],
+  "lore": "Armadura de acero grueso con lustre negro. Es muy pesada, pero proporciona una elevada capacidad de negación de daños.\n\n \n\nUn equipo protector ideal para quienes dependen de sí mismos en el campo de batalla.\n\n \n\nTanto si quieres barrer al enemigo como escapar de una embestida mortal, lo más importante es permanecer en pie.",
+  "intro": [
+    "-Forma parte del equipamiento inicial de la clase Caballero pesado (Tarnished Pack).",
+    "-Te la vende el Comerciante solitario 1 (Tarnished Pack)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 18.5",
+        "Negación de daños",
+        "-Físico: 18.5",
+        "-VS golpe: 16.3",
+        "-VS tajo: 18.3",
+        "-VS perforación: 17.8",
+        "-Magia: 12.4",
+        "-Fuego: 14.2",
+        "-Rayo: 11.2",
+        "-Sagrado: 12.1",
+        "Resistencia",
+        "-Inmunidad: 41",
+        "-Robustez: 81",
+        "-Concentración: 33",
+        "-Vitalidad: 37",
+        "-Aplomo: 35"
+      ],
+      "text": "-Peso: 18.5\nNegación de daños\n-Físico: 18.5\n-VS golpe: 16.3\n-VS tajo: 18.3\n-VS perforación: 17.8\n-Magia: 12.4\n-Fuego: 14.2\n-Rayo: 11.2\n-Sagrado: 12.1\nResistencia\n-Inmunidad: 41\n-Robustez: 81\n-Concentración: 33\n-Vitalidad: 37\n-Aplomo: 35",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

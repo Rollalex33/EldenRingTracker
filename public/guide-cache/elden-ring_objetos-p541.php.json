@@ -1,0 +1,33 @@
+{
+  "title": "Gran Runa de Malenia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p541.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-runa-de-malenia.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-runa-de-malenia_2.jpg"
+  ],
+  "lore": "Gran Runa de la portadora de esquirlas Malenia, carente de bendición.\n\n \n\nBusca la torre sagrada solitaria, que se encuentra más allá del gran puente perdido.\n\n \n\n \n\nUna Gran Runa de la portadora de esquirlas Malenia.\n\nLa bendición de esta runa semiputrefacta reduce el poder de curación del vial de lágrimas carmesí.\n\n \n\nAún así, debido al espíritu de resistencia de Malenia, los ataques realizados inmediatamente después de recibir daño recuperarán parcialmente los PS.\n\n \n\nMalenia es hija de la Reina Márika y Radagon y, por lo tanto, su Gran Runa debería haber sido la más sagrada de todas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Gran Runa de Malenia, carente de bendición.",
+        "Tras haber recibido daño, tus ataques recuperan PS.",
+        "Se activa en la \"Torre sagrada solitaria\" en el punto ya indicado de  Leyndell ."
+      ],
+      "text": "Gran Runa de Malenia, carente de bendición.\nTras haber recibido daño, tus ataques recuperan PS.\nSe activa en la \"Torre sagrada solitaria\" en el punto ya indicado de  Leyndell .",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se consigue como recompensa por derrotar a la jefaza  Malenia, la Espada de Miquella ."
+      ],
+      "text": "-Se consigue como recompensa por derrotar a la jefaza  Malenia, la Espada de Miquella .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Grandes Runas"
+}

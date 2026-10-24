@@ -1,0 +1,29 @@
+{
+  "title": "Piedra refulgente de Smarag",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p45.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/piedra-refulgente-de-smarag.jpg"
+  ],
+  "lore": "Encantamiento superior de la Comunión Dragontina.\n\nCanaliza el poder de Smarag, el dragón de piedra refulgente.\n\n \n\nTransforma al lanzador en un dragón que escupe aliento mágico desde las alturas.\n\nSi se carga se amplía su duración. Este encantamiento se puede usar durante el salto.\n\n \n\nSmarag era un devorador de hechiceros y, con el tiempo, sus piedras refulgentes corrompieron su cuerpo.",
+  "intro": [
+    "-Es uno de los encantamientos que intercambias en la Catedral de la Comunión Dragontina por 2 Corazones de dragón, pero solo está disponible después de haber derrotado a Smarag, dragón de piedra refulgente."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Escupe el aliento mágico del dragón de piedra refulgente Smarag.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 36",
+        "-Ranuras: 1",
+        "-Fe necesaria: 23",
+        "-Arcano necesario: 15"
+      ],
+      "text": "Escupe el aliento mágico del dragón de piedra refulgente Smarag.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 36\n-Ranuras: 1\n-Fe necesaria: 23\n-Arcano necesario: 15",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

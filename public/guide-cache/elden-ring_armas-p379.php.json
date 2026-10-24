@@ -1,0 +1,64 @@
+{
+  "title": "Hoja enastada del Brote",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p379.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-enastada-del-brote.jpg"
+  ],
+  "lore": "Arma de Romina, la santa del brote.\n\nGuja escarlata con una hoja colgante en forma de brote.\n\nLos ataques acumulan putrefacción.\n\nUna vez, en una iglesia en llamas, Romina alzó el brote en silencio.\n\nEsta sería su arma.\n\n \n\nHabilidad única: Purificación de Romina\n\nImbuye la hoja brote de mariposa de putrefacción roja antes de asestar dos grandes tajos. ANtes se consideraba un acto sacro de purificación.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de la santa del brote a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 22",
+        "-Arcano: 20"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 22\n-Arcano: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Arcano: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 10.0",
+        "-Habilidad: Purificación Romina",
+        "-Coste de PC: 24 (- -)",
+        "Potencia de ataque",
+        "-Físico: 131",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 60.0",
+        "-Magia: 38.0",
+        "-Fuego: 38.0",
+        "-Rayo: 38.0",
+        "-Sagrado: 38.0",
+        "-Estabilidad: 46",
+        "Efectos pasivos",
+        "-Provoca acumulación de putrefacción (55)."
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Tajo/Perf.\n-Peso: 10.0\n-Habilidad: Purificación Romina\n-Coste de PC: 24 (- -)\nPotencia de ataque\n-Físico: 131\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 60.0\n-Magia: 38.0\n-Fuego: 38.0\n-Rayo: 38.0\n-Sagrado: 38.0\n-Estabilidad: 46\nEfectos pasivos\n-Provoca acumulación de putrefacción (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Casco de caballero de Leyndell",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p144.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-caballero-de-leyndell.jpg"
+  ],
+  "lore": "Casco usado por los caballeros que juraron defender Leyndell, capital del Reino.\n\n \n\nEl dosel dorado representa el honor de servir como defensor del árbol.",
+  "intro": [
+    "-Lo puede soltar un Caballero de Leyndell en el punto ya indicado de Liurnia (Este).",
+    "-También lo pueden soltar los que están por la Meseta Altus y cómo no, en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: 4.8",
+        "-VS golpe: 4.4",
+        "-VS tajo: 4.8",
+        "-VS perforación: 4.8",
+        "-Magia: 3.6",
+        "-Fuego: 5.0",
+        "-Rayo: 3.6",
+        "-Sagrado: 3.8",
+        "Resistencia",
+        "-Inmunidad: 15",
+        "-Robustez: 24",
+        "-Concentración: 10",
+        "-Vitalidad: 10",
+        "-Aplomo: 6"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: 4.8\n-VS golpe: 4.4\n-VS tajo: 4.8\n-VS perforación: 4.8\n-Magia: 3.6\n-Fuego: 5.0\n-Rayo: 3.6\n-Sagrado: 3.8\nResistencia\n-Inmunidad: 15\n-Robustez: 24\n-Concentración: 10\n-Vitalidad: 10\n-Aplomo: 6",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

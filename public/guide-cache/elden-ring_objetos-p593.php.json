@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de rencor",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p593.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-rencor.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene una antigua maldición mortal.\n\n \n\nConsume PC al lanzarlo contra los enemigos para engendrar apariciones que persiguen febrilmente a sus objetivos.\n\n \n\nAntiguamente, los muertos eran quemados con una llama espectral y estas apariciones se formaban a partir de sus cenizas ardientes.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC. Se lanza para liberar espíritus vengativos."
+      ],
+      "text": "Consume PC. Se lanza para liberar espíritus vengativos.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Violeta sepulcral  x2 y  Fragmento de hueso humano  x1 (necesitas el  Manual de guerrero nómada [9] )."
+      ],
+      "text": "-Se puede crear con  Violeta sepulcral  x2 y  Fragmento de hueso humano  x1 (necesitas el  Manual de guerrero nómada [9] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Misericorde",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p89.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/misericorde.jpg"
+  ],
+  "lore": "Daga preferida por los médicos de combate ataviados de blanco.\n\nLa hoja en punta es resistente y afilada, lo que hace que sus golpes críticos sean especialmente potentes.\n\n \n\nLa medicina es piadosa, y la piedad en el campo de batalla puede ser despiadada.\n\nDesconfía de los asesinos vestidos de hombres misericordiosos.\n\n \n\nHabilidad: Quiebro\n\nUna habilidad apreciada por aquellos que son ágiles y veloces.\n\nRealiza una maniobra rápida para rodear los objetivos marcados.",
+  "intro": [
+    "-En un cadáver en una sala del Castillo de Velo Tormentoso en la que hace falta usar una Llave de espada pétrea para entrar."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 7",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 7\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 2.0",
+        "-Habilidad: Quiebro",
+        "-Coste de PC: 3",
+        "Potencia de ataque",
+        "-Físico: 92",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 140",
+        "Protección contra daños",
+        "-Físicos: 36.0",
+        "-Magia: 21.0",
+        "-Fuego: 21.0",
+        "-Rayo: 21.0",
+        "-Sagrado: 21.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 2.0\n-Habilidad: Quiebro\n-Coste de PC: 3\nPotencia de ataque\n-Físico: 92\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 140\nProtección contra daños\n-Físicos: 36.0\n-Magia: 21.0\n-Fuego: 21.0\n-Rayo: 21.0\n-Sagrado: 21.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

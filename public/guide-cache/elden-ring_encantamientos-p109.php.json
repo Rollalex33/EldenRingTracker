@@ -1,0 +1,28 @@
+{
+  "title": "Lanza fulgurante del caballero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p109.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-fulgurante-del-caballero.jpg"
+  ],
+  "lore": "Uno de los encantamientos del  culto a los dragones antiguos de la capital.\n\n \n\nInvoca una lanza de rayo mientras también manifiesta blasones de dragón antiguo. Al lanzar la lanza, los blasones proyectan lanzas adicionales.\n\nSi se carga, aumenta el número de blasones.\n\n \n\nUn encantamiento que solo se enseñaba a los caballeros consumados y, ahora, un arte perdido en las Tierras Intermedias.",
+  "intro": [
+    "-Lo encuentras en un cadáver en el punto indicado en las Catacumbas del río Escorpión."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Arroja una lanza de rayo y proyecta lanzas adicionales desde los blasones del dragón antiguo.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 29",
+        "-Ranuras: 1",
+        "-Fe necesaria: 36"
+      ],
+      "text": "Arroja una lanza de rayo y proyecta lanzas adicionales desde los blasones del dragón antiguo.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 29\n-Ranuras: 1\n-Fe necesaria: 36",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

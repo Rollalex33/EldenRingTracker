@@ -1,0 +1,27 @@
+{
+  "title": "Cenizas de diablillo colmilludo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-diablillo-colmilludo.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar los espíritus de dos diablillos colmilludos.\n\n \n\nEstos espíritus son perfectos para causar estragos, puesto que se mueven ágilmente como parásitos y lanzan vasijas mágicas. Parece que a los diablillos les gusta la compañía del otro.",
+  "intro": [
+    "-Es uno de los recuerdos disponibles durante la creación del personaje.",
+    "-Te las vende el Comerciante solitario 2 por 2.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca los espíritus de dos diablillos colmilludos.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 50"
+      ],
+      "text": "Invoca los espíritus de dos diablillos colmilludos.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 50",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

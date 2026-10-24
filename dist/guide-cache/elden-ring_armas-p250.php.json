@@ -1,0 +1,63 @@
+{
+  "title": "Cuerno largo de emisario",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p250.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cuerno-largo-de-emisario.jpg"
+  ],
+  "lore": "Largo cuerno de oro de los emisarios del oráculo. Es extremadamente pesado, por lo que puede infligir golpes de gran contundencia.\n\n \n\nAunque en origen era un instrumento, los humanos no podían tocarlo. O quizás era demasiado pronto para hacerlo soñar.\n\n \n\nHabilidad única: Lluvia de burbujas\n\nToca el cuerno para liberar una espuma de burbujas mágicas.\n\nLas burbujas flotarán suavemente antes de caer sobre el objetivo.",
+  "intro": [
+    "-Lo pueden soltar los Emisarios de Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 23",
+        "-Destreza: 11",
+        "-Fe: 18"
+      ],
+      "text": "-Fuerza: 23\n-Destreza: 11\n-Fe: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 9.5",
+        "-Habilidad: Lluvia de burbujas",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 78",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 58.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 42.0",
+        "-Estabilidad: 39",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 9.5\n-Habilidad: Lluvia de burbujas\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 120\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 78\n-Crítico: 100\nProtección contra daños\n-Físicos: 58.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 42.0\n-Estabilidad: 39\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

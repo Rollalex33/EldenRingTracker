@@ -1,0 +1,28 @@
+{
+  "title": "Lanzarrocas",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p43.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanzarrocas.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes que manipulan las fuerzas gravitatorias.\n\n \n\nInvoca un puñado de rocas que sale de la tierra y lo lanza por los aires.\n\nEste hechizo se puede lanzar mientras estás en movimiento.\n\n \n\nUna técnica gravitatoria estudiada por el joven Radahn. Su maestro fue un señor de alabastro con la piel de piedra.",
+  "intro": [
+    "-Lo encuentras dentro de un cofre en el sótano de las \"Ruinas de la rúa de los Sabios\", en Caelid (principal)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca rocas del suelo y lánzalas con vehemencia.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 18"
+      ],
+      "text": "Invoca rocas del suelo y lánzalas con vehemencia.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 18\n-Ranuras: 1\n-Inteligencia necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

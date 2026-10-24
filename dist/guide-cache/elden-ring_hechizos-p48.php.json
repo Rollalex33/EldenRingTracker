@@ -1,0 +1,28 @@
+{
+  "title": "Estrellas en colapso",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p48.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/estrellas-en-colapso.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes que manipulan las fuerzas gravitatorias.\n\n \n\nDispara numerosos proyectiles gravitatorios. Aquellos a quienes golpeen serán atraídos hacia el invocador.\n\nLa potencia de este hechizo aumenta al cargarlo.\n\n \n\nUna técnica gravitatoria estudiada por el joven Radahn.\n\n\"Te agradezco tus enseñanzas, porque ahora puedoe desafiar a las estrellas\".",
+  "intro": [
+    "-Se encuentra dentro de un cofre en las Catacumbas de los caídos  en guerra en Caelid (principal)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Atrae a los enemigos hacia el lanzador con una salva de proyectiles gravitatorios.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 36"
+      ],
+      "text": "Atrae a los enemigos hacia el lanzador con una salva de proyectiles gravitatorios.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 18\n-Ranuras: 1\n-Inteligencia necesaria: 36",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

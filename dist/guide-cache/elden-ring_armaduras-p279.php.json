@@ -1,0 +1,47 @@
+{
+  "title": "Atuendo festivo azul",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p279.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/atuendo-festivo-azul.jpg"
+  ],
+  "lore": "Atuendo ceremonial que llevan las bailarinas de las festividades que se celebran en Dominula, aldea del molinar.\n\n \n\nEl uso de esta prenda, teñida de un azul deslumbrante, solo está autorizado para las jóvenes doncellas que representan el papel central en el festival.",
+  "intro": [
+    "-Lo pueden soltar las bailarinas que están por la zona de los  molinos, en el punto ya indicado de la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.1",
+        "Negación de daños",
+        "-Físico: 4.2",
+        "-VS golpe: 4.2",
+        "-VS tajo: 6.1",
+        "-VS perforación: 5.3",
+        "-Magia: 12.6",
+        "-Fuego: 11.4",
+        "-Rayo: 12.6",
+        "-Sagrado: 13.8",
+        "Resistencia",
+        "-Inmunidad: 46",
+        "-Robustez: 21",
+        "-Concentración: 71",
+        "-Vitalidad: 63",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 4.1\nNegación de daños\n-Físico: 4.2\n-VS golpe: 4.2\n-VS tajo: 6.1\n-VS perforación: 5.3\n-Magia: 12.6\n-Fuego: 11.4\n-Rayo: 12.6\n-Sagrado: 13.8\nResistencia\n-Inmunidad: 46\n-Robustez: 21\n-Concentración: 71\n-Vitalidad: 63\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

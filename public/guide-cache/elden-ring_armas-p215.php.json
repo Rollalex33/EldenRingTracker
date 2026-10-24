@@ -1,0 +1,63 @@
+{
+  "title": "Espada del ejecutor Marais",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p215.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-del-ejecutor-marais.jpg"
+  ],
+  "lore": "Famosa espada de la Caa Marais, la familia de ejecutores que preside el Castillo Sombrío.\n\nEs una de las armas legendarias.\n\n \n\nElemer de la Zarza, el temido cazador de esferas, cogió la espada del lugar de su ejecucón inminente y la dotó de las habilidades de combate de su hogar, Eochaid.\n\n \n\nHabilidad única: Espada danzante de Eochaid\n\nImbuye la espada de energía y luego lánzala hacia delante en un ataque en forma de tirabuzón.\n\nLa espada infligirá daño de forma continua mientras gira.\n\nCarga el ataque para aumentar el alcance y la duración.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Elemer de la Zarza."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 24",
+        "-Destreza: 14",
+        "-Arcano: 23"
+      ],
+      "text": "-Fuerza: 24\n-Destreza: 14\n-Arcano: 23",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E",
+        "-Arcano: D"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E\n-Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 11.5",
+        "-Habilidad: Espada danzante de Eochaid",
+        "-Coste de PC: 15",
+        "Potencia de ataque",
+        "-Físico: 94",
+        "-Magia: 61",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 49.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 46",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 11.5\n-Habilidad: Espada danzante de Eochaid\n-Coste de PC: 15\nPotencia de ataque\n-Físico: 94\n-Magia: 61\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 49.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 46\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

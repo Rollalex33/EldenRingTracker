@@ -1,0 +1,28 @@
+{
+  "title": "Trío de hojas refulgentes",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p71.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/trio-de-hojas-refulgentes.jpg"
+  ],
+  "lore": "Viejo hechizo de la familia real cariana.\n\n \n\nCrea un sello sobre tu cabeza, del que acababan apareciendo tres hojas refulgentes que persiguen a los enemigos.\n\nPuedes lanzarlo mientras estás en movimiento. El tiempo de espera aumenta al cargarlo.\n\n \n\nLa forma prototípica de los hechizos de falangespada varió en el Reino de las Sombras.",
+  "intro": [
+    "-En un cadáver en el punto indicado del Castillo de Ensis."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Crea un sello que lanza tres hojas refulgente tras un tiempo de espera.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 19",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 28"
+      ],
+      "text": "Crea un sello que lanza tres hojas refulgente tras un tiempo de espera.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 19\n-Ranuras: 1\n-Inteligencia necesaria: 28",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

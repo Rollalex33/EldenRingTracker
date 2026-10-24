@@ -1,0 +1,38 @@
+{
+  "title": "Talismán con martillo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p14.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/talisman-con-martillo.jpg"
+  ],
+  "lore": "Un talismán en el que aparecen un martillo y un caballero.\n\nMejora los ataques que reducen la resistencia contra un oponente que los bloquea.\n\n \n\nLos martillos son muy eficaces contra enemigos que portan escudos, tanto que se los conoce con el nombre de \"verdugo de caballeros\".",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Mejora los ataques de reducción de resistencia a defensores."
+      ],
+      "text": "Mejora los ataques de reducción de resistencia a defensores.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 0.9"
+      ],
+      "text": "-Peso: 0.9",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo suelta el espírtu \"Recusante Henricus\" en  Colina Tormentosa ."
+      ],
+      "text": "-Lo suelta el espírtu \"Recusante Henricus\" en  Colina Tormentosa .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes"
+}

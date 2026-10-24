@@ -1,0 +1,64 @@
+{
+  "title": "Espada de alineación estelar",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p392.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-alineacion-estelar.jpg"
+  ],
+  "lore": "Espada con una línea de estrellas incrustada, hecha a partir de fragmentos de piedra refulgente sin pulir.\n\nArma de espadachines semihumanos.\n\n \n\nCuando su reina les otorga esta arma, los espadachines juran encontrar la verdad que se esconde al final de la procesión de las estrellas.\n\n \n\nHabilidad única: Línea de estrellas de Onze\n\nEsta habilidad, que recibe su nombre de un maestro espadachín semihumano, imbuye de energía mágica las piedras refulgentes alineadas y ejecuta un ataque de tajo. Repítelo para ejecutar hasta dos ataques adicionales cada vez más dañinos.",
+  "intro": [
+    "-La consigues como recompensa por derrotar a la jefaza Marigga, la reina semihumana."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 23",
+        "-Inteligencia: 21"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 23\n-Inteligencia: 21",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Catanas",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 5.0",
+        "-Habilidad: Línea de estrellas de Onze",
+        "-Coste de PC: 10 (- 8)",
+        "Potencia de ataque",
+        "-Físico: 82",
+        "-Magia: 82",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 34.0",
+        "-Magia: 48.0",
+        "-Fuego: 24.0",
+        "-Rayo: 24.0",
+        "-Sagrado: 24.0",
+        "-Estabilidad: 29",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (45)."
+      ],
+      "text": "-Categoría: Catanas\n-Tipo de daño: Tajo/Perf.\n-Peso: 5.0\n-Habilidad: Línea de estrellas de Onze\n-Coste de PC: 10 (- 8)\nPotencia de ataque\n-Físico: 82\n-Magia: 82\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 34.0\n-Magia: 48.0\n-Fuego: 24.0\n-Rayo: 24.0\n-Sagrado: 24.0\n-Estabilidad: 29\nEfectos pasivos\n-Provoca la acumulación de hemorragias (45).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Catanas"
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Garra de bestia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p389.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/garra-de-bestia_2.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/garra-de-bestia_3.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/garra-de-bestia_4.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/garra-de-bestia_5.jpg"
+  ],
+  "lore": "Arma en forma de las feroces garras de una bestia carnívora.\n\nSe usa para ejecutar ataques bestiales que resultan extraños para el ser humano.\n\n \n\nUna imitación de la técnica esotérica de los guerreros de la torre.\n\nSus portadores la blanden como poseídos por una bestia salvaje.\n\n \n\nHabilidad: Garras salvajes\n\nSalta como una bestia para rajar violentamente al enemigo con las garras izquierda y derecha.",
+  "intro": [
+    "Tienes que ir a ese bosque en el punto que te indicamos en Eliteguias al Sureste del lugar de gracia \"Llanura de las Tumbas\", en la Llanura de las Tumbas, y por allí verás a ese individuo llamado \"Logur, la Garra de la Bestia\", así que derrótalo para que suelte este arma.",
+    "Ten en cuenta que la localización es aproximada, ya que Logur no parará de moverse."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 13",
+        "-Destreza: 11"
+      ],
+      "text": "-Fuerza: 13\n-Destreza: 11",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Garra best.",
+        "-Tipo de daño: Tajo",
+        "-Peso: 3.0",
+        "-Habilidad: Garras salvajes",
+        "-Coste de PC: 13 (- -)",
+        "Potencia de ataque",
+        "-Físico: 98",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 35.0",
+        "-Magia: 20.0",
+        "-Fuego: 20.0",
+        "-Rayo: 20.0",
+        "-Sagrado: 20.0",
+        "-Estabilidad: 20",
+        "Efectos pasivos",
+        "-Provoca la acmulación de hemorragias (45)."
+      ],
+      "text": "-Categoría: Garra best.\n-Tipo de daño: Tajo\n-Peso: 3.0\n-Habilidad: Garras salvajes\n-Coste de PC: 13 (- -)\nPotencia de ataque\n-Físico: 98\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 35.0\n-Magia: 20.0\n-Fuego: 20.0\n-Rayo: 20.0\n-Sagrado: 20.0\n-Estabilidad: 20\nEfectos pasivos\n-Provoca la acmulación de hemorragias (45).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Garras bestia"
+}

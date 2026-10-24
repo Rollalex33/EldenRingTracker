@@ -1,0 +1,53 @@
+{
+  "title": "Ballesta de extensión",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p322.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ballesta-de-extension.jpg"
+  ],
+  "lore": "Una ballesta modificada, hecha mediante la combinación de dos de estas en una.\n\n \n\nPuede cargar varias saetas y dispararlas simultáneamente, lo cual permite una mayor dispersión del ataque.\n\n \n\nHabilidad: Patada\n\nLevanta bien la pierna para darle una patada a tu enemigo.\n\nResulta eficaz contra enemigos en guardia y puede romper su posición.\n\nA veces, lo más eficaz es lo más simple.",
+  "intro": [
+    "-En un cadáver en el punto indicado de la Llanura de las Tumbas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 17"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 17",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Ballesta",
+        "-Tipo de daño: Nada",
+        "-Peso: 5.0",
+        "-Habilidad: Patada",
+        "-Coste de PC: - (- -)",
+        "Potencia de ataque",
+        "-Físico: 68",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Alcance: 42",
+        "Protección contra daños",
+        "-Físicos: -",
+        "-Magia: -",
+        "-Fuego: -",
+        "-Rayo: -",
+        "-Sagrado: -",
+        "-Estabilidad: -",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Ballesta\n-Tipo de daño: Nada\n-Peso: 5.0\n-Habilidad: Patada\n-Coste de PC: - (- -)\nPotencia de ataque\n-Físico: 68\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Alcance: 42\nProtección contra daños\n-Físicos: -\n-Magia: -\n-Fuego: -\n-Rayo: -\n-Sagrado: -\n-Estabilidad: -\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Ballestas"
+}

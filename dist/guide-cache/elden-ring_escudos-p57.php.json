@@ -1,0 +1,59 @@
+{
+  "title": "Escudo en espiral",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p57.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-en-espiral.jpg"
+  ],
+  "lore": "Un arma diseñada para el combate entre gladiadores. Destaca sobre otras por ser un arma muy llamativa.\n\n \n\nLa serpiente de bronce esculpida es de una especie venenosa, lo cual aumenta la resistencia al veneno del portador.\n\n \n\nHabilidad única: Mordisco de víbora\n\nAgita rápidamente el escudo para dar vida de forma temporal a una víbora de bronce e incitarla a atacar y morder a los enemigos.",
+  "intro": [
+    "-Lo encuentras en un cadáver en la Cueva del Volcán, en Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: E"
+      ],
+      "text": "-Fuerza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo pequeño",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 1.5",
+        "-Habilidad: Mordisco de víbora",
+        "-Coste de PC: 8",
+        "Potencia de ataque",
+        "-Físico: 92",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 65.0",
+        "-Magia: 38.0",
+        "-Fuego: 29.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 29"
+      ],
+      "text": "-Categoría: Escudo pequeño\n-Tipo de ataque: Golpe\n-Peso: 1.5\n-Habilidad: Mordisco de víbora\n-Coste de PC: 8\nPotencia de ataque\n-Físico: 92\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 65.0\n-Magia: 38.0\n-Fuego: 29.0\n-Rayo: 35.0\n-Sagrado: 36.0\n-Estabilidad: 29",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Pequeños"
+}

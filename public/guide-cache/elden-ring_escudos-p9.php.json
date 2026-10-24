@@ -1,0 +1,60 @@
+{
+  "title": "Escudo de madera grabado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p9.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-madera-grabado.jpg"
+  ],
+  "lore": "Un pequeño escudo redondo de madera. Es ligero y fácil de manejar, pero no ofrece la negación de daños de un escudo de metal.\n\n \n\nTiene grabado un antiguo cifrado alrededor de la circunferencia.\n\nAunque no es mucho, aumenta la negación de daño sagrado.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Astrólogo.",
+    "-Lo pueden soltar los esqueletos en las Catacumbas de la necrohondonada, en la Península del Llanto.",
+    "-Lo pueden soltar los esqueletos \"inmortales\" en la Fisura en ataúd de piedra (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8"
+      ],
+      "text": "-Fuerza: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: E"
+      ],
+      "text": "-Fuerza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo pequeño",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 1.5",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 70",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 58.0",
+        "-Magia: 38.0",
+        "-Fuego: 20.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 43.0",
+        "-Estabilidad: 32"
+      ],
+      "text": "-Categoría: Escudo pequeño\n-Tipo de ataque: Golpe\n-Peso: 1.5\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 70\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 58.0\n-Magia: 38.0\n-Fuego: 20.0\n-Rayo: 35.0\n-Sagrado: 43.0\n-Estabilidad: 32",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Pequeños"
+}

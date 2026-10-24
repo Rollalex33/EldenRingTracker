@@ -1,0 +1,62 @@
+{
+  "title": "Wakizashi",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p153.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/wakizashi.jpg"
+  ],
+  "lore": "Espada corta con un distintivo diseño en la hoja.\n\nArma única empuñada por los guerreros de los territorios de cañaveral.\n\nrovoca hemorragias a los objetivos.\n\nAUnque se consideran armas auxiliares, se conoce a un hombre que la empuña en la mano izquierda meintras usa una catana en la derecha. Este diabólico espadachín es conocido como Okina.\n\n \n\nHabilidad: Quiebro\n\nUna habilidad apreciada por aquellos que son ágiles y veloces.\n\nRealiza una maniobra rápida para rodear los objetivos marcados.",
+  "intro": [
+    "-La encuentras en un cadáver en la Cueva de la prisión, en Caelid (Noroeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 9",
+        "-Destreza: 13"
+      ],
+      "text": "-Fuerza: 9\n-Destreza: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 3.0",
+        "-Habilidad: Quiebro",
+        "-Coste de PC: 3",
+        "Potencia de ataque",
+        "-Físico: 94",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 42.0",
+        "-Magia: 24.0",
+        "-Fuego: 24.0",
+        "-Rayo: 24.0",
+        "-Sagrado: 24.0",
+        "-Estabilidad: 18",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (38)."
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 3.0\n-Habilidad: Quiebro\n-Coste de PC: 3\nPotencia de ataque\n-Físico: 94\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 42.0\n-Magia: 24.0\n-Fuego: 24.0\n-Rayo: 24.0\n-Sagrado: 24.0\n-Estabilidad: 18\nEfectos pasivos\n-Provoca la acumulación de hemorragias (38).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Milady",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p328.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/milady.jpg"
+  ],
+  "lore": "Espadón ligero; en otras palabras, una espada cuya hoja posee la misma longitud que la de un espadón, pero con un peso mínimo.\n\nFue apodado así por las damas de la nobleza por su aspecto refinado.\n\n \n\nGracias a su elegante forma, puede blandirse con la misma agilidad que una espada recta.\n\n \n\nHabilidad: Embestida empaladora\n\nUna habilidad que permite a las armas de embestida atravesar escudos. Acumula potencia y abalánzate dando una embestida para perforar la guardia de cualquier enemigo.",
+  "intro": [
+    "-Dentro de un cofre en el punto indicado del Castillo de Ensis."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 17"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 17",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón ligero",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 6.5",
+        "-Habilidad: Embestida empaladora",
+        "-Coste de PC: 9 (- -)",
+        "Potencia de ataque",
+        "-Físico: 116",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 63.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 36",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón ligero\n-Tipo de daño: Estándar/Perf.\n-Peso: 6.5\n-Habilidad: Embestida empaladora\n-Coste de PC: 9 (- -)\nPotencia de ataque\n-Físico: 116\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 63.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 36\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones ligeros"
+}

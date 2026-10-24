@@ -1,0 +1,63 @@
+{
+  "title": "Espada reliqiuia sagrada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p300.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-reliquia-sagrada.jpg"
+  ],
+  "lore": "Espada fabricada a partir de los restos de un dios cuya vida debería haber sido eterna.\n\n \n\nHay muchas y variadas y deas sobre lo que el arma augura. Hay quien considera que es la marca de un gran pecado, o bien el signo de una gran hecatombe. Hay quien cree que es el fin de una era, mientras que otros opinan que es el comienzo.\n\n \n\nHabilidad única: Ola dorada\n\nImbuye la espada de la gloria dorada de antaño y luego lánzala contra los enemigos.\n\nLa ola dorada se abrirá en abanico frente a ti y barrerá a todos los enemigos que encuentre por el camino.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de Elden (+20.000 runas) a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 24",
+        "-Fe: 22"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 24\n-Fe: 22",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 11.0",
+        "-Habilidad: Ola dorada",
+        "-Coste de PC: 42",
+        "Potencia de ataque",
+        "-Físico: 118",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 76",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 62.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 11.0\n-Habilidad: Ola dorada\n-Coste de PC: 42\nPotencia de ataque\n-Físico: 118\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 76\n-Crítico: 100\nProtección contra daños\n-Físicos: 62.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 42\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Escudo de albináurico",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-albinaurico.jpg"
+  ],
+  "lore": "Escudo alargado y ovalado de metal que portan los jóvenes albináuricos. Los adornos representan la primera gota del rocío del cual se dice que han sido creados.\n\nPosee una negación de daño mágico excepcional. Al fin y al cabo, los enemigos más formidables de los albináuricos eran los hechiceros.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Lo pueden soltar los “albináuricos” en el cementerio al Este de la Mansión de los  Caria, en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11"
+      ],
+      "text": "-Fuerza: 11",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo mediano",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 4.5",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 78",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 100.0",
+        "-Magia: 66.0",
+        "-Fuego: 42.0",
+        "-Rayo: 23.0",
+        "-Sagrado: 47.0",
+        "-Estabilidad: 51"
+      ],
+      "text": "-Categoría: Escudo mediano\n-Tipo de ataque: Golpe\n-Peso: 4.5\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 78\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 100.0\n-Magia: 66.0\n-Fuego: 42.0\n-Rayo: 23.0\n-Sagrado: 47.0\n-Estabilidad: 51",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Medianos"
+}

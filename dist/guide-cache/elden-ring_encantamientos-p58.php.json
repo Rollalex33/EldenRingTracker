@@ -1,0 +1,29 @@
+{
+  "title": "Disco de luz",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p58.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/disco-de-luz.jpg"
+  ],
+  "lore": "Uno de los encantamientos de los fundamentalistas de la Orden Dorada.\n\n \n\nCrea un anillo de luz y lo dispara hacia delante. El anillo de luz vuelve a una posición cercana al invocador antes de desaparecer.\n\nEste encantamiento se puede lanzar repetidamente.\n\n \n\nUn regalo del joven Miquella a su padre Radagon.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn por 11.000 runas al hablar con él cuando se encuentra con Máscara Dorada en la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara un anillo de luz ante el lanzador.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 3",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 13",
+        "-Fe necesaria: 13"
+      ],
+      "text": "Dispara un anillo de luz ante el lanzador.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 3\n-Ranuras: 1\n-Inteligencia necesaria: 13\n-Fe necesaria: 13",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

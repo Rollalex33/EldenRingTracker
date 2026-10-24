@@ -1,0 +1,67 @@
+{
+  "title": "Daga",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p32.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/daga.jpg"
+  ],
+  "lore": "Daga estándar de hoja recta.\n\n \n\nAunque esta arma presenta un ataque modesto y poco alcance, su ligero peso permite clavarla en sucesión y conseguir devastadores golpes críticos.\n\n \n\nHabilidad: Quiebro\n\nUna habilidad apreciada por aquellos que son ágiles y veloces.\n\nRealiza una maniobra rápida para rodear los objetivos marcados.",
+  "intro": [
+    "-La pueden soltar los soldados que hay en el puente de Necrolimbo, siguiendo  el camino al Sureste desde la “Parte delantera de la puerta”.",
+    "-La pueden soltar los bandoleros en el interior de Cueva de Agualóbrega.",
+    "-Te la venden las Doncellas gemelas quiescentes por 400 runas.",
+    "-La pueden soltar los soldados \"normales\" que hay por la zona de Lucaria.",
+    "-La pueden soltar los de la infantería de Leyndell que hay por ejemplo en la Meseta Altus.",
+    "-La pueden soltar los de la infantería que están por la zona de Elphael,  tutor del Árbol Hierático.",
+    "-La pueden soltar los soldados comunes en la Llanura de las Tumbas y los del Castillo de Ensis (Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 5",
+        "-Destreza: 9"
+      ],
+      "text": "-Fuerza: 5\n-Destreza: 9",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: D\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 1.5",
+        "-Habilidad: Quiebro",
+        "-Coste de PC: 3",
+        "Potencia de ataque",
+        "-Físico: 74",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 130",
+        "Protección contra daños",
+        "-Físicos: 35.0",
+        "-Magia: 20.0",
+        "-Fuego: 20.0",
+        "-Rayo: 20.0",
+        "-Sagrado: 20.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 1.5\n-Habilidad: Quiebro\n-Coste de PC: 3\nPotencia de ataque\n-Físico: 74\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 130\nProtección contra daños\n-Físicos: 35.0\n-Magia: 20.0\n-Fuego: 20.0\n-Rayo: 20.0\n-Sagrado: 20.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

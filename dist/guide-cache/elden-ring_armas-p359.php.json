@@ -1,0 +1,59 @@
+{
+  "title": "Rostro de lamento",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p359.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/rostro-de-lamento.jpg"
+  ],
+  "lore": "Un farol de piedra que fue tallado con forma de cabeza humana lamentándose, con una mirada perdida que emite los haces de luz.\n\nSi se equipa en la mano izquierda, ilumina mejor el área circundante.\n\n \n\nEsta expresión atípica transmite cierta alegría. Es el lánguido alivio de quien no necesita ver.\n\n \n\nHabilidad única: Venda de la felicidad\n\nBalancea la cabeza mientras le cubres los ojos, haciendo que emite un gemido de lamento, lo que temporalmente te hae más difícil de ver. Si buscas la felicidad, lo mejor es que no veas nada.",
+  "intro": [
+    "-La encuentras en un cadáver en el punto indicado de la Prisión de Doliente."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 9"
+      ],
+      "text": "-Fuerza: 9",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: B"
+      ],
+      "text": "-Fuerza: B",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Antorcha",
+        "-Tipo de daño: Golpe",
+        "-Peso: 2.0",
+        "-Habilidad: Venda de la felicidad",
+        "-Coste de PC: 10 (- -)",
+        "Potencia de ataque",
+        "-Físico: 71",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 29.0",
+        "-Magia: 17.0",
+        "-Fuego: 17.0",
+        "-Rayo: 17.0",
+        "-Sagrado: 17.0",
+        "-Estabilidad: 29",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Antorcha\n-Tipo de daño: Golpe\n-Peso: 2.0\n-Habilidad: Venda de la felicidad\n-Coste de PC: 10 (- -)\nPotencia de ataque\n-Físico: 71\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 29.0\n-Magia: 17.0\n-Fuego: 17.0\n-Rayo: 17.0\n-Sagrado: 17.0\n-Estabilidad: 29\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Antorchas"
+}

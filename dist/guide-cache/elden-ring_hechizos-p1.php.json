@@ -1,0 +1,31 @@
+{
+  "title": "Guijarro de piedras refulgentes",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guijarro-de-piedras-refulgentes.jpg"
+  ],
+  "lore": "El hechizo de piedras refulgentes más básico de la Academia de Raya Lucaria.\n\n \n\nLa piedra refulgente canaliza la magia para lanzar proyectiles mágicos a los enemigos.\n\nEste hechizo se puede lanzar repetidamente mientras estás en movimiento.\n\n \n\nQuienes la dominen habrán abierto la primera puerta al verdadero conocimiento de la hechicería.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Astrólogo.",
+    "-Te lo vende Hechicera Sellen por 1.000 runas.",
+    "-Te lo vende Hechicero Thops por 1.000 runas.",
+    "-Te lo vende Conde Ymir (DLC Shadow of the Erdtree) por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara proyectiles mágicos de piedra refulgente",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 7",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 10"
+      ],
+      "text": "Dispara proyectiles mágicos de piedra refulgente\n-Tipo de conjuro: Hechizo\n-Coste de PC: 7\n-Ranuras: 1\n-Inteligencia necesaria: 10",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de monje ígneo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p136.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-monje-igneo.jpg"
+  ],
+  "lore": "Armadura de hierro negro adornada con una tela roja.\n\nLa llevan los monjes ígneos.\n\n \n\nSe dice que la grotesca cara tallada en su pecho representa al viejo dios corrupto de la llama.\n\nLos tabúes se transforman en eternas obsesiones como consecuencia del temor que inspiran.",
+  "intro": [
+    "-La pueden soltar los monjes que van vestidos de rojo en Liurnia  (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 11.8",
+        "Negación de daños",
+        "-Físico: 14.0",
+        "-VS golpe: 12.4",
+        "-VS tajo: 13.5",
+        "-VS perforación: 12.4",
+        "-Magia: 10.9",
+        "-Fuego: 13.3",
+        "-Rayo: 9.5",
+        "-Sagrado: 9.5",
+        "Resistencia",
+        "-Inmunidad: 32",
+        "-Robustez: 55",
+        "-Concentración: 24",
+        "-Vitalidad: 24",
+        "-Aplomo: 16"
+      ],
+      "text": "-Peso: 11.8\nNegación de daños\n-Físico: 14.0\n-VS golpe: 12.4\n-VS tajo: 13.5\n-VS perforación: 12.4\n-Magia: 10.9\n-Fuego: 13.3\n-Rayo: 9.5\n-Sagrado: 9.5\nResistencia\n-Inmunidad: 32\n-Robustez: 55\n-Concentración: 24\n-Vitalidad: 24\n-Aplomo: 16",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

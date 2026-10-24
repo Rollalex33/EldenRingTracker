@@ -1,0 +1,61 @@
+{
+  "title": "Daga izquierda",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p365.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/daga-izquierda.jpg"
+  ],
+  "lore": "Daga con un gran paramanos.\n\n \n\nSe usa con la mano izquierda, como complemento de una espada punzante o una hoja idéntica sostenida en la derecha para ejecutar un peculiar estilo de lucha.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-La encuentras en un cadáver en el punto indicado de Fortaleza sombría (tercera visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 7",
+        "-Destreza: 15"
+      ],
+      "text": "-Fuerza: 7\n-Destreza: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: D\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Dagas",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 2.0",
+        "-Habilidad: Elusión",
+        "-Coste de PC: - (- -)",
+        "Potencia de ataque",
+        "-Físico: 79",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 38.0",
+        "-Magia: 22.0",
+        "-Fuego: 22.0",
+        "-Rayo: 22.0",
+        "-Sagrado: 22.0",
+        "-Estabilidad: 16",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Dagas\n-Tipo de daño: Tajo/Perf.\n-Peso: 2.0\n-Habilidad: Elusión\n-Coste de PC: - (- -)\nPotencia de ataque\n-Físico: 79\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 38.0\n-Magia: 22.0\n-Fuego: 22.0\n-Rayo: 22.0\n-Sagrado: 22.0\n-Estabilidad: 16\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

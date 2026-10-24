@@ -1,0 +1,48 @@
+{
+  "title": "Casco de calabaza",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p75.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-calabaza.jpg"
+  ],
+  "lore": "Casco ovalado lo suficientemente grande para cubrir cualquier cabeza.\n\nMuy pesado y resistente.\n\n \n\nReduce el daño recibido de los impactos y los disparos a la cabeza.\n\n \n\nEl interior del casco es muy oscuro y oculta el pánico del enloquecido guerrero.\n\nPuede que su interior espacioso también ayude a aliviar la sensación de presión y claustrofobia.",
+  "intro": [
+    "-Lo puede soltar el hombre calabaza del Fuerte de Haigh en Necrolimbo (Este).",
+    "-Lo puede soltar el hombre calabaza del Castillo de Morne, en la Península del Llanto."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 12.3",
+        "Negación de daños",
+        "-Físico: 7.0",
+        "-VS golpe: 5.9",
+        "-VS tajo: 6.7",
+        "-VS perforación: 6.7",
+        "-Magia: 4.6",
+        "-Fuego: 4.7",
+        "-Rayo: 5.2",
+        "-Sagrado: 4.5",
+        "Resistencia",
+        "-Inmunidad: 27",
+        "-Robustez: 42",
+        "-Concentración: 44",
+        "-Vitalidad: 18",
+        "-Aplomo: 9"
+      ],
+      "text": "-Peso: 12.3\nNegación de daños\n-Físico: 7.0\n-VS golpe: 5.9\n-VS tajo: 6.7\n-VS perforación: 6.7\n-Magia: 4.6\n-Fuego: 4.7\n-Rayo: 5.2\n-Sagrado: 4.5\nResistencia\n-Inmunidad: 27\n-Robustez: 42\n-Concentración: 44\n-Vitalidad: 18\n-Aplomo: 9",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

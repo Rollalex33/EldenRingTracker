@@ -1,0 +1,64 @@
+{
+  "title": "Espada maldita de Morgott",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p259.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-maldita-de-morgott.jpg"
+  ],
+  "lore": "Espada deformada con tintes cambiantes que solía ser usada por Morgott, rey de los Augurios.\n\n \n\nLa sangre maldita rechazada y sellada por Morgott se halla en esta hoja.\n\n \n\nHabilidad única: Tajo de sangre maldita\n\nPrepárate y luego carga hacia delante para asestar un corte en diagonal descendente. El sangriento rastro de la hoja irá seguido por una llameante explosión retardada. Sigue usando el arma para lanzar más ataques.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del rey de los Augurios a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 35",
+        "-Arcano: 17"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 35\n-Arcano: 17",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C",
+        "-Arcano: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C\n-Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón curvo",
+        "-Tipo de daño: Tajo",
+        "-Peso: 7.5",
+        "-Habilidad: Tajo de sangre maldita",
+        "-Coste de PC: 20 (- 20)",
+        "Potencia de ataque",
+        "-Físico: 1120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 55.0",
+        "-Magia: 29.0",
+        "-Fuego: 29.0",
+        "-Rayo: 29.0",
+        "-Sagrado: 29.0",
+        "-Estabilidad: 35",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (78)."
+      ],
+      "text": "-Categoría: Espadón curvo\n-Tipo de daño: Tajo\n-Peso: 7.5\n-Habilidad: Tajo de sangre maldita\n-Coste de PC: 20 (- 20)\nPotencia de ataque\n-Físico: 1120\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 55.0\n-Magia: 29.0\n-Fuego: 29.0\n-Rayo: 29.0\n-Sagrado: 29.0\n-Estabilidad: 35\nEfectos pasivos\n-Provoca la acumulación de hemorragias (78).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadón curvo"
+}

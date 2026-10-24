@@ -1,0 +1,28 @@
+{
+  "title": "Meteoritos de Astel",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p68.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/meteoritos-de-astel.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes que manipulan las fuerzas gravitatorias.\n\n \n\nInvoca un vacío del que emana una lluvia de meteoritos.\n\nMantén el hechizo para prolongar el efecto.\n\n \n\nUna muestra del poder con el que Astel arrasó la Ciudad Eterna.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Astel, el astro fosco."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Provoca una descarga de pequeños meteoritos desde el vacío.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 60",
+        "-Ranuras: 2",
+        "-Inteligencia necesaria: 55"
+      ],
+      "text": "Provoca una descarga de pequeños meteoritos desde el vacío.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 60\n-Ranuras: 2\n-Inteligencia necesaria: 55",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

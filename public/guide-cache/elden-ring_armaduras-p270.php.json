@@ -1,0 +1,48 @@
+{
+  "title": "Sarong de perfumista",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p270.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/sarong-de-perfumista.jpg"
+  ],
+  "lore": "Sarong de un perfumista del Árbol Áureo de la Capital.\n\n \n\nLos perfumistas fueron antaño muy respetados, al ser considerados apotecarios benditos a ojos de la gran mayoría. Sin embargo, al verse involucrados en los combates de la Devastación, abandonaron esta función para empezar a elaborar venenos y explosivos.",
+  "intro": [
+    "-Lo pueden soltar los perfumistas de la Gruta del Perfumista y los de Leyndell.",
+    "-Lo pueden soltar los perfumistas de la Llanura de las Tumbas (Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.5",
+        "Negación de daños",
+        "-Físico: 2.3",
+        "-VS golpe: 3.4",
+        "-VS tajo: 3.0",
+        "-VS perforación: 2.3",
+        "-Magia: 7.3",
+        "-Fuego: 6.8",
+        "-Rayo: 7.1",
+        "-Sagrado: 7.3",
+        "Resistencia",
+        "-Inmunidad: 37",
+        "-Robustez: 11",
+        "-Concentración: 39",
+        "-Vitalidad: 41",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.5\nNegación de daños\n-Físico: 2.3\n-VS golpe: 3.4\n-VS tajo: 3.0\n-VS perforación: 2.3\n-Magia: 7.3\n-Fuego: 6.8\n-Rayo: 7.1\n-Sagrado: 7.3\nResistencia\n-Inmunidad: 37\n-Robustez: 11\n-Concentración: 39\n-Vitalidad: 41\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Espada esbelta de noble",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p33.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-esbelta-de-noble.jpg"
+  ],
+  "lore": "Espada estrecha que portan los nobles errantes.\n\nEn su fabricación se tuvo en cunta que fuese fácil de empuñar.\n\n \n\nComo está bañada en oro de una punta a otra, seguro que vale una buena suma.\n\n \n\nHabilidad: Combate\n\nEsta habilidad comienza con la espada en posición horizontal.\n\nRompe la guardia enemiga con un ataque normal o bien corre y embiste con un ataque potente.",
+  "intro": [
+    "-La pueden soltar los de la muchedumbre que sigue a los gigantes del carro, por el camino al norte del lago en Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 11"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 11",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 3.5",
+        "-Habilidad: Combate",
+        "-Coste de PC: - (6 8)",
+        "Potencia de ataque",
+        "-Físico: 101",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 43.0",
+        "-Magia: 29.0",
+        "-Fuego: 29.0",
+        "-Rayo: 29.0",
+        "-Sagrado: 29.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 3.5\n-Habilidad: Combate\n-Coste de PC: - (6 8)\nPotencia de ataque\n-Físico: 101\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 43.0\n-Magia: 29.0\n-Fuego: 29.0\n-Rayo: 29.0\n-Sagrado: 29.0\n-Estabilidad: 30\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

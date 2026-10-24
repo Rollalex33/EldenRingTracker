@@ -1,0 +1,40 @@
+{
+  "title": "Saeta dorada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p470.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/saeta-dorada.jpg"
+  ],
+  "lore": "Saeta bendecida con un encantamiento del Árbol Áureo. Inflige daño sagrado.\n\n \n\nAntaño era utilizada por los guardias de la capital.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Saeta",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 20",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 80",
+        "-Crítico: 100",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Saeta\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 20\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 80\n-Crítico: 100\nEfectos pasivos",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te la vende el  Comerciante ermitaño 2  por 120 runas.",
+        "-Encuentras 10 en un cadáver en  Enir-Ilim  (DLC  Shadow of the Erdtree )."
+      ],
+      "text": "-Te la vende el  Comerciante ermitaño 2  por 120 runas.\n-Encuentras 10 en un cadáver en  Enir-Ilim  (DLC  Shadow of the Erdtree ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

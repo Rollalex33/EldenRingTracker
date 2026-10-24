@@ -1,0 +1,63 @@
+{
+  "title": "Espada caballera de Moonrithyll",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p329.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-caballera-de-moonrithyll.jpg"
+  ],
+  "lore": "Espadón imbuido de piedra refulgente azul.\n\nEl arma favorita de la fiel caballera cariana Moonrithyll.\n\n \n\nMoonrithyll era la chambelán de la Caballera de la Luna Gemela.\n\nTambién era amiga de los trols, quienes servían a la familia real, y empuñaba con orgullo sus armas mientras luchaba codo con codo con sus gigantescos camaradas.\n\n \n\nHabilidad: Gran falange\n\nHabilidad de los caballeros trol hechizados. Crea un arco defensivo de grandes cuchillas mágicas que atacan automáticamente al enemigo cercano. Acompáñala con un ataque potente para encadnear esta habilidad con una estocada.",
+  "intro": [
+    "-La suelta la enemiga \"Moonrithyll, caballera cariana\" en el Castillo de Ensis."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 14",
+        "-Fe: 18"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 14\n-Fe: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadas colosales",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 18.0",
+        "-Habilidad: Gran falange",
+        "-Coste de PC: 16 (- 6)",
+        "Potencia de ataque",
+        "-Físico: 124",
+        "-Magia: 80",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 70.0",
+        "-Magia: 55.0",
+        "-Fuego: 43.0",
+        "-Rayo: 43.0",
+        "-Sagrado: 43.0",
+        "-Estabilidad: 50",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadas colosales\n-Tipo de daño: Estándar/Perf.\n-Peso: 18.0\n-Habilidad: Gran falange\n-Coste de PC: 16 (- 6)\nPotencia de ataque\n-Físico: 124\n-Magia: 80\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 70.0\n-Magia: 55.0\n-Fuego: 43.0\n-Rayo: 43.0\n-Sagrado: 43.0\n-Estabilidad: 50\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas colosales"
+}

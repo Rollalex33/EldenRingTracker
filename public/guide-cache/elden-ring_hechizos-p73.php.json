@@ -1,0 +1,28 @@
+{
+  "title": "Desaparición de Miriam",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p73.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/desaparicion-de-miriam.jpg"
+  ],
+  "lore": "Hechicería de los preceptores al servicio de la familia real cariana.\n\n \n\nSe usa para ocultarse en una bruma de piedra refulgente y reaparecer tras unos segundos. La dirección determina dónde se reaparecerá.\n\n \n\nLa conservadora de la sala de estudio era tan experta en esta hechicería que ahora lleva su nombre.",
+  "intro": [
+    "-Te lo vende Conde Ymir (DLC Shadow of the Erdtree) por 10.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Te oculta en una bruma de piedra refulgente.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 9",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 26"
+      ],
+      "text": "Te oculta en una bruma de piedra refulgente.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 9\n-Ranuras: 1\n-Inteligencia necesaria: 26",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

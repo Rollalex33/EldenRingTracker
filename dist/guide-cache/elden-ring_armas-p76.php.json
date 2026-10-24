@@ -1,0 +1,63 @@
+{
+  "title": "Cetro de devorador",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p76.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cetro-de-devorador.jpg"
+  ],
+  "lore": "Cetro con forma de serpiente devorando el mundo. Esta arma se convertirá, algún día, en el símbolo del señor de la Blasfemia.\n\nEs una de las armas legendarias.\n\n \n\nDicen que su diseño es una breve visión del futuro que tuvo Rykard en sus últimos momentos de vida, tras ser devorado por la gran serpiente.\n\n \n\nHabilidad: Devorador de mundos\n\nCarga el cetro con magia y golpea el suelo con él para robar los PS de todos los enemigos cercanos.",
+  "intro": [
+    "-Lo suelta Bernahl al matarlo o al completar su historia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 24",
+        "-Destreza: 20",
+        "-Fe: 25"
+      ],
+      "text": "-Fuerza: 24\n-Destreza: 20\n-Fe: 25",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 11.5",
+        "-Habilidad: Devorador de mundos",
+        "-Coste de PC: 35",
+        "Potencia de ataque",
+        "-Físico: 112",
+        "-Magia: 0",
+        "-Fuego: 69",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 62.0",
+        "-Magia: 33.0",
+        "-Fuego: 45.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 11.5\n-Habilidad: Devorador de mundos\n-Coste de PC: 35\nPotencia de ataque\n-Físico: 112\n-Magia: 0\n-Fuego: 69\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 62.0\n-Magia: 33.0\n-Fuego: 45.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 42\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Espada ancha",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p8.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-ancha.jpg"
+  ],
+  "lore": "Espada recta con hoja amplia eficaz en ataques de tajo.\n\n \n\nLos envites en horizontal amplían el rango de ataque, por lo que es más fácil alcanzar a los enemigos.\n\n \n\nHabilidad: Combate\n\nEsta habilidad comienza con la espada en posición horizontal.\n\nRompe la guardia enemiga con un ataque normal o bien corre y embiste con un ataque potente.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Confesor.",
+    "-Te la vende el Comerciante nómada 1 por 1.800 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 4.0",
+        "-Habilidad: Combate",
+        "-Coste de PC: - (6 8)",
+        "Potencia de ataque",
+        "-Físico: 117",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 4.0\n-Habilidad: Combate\n-Coste de PC: - (6 8)\nPotencia de ataque\n-Físico: 117\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 47.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

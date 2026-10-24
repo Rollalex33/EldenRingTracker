@@ -1,0 +1,59 @@
+{
+  "title": "Escudo grande dorado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p32.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-grande-dorado.jpg"
+  ],
+  "lore": "Escudo grande de forma ovalada y fabricado en oro que llevan los caballeros protectores de Leyndell, capital del Reino.\n\n \n\nLos caballeros de Leyndell gozan de bastante reputación por su firmeza, la cual se ejemplifica en la excepcional capacidad de defensa de este escudo.\n\n \n\nHabilidad: Sin habilidad\n\nEsta arma no tiene ninguna habilidad.\n\nSi el arma que llevas en la otra mano tiene alguna habilidad, se utilizará dicha habilidad.",
+  "intro": [
+    "-Lo puede soltar un Caballero de Leyndell en el punto ya indicado de Liurnia (Este).",
+    "-También lo pueden soltar los que están por la Meseta Altus y cómo no, en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 34"
+      ],
+      "text": "-Fuerza: 34",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo grande",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 17.0",
+        "-Habilidad: Sin habilidad",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 113",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 100.0",
+        "-Magia: 57.0",
+        "-Fuego: 60.0",
+        "-Rayo: 57.0",
+        "-Sagrado: 68.0",
+        "-Estabilidad: 68"
+      ],
+      "text": "-Categoría: Escudo grande\n-Tipo de ataque: Golpe\n-Peso: 17.0\n-Habilidad: Sin habilidad\n-Coste de PC: -\nPotencia de ataque\n-Físico: 113\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 100.0\n-Magia: 57.0\n-Fuego: 60.0\n-Rayo: 57.0\n-Sagrado: 68.0\n-Estabilidad: 68",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Grandes"
+}

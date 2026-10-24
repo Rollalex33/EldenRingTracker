@@ -1,0 +1,61 @@
+{
+  "title": "Cráneo ceremonial",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p210.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/craneo-ceremonial.jpg"
+  ],
+  "lore": "Maza grande decorada con flores y telas de muchos colores.\n\nHerramienta ceremonial utilizada por las bailarinas en las fiestas de Dominula, la aldea del molinar.\n\n \n\nEl extremo para golpear es un cráneo demasiado grande para ser humano.\n\nOtorga trazas de runas al asestar golpes.\n\n \n\nHabilidad: Rugido bárbaro\n\nSuelta un rugido bestial para infundirte ánimos y aumentar tu p otencia de ataque.\n\nMientras está activa, transforma los ataques potentes en un salvaje ataque combinado.",
+  "intro": [
+    "-Se encuentra en un cadáver en Dominula, en la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 18",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 18\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 8.5",
+        "-Habilidad: Rugido bárbaro",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 138",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 63.0",
+        "-Magia: 34.0",
+        "-Fuego: 34.0",
+        "-Rayo: 34.0",
+        "-Sagrado: 34.0",
+        "-Estabilidad: 40",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 8.5\n-Habilidad: Rugido bárbaro\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 138\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 63.0\n-Magia: 34.0\n-Fuego: 34.0\n-Rayo: 34.0\n-Sagrado: 34.0\n-Estabilidad: 40\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Anillo de cifrado blanco",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p180.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/anillo-de-cifrado-blanco.jpg"
+  ],
+  "lore": "Objeto para jugar online.\n\n(Se puede utilizar desde el menú Multijugador).\n\n \n\nTe permite solicitar automáticamente la ayuda de un cazador de otro mundo cuando tu mundo sufre una invasión. (La invocación no siempre es posible).\n\n \n\nUno de los códigos místicos perdidos que dicen haber concedido los Dos Dedos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "En caso de invasión, solicita ayuda a un cazador."
+      ],
+      "text": "En caso de invasión, solicita ayuda a un cazador.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te lo venden las  Doncellas gemelas quiescentes  por 1.000 runas."
+      ],
+      "text": "-Te lo venden las  Doncellas gemelas quiescentes  por 1.000 runas.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Multijugador"
+}

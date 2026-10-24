@@ -1,0 +1,59 @@
+{
+  "title": "Dandpatta cifrada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p124.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/dandpatta-cifrada.jpg"
+  ],
+  "lore": "Una de las armas procedentes de los Dos Dedos. Una informe secuencia de códigos compone su hoja, por lo que ningún escudo puede repelerla. Inflige daño sagrado.\n\n \n\nSu sospechosa inscripción, grabada en el lenguaje de la luz empleado por los Dos Dedos, parece flotar en el aire.\n\n \n\nHabilidad: Hoja imbloqueable\n\nImbuye la hoja cifrada de luz para alargarla y luego golpea con un repentino movimiento de barrido.\n\nEste ataque no puede bloquearse.",
+  "intro": [
+    "-Tras tirarte por la barandilla en la Mesa Redonda, a la zona te invade Alberich, ve a la sala de la izquierda, pasa por la puerta de justo a la izquierda y por alguna más hasta llegar a una habitación en la que, sobre la cama del fondo, hay un cadáver con esta arma (gracias al usuario Zhyrnd por el dato)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fe: 30"
+      ],
+      "text": "-Fe: 30",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fe: C"
+      ],
+      "text": "-Fe: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Puño",
+        "-Tipo de daño: Tajo/Perforación",
+        "-Peso: 0",
+        "-Habilidad: Hoja imbloqueable",
+        "-Coste de PC: 17",
+        "Potencia de ataque",
+        "-Físico: 0",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 85",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 9.0",
+        "-Magia: 14.0",
+        "-Fuego: 14.0",
+        "-Rayo: 14.0",
+        "-Sagrado: 61.0",
+        "-Estabilidad: 19",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Puño\n-Tipo de daño: Tajo/Perforación\n-Peso: 0\n-Habilidad: Hoja imbloqueable\n-Coste de PC: 17\nPotencia de ataque\n-Físico: 0\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 85\n-Crítico: 100\nProtección contra daños\n-Físicos: 9.0\n-Magia: 14.0\n-Fuego: 14.0\n-Rayo: 14.0\n-Sagrado: 61.0\n-Estabilidad: 19\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Puños"
+}

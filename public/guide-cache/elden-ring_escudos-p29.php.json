@@ -1,0 +1,58 @@
+{
+  "title": "Escudo grande de madera",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p29.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-grande-de-madera.jpg"
+  ],
+  "lore": "Escudo grande de madera que está reforzado con adornos metálicos.\n\n \n\nLos escudos grandes proporcionan una elevada capacida de guardia y de negación de daños, por lo que, al llevarlo equipado, los ataques enemigos serán más fáciles de repeler.\n\n \n\nHabilidad: Sin habilidad\n\nEsta arma no tiene ninguna habilidad.\n\nSi el arma que llevas en la otra mano tiene alguna habilidadd, se utilizará dicha habilidad.",
+  "intro": [
+    "-Se encuentra en un cadáver en el patio del Castillo de Velo Tormentoso."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14"
+      ],
+      "text": "-Fuerza: 14",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo grande",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 8.0",
+        "-Habilidad: Sin habilidad",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 95",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 79.0",
+        "-Magia: 49.0",
+        "-Fuego: 41.0",
+        "-Rayo: 51.0",
+        "-Sagrado: 47.0",
+        "-Estabilidad: 51"
+      ],
+      "text": "-Categoría: Escudo grande\n-Tipo de ataque: Golpe\n-Peso: 8.0\n-Habilidad: Sin habilidad\n-Coste de PC: -\nPotencia de ataque\n-Físico: 95\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 79.0\n-Magia: 49.0\n-Fuego: 41.0\n-Rayo: 51.0\n-Sagrado: 47.0\n-Estabilidad: 51",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Grandes"
+}

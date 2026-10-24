@@ -1,0 +1,26 @@
+{
+  "title": "Perfumista Tricia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p49.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/perfumista-tricia_1.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de la perfumista Tricia.\n\n \n\nAntaño, Tricia era una famosa sanadora que se dedicaba a tratar a los meestizos, a los augurios y a todas las demás clases consideradas impuras. Si no conseguía salvarlos, los acompañaaba en su lecho de muerte para asegurarse de que podían morir en paz, libres de dolor.\n\n \n\nUna historia que recueda a los inicios de las consortes de los finados.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al duo de jefazos Perfumista Tricia + Guerrero bastardo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de la perfumista Tricia.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 78"
+      ],
+      "text": "Invoca el espíritu de la perfumista Tricia.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 78",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

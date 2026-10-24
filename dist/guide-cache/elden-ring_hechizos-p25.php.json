@@ -1,0 +1,29 @@
+{
+  "title": "Círculo cariano",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p25.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/circulo-cariano.jpg"
+  ],
+  "lore": "Uno de los hechizos de la familia real cariana.\n\n \n\nCrea un arco defensivo con numerosas hojas refulgentes mágicas sobre tu cabeza, que atacan automáticamente a los enemigos cercanos.\n\nEste hechizo se pued elanzar mientras estás en movimiento.\n\n \n\nUna versión mejorada del hechizo de hojas refulgentes utilizado por los caballeros hechizados.",
+  "intro": [
+    "-Te lo vende Seluvis por 12.000 runas al haber avanzado lo suficiente en su historia.",
+    "-Te lo vende Conde Ymir (DLC Shadow of the Erdtree) por 12.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Forma un arco defensivo de numerosas cuchillas mágicas.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 34"
+      ],
+      "text": "Forma un arco defensivo de numerosas cuchillas mágicas.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 24\n-Ranuras: 1\n-Inteligencia necesaria: 34",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

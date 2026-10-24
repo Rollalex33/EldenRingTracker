@@ -1,0 +1,61 @@
+{
+  "title": "Escudo de cuerno espiralado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p34.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-cuerno-espiralado.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-cuerno-espiralado_2.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-cuerno-espiralado_3.jpg"
+  ],
+  "lore": "Escudo pequeño de madera, con numerosas astas en la parte frontal. Si se usa de manera ofensiva, dichas astas perforan a los enemigos y pueden causar hemorragias.\n\nFue obsequiado a un guerrero Sinluz que estrechó lazos con los adoradores de espíritus ancestrales. Aunque el efecto es leve, aumenta la inmunidad, la robustez y la concentración.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Lo encontrarás en un cadáver en el punto indicado de Liurnia (Este), cerca del lugar de gracia \"Laberinto en ruinas\"."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: E"
+      ],
+      "text": "-Fuerza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo pequeño",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 2.0",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 75",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 59.0",
+        "-Magia: 33.0",
+        "-Fuego: 37.0",
+        "-Rayo: 38.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 29"
+      ],
+      "text": "-Categoría: Escudo pequeño\n-Tipo de ataque: Golpe\n-Peso: 2.0\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 75\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 59.0\n-Magia: 33.0\n-Fuego: 37.0\n-Rayo: 38.0\n-Sagrado: 30.0\n-Estabilidad: 29",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Pequeños"
+}

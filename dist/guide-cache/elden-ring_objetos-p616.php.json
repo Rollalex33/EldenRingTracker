@@ -1,0 +1,38 @@
+{
+  "title": "Flecha ósea hierática",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p616.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/flecha-osea-hieratica.jpg"
+  ],
+  "lore": "Flecha tallada a partir de huesos de animales. La punta se empapa en una infusión dorada. Inflige daño sagrado.\n\n \n\nObjeto que puede crearse.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 10",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 90",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Flecha\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 10\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 90\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Huesos finos de bestia  x3 y  Girasol dorado  x2 (necesitas el  Manual de misionero [4] )."
+      ],
+      "text": "-Se puede crear con  Huesos finos de bestia  x3 y  Girasol dorado  x2 (necesitas el  Manual de misionero [4] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

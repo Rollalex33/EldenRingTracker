@@ -1,0 +1,38 @@
+{
+  "title": "Saeta ósea ígnea",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p570.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/saeta-osea-ignea.jpg"
+  ],
+  "lore": "Saeta tallada a partir de hueso de animales. La punta se prende antes de dispararse. Inflige daño de fuego.\n\n \n\nObjeto que puede crearse.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Saeta",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 15",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 75",
+        "-Sagrado: 0",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Saeta\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 15\n-Magia: 0\n-Fuego: 0\n-Rayo: 75\n-Sagrado: 0\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Huesos finos de bestia  x2 y  Mariposa en llamas  x1 (necesitas el  Manual de armero [2] )."
+      ],
+      "text": "-Se puede crear con  Huesos finos de bestia  x2 y  Mariposa en llamas  x1 (necesitas el  Manual de armero [2] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

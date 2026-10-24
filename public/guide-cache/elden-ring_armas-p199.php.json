@@ -1,0 +1,63 @@
+{
+  "title": "Espadón regio",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p199.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadon-regio.jpg"
+  ],
+  "lore": "Espadón decorado al estilo real cariano.\n\nEl arma favorita de Blaidd, el Semilobo.\n\n \n\nEn un intento de desafiar al destino con el que nació, Blaidd juró no servir a ningún amo que no fuese Ranni. Como prueba, esta espada fue imbuida de una magia gélida en el momento de pronunciar el juramento.\n\n \n\nHabilidad única: Ataque del lobo\n\nImbuye el espadón de escarcha y luego realiza una voltereta hacia delante para hundirlo en el suelo antes de liberar una fría ráfaga.",
+  "intro": [
+    "-Lo consigues al derrotar a Blaidd al final de su historia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 26",
+        "-Destreza: 18",
+        "-Inteligencia: 22"
+      ],
+      "text": "-Fuerza: 26\n-Destreza: 18\n-Inteligencia: 22",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 20.0",
+        "-Habilidad: Pisotón y tajo vertical",
+        "-Coste de PC: 20",
+        "Potencia de ataque",
+        "-Físico: 112",
+        "-Magia: 134",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 71.0",
+        "-Magia: 63.0",
+        "-Fuego: 44.0",
+        "-Rayo: 44.0",
+        "-Sagrado: 44.0",
+        "-Estabilidad: 52",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada colosal\n-Tipo de daño: Estándar\n-Peso: 20.0\n-Habilidad: Pisotón y tajo vertical\n-Coste de PC: 20\nPotencia de ataque\n-Físico: 112\n-Magia: 134\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 71.0\n-Magia: 63.0\n-Fuego: 44.0\n-Rayo: 44.0\n-Sagrado: 44.0\n-Estabilidad: 52\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas colosales"
+}

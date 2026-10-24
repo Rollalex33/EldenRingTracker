@@ -1,0 +1,47 @@
+{
+  "title": "Atuendo simple de plebeyo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p117.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/atuendo-simple-de-plebeyo.jpg"
+  ],
+  "lore": "Atuendo con una modesta capa de tela añadida.\n\nRopa estándar para la gente común de las Tierras Intermedias.\n\n \n\nEl tablón con agujeros que cuelga del cuello representa un árbol con sus raíaces y ramas extendidas para formar dos orificios. Se trata de un grillete autoimpuesto, una demostración voluntaria de fidelidad al Árbol Áureo que aumenta la fe.",
+  "intro": [
+    "-Lo encuentras en un cadáver cerca del lugar de gracia \"Cámara al lado de la puerta\" en el Castillo de Velo Tormentoso."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: 4.2",
+        "-VS golpe: 6.7",
+        "-VS tajo: 6.7",
+        "-VS perforación: 6.1",
+        "-Magia: 13.0",
+        "-Fuego: 12.6",
+        "-Rayo: 12.6",
+        "-Sagrado: 12.8",
+        "Resistencia",
+        "-Inmunidad: 46",
+        "-Robustez: 24",
+        "-Concentración: 76",
+        "-Vitalidad: 83",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: 4.2\n-VS golpe: 6.7\n-VS tajo: 6.7\n-VS perforación: 6.1\n-Magia: 13.0\n-Fuego: 12.6\n-Rayo: 12.6\n-Sagrado: 12.8\nResistencia\n-Inmunidad: 46\n-Robustez: 24\n-Concentración: 76\n-Vitalidad: 83\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de miliciano sombrío",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p520.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-miliciano-sombrio.jpg"
+  ],
+  "lore": "Armadura tan oscura como las sombras. La usan los vulgares milicianos.\n\n \n\nLos campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que serán extirpadas del recuerdo de la historia. ¿Qué mejor lugar que los Reinos de las Sombras para un ejército como ese?",
+  "intro": [
+    "-La pueden soltar los \"milicianos sombríos\" que hay por ejemplo de camino a la Cueva del río Ellac."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.1",
+        "Negación de daños",
+        "-Físico: 7.1",
+        "-VS golpe: 8.8",
+        "-VS tajo: 8.0",
+        "-VS perforación: 8.0",
+        "-Magia: 10.2",
+        "-Fuego: 10.9",
+        "-Rayo: 10.9",
+        "-Sagrado: 8.8",
+        "Resistencia",
+        "-Inmunidad: 69",
+        "-Robustez: 29",
+        "-Concentración: 38",
+        "-Vitalidad: 38",
+        "-Aplomo: 13"
+      ],
+      "text": "-Peso: 7.1\nNegación de daños\n-Físico: 7.1\n-VS golpe: 8.8\n-VS tajo: 8.0\n-VS perforación: 8.0\n-Magia: 10.2\n-Fuego: 10.9\n-Rayo: 10.9\n-Sagrado: 8.8\nResistencia\n-Inmunidad: 69\n-Robustez: 29\n-Concentración: 38\n-Vitalidad: 38\n-Aplomo: 13",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

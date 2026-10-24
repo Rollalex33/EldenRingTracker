@@ -1,0 +1,47 @@
+{
+  "title": "Grebas de Lionel",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p361.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/grebas-de-lionel.jpg"
+  ],
+  "lore": "Grebas de hierro abombadas.\n\nLas llevaba Lionel, el Corazón de León.\n\n \n\nFue al conocer a Fia, quien había sido expulsada de su hogar, cuando este cortés e intrépido caballero decidió acogerla como un padre.",
+  "intro": [
+    "-Las encuentras en un cadáver sobre una cama en la misma sala del lugar de gracia \"Iglesia inferior de la capital\" en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 13.1",
+        "Negación de daños",
+        "-Físico: 10.1",
+        "-VS golpe: 9.4",
+        "-VS tajo: 11.1",
+        "-VS perforación: 11.4",
+        "-Magia: 7.7",
+        "-Fuego: 8.5",
+        "-Rayo: 7.4",
+        "-Sagrado: 7.7",
+        "Resistencia",
+        "-Inmunidad: 39",
+        "-Robustez: 61",
+        "-Concentración: 26",
+        "-Vitalidad: 31",
+        "-Aplomo: 22"
+      ],
+      "text": "-Peso: 13.1\nNegación de daños\n-Físico: 10.1\n-VS golpe: 9.4\n-VS tajo: 11.1\n-VS perforación: 11.4\n-Magia: 7.7\n-Fuego: 8.5\n-Rayo: 7.4\n-Sagrado: 7.7\nResistencia\n-Inmunidad: 39\n-Robustez: 61\n-Concentración: 26\n-Vitalidad: 31\n-Aplomo: 22",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

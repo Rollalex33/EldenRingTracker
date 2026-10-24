@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Punto ciego",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p110.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-punto-ciego.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Ligero\" y la siguiente habilidad:\n\n \n\n\"Punto ciego: Salta a corta distancia para aprovechar el punto ciego del enemigo y masacrarlo por un lado. La dirección afecta desde dónde ejecutas el ataque. Este ataque se cuela bajo la guardia del rival\".\n\n \n\nPuede usarse en hojas de revés.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en hojas de revés.",
+        "-Tipo: Ligero"
+      ],
+      "text": "Puede usarse en hojas de revés.\n-Tipo: Ligero",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Viene incluida ya con el arma  Hoja de revés ."
+      ],
+      "text": "-Viene incluida ya con el arma  Hoja de revés .",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Ligero"
+}

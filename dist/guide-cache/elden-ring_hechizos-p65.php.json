@@ -1,0 +1,28 @@
+{
+  "title": "Zarza de castigo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p65.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/zarza-de-castigo.jpg"
+  ],
+  "lore": "Un hechizo aberrante descubierto por criminales exiliados.\n\nLos de este tipo son los hechizos más vilipendiados por la Academia.\n\n \n\nHiere al invocador con espinas pecaminosas para ccrear un rastro de espinas sangrientas que se extiende por el suelo y ensarta a los enemigos desde abajo.\n\nEste hechizo se puede lanzar repetidamente.\n\n \n\nLos culpables, cuyos ojos fueron arrancados con espinas, viven en la oscuridad eterna. Allí descubrieron la estrella sangrienta.",
+  "intro": [
+    "-Lo encuentras en un cadáver en Picos de los gigantes."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Hiere al lanzador y libera un rastro de espinas sangrientas.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 9",
+        "-Ranuras: 1",
+        "-Fe necesaria: 21"
+      ],
+      "text": "Hiere al lanzador y libera un rastro de espinas sangrientas.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 9\n-Ranuras: 1\n-Fe necesaria: 21",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

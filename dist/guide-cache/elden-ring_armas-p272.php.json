@@ -1,0 +1,61 @@
+{
+  "title": "Prótesis de veterano",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p272.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/protesis-de-veterano.jpg"
+  ],
+  "lore": "Afilada pierna protésica con una cuchilla imbuida del poder del rayo; es posible empuñarla.\n\nEl comandante Niall, veterano del castillo de Sól, ofreció esta próitesis a cambio de las vidas de los caballeros derrotados y apresados, a quienes reunió en un ejército apátrida.\n\n \n\nHabilidad única: Patada tormentosa\n\nClava la cuchilla de la pierna protésica en el suelo para crear una fuerte tormenta.\n\nAcompáñala con un ataque potente para ejecutar un ataque de salto imbuido del poder del rayo.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Comandante Niall."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 15",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 15\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Puño",
+        "-Tipo de daño: Tajo/Perforación",
+        "-Peso: 4.0",
+        "-Habilidad: Patada tormentosa",
+        "-Coste de PC: 10 (15 -)",
+        "Potencia de ataque",
+        "-Físico: 83",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 53",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 30.0",
+        "-Magia: 20.0",
+        "-Fuego: 20.0",
+        "-Rayo: 48.0",
+        "-Sagrado: 20.0",
+        "-Estabilidad: 24",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Puño\n-Tipo de daño: Tajo/Perforación\n-Peso: 4.0\n-Habilidad: Patada tormentosa\n-Coste de PC: 10 (15 -)\nPotencia de ataque\n-Físico: 83\n-Magia: 0\n-Fuego: 0\n-Rayo: 53\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 30.0\n-Magia: 20.0\n-Fuego: 20.0\n-Rayo: 48.0\n-Sagrado: 20.0\n-Estabilidad: 24\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Puños"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Espinas impenetrables",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p83.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espinas-impenetrables.jpg"
+  ],
+  "lore": "Hechicería de quienes abandonaron los encantamientos despuésde que la fe solo les trajera desesperación.\n\n \n\nInvoca las impenetrables espinas del Árbol Umbrío desde el suelo.\n\nPuede usarse varias veces.\n\n \n\nLa imagen del retorcido Árbol Umbrío es un edicto:\n\nRepudia sus costumbres. Hazles daño.\n\nPues hemos sido abandonados.",
+  "intro": [
+    "-Lo encuentras en un cadáver en el punto indicado de Fortaleza sombría (cuarta visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca las impenetrables espinas del Árbol Umbrío desde el suelo.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 15",
+        "-Ranuras: 1",
+        "-Fe necesaria: 24"
+      ],
+      "text": "Invoca las impenetrables espinas del Árbol Umbrío desde el suelo.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 15\n-Ranuras: 1\n-Fe necesaria: 24",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

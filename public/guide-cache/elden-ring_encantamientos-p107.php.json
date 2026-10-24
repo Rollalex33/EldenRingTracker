@@ -1,0 +1,28 @@
+{
+  "title": "Curación a distancia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p107.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/curacion-a-distancia.jpg"
+  ],
+  "lore": "Un encantamiento del Árbol ÁUreo que fue descubierto en el Reino de las Sombras.\n\n \n\nLanza un proyectil a los aliados lejanos que recupera muchos PS al entrar en contacto con estos.\n\n \n\nIncluso si se está muy lejos y fuera de vista, el Árbol Áureo nos otorgará su bendición.",
+  "intro": [
+    "-En el interior de una cueva en el punto indicado del Altiplano Sombrío."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Cura en gran medida los PS de los aliados lejanos.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 45",
+        "-Ranuras: 1",
+        "-Fe necesaria: 18"
+      ],
+      "text": "Cura en gran medida los PS de los aliados lejanos.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 45\n-Ranuras: 1\n-Fe necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

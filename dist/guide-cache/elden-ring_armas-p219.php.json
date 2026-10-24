@@ -1,0 +1,63 @@
+{
+  "title": "Cabezas de familia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p219.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cabezas-de-familia.jpg"
+  ],
+  "lore": "Tres mazas de cobre unidas por cadenas a una empuñadura. El arma predilecta del nigromante Garris, el sabio hereje.\n\n \n\nLas mazas están moldeadas para asemejarse a su mujer y a  sus dos hijos.\n\n \n\nHabilidad única: Rencor familiar\n\nHaz sonar suavemente las cabezas de cobre para invocar espiritus vengativos que perseguirán a los enemigos.\n\nLa angustia de una esposa y unos niños invita a una maldición iracunda.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Nigromante Garris."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 18",
+        "-Inteligencia: 16"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 18\n-Inteligencia: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C",
+        "-Inteligencia: E"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C\n-Inteligencia: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Mayal",
+        "-Tipo de daño: Golpe",
+        "-Peso: 5.5",
+        "-Habilidad: Rencor familiar",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 87",
+        "-Magia: 56",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 37.0",
+        "-Magia: 36.0",
+        "-Fuego: 26.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 26.0",
+        "-Estabilidad: 20",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Mayal\n-Tipo de daño: Golpe\n-Peso: 5.5\n-Habilidad: Rencor familiar\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 87\n-Magia: 56\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 37.0\n-Magia: 36.0\n-Fuego: 26.0\n-Rayo: 26.0\n-Sagrado: 26.0\n-Estabilidad: 20\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Mayal"
+}

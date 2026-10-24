@@ -1,0 +1,48 @@
+{
+  "title": "Túnica de perfumista",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p268.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tunica-de-perfumista.jpg"
+  ],
+  "lore": "Túnica de un perfumista del Árbol Áureo de la Capital.\n\n \n\nEl tupido mandil muestra un diseño del Árbol Áureo, lo cual indica la maestría de las artes apotecarias de quien lo porta.\n\nAdemás, su peso simboliza la carga del orgullo y la responsabilidad.",
+  "intro": [
+    "-La pueden soltar los perfumistas de la Gruta del Perfumista y los de Leyndell.",
+    "-La pueden soltar los perfumistas de la Llanura de las Tumbas (Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: 5.3",
+        "-VS golpe: 6.7",
+        "-VS tajo: 6.1",
+        "-VS perforación: 5.3",
+        "-Magia: 13.0",
+        "-Fuego: 12.4",
+        "-Rayo: 12.6",
+        "-Sagrado: 13.0",
+        "Resistencia",
+        "-Inmunidad: 63",
+        "-Robustez: 21",
+        "-Concentración: 71",
+        "-Vitalidad: 76",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: 5.3\n-VS golpe: 6.7\n-VS tajo: 6.1\n-VS perforación: 5.3\n-Magia: 13.0\n-Fuego: 12.4\n-Rayo: 12.6\n-Sagrado: 13.0\nResistencia\n-Inmunidad: 63\n-Robustez: 21\n-Concentración: 71\n-Vitalidad: 76\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

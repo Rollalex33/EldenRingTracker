@@ -1,0 +1,40 @@
+{
+  "title": "Gran flecha de gólem",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p151.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-flecha-de-golem.jpg"
+  ],
+  "lore": "Flecha grande de piedra negra fabricada por una civilización perdida. La utiliza el gólem guardián.\n\n \n\nEsta gigantesca flecha, envuelta en vientos tempestuosos, permite romper la posición y la guardia de los enemigos con facilidad.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha grande",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 105",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Flecha grande\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 105\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Las puede soltar el gólem que está a la entrada del  Castillo de Morne , en la  Península del Llanto .",
+        "-Las pueden soltar también los gólems que están en el puente de  Colina Tormentosa .",
+        "-Las puede soltar el gólem del arco en la  Base de Rauh  (DLC  Shadow of the Erdtree )."
+      ],
+      "text": "-Las puede soltar el gólem que está a la entrada del  Castillo de Morne , en la  Península del Llanto .\n-Las pueden soltar también los gólems que están en el puente de  Colina Tormentosa .\n-Las puede soltar el gólem del arco en la  Base de Rauh  (DLC  Shadow of the Erdtree ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de agua bendita",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p613.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-agua-bendita.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene encantamientos de la Orden Dorada.\n\n \n\nConsume PC al lanzarlo contra los enemigos para infligirles daño sagrado.\n\n \n\nResulta altamente efectivo contra aquellos que viven en la muerte, dado que también les impide volver a alzarse.\n\nLa Orden Dorada no muestra piedad a quienes traspasan los límites de la vida.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC. Lánzalo para infligir daño sagrado."
+      ],
+      "text": "Consume PC. Lánzalo para infligir daño sagrado.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x1 y  Girasol dorado marchito  x1 (necesitas el  Manual de misionero [1] )."
+      ],
+      "text": "-Se puede crear con  Seta  x1 y  Girasol dorado marchito  x1 (necesitas el  Manual de misionero [1] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

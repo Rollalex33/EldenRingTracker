@@ -1,0 +1,28 @@
+{
+  "title": "Hojas de piedra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p75.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hojas-de-piedra.jpg"
+  ],
+  "lore": "Hechicería de manipulación de la gravedad del comandante Gaius.\n\n \n\nArranca pedazos de roca en forma de cuchilla.\n\nSi se carga, aumenta su potencia.\n\n \n\nGaius y Radahn fueron sanos rivales en su juventud, y esta hechicería es producto de su competencia amistosa.",
+  "intro": [
+    "-Lo consigues entregándole el Recuerdo del Jinete del Jabalí a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca hojas de roca del suelo.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 18",
+        "-Ranuras: 2",
+        "-Inteligencia necesaria: 48"
+      ],
+      "text": "Invoca hojas de roca del suelo.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 18\n-Ranuras: 2\n-Inteligencia necesaria: 48",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

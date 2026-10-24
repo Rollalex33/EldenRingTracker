@@ -1,0 +1,26 @@
+{
+  "title": "Andreas, comandante de los Caballeros Negros",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p71.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/andreas-comandante-de-los-caballeros-negros.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de Andreas, comandante de los Caballeros Negros.\n\n \n\nLos Caballeros Negros eran la fuerza principal del ejército de Messmer, Su primer líder fue Andreas, un hombre dotado de gran fuerza y dominio sobre los poderes del crisol y cuyo espíritu habita en estas cenizas.\n\n \n\nAunque tras su huida del Árbol Áureo siguió siendo un devoto seguidor de Messmer, se rebeló tras conocer la naturaleza reptiliana de su señor. Por ello, fue encarcelado en una tumba subterránea.",
+  "intro": [
+    "-La encuentras en un ataúd en el punto indicado de las Catacumbas de Grieta Neblinosa."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de Andreas, comandante de los Caballeros Negros.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 111"
+      ],
+      "text": "Invoca el espíritu de Andreas, comandante de los Caballeros Negros.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 111",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

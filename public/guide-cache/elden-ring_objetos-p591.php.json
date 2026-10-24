@@ -1,0 +1,38 @@
+{
+  "title": "Flecha de piedra arcoíris",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p591.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/flecha-de-piedra-arcoiris.jpg"
+  ],
+  "lore": "Flecha tallada a partir de huesos de animales cuya punta presenta astillas de una piedra arcoíris. Emite una luz brillante y colorida al impactar.\n\n \n\nObjeto que puede crearse.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 25",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Flecha\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 25\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Huesos finos de bestia  x3 y  Fragmento de ruina  x3 (necesitas el  Manual de guerrero nómada [7] )."
+      ],
+      "text": "-Se puede crear con  Huesos finos de bestia  x3 y  Fragmento de ruina  x3 (necesitas el  Manual de guerrero nómada [7] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

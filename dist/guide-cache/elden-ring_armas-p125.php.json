@@ -1,0 +1,65 @@
+{
+  "title": "Espada de la Noche y la Llama",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p125.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-la-noche-y-la-llama.jpg"
+  ],
+  "lore": "Espada mitológica y tesoro de la mansión de los Caria.\n\nEs una de las armas legendarias.\n\n \n\nLos astrólogos que precedieron a los hechiceros se establecieron en lo alto de las montañas más elevadas, las que casi tocaban el cielo, y consideraban a los gigantes de fuego como sus vecinos.\n\n \n\nHabilidad: Combate igneocturno\n\nNo alces ni bajes la espada y prepárate para lanzar un hechizo.\n\nAcompáñala con un ataque normal para lanzar el hechizo del dardo nocturno, o bien con un ataque potente para incendiar la zona situada frente a ti en un movimiento de barrido.",
+  "intro": [
+    "-La encuentras dentro de un cofre en la Mansión de los  Caria, en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 12",
+        "-Inteligencia: 24",
+        "-Fe: 24"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 12\n-Inteligencia: 24\n-Fe: 24",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: E",
+        "-Inteligencia: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: E\n-Inteligencia: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 4.0",
+        "-Habilidad: Posición igneocturna",
+        "-Coste de PC: - (19 23)",
+        "Potencia de ataque",
+        "-Físico: 87",
+        "-Magia: 56",
+        "-Fuego: 56",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 36.0",
+        "-Magia: 42.0",
+        "-Fuego: 42.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 26.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 4.0\n-Habilidad: Posición igneocturna\n-Coste de PC: - (19 23)\nPotencia de ataque\n-Físico: 87\n-Magia: 56\n-Fuego: 56\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 36.0\n-Magia: 42.0\n-Fuego: 42.0\n-Rayo: 26.0\n-Sagrado: 26.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

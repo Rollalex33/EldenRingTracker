@@ -1,0 +1,30 @@
+{
+  "title": "Recuerdo de la Gracia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p12.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/recuerdo-de-la-gracia.jpg"
+  ],
+  "lore": "El recuerdo de la primera Gracia, que otrora guió a antiguos Sinluz a las Tierras Intermedias.\n\n \n\nPierde todas las runas y vuelve al último lugar de Gracia visitado.\n\n \n\nTodo es un ciclo.\n\nPóstrate ante el Círculo de Elden. Reclama su soberanía.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Pierde tus runas y vuelve al último lugar de Gracia que visitaste."
+      ],
+      "text": "Pierde tus runas y vuelve al último lugar de Gracia que visitaste.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Ya lo tienes desde el inicio en tu inventario."
+      ],
+      "text": "-Ya lo tienes desde el inicio en tu inventario.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Objetos principales"
+}

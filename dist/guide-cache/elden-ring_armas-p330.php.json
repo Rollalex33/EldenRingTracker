@@ -1,0 +1,65 @@
+{
+  "title": "Espadas gemelas de Rellana",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p330.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadas-gemelas-de-rellana.jpg"
+  ],
+  "lore": "Espadón ligero cariano incrustado con piedras refulgentes azules.\n\nArma de Rellana, la Caballera de la Luna Gemela.\n\n \n\nAl usar ambas manos, la izquierda empuña una espada recta grabada con una llama dorada.\n\nAquí, y solo aquí, estuvieron juntos la luna y el fuego.\n\n \n\nHabilidad: Postura de luna y fuego\n\nPonte en guardia con las espadas imbuidas de magia. Sigue con un ataque normal para lanzar ondas de piedra refulgente, o con un ataque potente para lanzar un ataque giratorio que hace arder la zona. Las ondas cuentan con hasta dos ataques adicionales.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de la Cab. de la Luna Gemela a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 13",
+        "-Destreza: 16",
+        "-Inteligencia: 16",
+        "-Fe: 16"
+      ],
+      "text": "-Fuerza: 13\n-Destreza: 16\n-Inteligencia: 16\n-Fe: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Inteligencia: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Inteligencia: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón ligero",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 8.0",
+        "-Habilidad: Postura luna y fuego",
+        "-Coste de PC: - (10 25)",
+        "Potencia de ataque",
+        "-Físico: 103",
+        "-Magia: 66",
+        "-Fuego: 66",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 47.0",
+        "-Fuego: 29.0",
+        "-Rayo: 47.0",
+        "-Sagrado: 26.0",
+        "-Estabilidad: 35",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón ligero\n-Tipo de daño: Estándar/Perf.\n-Peso: 8.0\n-Habilidad: Postura luna y fuego\n-Coste de PC: - (10 25)\nPotencia de ataque\n-Físico: 103\n-Magia: 66\n-Fuego: 66\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 47.0\n-Fuego: 29.0\n-Rayo: 47.0\n-Sagrado: 26.0\n-Estabilidad: 35\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones ligeros"
+}

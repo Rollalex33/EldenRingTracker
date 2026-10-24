@@ -1,0 +1,47 @@
+{
+  "title": "Cabeza fúngica",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p299.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cabeza-fungica.jpg"
+  ],
+  "lore": "Hongos que crecen por todo el cuerpo.\n\nEstos hongos de tamaño descomunal han colonizado la cabeza.\n\n \n\nPara quienes se ven embelesadosp or la putrefacción roja, son un atuendo sagrado que te hace arraigar en la tierra.",
+  "intro": [
+    "-La encuentras en un cadáver en la Cueva de Aguahirviente, en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.2",
+        "Negación de daños",
+        "-Físico: 2.1",
+        "-VS golpe: 2.5",
+        "-VS tajo: 0.9",
+        "-VS perforación: 1.8",
+        "-Magia: 4.7",
+        "-Fuego: 1.8",
+        "-Rayo: 4.6",
+        "-Sagrado: 4.6",
+        "Resistencia",
+        "-Inmunidad: 44",
+        "-Robustez: 10",
+        "-Concentración: 39",
+        "-Vitalidad: 33",
+        "-Aplomo: 0"
+      ],
+      "text": "-Peso: 2.2\nNegación de daños\n-Físico: 2.1\n-VS golpe: 2.5\n-VS tajo: 0.9\n-VS perforación: 1.8\n-Magia: 4.7\n-Fuego: 1.8\n-Rayo: 4.6\n-Sagrado: 4.6\nResistencia\n-Inmunidad: 44\n-Robustez: 10\n-Concentración: 39\n-Vitalidad: 33\n-Aplomo: 0",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Falx",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p375.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/falx.jpg"
+  ],
+  "lore": "Espadas curvas con filos largos cual guadañas.\n\nDos armas que se fabricaron para ser empuñadas en ambas manos.\n\n \n\nFueron forjadas por un cornamentado en búsqueda de venganza.\n\n\"En venganza por las llamas, mi hoja empuño...\"\n\n \n\nHabilidad única: Hoja vengadora\n\nAcércate a un enemigo y ábrelo en canal con las cuchillas que llevas en las manos. Si continúas pulsando, el impulso inicial se alargará. LUego, utiliza un ataque fuerte y despedaza al enemigo.",
+  "intro": [
+    "-La recibes durante la historia de Leda y el Cornamentado (consulta sus respectivas secciones para más información)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 15"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadas curvas",
+        "-Tipo de daño: Tajo",
+        "-Peso: 4.0",
+        "-Habilidad: Hoja vengadora",
+        "-Coste de PC: 15 (- 10)",
+        "Potencia de ataque",
+        "-Físico: 107",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 42.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 21",
+        "Efectos pasivos",
+        "-Provocala acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Espadas curvas\n-Tipo de daño: Tajo\n-Peso: 4.0\n-Habilidad: Hoja vengadora\n-Coste de PC: 15 (- 10)\nPotencia de ataque\n-Físico: 107\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 42.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 21\nEfectos pasivos\n-Provocala acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas curvas"
+}

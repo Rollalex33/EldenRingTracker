@@ -1,0 +1,28 @@
+{
+  "title": "Lluvia estelar",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p34.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lluvia-estelar.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes de la Academia de Raya Lucaria.\n\n \n\nDispara seis estrellas fugaces mágicas que persiguen al objetivo.\n\nEste hechizo se puede lanzar mientras estás en movimiento. La potencia de este hechizo aumenta al cargarlo.\n\n \n\nEl hechizo más difícil de dominar del epítome de Olivinus.",
+  "intro": [
+    "-Te lo vende Hechicera Sellen o Miriel por 10.000 runas, tras haberle entregado el Pergamino del epítome."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara seis estrellas fugaces que persiguen al enemigo.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 23",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 24"
+      ],
+      "text": "Dispara seis estrellas fugaces que persiguen al enemigo.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 23\n-Ranuras: 1\n-Inteligencia necesaria: 24",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

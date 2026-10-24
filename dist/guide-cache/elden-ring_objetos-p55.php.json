@@ -1,0 +1,30 @@
+{
+  "title": "Cuchillo de afilar",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p55.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cuchillo-de-afilar.jpg"
+  ],
+  "lore": "Piedra de afilar con una inscripción cifrada. Se ha tallado de tal forma que parece una pequeña hoja de cuchillo.\n\n \n\nPermite usar Cenizas de guerra en un lugar de Gracia para infundir nuevas artes de combate y afinidades a las armas y habilidades.\n\n \n\nLas artes de combate y afinidades dependerán de las Cenizas de guerra empleadas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Puede añadir nuevas artes de combate y afinidades a las armas."
+      ],
+      "text": "Puede añadir nuevas artes de combate y afinidades a las armas.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Dentro de un cofre en un subterráneo bajo las Ruinas de la puerta en  Necrolimbo ."
+      ],
+      "text": "-Dentro de un cofre en un subterráneo bajo las Ruinas de la puerta en  Necrolimbo .",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Cenizas de guerra"
+}

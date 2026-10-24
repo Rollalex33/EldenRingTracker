@@ -1,0 +1,28 @@
+{
+  "title": "Rayo letal",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p55.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/rayo-letal.jpg"
+  ],
+  "lore": "Encantamiento que canaliza el poder del dragón antiguo Fortissax, ahora corrupto por la muerte.\n\n \n\nAtaca el área circundante con una tormenta de rayos letales.\n\nInflige necroplaga a los enemigos.\n\nLa duración de la tormenta aumenta al cargarlo.\n\n \n\nSe dice que estos rayos dorados fueron empuñados por Godwyn, que trabó amsitad con Fortissax.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del dragón liche a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Hace caer una tormenta de rayos letales en el área circundante.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 28",
+        "-Ranuras: 2",
+        "-Fe necesaria: 47"
+      ],
+      "text": "Hace caer una tormenta de rayos letales en el área circundante.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 28\n-Ranuras: 2\n-Fe necesaria: 47",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

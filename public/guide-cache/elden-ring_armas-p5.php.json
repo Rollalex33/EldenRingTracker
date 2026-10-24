@@ -1,0 +1,64 @@
+{
+  "title": "Cimitarra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p5.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cimitarra.jpg"
+  ],
+  "lore": "Espada curva con hoja de una sola cara.\n\nEjecuta ataques de tajo con su afilada hoja, pero no es eficaz contra armaduras gruesas y pieles cubiertas por gruesas escamas.\n\n \n\nMás pequeña que la mayoría de las espadas curvas, penetran en el enemigo con cortes rápidos y pronunciados.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Guerrero.",
+    "-La pueden soltar los esqueletos en las Catacumbas de la necrohondonada, en la Península del Llanto.",
+    "-Te la venden las Doncellas gemelas quiescentes por 600 runas.",
+    "-La pueden soltar los esqueletos \"inmortales\" en la Fisura en ataúd de piedra (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 7",
+        "-Destreza: 13"
+      ],
+      "text": "-Fuerza: 7\n-Destreza: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada curva",
+        "-Tipo de daño: Tajo",
+        "-Peso: 3.0",
+        "-Habilidad: -",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 106",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 40.0",
+        "-Magia: 30.0",
+        "-Fuego: 30.0",
+        "-Rayo: 30.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 25",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada curva\n-Tipo de daño: Tajo\n-Peso: 3.0\n-Habilidad: -\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 106\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 40.0\n-Magia: 30.0\n-Fuego: 30.0\n-Rayo: 30.0\n-Sagrado: 30.0\n-Estabilidad: 25\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas curvas"
+}

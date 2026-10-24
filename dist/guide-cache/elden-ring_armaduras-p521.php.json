@@ -1,0 +1,47 @@
+{
+  "title": "Grebas de miliciano sombrío",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p521.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/grebas-de-miliciano-sombrio.jpg"
+  ],
+  "lore": "Grebas tan oscuras como las sombras. Las usan los vulgares milicianos.\n\n \n\nLos campos de batalla recién quemados emanan el hedor de los muertos. Tierras prohibidas que serán extirpadas del recuerdo de la historia. ¿Qué mejor lugar que los Reinos de las Sombras para un ejército como ese?",
+  "intro": [
+    "-Las pueden soltar los \"milicianos sombríos\" que hay por ejemplo de camino a la Cueva del río Ellac."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.4",
+        "Negación de daños",
+        "-Físico: 4.0",
+        "-VS golpe: 5.0",
+        "-VS tajo: 4.5",
+        "-VS perforación: 4.5",
+        "-Magia: 5.8",
+        "-Fuego: 6.2",
+        "-Rayo: 6.2",
+        "-Sagrado: 5.0",
+        "Resistencia",
+        "-Inmunidad: 47",
+        "-Robustez: 20",
+        "-Concentración: 26",
+        "-Vitalidad: 26",
+        "-Aplomo: 8"
+      ],
+      "text": "-Peso: 4.4\nNegación de daños\n-Físico: 4.0\n-VS golpe: 5.0\n-VS tajo: 4.5\n-VS perforación: 4.5\n-Magia: 5.8\n-Fuego: 6.2\n-Rayo: 6.2\n-Sagrado: 5.0\nResistencia\n-Inmunidad: 47\n-Robustez: 20\n-Concentración: 26\n-Vitalidad: 26\n-Aplomo: 8",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

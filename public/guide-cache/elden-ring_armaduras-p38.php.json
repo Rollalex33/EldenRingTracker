@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de malla",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-malla.jpg"
+  ],
+  "lore": "Armadura fabricada con malla tejida.\n\nVersión estándar para soldados rasos.\n\n \n\nVersión de aspecto sencillo, ofrece una protección fiable.",
+  "intro": [
+    "-Cómprasela a Comerciante Kale por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 8.8",
+        "Negación de daños",
+        "-Físico: 11.9",
+        "-VS golpe: 8.8",
+        "-VS tajo: 12.9",
+        "-VS perforación: 11.9",
+        "-Magia: 7.1",
+        "-Fuego: 10.9",
+        "-Rayo: 6.1",
+        "-Sagrado: 8.0",
+        "Resistencia",
+        "-Inmunidad: 25",
+        "-Robustez: 42",
+        "-Concentración: 11",
+        "-Vitalidad: 18",
+        "-Aplomo: 12"
+      ],
+      "text": "-Peso: 8.8\nNegación de daños\n-Físico: 11.9\n-VS golpe: 8.8\n-VS tajo: 12.9\n-VS perforación: 11.9\n-Magia: 7.1\n-Fuego: 10.9\n-Rayo: 6.1\n-Sagrado: 8.0\nResistencia\n-Inmunidad: 25\n-Robustez: 42\n-Concentración: 11\n-Vitalidad: 18\n-Aplomo: 12",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

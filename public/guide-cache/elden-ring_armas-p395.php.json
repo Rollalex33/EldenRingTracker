@@ -1,0 +1,66 @@
+{
+  "title": "Guja espiritual",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p395.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guja-espiritual.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/guja-espiritual_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/guja-espiritual_2.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/guja-espiritual_3.jpg"
+  ],
+  "lore": "Filo afilado con una forma retorcida.\n\nUna guja que ha visto muchos años de uso en la tumba.\n\n \n\nSe dice que sirve como medio para la comunión con los espíritus.\n\n \n\nHabilidad única: Tajo del rencor\n\nGira, acuchilla al enemigo e invoca espíritus vengativos que lo persigan. Vuelve a pulsar para seguir atacando.",
+  "intro": [
+    "Desde el lugar de gracia \"Tumba oculta de Charo\" (Tumba oculta de Charo), ve hasta el punto indicado al Norte y encontrarás el arma frente a una de las lápidas. Aunque lo parezca por el mapa, no se accede desde la Llanura de las Tumbas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 17",
+        "-Inteligencia: 16"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 17\n-Inteligencia: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 6.5",
+        "-Habilidad: Tajo rencor",
+        "-Coste de PC: 12 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 121",
+        "-Magia: 36",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 38.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 39",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Tajo/Perf.\n-Peso: 6.5\n-Habilidad: Tajo rencor\n-Coste de PC: 12 (- 12)\nPotencia de ataque\n-Físico: 121\n-Magia: 36\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 47.0\n-Magia: 38.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 39\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

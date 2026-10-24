@@ -1,0 +1,28 @@
+{
+  "title": "Esquirla nocturna",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p45.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/esquirla-nocturna.jpg"
+  ],
+  "lore": "Uno de los hechizos nocturnos de Sellia, ciudad de la hechicería.\n\n \n\nDispara un veloz proyectil casi invisible.\n\nEste hechizo sep uede lanzar inmediatamente después de otra acción.\n\n \n\nLos hechiceros sellianos eran asesinos y se dice que solían dar caza a los suyos.",
+  "intro": [
+    "-Te lo vende Gowry por 4.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara con rapidez un proyectil mágico casi invisible.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 7",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 18"
+      ],
+      "text": "Dispara con rapidez un proyectil mágico casi invisible.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 7\n-Ranuras: 1\n-Inteligencia necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

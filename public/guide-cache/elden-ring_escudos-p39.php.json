@@ -1,0 +1,59 @@
+{
+  "title": "Escudo de medusa",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p39.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-medusa.jpg"
+  ],
+  "lore": "Cabeza de un espíritu de medusa, muy frecuentes en el suelo sagrado de las Tierras Intermedias, esgrimida como escudo sin ningún tipo de modificación.\n\n \n\nAunque esta cabeza transparente es extremadamente ligera, su carne es flexible, por lo que no ofrece protección alguna frente a los ataques de perforación.\n\n \n\nHabilidad única: Furia contagiosa\n\nIncita la ira de la medusa para permitir que su furia fluya a través de ti.\n\nAumenta la potencia de ataque durante un tiempo.",
+  "intro": [
+    "-Lo encuentras en un carro rodeado de medusas en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 14"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 14",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo grande",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 8.0",
+        "-Habilidad: Furia contagiosa",
+        "-Coste de PC: 9",
+        "Potencia de ataque",
+        "-Físico: 123",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 100.0",
+        "-Magia: 52.0",
+        "-Fuego: 52.0",
+        "-Rayo: 40.0",
+        "-Sagrado: 48.0",
+        "-Estabilidad: 52"
+      ],
+      "text": "-Categoría: Escudo grande\n-Tipo de ataque: Golpe\n-Peso: 8.0\n-Habilidad: Furia contagiosa\n-Coste de PC: 9\nPotencia de ataque\n-Físico: 123\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 100.0\n-Magia: 52.0\n-Fuego: 52.0\n-Rayo: 40.0\n-Sagrado: 48.0\n-Estabilidad: 52",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Grandes"
+}

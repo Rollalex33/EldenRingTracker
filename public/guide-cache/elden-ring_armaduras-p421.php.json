@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de noble sanguino",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p421.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-noble-sanguino.jpg"
+  ],
+  "lore": "Túnica de tela teñida de negro con bordados en oro.\n\nLa llevan los nobles que sirven al Señor de la Sangre.\n\n \n\nEl diseño metálico de los hombros es una señal del rango de noble, el cual reclamarán como suyo con el advenimiento de la nueva dinastía que pretenden instaurar.",
+  "intro": [
+    "-La consigues como recompensa por derrotar al jefazo Noble sanguino que aparece como espíritu invasor en el punto ya indicado del Campo sacroníveo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: 6.1",
+        "-VS golpe: 5.3",
+        "-VS tajo: 5.3",
+        "-VS perforación: 5.3",
+        "-Magia: 13.3",
+        "-Fuego: 11.9",
+        "-Rayo: 13.0",
+        "-Sagrado: 13.5",
+        "Resistencia",
+        "-Inmunidad: 50",
+        "-Robustez: 21",
+        "-Concentración: 83",
+        "-Vitalidad: 76",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: 6.1\n-VS golpe: 5.3\n-VS tajo: 5.3\n-VS perforación: 5.3\n-Magia: 13.3\n-Fuego: 11.9\n-Rayo: 13.0\n-Sagrado: 13.5\nResistencia\n-Inmunidad: 50\n-Robustez: 21\n-Concentración: 83\n-Vitalidad: 76\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

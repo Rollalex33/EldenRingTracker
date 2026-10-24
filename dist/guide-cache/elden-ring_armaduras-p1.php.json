@@ -1,0 +1,48 @@
+{
+  "title": "Yelmo de caballero vagabundo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/yelmo-de-caballero-vagabundo.jpg"
+  ],
+  "lore": "Yelmo de un caballero desterrado de su patria.\n\nEstá sucio y maltrecho tras soportar la dura vida del vagabundo.\n\n \n\nLa visera está rota y ya no se puede bajar.\n\n \n\nLa armadura de metal es pesada pero resistente y ofrece una considerable negación de daños.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Vagante.",
+    "-Te lo vende el Comerciante ermitaño 3 por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.0",
+        "Negación de daños",
+        "-Físico: 4.6",
+        "-VS golpe: 3.6",
+        "-VS tajo: 4.2",
+        "-VS perforación: 4.0",
+        "-Magia: 3.1",
+        "-Fuego: 3.6",
+        "-Rayo: 2.8",
+        "-Sagrado: 2.8",
+        "Resistencia",
+        "-Inmunidad: 14",
+        "-Robustez: 23",
+        "-Concentración: 9",
+        "-Vitalidad: 9",
+        "-Aplomo: 4"
+      ],
+      "text": "-Peso: 4.0\nNegación de daños\n-Físico: 4.6\n-VS golpe: 3.6\n-VS tajo: 4.2\n-VS perforación: 4.0\n-Magia: 3.1\n-Fuego: 3.6\n-Rayo: 2.8\n-Sagrado: 2.8\nResistencia\n-Inmunidad: 14\n-Robustez: 23\n-Concentración: 9\n-Vitalidad: 9\n-Aplomo: 4",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

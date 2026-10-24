@@ -1,0 +1,29 @@
+{
+  "title": "Llama de Agheel",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p43.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/llama-de-agheel.jpg"
+  ],
+  "lore": "Un encantamiento superior de la Comunión Dragontina.\n\nCanaliza el poder del dragón volador de Agheel.\n\n \n\nTransforma a quien lo conjura en un dragón que exhala un aliento ardiente desde arriba.\n\nAl cargar el ataque aumenta su duración. Este encantamiento se puede usar desde el aire.\n\n \n\nLos muertos clamaban al cielo desde las charcas de Necrolimbo, a la espera de que las llamas de un dragón los convirtiese en cenizas.",
+  "intro": [
+    "-Es uno de los encantamientos que intercambias en la Catedral de la Comunión Dragontina por 2 Corazones de dragón, pero solo está disponible después de haber derrotado al Dragón volador Agheel."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Escupe aliento de llamas de Agheel desde las alturas.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 36",
+        "-Ranuras: 1",
+        "-Fe necesaria: 23",
+        "-Arcano necesario: 15"
+      ],
+      "text": "Escupe aliento de llamas de Agheel desde las alturas.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 36\n-Ranuras: 1\n-Fe necesaria: 23\n-Arcano necesario: 15",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

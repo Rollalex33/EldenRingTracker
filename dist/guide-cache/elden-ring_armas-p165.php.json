@@ -1,0 +1,63 @@
+{
+  "title": "Lanza imputrescible",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p165.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-imputrescible.jpg"
+  ],
+  "lore": "Lanza usada por los Caballeros Imputrescibles que lucharon junot a Malenia, la Espada de Miquella.\n\n \n\nLa dorada hoja alada inflige daño sagrado. El pequeño escudo está bendecido con un encantamiento que protege de la putrefacción.\n\n \n\nHabilidad única: Falange sagrada\n\nLibera el poder de un encantamiento oculto para levantar una empalizada de lanzas doradas frente a ti.",
+  "intro": [
+    "-La pueden soltar los “Caballeros imputrescibles” en el pantano  de Aeonia, en Caelid (principal)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 16",
+        "-Fe: 14"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 16\n-Fe: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza",
+        "-Tipo de daño: Perforación",
+        "-Peso: 5.5",
+        "-Habilidad: Falange sagrada",
+        "-Coste de PC: 12",
+        "Potencia de ataque",
+        "-Físico: 102",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 66",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 25.0",
+        "-Fuego: 25.0",
+        "-Rayo: 25.0",
+        "-Sagrado: 25.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza\n-Tipo de daño: Perforación\n-Peso: 5.5\n-Habilidad: Falange sagrada\n-Coste de PC: 12\nPotencia de ataque\n-Físico: 102\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 66\n-Crítico: 100\nProtección contra daños\n-Físicos: 49.0\n-Magia: 25.0\n-Fuego: 25.0\n-Rayo: 25.0\n-Sagrado: 25.0\n-Estabilidad: 33\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas"
+}

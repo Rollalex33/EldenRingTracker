@@ -1,0 +1,62 @@
+{
+  "title": "Shotel de carne de cañón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p101.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/shotel-de-carne-de-canon.jpg"
+  ],
+  "lore": "Hoja torcida unida a un largo mango. La usaban los carne de cañón del ejército y sus ataques pueden atravesar la guardia enemiga.\n\nLos carne de cañón son los guardianes no reconocidos de los rancios y calcionados campos de batalla a los que nadie se atreve a acercarse, así como de las regiones prohibidas y olvidadas por el resto del mundo.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-Lo pueden soltar los \"Carne de cañón\" que hay por Liurnia (Este).",
+    "-Lo pueden soltar los \"milicianos sombríos\" que hay por ejemplo de camino a la Cueva del río Ellac (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 16"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 8.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 121",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 55.0",
+        "-Magia: 35.0",
+        "-Fuego: 35.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Estándar/Perforación\n-Peso: 8.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 121\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 55.0\n-Magia: 35.0\n-Fuego: 35.0\n-Rayo: 35.0\n-Sagrado: 35.0\n-Estabilidad: 42\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

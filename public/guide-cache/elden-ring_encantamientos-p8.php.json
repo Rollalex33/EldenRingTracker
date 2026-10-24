@@ -1,0 +1,28 @@
+{
+  "title": "Lanzamiento de bestia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p8.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanzamiento-de-bestia.jpg"
+  ],
+  "lore": "Encantamiento instruido por Gurranq, el Clérigo Bestia.\n\n \n\nLanza con rapidez varios fragmentos de roca afilados.\n\nEste encantamiento puede lanzarse imediatamente después de otra acción.\n\n \n\nSe dice que en la época anterior al Árbol Áureo, las piedras fueron las primeras armas de las bsetias que habían adquirido inteligencia.",
+  "intro": [
+    "-Te lo da Gurranq, el clérigo bestia al entregarle la segunda Raíz mortuoria."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Enciende momentáneamente una llama en la mano.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 10",
+        "-Ranuras: 1",
+        "-Fe necesaria: 8"
+      ],
+      "text": "Enciende momentáneamente una llama en la mano.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 10\n-Ranuras: 1\n-Fe necesaria: 8",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

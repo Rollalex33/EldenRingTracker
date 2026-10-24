@@ -1,0 +1,62 @@
+{
+  "title": "Mano de Malenia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p293.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/mano-de-malenia.jpg"
+  ],
+  "lore": "Un filo ajustado al brazo protésico de Malenia.\n\nFue consagrado para ser resistente a la putrefacción.\n\n \n\nLa prótesis de guerra de Malenia simboliza sus victorias.\n\nHay quien asegura haber visto alas cuando se alza el arma. Alas de una férrea determinación que jamás han conocido la derrota.\n\n \n\nHabilidad única: Danza de las anátidas\n\nRealiza una serie de saltos con un solo pie a imitación de un ave acuática para desencadenar un rápido a la par que elegante combo de tajos.\n\nSigue usando el arma para lanzar dos ataques más.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de la Diosa de la Putrefacción a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 48"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 48",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Catana",
+        "-Tipo de daño: Tajo/Perforación",
+        "-Peso: 7.0",
+        "-Habilidad: Danza de las anátidas",
+        "-Coste de PC: 12 (- 9)",
+        "Potencia de ataque",
+        "-Físico: 117",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (50)."
+      ],
+      "text": "-Categoría: Catana\n-Tipo de daño: Tajo/Perforación\n-Peso: 7.0\n-Habilidad: Danza de las anátidas\n-Coste de PC: 12 (- 9)\nPotencia de ataque\n-Físico: 117\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 49.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 33\nEfectos pasivos\n-Provoca la acumulación de hemorragias (50).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Catanas"
+}

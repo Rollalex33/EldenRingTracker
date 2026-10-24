@@ -1,0 +1,29 @@
+{
+  "title": "Aliento de magma",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p65.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/aliento-de-magma.jpg"
+  ],
+  "lore": "Uno de los encantamientos de la Comunión Dragontina.\n\n \n\nTransforma al lanzador en un dragón de magma que escupe aliento de magma.\n\nPermite un ataque adicional.\n\n \n\nAquellos que han realizado la Comunión Dragontina encontrarán su humanidad en un lento desvanecimiento. Cuando sucumben totalmente a su destino, ya no son más que dragones de magma que vagan por la tierra.",
+  "intro": [
+    "-Es uno de los encantamientos que intercambias en la Catedral de la Comunión Dragontina por 3 Corazones de dragón, pero solo está disponible después de haber derrotado a Dragón de magma en Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Canaliza al dragón de magma para que escupa aliento de magma.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 30",
+        "-Ranuras: 1",
+        "-Fe necesaria: 14",
+        "-Arcano necesario: 10"
+      ],
+      "text": "Canaliza al dragón de magma para que escupa aliento de magma.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 30\n-Ranuras: 1\n-Fe necesaria: 14\n-Arcano necesario: 10",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,288 @@
+{
+  "jefazos": {
+    "name": "Jefazos",
+    "totalLinks": 148,
+    "sample": [
+      {
+        "href": "elden-ring_jefazos-p29.php",
+        "text": "Adan, el Ladrón del Fuego"
+      },
+      {
+        "href": "elden-ring_jefazos-p36.php",
+        "text": "Adula, dragón de piedra refulgente"
+      },
+      {
+        "href": "elden-ring_jefazos-p71.php",
+        "text": "Alecto, líder de los Cuchillos Negros"
+      },
+      {
+        "href": "elden-ring_jefazos-p81.php",
+        "text": "Ancestros de la putrefacción"
+      },
+      {
+        "href": "elden-ring_jefazos-p76.php",
+        "text": "Antigua dragona Lansseax"
+      }
+    ]
+  },
+  "personajes": {
+    "name": "Personajes",
+    "totalLinks": 73,
+    "sample": [
+      {
+        "href": "elden-ring_personajes-p41.php",
+        "text": "Albus"
+      },
+      {
+        "href": "elden-ring_personajes-p19.php",
+        "text": "Alexander Puño de Hierro"
+      },
+      {
+        "href": "elden-ring_personajes-p10.php",
+        "text": "Blaidd, el Semilobo"
+      },
+      {
+        "href": "elden-ring_personajes-p5.php",
+        "text": "Boc, el costurero"
+      },
+      {
+        "href": "elden-ring_personajes-p18.php",
+        "text": "Caballero Bernahl"
+      }
+    ]
+  },
+  "hechizos": {
+    "name": "Hechizos",
+    "totalLinks": 89,
+    "sample": [
+      {
+        "href": "elden-ring_atributos.php",
+        "text": "Inteligencia"
+      },
+      {
+        "href": "elden-ring_hechizos-p16.php",
+        "text": "Aguacero mágico"
+      },
+      {
+        "href": "elden-ring_hechizos-p2.php",
+        "text": "Aluvión de cristales"
+      },
+      {
+        "href": "elden-ring_hechizos-p3.php",
+        "text": "Arco de piedra refulgente"
+      },
+      {
+        "href": "elden-ring_hechizos-p21.php",
+        "text": "Arco grande de Loretta"
+      }
+    ]
+  },
+  "encantamientos": {
+    "name": "Encantamientos",
+    "totalLinks": 134,
+    "sample": [
+      {
+        "href": "elden-ring_atributos.php",
+        "text": "Fe"
+      },
+      {
+        "href": "elden-ring_encantamientos-p93.php",
+        "text": "Aeonia carmesí"
+      },
+      {
+        "href": "elden-ring_encantamientos-p65.php",
+        "text": "Aliento de magma"
+      },
+      {
+        "href": "elden-ring_encantamientos-p44.php",
+        "text": "Aliento de piedras refulgentes"
+      },
+      {
+        "href": "elden-ring_encantamientos-p46.php",
+        "text": "Aliento podrido"
+      }
+    ]
+  },
+  "cenizas-espiritus": {
+    "name": "Cenizas de espíritus",
+    "totalLinks": 93,
+    "sample": [
+      {
+        "href": "elden-ring_hechizos.php",
+        "text": "Hechizos"
+      },
+      {
+        "href": "elden-ring_encantamientos.php",
+        "text": "Encantamientos"
+      },
+      {
+        "href": "elden-ring_cenizas-guerra.php",
+        "text": "Cenizas de guerra"
+      },
+      {
+        "href": "elden-ring_cenizas-espiritus-p61.php",
+        "text": "Caballera Imputrescible Finlay"
+      },
+      {
+        "href": "elden-ring_cenizas-espiritus-p34.php",
+        "text": "Caballero de la Melena Roja Ogha"
+      }
+    ]
+  },
+  "cenizas-guerra": {
+    "name": "Cenizas de guerra",
+    "totalLinks": 121,
+    "sample": [
+      {
+        "href": "elden-ring_cenizas-espiritus.php",
+        "text": "Cenizas de los espíritus"
+      },
+      {
+        "href": "elden-ring_armas.php",
+        "text": "armas"
+      },
+      {
+        "href": "elden-ring_escudos.php",
+        "text": "escudos"
+      },
+      {
+        "href": "elden-ring_objetos-p55.php",
+        "text": "Cuchillo de afilar"
+      },
+      {
+        "href": "elden-ring_gracia.php",
+        "text": "lugar de gracia"
+      }
+    ]
+  },
+  "armas": {
+    "name": "Armas",
+    "totalLinks": 416,
+    "sample": [
+      {
+        "href": "elden-ring_cenizas-guerra.php",
+        "text": "Cenizas de guerra"
+      },
+      {
+        "href": "elden-ring_personajes-p24.php",
+        "text": "Maestro herrero Hewg"
+      },
+      {
+        "href": "elden-ring_armas-p10.php",
+        "text": "Alabarda"
+      },
+      {
+        "href": "elden-ring_armas-p63.php",
+        "text": "Alabarda de caballero proscrito"
+      },
+      {
+        "href": "elden-ring_armas-p149.php",
+        "text": "Alabarda de dragón"
+      }
+    ]
+  },
+  "armaduras": {
+    "name": "Armaduras",
+    "totalLinks": 654,
+    "sample": [
+      {
+        "href": "elden-ring_gracia.php",
+        "text": "lugares de gracia"
+      },
+      {
+        "href": "elden-ring_objetos-p72.php",
+        "text": "Útiles de sastrería"
+      },
+      {
+        "href": "elden-ring_personajes-p5.php",
+        "text": "Boc"
+      },
+      {
+        "href": "elden-ring_objetos-p71.php",
+        "text": "Aguja"
+      },
+      {
+        "href": "elden-ring_objetos-p230.php",
+        "text": "Útiles de sastrería dorados"
+      }
+    ]
+  },
+  "talismanes": {
+    "name": "Talismanes",
+    "totalLinks": 134,
+    "sample": [
+      {
+        "href": "elden-ring_talismanes-p40.php",
+        "text": "Amuleto córneo clarificador"
+      },
+      {
+        "href": "elden-ring_talismanes-p29.php",
+        "text": "Amuleto córneo de fiel"
+      },
+      {
+        "href": "elden-ring_talismanes-p38.php",
+        "text": "Amuleto córneo inmunizante"
+      },
+      {
+        "href": "elden-ring_talismanes-p21.php",
+        "text": "Amuleto de arsenal"
+      },
+      {
+        "href": "elden-ring_talismanes-p16.php",
+        "text": "Amuleto de bailarina azul"
+      }
+    ]
+  },
+  "escudos": {
+    "name": "Escudos",
+    "totalLinks": 84,
+    "sample": [
+      {
+        "href": "elden-ring_armas.php",
+        "text": "armas"
+      },
+      {
+        "href": "elden-ring_armaduras.php",
+        "text": "armaduras"
+      },
+      {
+        "href": "elden-ring_cenizas-guerra.php",
+        "text": "Cenizas de guerra"
+      },
+      {
+        "href": "elden-ring_escudos-p4.php",
+        "text": "Broquel"
+      },
+      {
+        "href": "elden-ring_escudos-p59.php",
+        "text": "Escudo ardiente"
+      }
+    ]
+  },
+  "objetos": {
+    "name": "Objetos",
+    "totalLinks": 882,
+    "sample": [
+      {
+        "href": "elden-ring_objetos-p18.php",
+        "text": "Kit de creación"
+      },
+      {
+        "href": "elden-ring_objetos-p17.php",
+        "text": "Tarro agrietado"
+      },
+      {
+        "href": "elden-ring_objetos-p147.php",
+        "text": "Abanico de piedra gravitatoria"
+      },
+      {
+        "href": "elden-ring_objetos-p579.php",
+        "text": "Ácido pulverizable"
+      },
+      {
+        "href": "elden-ring_objetos-p156.php",
+        "text": "Algodón suave"
+      }
+    ]
+  }
+}

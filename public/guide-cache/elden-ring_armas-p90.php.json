@@ -1,0 +1,61 @@
+{
+  "title": "Hacha de los altiplanos",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p90.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hacha-de-los-altiplanos.jpg"
+  ],
+  "lore": "Hacha de una sola cara utilizada por los guerreros de los altiplanos.\n\n \n\nLos combatientes valerosos comienzan la batalla gritando su nombre. Sus rugidos se ven potenciados por esta arma.\n\n \n\nHabilidad: Grito de guerra\n\nDa un grito de guerra para avivar el espíritu y aumentar tu potencia de ataque.\n\nMientras está activo, transforma los ataques potentes en ataques de carga.",
+  "intro": [
+    "-La encuentras en un cadáver en el Castillo de Velo Tormentoso."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 9"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 9",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 4.5",
+        "-Habilidad: Grito de guerra",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 123",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Estándar\n-Peso: 4.5\n-Habilidad: Grito de guerra\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 123\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 47.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

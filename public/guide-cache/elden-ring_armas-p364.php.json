@@ -1,0 +1,61 @@
+{
+  "title": "Espada de la Noche",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p364.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-la-noche.jpg"
+  ],
+  "lore": "Espada de tal oscuridad que todo lo consume y que devora incluso la luz que se vierte sobre ella.\n\nLa empuñaba Jolán, espadachina de la Noche.\n\n \n\nEl filo de la espada tan solo es semicorpóreo, por lo que no es posible protegerse completamente de él.\n\n \n\nHabilidad única: Tajo de brujería\n\nSujeta la espada a nivel del pecho e imbúyela de la oscuridad de la Noche antes de desatar una serie de ataques incorpóreos. No puede bloquearse. Se puede cargar para aumentar la potencia.",
+  "intro": [
+    "-Te la da Jolán al terminar su historia habiéndole entregado el Iris de la Ocultación."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 20"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Destreza: C"
+      ],
+      "text": "-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Catanas",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 6.5",
+        "-Habilidad: Tajo de brujería",
+        "-Coste de PC: 21 (- -)",
+        "Potencia de ataque",
+        "-Físico: 110",
+        "-Magia: 33",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 43.0",
+        "-Magia: 35.0",
+        "-Fuego: 27.0",
+        "-Rayo: 27.0",
+        "-Sagrado: 27.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (45)."
+      ],
+      "text": "-Categoría: Catanas\n-Tipo de daño: Tajo/Perf.\n-Peso: 6.5\n-Habilidad: Tajo de brujería\n-Coste de PC: 21 (- -)\nPotencia de ataque\n-Físico: 110\n-Magia: 33\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 43.0\n-Magia: 35.0\n-Fuego: 27.0\n-Rayo: 27.0\n-Sagrado: 27.0\n-Estabilidad: 30\nEfectos pasivos\n-Provoca la acumulación de hemorragias (45).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Catanas"
+}

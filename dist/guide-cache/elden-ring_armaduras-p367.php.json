@@ -1,0 +1,47 @@
+{
+  "title": "Casco de la Zarza",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p367.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-la-zarza.jpg"
+  ],
+  "lore": "Casco de hierro maltrecho de una tierra extranjera.\n\nLo llevaba Elemer de la Zarza.\n\n \n\nLas sinuosas zarzas de hierro oxidado son la marca del reo y normalmente indican una sentencia de muerte. También causan daño al realizar esquivas rodando.\n\n \n\nElemer asesinó a numerosos instructores y comerciantes, y se le conocía como el cazador de esferas.",
+  "intro": [
+    "-Te lo vende la Lectora de Dedos Enia por 4.000 runas después de haber derrotado al jefazo Elemer de la Zarza."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: 4.6",
+        "-VS golpe: 40",
+        "-VS tajo: 4.8",
+        "-VS perforación: 4.4",
+        "-Magia: 3.8",
+        "-Fuego: 4.4",
+        "-Rayo: 3.1",
+        "-Sagrado: 3.8",
+        "Resistencia",
+        "-Inmunidad: 15",
+        "-Robustez: 31",
+        "-Concentración: 10",
+        "-Vitalidad: 10",
+        "-Aplomo: 5"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: 4.6\n-VS golpe: 40\n-VS tajo: 4.8\n-VS perforación: 4.4\n-Magia: 3.8\n-Fuego: 4.4\n-Rayo: 3.1\n-Sagrado: 3.8\nResistencia\n-Inmunidad: 15\n-Robustez: 31\n-Concentración: 10\n-Vitalidad: 10\n-Aplomo: 5",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

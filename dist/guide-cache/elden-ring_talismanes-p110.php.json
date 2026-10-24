@@ -1,0 +1,38 @@
+{
+  "title": "Disco de verdín",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p110.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/disco-de-verdin.jpg"
+  ],
+  "lore": "Disco fabricado con verdín, un corroído metal conocido por su resistencia.\n\n \n\nAumenta la defensa al llevar más equipamiento.\n\n \n\nUn gran peso otorga una gran fuerza, la necesaria para proteger a los demás.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Aumenta la defensa al llevar más equipamiento."
+      ],
+      "text": "Aumenta la defensa al llevar más equipamiento.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.5"
+      ],
+      "text": "-Peso: 4.5",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo encuentras frente a una estatua en el punto indicado de las  Antiguas ruinas de Rauh ."
+      ],
+      "text": "-Lo encuentras frente a una estatua en el punto indicado de las  Antiguas ruinas de Rauh .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes del DLC Shadow of the Erdtree"
+}

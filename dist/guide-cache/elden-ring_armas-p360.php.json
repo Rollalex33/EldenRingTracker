@@ -1,0 +1,61 @@
+{
+  "title": "Garras de la noche",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p360.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/garras-de-la-noche.jpg"
+  ],
+  "lore": "Garras triples de Anna, espadachina de la Noche, de un negro tan profundo que absorben toda luz.\n\n \n\nSu letr herrérica permite lanzar un potente ataque. Esta arma es solo semicorpórea, por lo que resulta imposible protegerse totalmente de ella.\n\n \n\nHabilidad: Lanzamiento disperso\n\nUsa artes de herrería para conjurar varias copias del arma en ambas manos y, luego, lánzalas todas a la vez. Pulsa otra vez para volver a lanzar.",
+  "intro": [
+    "-Las consigues al derrotar al espíritu de la \"Espadachina de la Noche Anna\" durante la historia del Conde Ymir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 20"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Destreza: C"
+      ],
+      "text": "-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Garra",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 3.0",
+        "-Habilidad: Lanzamiento de dispersión",
+        "-Coste de PC: 11 (- 11)",
+        "Potencia de ataque",
+        "-Físico: 79",
+        "-Magia: 51",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 33.0",
+        "-Magia: 31.0",
+        "-Fuego: 18.0",
+        "-Rayo: 18.0",
+        "-Sagrado: 18.0",
+        "-Estabilidad: 21",
+        "Efectos pasivos",
+        "-Provoca la acmulación de hemorragias (45)."
+      ],
+      "text": "-Categoría: Garra\n-Tipo de daño: Tajo/Perf.\n-Peso: 3.0\n-Habilidad: Lanzamiento de dispersión\n-Coste de PC: 11 (- 11)\nPotencia de ataque\n-Físico: 79\n-Magia: 51\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 33.0\n-Magia: 31.0\n-Fuego: 18.0\n-Rayo: 18.0\n-Sagrado: 18.0\n-Estabilidad: 21\nEfectos pasivos\n-Provoca la acmulación de hemorragias (45).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Garras"
+}

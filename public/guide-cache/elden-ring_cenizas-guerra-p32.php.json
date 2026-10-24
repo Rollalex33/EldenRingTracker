@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Majestuosidad cariana",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p32.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-majestuosidad-cariana.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Mágico\" y la siguiente habilidad:\n\n \n\n\"Majestuosidad cariana: El prestigio de la realeza cariana encarnado en una habilidad. Transforma la hoja en un espadón mágico y bájala. Esta habilidad se puede cargar para aumentar su potencia en dos niveles\".\n\n \n\nSe usa solo en armas de embestida, a excepción de armas más pequeñas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en espadas (exceptuando armas colosales).",
+        "-Tipo: Mágico"
+      ],
+      "text": "Puede usarse en espadas (exceptuando armas colosales).\n-Tipo: Mágico",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-En un cadáver en la  Mansión de los  Caria , en  Liurnia (Oeste) ."
+      ],
+      "text": "-En un cadáver en la  Mansión de los  Caria , en  Liurnia (Oeste) .",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Mágico"
+}

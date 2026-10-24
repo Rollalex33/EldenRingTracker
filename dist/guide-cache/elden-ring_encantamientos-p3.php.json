@@ -1,0 +1,29 @@
+{
+  "title": "Estrategia del asesino",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p3.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/estrategia-del-asesino.jpg"
+  ],
+  "lore": "Encantamiento de los siervos de los Dos Dedos, que en un tiempo sirvieron como asesinos de la Mesa Redonda.\n\n \n\nSilencia completamente los pasos del lanzador. Además, reduce el daño por caída y el sonido producido al caer.\n\nEste hechizo puede lanzarse en movimiento o en posición agachada.\n\n \n\nLos asesinos tenían la misión de eliminar a los Sinluz que se habían desviado del camino.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Confesor.",
+    "-Te lo vende el Hermano Corhyn o Miriel por 3.500 runas tras haberle entregado el Devocionario del asesino."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Silencia los pasos y reduce el daño/sonido por caída.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 15",
+        "-Ranuras: 1",
+        "-Fe necesaria: 10"
+      ],
+      "text": "Silencia los pasos y reduce el daño/sonido por caída.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 15\n-Ranuras: 1\n-Fe necesaria: 10",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Espada furiosa de Ansbach",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p128.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-furiosa-de-ansbach.jpg"
+  ],
+  "lore": "Encantamiento del caballero de sangre pura Ansbach.\n\n \n\nProduce una hoja de hemofuego desde el lateral de la mano y, luego, se lanza a por los enemigos para ensartarlos.\n\nSi se carga, aumenta el número de tajos.\n\n \n\nEs muy diferente al fino uso de la espada de la dinastía, ya que se trata de un encantamiento agresivo de emergencia que alimentó la temible reputación de Ansbach.",
+  "intro": [
+    "-Lo consigues al final de la historia de Ansbach."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Atraviesa al enemigo con una hoja de hemofuego invocada con la mano.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Fe necesaria: 19",
+        "-Arcano: 27"
+      ],
+      "text": "Atraviesa al enemigo con una hoja de hemofuego invocada con la mano.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 18\n-Ranuras: 1\n-Fe necesaria: 19\n-Arcano: 27",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

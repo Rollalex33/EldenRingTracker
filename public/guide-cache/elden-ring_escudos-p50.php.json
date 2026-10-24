@@ -1,0 +1,60 @@
+{
+  "title": "Escudo grande del Árbol Áureo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p50.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-grande-del-arbol-aureo.jpg"
+  ],
+  "lore": "Escudo grande y pesado forjado en oro que llevan los centineas agrestes, caballeros fuertemente equipados. Está bendecido con un antiguo encantamiento de protección.\n\n \n\nLos centinelas agrestes son auténticas murallas vivientes, un espejo en el que todos los defensores del Árbol Áureo deben mirarse.\n\n \n\nHabilidad única: Represalia dorada\n\nPrepara el escudo para aprovechar su encantamiento de protección.\n\nEsta habilidad disipará los hechizos y encantamientos y contraatacará con un poder dorado.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar a los jefazos Centinelas agrestes en Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 30",
+        "-Fe: 12"
+      ],
+      "text": "-Fuerza: 30\n-Fe: 12",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo grande",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 13.5",
+        "-Habilidad: Represalia dorada",
+        "-Coste de PC: 4",
+        "Potencia de ataque",
+        "-Físico: 120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 78",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 100.0",
+        "-Magia: 66.0",
+        "-Fuego: 49.0",
+        "-Rayo: 45.0",
+        "-Sagrado: 76.0",
+        "-Estabilidad: 60"
+      ],
+      "text": "-Categoría: Escudo grande\n-Tipo de ataque: Golpe\n-Peso: 13.5\n-Habilidad: Represalia dorada\n-Coste de PC: 4\nPotencia de ataque\n-Físico: 120\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 78\n-Crítico: 100\nProtección contra daños\n-Físicos: 100.0\n-Magia: 66.0\n-Fuego: 49.0\n-Rayo: 45.0\n-Sagrado: 76.0\n-Estabilidad: 60",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Grandes"
+}

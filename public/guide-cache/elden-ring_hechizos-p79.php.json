@@ -1,0 +1,29 @@
+{
+  "title": "Anillos de luz espectral",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p79.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/anillos-de-luz-espectral.jpg"
+  ],
+  "lore": "Hechicería de los guardianes de los sepulcros espirituales, hogar de la muerte.\n\n \n\nCrea anillos de luz espectral que se disparan al unísono.\n\nSi se carga, aumenta la potencia.\n\n \n\nLos anillos de luz poseen las mismas cualidades que la llama espectral e infligen daño mágico a la vez que provocan acumulación de congelación.",
+  "intro": [
+    "-Lo encuentras frente a una estatua en el punto indicado de Tumba oculta de Charo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Crea y dispara anillos de luz espectral al unísono.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 14",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 24",
+        "-Fe necesaria: 18"
+      ],
+      "text": "Crea y dispara anillos de luz espectral al unísono.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 14\n-Ranuras: 1\n-Inteligencia necesaria: 24\n-Fe necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

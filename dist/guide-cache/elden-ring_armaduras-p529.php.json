@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de Rellana",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p529.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-rellana.jpg"
+  ],
+  "lore": "Armadura ornamentada de Rellana, la Caballera de la Luna Gemela. Está hecha de acero plateado.\n\n \n\nEstá adornada con el emblemático azul lapislázuli de Caria y su brillo aún no se ha apagado del todo.",
+  "intro": [
+    "-Te la vende Enia por 15.000  runas después de haber derrotado a la jefaza Rellana, Caballera de Luna Gemela."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 11.8",
+        "Negación de daños",
+        "-Físico: 13.5",
+        "-VS golpe: 11.9",
+        "-VS tajo: 14.0",
+        "-VS perforación: 12.9",
+        "-Magia: 12.6",
+        "-Fuego: 11.9",
+        "-Rayo: 9.5",
+        "-Sagrado: 10.9",
+        "Resistencia",
+        "-Inmunidad: 35",
+        "-Robustez: 57",
+        "-Concentración: 24",
+        "-Vitalidad: 24",
+        "-Aplomo: 24"
+      ],
+      "text": "-Peso: 11.8\nNegación de daños\n-Físico: 13.5\n-VS golpe: 11.9\n-VS tajo: 14.0\n-VS perforación: 12.9\n-Magia: 12.6\n-Fuego: 11.9\n-Rayo: 9.5\n-Sagrado: 10.9\nResistencia\n-Inmunidad: 35\n-Robustez: 57\n-Concentración: 24\n-Vitalidad: 24\n-Aplomo: 24",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

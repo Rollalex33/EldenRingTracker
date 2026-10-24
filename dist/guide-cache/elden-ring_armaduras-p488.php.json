@@ -1,0 +1,48 @@
+{
+  "title": "Máscara de hojamaldita",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p488.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/mascara-de-hojamaldita.jpg"
+  ],
+  "lore": "Una máscara que incorpora una corona de cuernos retorcidos. La usan quienes desean invocar a una divinidad.\n\n \n\nLa invocación divina aumenta la destreza del portador, pero provoca que la bendición del Árbol Áureo sea nauseabunda, lo cual reduce el efecto restaurador de beber un vial de lágrimas sagradas.\n\n \n\nLa concentración también se resiente con esta máscara.",
+  "intro": [
+    "-La pueden soltar los Hojamaldita de la torre en Llanura de las Tumbas.",
+    "-La puede soltar el Hojamaldita de Belurat, asentamiento de la torre."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.2",
+        "Negación de daños",
+        "-Físico: 2.5",
+        "-VS golpe: 0.9",
+        "-VS tajo: 2.3",
+        "-VS perforación: 2.1",
+        "-Magia: 4.6",
+        "-Fuego: 4.6",
+        "-Rayo: 4.6",
+        "-Sagrado: 4.9",
+        "Resistencia",
+        "-Inmunidad: 22",
+        "-Robustez: 11",
+        "-Concentración: 0",
+        "-Vitalidad: 33",
+        "-Aplomo: 4"
+      ],
+      "text": "-Peso: 2.2\nNegación de daños\n-Físico: 2.5\n-VS golpe: 0.9\n-VS tajo: 2.3\n-VS perforación: 2.1\n-Magia: 4.6\n-Fuego: 4.6\n-Rayo: 4.6\n-Sagrado: 4.9\nResistencia\n-Inmunidad: 22\n-Robustez: 11\n-Concentración: 0\n-Vitalidad: 33\n-Aplomo: 4",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

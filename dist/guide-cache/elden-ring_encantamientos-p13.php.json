@@ -1,0 +1,28 @@
+{
+  "title": "Niebla venenosa",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p13.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/niebla-venenosa.jpg"
+  ],
+  "lore": "Encantamiento de los siervos de la putrefacción.\n\n \n\nLibera una niebla venenosa ante el lanzador.\n\nEste conjuro se puede lanzar en movimiento.\n\n \n\nLos que habitan en el veneno conocen muy bien la putrefacción.\n\nLa muerte que engendra la vida y alcanza a todos por igual. En otras palabras, el ciclo del renacimiento hecho realidad.",
+  "intro": [
+    "-Lo suelta un escarabajo en el punto indicado de Península del Llanto (cerca de donde consigues el mapa de la zona)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Libera niebla venenosa ante el lanzador.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Fe necesaria: 12"
+      ],
+      "text": "Libera niebla venenosa ante el lanzador.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 18\n-Ranuras: 1\n-Fe necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

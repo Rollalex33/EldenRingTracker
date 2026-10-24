@@ -1,0 +1,61 @@
+{
+  "title": "Claymore",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p64.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/claymore.jpg"
+  ],
+  "lore": "Espada grande con hoja recta y larga. Esta pesada espada está diseñada para empuñarse con dos manos, pero para aquellos con suficiente fuerza, basta con una.\n\n \n\nAdemás de sus amplios ataques de barrido, también puede utilizarse para efectuar una embestida punzante, por lo que es muy versátil.\n\n \n\nHabilidad: Garra de león\n\nHabilidad de los caballeros de la Melena Roja, quienes lucharon junto con el general Radahn,\n\nDa una voltereta hacia adelante y usa tu arma para glpear al enemigo.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en el Castillo de Morne, en la Península del Llanto."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 13"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 9.0",
+        "-Habilidad: Garra de león",
+        "-Coste de PC: 20",
+        "Potencia de ataque",
+        "-Físico: 138",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 65.0",
+        "-Magia: 35.0",
+        "-Fuego: 35.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 9.0\n-Habilidad: Garra de león\n-Coste de PC: 20\nPotencia de ataque\n-Físico: 138\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 65.0\n-Magia: 35.0\n-Fuego: 35.0\n-Rayo: 35.0\n-Sagrado: 35.0\n-Estabilidad: 42\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

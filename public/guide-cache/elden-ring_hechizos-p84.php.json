@@ -1,0 +1,29 @@
+{
+  "title": "Masa de putrefacción",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p84.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/masa-de-putrefaccion.jpg"
+  ],
+  "lore": "Hechicería originada a partir del licor putrefacto de los ataúdes de piedra.\n\n \n\nLanza una gran masa de putrefacción que baña de llamas espectrales el área que toca. Si se carga, aumenta la potencia.\n\n \n\nEn el pasado, la Muerte fue quemada por una llama espectral.\n\nIncluso los restos de carne contaminada recibieron el mismo trato al morir.",
+  "intro": [
+    "-Lo encuentras en el punto indicado de Fisura en ataúd de piedra."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Arroja una gran massa putrefacta.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 41",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 28",
+        "-Fe necesaria: 22"
+      ],
+      "text": "Arroja una gran massa putrefacta.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 41\n-Ranuras: 1\n-Inteligencia necesaria: 28\n-Fe necesaria: 22",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

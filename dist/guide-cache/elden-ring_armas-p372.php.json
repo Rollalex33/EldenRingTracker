@@ -1,0 +1,66 @@
+{
+  "title": "Antorcha de Nanaya",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p372.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/antorcha-de-nanaya.jpg"
+  ],
+  "lore": "Una antorcha que vincula una llama moribunda de frenesí a una pequeña columna vertebral.\n\n \n\nEn una tierra distante, de un pasado olvidado, nació un hombre incapaz de ser el Señor de la Llama Frenética. Lo único que queda de él está al cuidado de Nanaya.\n\n \n\nHabilidad única: Llama frenética debilitante\n\nSostiene la antorcha al frente y escupe una llama frenética.\n\nEnloquece tanto a quienes quedan atrapados en su área de eefecto como al usuario. El efecto persistirá si sigues pulsando. Puede usarse en movimiento.",
+  "intro": [
+    "-La encuentras en un cadáver en la Casa parroquial de Midra."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 10",
+        "-Inteligencia: 14",
+        "-Fe: 16"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 10\n-Inteligencia: 14\n-Fe: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: E",
+        "-Inteligencia: E",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: E\n-Destreza: E\n-Inteligencia: E\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Antorcha",
+        "-Tipo de daño: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Llama frenética debilitante",
+        "-Coste de PC: 3 (- -)",
+        "Potencia de ataque",
+        "-Físico: 55",
+        "-Magia: 0",
+        "-Fuego: 99",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 25.0",
+        "-Magia: 18.0",
+        "-Fuego: 18.0",
+        "-Rayo: 18.0",
+        "-Sagrado: 18.0",
+        "-Estabilidad: 20",
+        "Efectos pasivos",
+        "-Provoca acumulación de locura (65)."
+      ],
+      "text": "-Categoría: Antorcha\n-Tipo de daño: Golpe\n-Peso: 3.5\n-Habilidad: Llama frenética debilitante\n-Coste de PC: 3 (- -)\nPotencia de ataque\n-Físico: 55\n-Magia: 0\n-Fuego: 99\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 25.0\n-Magia: 18.0\n-Fuego: 18.0\n-Rayo: 18.0\n-Sagrado: 18.0\n-Estabilidad: 20\nEfectos pasivos\n-Provoca acumulación de locura (65).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Antorchas"
+}

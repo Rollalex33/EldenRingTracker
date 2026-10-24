@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de la orden sagrada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p619.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-la-orden-sagrada.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro ritual.\n\nContiene encantamientos de la Orden Dorada.\n\n \n\nConsume PC al lanzarlo contra los enemigos par ainfligirles un importante daño sagrado.\n\n \n\nResulta altamente efectivo contra aquellos que viven en la muerte, dado que también les impide volver a alzarse.\n\nLa Orden Dorada no muestra piedad a quienes traspasan los límites de la ivda.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC. Se lanza a los enemigos para infligir graves daños sagrados."
+      ],
+      "text": "Consume PC. Se lanza a los enemigos para infligir graves daños sagrados.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x2,  Girasol dorado  x1 y  Ciempiés dorado  x1 (necesitas el  Manual de misionero [5] )."
+      ],
+      "text": "-Se puede crear con  Seta  x2,  Girasol dorado  x1 y  Ciempiés dorado  x1 (necesitas el  Manual de misionero [5] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

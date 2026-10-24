@@ -1,0 +1,26 @@
+{
+  "title": "Yosh, el espadachín semihumano",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p65.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/yosh-el-espadachin-semihumano.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\núsalos para invocaar el espíritu de Yosh, el espadachín semihumano.\n\n \n\nOnze, un maestro espadachín que se consagró a la Hoja Estrellada, se percató de que la procesión estelar solo auguraba ruina y se aprisionó a sí mismo para evitarla.\n\n \n\nSin embargo, Yosh, un aprendiz que heredó su técnica, hizo caso omiso de las palabras desu maestro y pasó toda su vida a su lado, desafiando su reclusión autoimpuesta.",
+  "intro": [
+    "-Como recompensa por derrotar al jefazo Onze, maestro espadachín semihumano."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de Yosh, el espadachín semihumano.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 129"
+      ],
+      "text": "Invoca el espíritu de Yosh, el espadachín semihumano.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 129",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

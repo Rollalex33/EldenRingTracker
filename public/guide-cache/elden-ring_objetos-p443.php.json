@@ -1,0 +1,39 @@
+{
+  "title": "Gran flecha dorada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p443.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-flecha-dorada.jpg"
+  ],
+  "lore": "Flechas grandes talladas que se fabricaron con el arco grande del Árbol Áureo. Inflige daño sagrado.\n\n \n\nEstán imbuidas de un encantamiento de fe que aumenta la defensa y la potencia de ataque del usuario y los aliados cercanos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha grande",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 100",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Flecha grande\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 100\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Encuentras 10 dentro de un cofre en la  Cueva del Sabio , en el  Monte Gelmir .",
+        "-Te la vende el  Comerciante ermitaño 2  por 500 runas."
+      ],
+      "text": "-Encuentras 10 dentro de un cofre en la  Cueva del Sabio , en el  Monte Gelmir .\n-Te la vende el  Comerciante ermitaño 2  por 500 runas.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

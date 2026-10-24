@@ -1,0 +1,47 @@
+{
+  "title": "Escarabeo de encantamiento",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p481.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escarabeo-de-encantamiento.jpg"
+  ],
+  "lore": "Escarabeo dorado que se pone directamente en la cabeza.\n\nEstos esecarabeos se encargan de hacer rodar masas de encantamientos.\n\n \n\nReduce ligeramente el coste de PC de los encantamientos, pero aumenta el daño recibido.\n\n \n\nA medida que un escarabeo se aproxima a su muerte, abandona su tesoro y estira as alas preparándose para el largo viaje a su nido original.",
+  "intro": [
+    "-Es el tesoro del Cuadro \"Instinto de retorno\"."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: -5.8",
+        "-VS golpe: -5.6",
+        "-VS tajo: -5.8",
+        "-VS perforación: -5.8",
+        "-Magia: -4.9",
+        "-Fuego: -4.9",
+        "-Rayo: -4.9",
+        "-Sagrado: -5.1",
+        "Resistencia",
+        "-Inmunidad: 42",
+        "-Robustez: 22",
+        "-Concentración: 27",
+        "-Vitalidad: 26",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: -5.8\n-VS golpe: -5.6\n-VS tajo: -5.8\n-VS perforación: -5.8\n-Magia: -4.9\n-Fuego: -4.9\n-Rayo: -4.9\n-Sagrado: -5.1\nResistencia\n-Inmunidad: 42\n-Robustez: 22\n-Concentración: 27\n-Vitalidad: 26\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

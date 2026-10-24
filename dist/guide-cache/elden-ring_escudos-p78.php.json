@@ -1,0 +1,60 @@
+{
+  "title": "Escudo de duelo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p78.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-duelo.jpg"
+  ],
+  "lore": "Un \"escudo embestida\", o combinación de arma y escudo.\n\nPermite atacar y protegerse a la vez.\n\n \n\nFue un arma usada antaño en combates rituales en honor al Árbol Áureo; una costumbre que, de algún modo, permanece en el Reino de las Sombras.\n\n \n\nHabilidad: Arremetida con escudo\n\nUna habilidad que utiliza el escudo para atacar.\n\nVuelve a pulsar para realizar hastsa tres ataques adicionales.",
+  "intro": [
+    "-Lo encuentras en un cadáver en el punto indicado de Fortaleza sombría (cuarta visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 15",
+        "-Destreza: 14"
+      ],
+      "text": "-Fuerza: 15\n-Destreza: 14",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo de embestida",
+        "-Tipo de ataque: Estándar/Perf.",
+        "-Peso: 9.0",
+        "-Habilidad: Arremetida con escudo",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 125",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 88.0",
+        "-Magia: 44.0",
+        "-Fuego: 39.0",
+        "-Rayo: 55.0",
+        "-Sagrado: 53.0",
+        "-Estabilidad: 58"
+      ],
+      "text": "-Categoría: Escudo de embestida\n-Tipo de ataque: Estándar/Perf.\n-Peso: 9.0\n-Habilidad: Arremetida con escudo\n-Coste de PC: -\nPotencia de ataque\n-Físico: 125\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 88.0\n-Magia: 44.0\n-Fuego: 39.0\n-Rayo: 55.0\n-Sagrado: 53.0\n-Estabilidad: 58",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Embestida"
+}

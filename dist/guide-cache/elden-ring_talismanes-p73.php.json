@@ -1,0 +1,38 @@
+{
+  "title": "Exaltación del Señor de la Sangre",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p73.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/exaltacion-del-senor-de-la-sangre.jpg"
+  ],
+  "lore": "Un talisman que representa la exaltación del Señor de la Sangre.\n\n \n\nAumenta la potencia de ataque cuando se produce una hemorragia en las inmediaciones.\n\n \n\n\"Entrega la ofrenda de sangre a tu Señor. Empapa la alcoba de mi consorte. Sacia la sed de su crisálida. Su despertar anunciará el amanecer de nuestra dinastía\".",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Las hemorragias en las inmediaciones aumentan la potencia de ataque."
+      ],
+      "text": "Las hemorragias en las inmediaciones aumentan la potencia de ataque.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 0.9"
+      ],
+      "text": "-Peso: 0.9",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Se consigue como recompensa al derrotar al jefazo  Esgar, Sacerdote de la Sangre ."
+      ],
+      "text": "Se consigue como recompensa al derrotar al jefazo  Esgar, Sacerdote de la Sangre .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes"
+}

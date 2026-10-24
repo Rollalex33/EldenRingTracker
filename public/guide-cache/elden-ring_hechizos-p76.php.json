@@ -1,0 +1,29 @@
+{
+  "title": "Vórtice de putrefacción",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p76.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/vortice-de-putrefaccion.jpg"
+  ],
+  "lore": "Hechicería del Caballero putrefacto.\n\n \n\nLanza un torbellino de chorros pútridos que explotan poco después del impacto y bañan el área en llamas espectrales.\n\n \n\nEn el pasado, la Muerte fue quemada por una llama espectral.\n\nIncluso los restos de carne contaminada recibieron el mismo trato al morir.",
+  "intro": [
+    "-Lo consigues entregándole el Recuerdo de la putrefacción a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Lanza un torbellino de chorros putrefactos.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 29",
+        "-Ranuras: 2",
+        "-Inteligencia necesaria: 32",
+        "-Fe necesaria: 26"
+      ],
+      "text": "Lanza un torbellino de chorros putrefactos.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 29\n-Ranuras: 2\n-Inteligencia necesaria: 32\n-Fe necesaria: 26",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

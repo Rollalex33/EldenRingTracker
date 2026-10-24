@@ -1,0 +1,28 @@
+{
+  "title": "Llama, purifícame",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p28.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/llama-purificame.jpg"
+  ],
+  "lore": "Uno de los encantamientos de los monjes ígneos.\n\n \n\nCrea un fuego interno que quema las toxinas.\n\nReduce la acumulación de veneno y putrefacción roja y cura sus efectos.\n\n \n\nEste encantamiento provoca al invocador unas quemaduras leves: un recordatorio de que deben temer a la llama.",
+  "intro": [
+    "-Se encuentra en un cadáver en el campamento de monjes ígneos en Liurnia (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Reduce la acumulación del veneno y la putrefacción roja y cura sus efectos.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 14",
+        "-Ranuras: 1",
+        "-Fe necesaria: 12"
+      ],
+      "text": "Reduce la acumulación del veneno y la putrefacción roja y cura sus efectos.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 14\n-Ranuras: 1\n-Fe necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

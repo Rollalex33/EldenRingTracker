@@ -1,0 +1,28 @@
+{
+  "title": "Oscuridad",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p25.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/oscuridad.jpg"
+  ],
+  "lore": "Encantamiento de los siervos de los Dos Dedos, que en un tiempo sirvieron como asesinos de la Mesa Redonda.\n\n \n\nCrea un velo de oscuridad que oculta al invocador.\n\nEste encantamiento se puede lanzar en movimiento o en posición agachada.\n\n \n\nLos asesinos fueron en su día Sinluz que se desviaron del camino y cumplían su obligación en la oscuridad que conlleva la ausencia de la Gracia.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn o Miriel por 3.500 runas tras haberle entregado el Devocionario del asesino."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Crea un área de oscuridad que oculta al lanzador.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Fe necesaria: 18"
+      ],
+      "text": "Crea un área de oscuridad que oculta al lanzador.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 24\n-Ranuras: 1\n-Fe necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

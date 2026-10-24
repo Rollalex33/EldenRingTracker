@@ -1,0 +1,28 @@
+{
+  "title": "Electrificar armamento",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p32.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/electrificar-armamento.jpg"
+  ],
+  "lore": "Uno de los encantamientos del culto a los dragones antiguos de la capital.\n\n \n\nDota al arma de la mano derecha de ataques con afinidad \"Fulgurante\".\n\n \n\nHace tiempo, Godwyn el Dorado venció al dragón antiguo Fortissax y trabó amistad con su enemigo derrotado; un evento que dio lugar al culto a los dragones antiguos en la capital.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn o Miriel por 4.000 runas tras haberle entregado el Devocionario del culto draconiano."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Encanta el armamento de la mano derecha con daño de rayo.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 27",
+        "-Ranuras: 1",
+        "-Fe necesaria: 15"
+      ],
+      "text": "Encanta el armamento de la mano derecha con daño de rayo.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 27\n-Ranuras: 1\n-Fe necesaria: 15",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

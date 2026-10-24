@@ -1,0 +1,61 @@
+{
+  "title": "Guja de la plaga",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p151.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guja-de-la-plaga.jpg"
+  ],
+  "lore": "Guja elaborada con un caparazón sólido y afilado. La portaban los parásitos que emergieron del pantano de Aeonia.\n\nAumenta ligeramente la negación de daños que no sean físicos.\n\n \n\nLos hombres jamás entenderán el agudo intelecto de los parásitos, pese a ser el siniestro diseño de esta lanza prueba ferviente de él.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-La pueden soltar los insectos con armas   en Caelid (Noroeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 13",
+        "-Destreza: 13"
+      ],
+      "text": "-Fuerza: 13\n-Destreza: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 7.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 52.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 39",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Estándar/Perforación\n-Peso: 7.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 120\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 52.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 39\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Mangas de hechicero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p142.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/mangas-de-hechicero.jpg"
+  ],
+  "lore": "Mangas que usan los eruditos en hechicería de Raya Lucaria.\n\nEstán hechas con una simple tela que envuelve los antebrazos.",
+  "intro": [
+    "-Las puede soltar el hechicero que está en lo alto de la \"Atalaya de la calzada\" en Liurnia (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 1.1",
+        "Negación de daños",
+        "-Físico: 1.0",
+        "-VS golpe: 1.3",
+        "-VS tajo: 1.3",
+        "-VS perforación: 0.1",
+        "-Magia: 3.2",
+        "-Fuego: 3.1",
+        "-Rayo: 2.9",
+        "-Sagrado: 3.1",
+        "Resistencia",
+        "-Inmunidad: 13",
+        "-Robustez: 4",
+        "-Concentración: 21",
+        "-Vitalidad: 20",
+        "-Aplomo: 0"
+      ],
+      "text": "-Peso: 1.1\nNegación de daños\n-Físico: 1.0\n-VS golpe: 1.3\n-VS tajo: 1.3\n-VS perforación: 0.1\n-Magia: 3.2\n-Fuego: 3.1\n-Rayo: 2.9\n-Sagrado: 3.1\nResistencia\n-Inmunidad: 13\n-Robustez: 4\n-Concentración: 21\n-Vitalidad: 20\n-Aplomo: 0",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

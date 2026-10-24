@@ -1,0 +1,62 @@
+{
+  "title": "Machete de augurio",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p93.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/machete-de-augurio.jpg"
+  ],
+  "lore": "Espada curva pesada de tamaño real que se otorgaba a los augurios como herramientas para la guerra. Esta arma fue creada para aprovechar la fuerza bruta.\n\n \n\nEl patrón que tiene la espada grabado es el vestigio de una maldición de desgaste. De hecho, al conceder un arma, es preciso prepararse adecuadamente para arrebatarla.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-Lo puede soltar el grandullón que está en el patio del Castillo de Velo Tormentoso.",
+    "-También lo pueden soltar los ogros de las Catacumbas al pie del acantilado, en Liurnia (Este) y los de la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 19",
+        "-Destreza: 16"
+      ],
+      "text": "-Fuerza: 19\n-Destreza: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón curvo",
+        "-Tipo de daño: Tajo",
+        "-Peso: 11.5",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 142",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón curvo\n-Tipo de daño: Tajo\n-Peso: 11.5\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 142\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadón curvo"
+}

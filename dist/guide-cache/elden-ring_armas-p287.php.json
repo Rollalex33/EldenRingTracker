@@ -1,0 +1,63 @@
+{
+  "title": "Hoz de guerra de Loretta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p287.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoz-de-guerra-de-loretta.jpg"
+  ],
+  "lore": "Hoz de guerra plateada con intrincadas filigranas qie fue empuñada por Loretta, guerrera del Árbol Hierático.\n\n \n\nOriginalmente otorgada por servir como guardia personal a la realeza cariana, la piedra refulgente azul del arma ha sido sustituida por oro inmaculado.\n\n \n\nHabilidad: Tajo de Loretta\n\nHabilidad de Loretta, Guardia Real.\n\nSalta hacia delante e imbuye la hoja de piedras refulgentes. a continuación, acelera y ataca con un tajo en barrido al descender.",
+  "intro": [
+    "-La consigues como recompensapor derrotar a la jefaza Guardia Real Loretta."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 15",
+        "-Inteligencia: 20"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 15\n-Inteligencia: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Tajo de Loretta",
+        "-Coste de PC: 14",
+        "Potencia de ataque",
+        "-Físico: 110",
+        "-Magia: 71",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 57.0",
+        "-Magia: 49.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 46",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Estándar/Perforación\n-Peso: 10.0\n-Habilidad: Tajo de Loretta\n-Coste de PC: 14\nPotencia de ataque\n-Físico: 110\n-Magia: 71\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 57.0\n-Magia: 49.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 46\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

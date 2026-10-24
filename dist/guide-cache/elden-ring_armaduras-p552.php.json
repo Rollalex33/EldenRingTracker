@@ -1,0 +1,47 @@
+{
+  "title": "Diadema de cuero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p552.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/diadema-de-cuero.jpg"
+  ],
+  "lore": "Diadema que usan los guerreros de los altiplanos. Está hecha de cuero tejido y el toque blanco representa su lugar de origen.\n\n \n\nLos guerreros de los altiplanos son famosos como cazadores de osos; para ellos, no hay acto más glorioso que subyugar a una bestia salvaje.",
+  "intro": [
+    "-La encuentras junto con el resto del set en un cadáver en el punto ya indicado de la Base de Rauh."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 1.0",
+        "Negación de daños",
+        "-Físico: 1.4",
+        "-VS golpe: 2.1",
+        "-VS tajo: 1.8",
+        "-VS perforación: 1.4",
+        "-Magia: 1.8",
+        "-Fuego: 2.3",
+        "-Rayo: 2.8",
+        "-Sagrado: 2.3",
+        "Resistencia",
+        "-Inmunidad: 16",
+        "-Robustez: 10",
+        "-Concentración: 12",
+        "-Vitalidad: 11",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 1.0\nNegación de daños\n-Físico: 1.4\n-VS golpe: 2.1\n-VS tajo: 1.8\n-VS perforación: 1.4\n-Magia: 1.8\n-Fuego: 2.3\n-Rayo: 2.8\n-Sagrado: 2.3\nResistencia\n-Inmunidad: 16\n-Robustez: 10\n-Concentración: 12\n-Vitalidad: 11\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

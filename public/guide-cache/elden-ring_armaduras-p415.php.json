@@ -1,0 +1,47 @@
+{
+  "title": "Casco de duelista podrido",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p415.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-duelista-podrido.jpg"
+  ],
+  "lore": "Casco de bronce adornado con afinidad de serpientes, aunque está consumido por la putrefacción roja.\n\n \n\nLo usaban los gladiadores que fueron expulsados del coliseo.\n\nSu portador se convierte en un objetivo algo más fácil para los enemigos.",
+  "intro": [
+    "-Lo suelta el \"Duelista\" en el interior de la Tumba del héroe santificado (Meseta Altus) al que tienes que eliminar para desbloquear el portón del jefazo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 6.4",
+        "Negación de daños",
+        "-Físico: 5.5",
+        "-VS golpe: 4.6",
+        "-VS tajo: 5.8",
+        "-VS perforación: 5.8",
+        "-Magia: 4.5",
+        "-Fuego: 4.6",
+        "-Rayo: 4.4",
+        "-Sagrado: 4.5",
+        "Resistencia",
+        "-Inmunidad: 31",
+        "-Robustez: 31",
+        "-Concentración: 14",
+        "-Vitalidad: 14",
+        "-Aplomo: 8"
+      ],
+      "text": "-Peso: 6.4\nNegación de daños\n-Físico: 5.5\n-VS golpe: 4.6\n-VS tajo: 5.8\n-VS perforación: 5.8\n-Magia: 4.5\n-Fuego: 4.6\n-Rayo: 4.4\n-Sagrado: 4.5\nResistencia\n-Inmunidad: 31\n-Robustez: 31\n-Concentración: 14\n-Vitalidad: 14\n-Aplomo: 8",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

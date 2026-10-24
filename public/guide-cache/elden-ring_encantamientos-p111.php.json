@@ -1,0 +1,28 @@
+{
+  "title": "Territorios de sombras",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p111.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/territorios-de-sombras.jpg"
+  ],
+  "lore": "Encantamiento originario de los avatares del Árbol Umbrío.\n\n \n\nCrea una salva de proyectiles dorados que se lanzan a los enemigos tras un breve retraso.\n\n \n\nEste encantamiento canaliza la fuerza del Árbol Umbrío y su oro está acompañado de sombras.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del girasol sombrío a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara una lluvia de proyectiles dorados.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 58",
+        "-Ranuras: 1",
+        "-Fe necesaria: 40"
+      ],
+      "text": "Dispara una lluvia de proyectiles dorados.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 58\n-Ranuras: 1\n-Fe necesaria: 40",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

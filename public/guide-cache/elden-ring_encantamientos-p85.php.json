@@ -1,0 +1,28 @@
+{
+  "title": "Arde, ¡oh, llama!",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p85.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arde-oh-llama.jpg"
+  ],
+  "lore": "Uno de los encantamientos que proviene directamente del poder de los gigantes de fuego.\n\n \n\nLibera una serie de pilares de fuego alrededor del lanzador.\n\nEl número de pilares aumenta al cargarlo.\n\n \n\nLos gigantes de fuego tomaron prestado el poder de un dios caído y, aún así, fueron derrotados. Pero su fracaso los liberó de su maldición de soledad: servir como custodios de la llama durante toda la eternidad.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del gigante de fuegoa Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Libera una serie de columnas de llamas alrededor del lanzador.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 26",
+        "-Ranuras: 1",
+        "-Fe necesaria: 27"
+      ],
+      "text": "Libera una serie de columnas de llamas alrededor del lanzador.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 26\n-Ranuras: 1\n-Fe necesaria: 27",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

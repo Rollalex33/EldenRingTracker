@@ -1,0 +1,64 @@
+{
+  "title": "Lanza de cristal pútrido",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p290.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-de-cristal-putrido.jpg"
+  ],
+  "lore": "Lanza hecha de cristal puro, un trabajo imposible para un ser humano.\n\nSupura putrefacción roja.\n\n \n\nEstá imbuida de una poderosa magia y su ataque escala con inteligencia.\n\n \n\nHabilidad: Carga al frente\n\nCarga rápidamente hacia delante con el arma en la cadera y aprovecha el impulso para terminar en embestida.\n\nMantén la habilidad para cubrir una mayor distancia.",
+  "intro": [
+    "-La suelta uno de los Cristaliano que aparece como enemigo normal junto a otros 2 en el punto ya indicado de Elphael,  tutor del Árbol Hierático."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 16",
+        "-Inteligencia: 16"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 16\n-Inteligencia: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Inteligencia: E"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Inteligencia: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza",
+        "-Tipo de daño: Perforación",
+        "-Peso: 5.5",
+        "-Habilidad: Carga al frente",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 104",
+        "-Magia: 31",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 48.0",
+        "-Magia: 33.0",
+        "-Fuego: 26.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 26.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos",
+        "-Provoca acumulación de putrefacción (55)."
+      ],
+      "text": "-Categoría: Lanza\n-Tipo de daño: Perforación\n-Peso: 5.5\n-Habilidad: Carga al frente\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 104\n-Magia: 31\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 48.0\n-Magia: 33.0\n-Fuego: 26.0\n-Rayo: 26.0\n-Sagrado: 26.0\n-Estabilidad: 33\nEfectos pasivos\n-Provoca acumulación de putrefacción (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Manto de espinas",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p74.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/manto-de-espinas.jpg"
+  ],
+  "lore": "Hechicería de quienes abandonaron los encantamientos después de que la fe solo les trajera desesperación.\n\n \n\nCubre a quien la lanza con impenetrables espinas del Árbol Umbrío.\n\nUna vez cubierto, las esquivas rodando dañarán a los enemigos.\n\n \n\nLa imagen del retorcido Árbol Umbrío es un edicto:\n\nDesprecia y hiere todo cuanto existe.\n\nPues hemos sido abandonados.",
+  "intro": [
+    "-Lo consigues como recompensa por derrotar al Espíritu del árbol ulcerado en Fortaleza sombría (primera visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Te cubre con las impenetrables espinas del Árbol Umbrío.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 9",
+        "-Ranuras: 1",
+        "-Fe necesaria: 20"
+      ],
+      "text": "Te cubre con las impenetrables espinas del Árbol Umbrío.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 9\n-Ranuras: 1\n-Fe necesaria: 20",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

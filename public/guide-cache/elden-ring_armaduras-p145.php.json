@@ -1,0 +1,48 @@
+{
+  "title": "Armadura de caballero de Leyndell",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p145.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-caballero-de-leyndell.jpg"
+  ],
+  "lore": "Armadura usada por los caballeros que juraron defender Leyndell, capital del Reino.\n\n \n\nEl lado izquierdo del pecho tiene como blasón un símbolo de adoración del Árbol Áureo. Se dice que antaño estuvo imbuido con un encantamiento de protección.",
+  "intro": [
+    "-La puede soltar un Caballero de Leyndell en el punto ya indicado de Liurnia (Este).",
+    "-También la pueden soltar los que están por la Meseta Altus y cómo no, en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 11.8",
+        "Negación de daños",
+        "-Físico: 13.5",
+        "-VS golpe: 12.4",
+        "-VS tajo: 13.5",
+        "-VS perforación: 13.5",
+        "-Magia: 10.2",
+        "-Fuego: 11.4",
+        "-Rayo: 11.4",
+        "-Sagrado: 10.2",
+        "Resistencia",
+        "-Inmunidad: 35",
+        "-Robustez: 55",
+        "-Concentración: 24",
+        "-Vitalidad: 24",
+        "-Aplomo: 19"
+      ],
+      "text": "-Peso: 11.8\nNegación de daños\n-Físico: 13.5\n-VS golpe: 12.4\n-VS tajo: 13.5\n-VS perforación: 13.5\n-Magia: 10.2\n-Fuego: 11.4\n-Rayo: 11.4\n-Sagrado: 10.2\nResistencia\n-Inmunidad: 35\n-Robustez: 55\n-Concentración: 24\n-Vitalidad: 24\n-Aplomo: 19",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de ave tumular",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p75.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-ave-tumular.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de un ave tumular.\n\n \n\nEl espíritu de un antiguo gólem y guardián espiritual que vuela con alas de piedra y escupe llamas espectrales.\n\n \n\nSegún la leyenda, las aves tumulares están emparentadas con las aves de la muerte.",
+  "intro": [
+    "-Las encuentras en un cadáver en el punto indicado de la Tumba oculta de Charo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de un ave tumular.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 65"
+      ],
+      "text": "Invoca el espíritu de un ave tumular.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 65",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

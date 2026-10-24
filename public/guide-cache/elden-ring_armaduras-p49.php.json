@@ -1,0 +1,47 @@
+{
+  "title": "Casco kaiden",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p49.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-kaiden.jpg"
+  ],
+  "lore": "Casco de soldado a sueldo de Kaiden.\n\n \n\nEstos mercenarios corpulentos e intrépidos, de los uqe se dice que proceden del gélido norte, son expertos en luchar a lomos de un caballo.\n\nKaiden es el nombre de su lugar de origen.",
+  "intro": [
+    "-Lo pueden soltar los mercenarios (a pie o a caballo) que hay por Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.0",
+        "Negación de daños",
+        "-Físico: 4.4",
+        "-VS golpe: 3.4",
+        "-VS tajo: 4.4",
+        "-VS perforación: 4.4",
+        "-Magia: 3.1",
+        "-Fuego: 3.4",
+        "-Rayo: 2.8",
+        "-Sagrado: 3.1",
+        "Resistencia",
+        "-Inmunidad: 12",
+        "-Robustez: 22",
+        "-Concentración: 9",
+        "-Vitalidad: 9",
+        "-Aplomo: 5"
+      ],
+      "text": "-Peso: 4.0\nNegación de daños\n-Físico: 4.4\n-VS golpe: 3.4\n-VS tajo: 4.4\n-VS perforación: 4.4\n-Magia: 3.1\n-Fuego: 3.4\n-Rayo: 2.8\n-Sagrado: 3.1\nResistencia\n-Inmunidad: 12\n-Robustez: 22\n-Concentración: 9\n-Vitalidad: 9\n-Aplomo: 5",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

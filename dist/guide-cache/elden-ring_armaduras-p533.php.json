@@ -1,0 +1,47 @@
+{
+  "title": "Casco de la Noche",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p533.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-la-noche.jpg"
+  ],
+  "lore": "Casco negro como el carbón y frío al tacto.\n\nLíneas fluidas con la aparente forma de una huella dactilar adornan su superficie. Encierra a su portador en una oscuridad total.\n\n \n\nFue otorgado a los nacidos en las profundidades subterráneas y los ordena como espadachines de la Noche.",
+  "intro": [
+    "-Lo encuentras en un cadáver en la Prisión de Bonny."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.0",
+        "Negación de daños",
+        "-Físico: 2.5",
+        "-VS golpe: 2.5",
+        "-VS tajo: 2.8",
+        "-VS perforación: 2.8",
+        "-Magia: 4.4",
+        "-Fuego: 3.4",
+        "-Rayo: 3.4",
+        "-Sagrado: 4.5",
+        "Resistencia",
+        "-Inmunidad: 23",
+        "-Robustez: 14",
+        "-Concentración: 20",
+        "-Vitalidad: 20",
+        "-Aplomo: 4"
+      ],
+      "text": "-Peso: 3.0\nNegación de daños\n-Físico: 2.5\n-VS golpe: 2.5\n-VS tajo: 2.8\n-VS perforación: 2.8\n-Magia: 4.4\n-Fuego: 3.4\n-Rayo: 3.4\n-Sagrado: 4.5\nResistencia\n-Inmunidad: 23\n-Robustez: 14\n-Concentración: 20\n-Vitalidad: 20\n-Aplomo: 4",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

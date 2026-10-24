@@ -1,0 +1,48 @@
+{
+  "title": "Armadura estriada de plata",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p638.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-estriada-de-plata.jpg"
+  ],
+  "lore": "Armadura de plata cuya experta manufactura compensa su peso.\n\nPese a su finísimo grosor, sus surcos bellamente grabados la convierten en un equipo protector de gran resistencia.\n\n \n\nLa vestidura verde se otorga al obtener la guía de la Gracia; aunque su portador no sea más que un retoño en el presente, con el tiempo se convertirá en oro maduro.",
+  "intro": [
+    "-Forma parte del equipamiento inicial de la clase Caballero de Idus (Tarnished Pack).",
+    "-Te la vende el Comerciante nómada 6 (Tarnished Pack)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.1",
+        "Negación de daños",
+        "-Físico: 10.2",
+        "-VS golpe: 9.4",
+        "-VS tajo: 10.0",
+        "-VS perforación: 9.8",
+        "-Magia: 6.8",
+        "-Fuego: 7.4",
+        "-Rayo: 5.8",
+        "-Sagrado: 7.7",
+        "Resistencia",
+        "-Inmunidad: 23",
+        "-Robustez: 37",
+        "-Concentración: 14",
+        "-Vitalidad: 14",
+        "-Aplomo: 16"
+      ],
+      "text": "-Peso: 7.1\nNegación de daños\n-Físico: 10.2\n-VS golpe: 9.4\n-VS tajo: 10.0\n-VS perforación: 9.8\n-Magia: 6.8\n-Fuego: 7.4\n-Rayo: 5.8\n-Sagrado: 7.7\nResistencia\n-Inmunidad: 23\n-Robustez: 37\n-Concentración: 14\n-Vitalidad: 14\n-Aplomo: 16",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

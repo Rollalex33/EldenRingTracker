@@ -1,0 +1,61 @@
+{
+  "title": "Filo semicircular",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p128.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/filo-semicircular.jpg"
+  ],
+  "lore": "Esta singular espada, que solía ser empuñada por jóvenes albináuricos, está inspirada en las ondulaciones que se consideran el origen de su especie.\n\n \n\nHabilidad: Golpes salvajes\n\nBalancea tu arma con desenfreno.\n\nSigue balanceándola mientras mantienes el botón pulsado. Puedes acompañarla con un ataque normal o potente.",
+  "intro": [
+    "-Te la vende Pidia por 3.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 11",
+        "-Arcano: 20"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 11\n-Arcano: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Arcano: A"
+      ],
+      "text": "-Arcano: A",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 4.5",
+        "-Habilidad: Golpes salvajes",
+        "-Coste de PC: 2 (10 15)",
+        "Potencia de ataque",
+        "-Físico: 75",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Estándar\n-Peso: 4.5\n-Habilidad: Golpes salvajes\n-Coste de PC: 2 (10 15)\nPotencia de ataque\n-Físico: 75\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 47.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Caballero proscrito Oleg",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p2.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/caballero-proscrito-oleg.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de Oleg, el caballero proscrito.\n\n \n\nUno de los dos caballeros conocidos como las Alas de la Tormenta.\n\nDespués de su destierro, atrajo la atención del Señor agraciado y, más tarde, tras asesinar a cientos de traidores como mano derecha del Señor, Oleg fue recibido como héroe al regresar al Árbol Áureo.",
+  "intro": [
+    "-Como recompensa por derrotar al jefazo Espíritu del árbol ulcerado."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu del caballero proscrito Oleg.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 100"
+      ],
+      "text": "Invoca el espíritu del caballero proscrito Oleg.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 100",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

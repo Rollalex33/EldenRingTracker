@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Orden común",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p61.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-orden-comun.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Sagrado\" y la siguiente habilidad:\n\n \n\n\"Orden común: Habilidad de los caballeros fundamentalistas de la Orden Dorada. Imbuye tu arma y las de los aliados cercanos de esencia sagrada. Resulta altamente efectiva contra aquellos que viven en la muerte\".\n\n \n\nPuede usarse en todas las armas cuerpo a cuerpo.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en armas cuerpo a cuerpo.",
+        "-Tipo: Sagrado"
+      ],
+      "text": "Puede usarse en armas cuerpo a cuerpo.\n-Tipo: Sagrado",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La suelta el jefazo  Caballería nocturna  en  Meseta Altus ."
+      ],
+      "text": "-La suelta el jefazo  Caballería nocturna  en  Meseta Altus .",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Sagrado"
+}

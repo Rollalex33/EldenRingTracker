@@ -1,0 +1,28 @@
+{
+  "title": "Pozo de gravedad",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p32.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/pozo-de-gravedad.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes que manipulan las fuerzas gravitatorias.\n\n \n\nDispara un proyectil de fuerza gravitatoria condensada. Aquellos a quienes golpee serán atraídos hacia el invocador.\n\nLa potencia de este hechizo aumenta al cargarlo.\n\n \n\nUna técnica gravitatoria estudiada por el joven Radahn. Su maestro fue un Señor de alabastro con la piel de piedra,",
+  "intro": [
+    "-Lo suelta un zombi mago en la Academia de Raya Lucaria, en Liurnia (Norte)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Atrae a los enemigos hacia el lanzador con un proyectil gravitatorio.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 12",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 17"
+      ],
+      "text": "Atrae a los enemigos hacia el lanzador con un proyectil gravitatorio.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 12\n-Ranuras: 1\n-Inteligencia necesaria: 17",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

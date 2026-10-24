@@ -1,0 +1,66 @@
+{
+  "title": "Arco grande",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p159.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arco-grande.jpg"
+  ],
+  "lore": "Arco colosal, más grande que cualquier hombre. Aquellos que poseen una fuerza media ni siquiera son capaces de empuñarlo, pero la potencia de sus disparos es extraordinaria.\n\n \n\nLos arcos grandes tan solo pueden disparar flechas grandes.\n\n \n\nHabilidad: De punta en el blanco\n\nUna potente habilidad de arquero en la que se utiliza un arco grande en una posición oblicua.\n\nPrepara el arco y gira la cuerda para disparar una imponente flecha que puede atravesar a los enemigos.",
+  "intro": [
+    "-Lo pueden soltar los Caballeros de la Melena Roja en Caelid (Noroeste) y Caelid (principal).",
+    "-También la pueden soltar los que están por la Meseta Altus y cómo no, en Leyndell.",
+    "-Encuentras 1 dentro de un cofre en la \"Atalaya de la calzada\" en la Meseta Altus.",
+    "-Lo pueden soltar los Caballeros del Árbol Hierático que hay por la  zona de Elphael,  tutor del Árbol Hierático.",
+    "-Lo puede soltar el Caballero Negro que está en las Catacumbas del río Escorpión (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 20"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arco grande",
+        "-Tipo de daño: Nada",
+        "-Peso: 10.0",
+        "-Habilidad: De punta en el blanco",
+        "-Coste de PC: - (9 9)",
+        "Potencia de ataque",
+        "-Físico: 125",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Alcance: 50",
+        "Protección contra daños",
+        "-Físicos: -",
+        "-Magia: -",
+        "-Fuego: -",
+        "-Rayo: -",
+        "-Sagrado: -",
+        "-Estabilidad: -",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arco grande\n-Tipo de daño: Nada\n-Peso: 10.0\n-Habilidad: De punta en el blanco\n-Coste de PC: - (9 9)\nPotencia de ataque\n-Físico: 125\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Alcance: 50\nProtección contra daños\n-Físicos: -\n-Magia: -\n-Fuego: -\n-Rayo: -\n-Sagrado: -\n-Estabilidad: -\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Arcos grandes"
+}

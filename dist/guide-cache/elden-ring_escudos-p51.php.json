@@ -1,0 +1,60 @@
+{
+  "title": "Escudo mural",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p51.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-mural.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-mural_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-mural_2.jpg"
+  ],
+  "lore": "Escudo grande con una escena divina, la recepción de la lágrima bendita del Árbol Áureo. Un objeto que obseva con orgullo los tiempos pasados de abundancia.\n\n \n\nLa escena divina actúa en sí misma como una invocación sagrada, por lo que ofrece una recuperación gradual de PS al portarlo.\n\n \n\nSin habilidad\n\nEsta arma no tiene ninguna habilidad.\n\nSi el arma que llevas en la otra mano tiene alguna habilidad, se utilizará dicha habilidad.",
+  "intro": [
+    "-Se en un cadáver  en la Meseta Altus, en las \"Ruinas de los silvanos\" cerca del \"Árbol Áureo pequeño\"."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 22"
+      ],
+      "text": "-Fuerza: 22",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo grande",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 11.5",
+        "-Habilidad: Sin habilidad",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 133",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 95.0",
+        "-Magia: 49.0",
+        "-Fuego: 45.0",
+        "-Rayo: 51.0",
+        "-Sagrado: 48.0",
+        "-Estabilidad: 59"
+      ],
+      "text": "-Categoría: Escudo grande\n-Tipo de ataque: Golpe\n-Peso: 11.5\n-Habilidad: Sin habilidad\n-Coste de PC: -\nPotencia de ataque\n-Físico: 133\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 95.0\n-Magia: 49.0\n-Fuego: 45.0\n-Rayo: 51.0\n-Sagrado: 48.0\n-Estabilidad: 59",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Grandes"
+}

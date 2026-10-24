@@ -1,0 +1,38 @@
+{
+  "title": "Talismán de tirador",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p100.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/talisman-del-tirador.jpg"
+  ],
+  "lore": "Talismán que muestra a un arquero con un arco largo.\n\nAumenta la potencia de ataque de los disparos de precisión.\n\n \n\nLos arqueros albináuricos eran únicos en su especie y sus letales especialistas de largo alcance infundían temor en los corazones de los hombres.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Aumenta la potencia de ataque de los disparos de precisión."
+      ],
+      "text": "Aumenta la potencia de ataque de los disparos de precisión.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 0.6"
+      ],
+      "text": "-Peso: 0.6",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo encuentras dentro de la Cabaña albináurica en  Vista Sombría ."
+      ],
+      "text": "-Lo encuentras dentro de la Cabaña albináurica en  Vista Sombría .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes del DLC Shadow of the Erdtree"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hoja llameante de monje",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p304.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-llameante-de-monje.jpg"
+  ],
+  "lore": "Espadón curvo con un motivo de una llama crepitante.\n\nLa empuñan los monjes ígneos que vinieron de los Picos de los gigantes.\n\n \n\nLos monjes vinieron a Liurnia en busca de un fugitivo que les había robado el fuego.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "Lo puede soltar el monje que ya te indicamos dentro de la Tumba del héroe matagigantes."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 18",
+        "-Destreza: 18"
+      ],
+      "text": "-Fuerza: 18\n-Destreza: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón curvo",
+        "-Tipo de daño: Tajo",
+        "-Peso: 9.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 134",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 61.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 39",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón curvo\n-Tipo de daño: Tajo\n-Peso: 9.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 134\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 61.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 39\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadón curvo"
+}

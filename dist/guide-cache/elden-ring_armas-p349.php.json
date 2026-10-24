@@ -1,0 +1,63 @@
+{
+  "title": "Sello de Caballero de Fuego",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p349.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/sello-de-caballero-de-fuego.jpg"
+  ],
+  "lore": "Sello sagrado de los Caballeros de Fuego, quienes respondían directamente ante Messmer el Empalador.\n\n \n\nMejora los encantamientos de la llama de Messmer.\n\n \n\nEl emblema del ejército de Messmer muestra un anillo dorado y el fuego de su sello sagrado.\n\n \n\nHabilidad: Sin habilidad\n\nEstsa arma no tienen ninguna habilidad.\n\nSi el arma que llevas en la otra mano tiene alguna habilidad, se utilizará dicha habilidad.",
+  "intro": [
+    "-Lo encuentras en un cadáver en Fortaleza sombría (primera visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Fe: 23"
+      ],
+      "text": "-Fuerza: 8\n-Fe: 23",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Fe: C"
+      ],
+      "text": "-Fuerza: E\n-Fe: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Sello sagrado",
+        "-Tipo de daño: Golpe",
+        "-Peso: 1.5",
+        "-Habilidad: Sin habilidad",
+        "-Coste de PC: - (- -)",
+        "Potencia de ataque",
+        "-Físico: 25",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Encantamiento: 182",
+        "Protección contra daños",
+        "-Físicos: 25.0",
+        "-Magia: 15.0",
+        "-Fuego: 15.0",
+        "-Rayo: 15.0",
+        "-Sagrado: 15.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos",
+        "Potencia los encantamientos de la llama de Messmer."
+      ],
+      "text": "-Categoría: Sello sagrado\n-Tipo de daño: Golpe\n-Peso: 1.5\n-Habilidad: Sin habilidad\n-Coste de PC: - (- -)\nPotencia de ataque\n-Físico: 25\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Encantamiento: 182\nProtección contra daños\n-Físicos: 25.0\n-Magia: 15.0\n-Fuego: 15.0\n-Rayo: 15.0\n-Sagrado: 15.0\n-Estabilidad: 15\nEfectos pasivos\nPotencia los encantamientos de la llama de Messmer.",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Sello Sagrado"
+}

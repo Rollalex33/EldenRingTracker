@@ -1,0 +1,63 @@
+{
+  "title": "Gran machete de asesino de augurios",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p202.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-machete-de-asesino-de-augurios.jpg"
+  ],
+  "lore": "La hoja de este enorme y repugnante machete está compuesta por cuernos amputados de augurios. Arma masacradora empuñada por los asesinos de augurios.\n\n \n\nLos horrorosos cuernos pueden provocar hemorragias, lo cual baña de un intenso color rojo al caos que causan.\n\n \n\nHabilidad: Golpes salvajes\n\nBalancea tu arma con desenfreno.\n\nSigue balanceándola mientras mantienes el botón pulsado. Puedes acompañarla con un ataque normal o potente.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al dueto de jefazos Asesino de augurios + Miranda, la flor marchita en la Gruta del Perfumista.",
+    "-Tambien lo suelta el Asesino de augurios que aparece como enemgo normal en la Mansión del Volcán, en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 23",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 23\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 11.0",
+        "-Habilidad: Golpes salvajes",
+        "-Coste de PC: 2 (10 15)",
+        "Potencia de ataque",
+        "-Físico: 142",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 63.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 45.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Gran hacha\n-Tipo de daño: Estándar\n-Peso: 11.0\n-Habilidad: Golpes salvajes\n-Coste de PC: 2 (10 15)\nPotencia de ataque\n-Físico: 142\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 63.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 45.0\n-Estabilidad: 42\nEfectos pasivos\n-Provoca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes hachas"
+}

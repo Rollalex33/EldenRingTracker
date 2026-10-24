@@ -1,0 +1,29 @@
+{
+  "title": "Rencor de Rykard",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p66.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/rencor-de-rykard.jpg"
+  ],
+  "lore": "El terrible poder de Rykard, señor de la Blasfemia.\n\n \n\nInvoca espíritus lacerantes que dejan un rastro de explosiones en retardo al despertar.\n\n \n\nEstos espíritus se manifiestan a partir del rencor de los héroes que sufrieron un final violento. El señor les concedió audiencia, tras la cual fueron recibidos por las fauces de la gran serpiente. Y en el interior de las entrañas de la serpiente, se convirtieron en sus semejantes.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del blasfemo a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Libera espíritus lacerantes que explotan repetidamente tras un tiempo de espera.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 23",
+        "-Ranuras: 2",
+        "-Inteligencia necesaria: 40",
+        "-Fe necesaria: 18"
+      ],
+      "text": "Libera espíritus lacerantes que explotan repetidamente tras un tiempo de espera.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 23\n-Ranuras: 2\n-Inteligencia necesaria: 40\n-Fe necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

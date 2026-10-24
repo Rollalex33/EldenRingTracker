@@ -1,0 +1,38 @@
+{
+  "title": "Talismán de la dádiva del señor",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p104.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/talisman-de-la-dadiva-del-senor.jpg"
+  ],
+  "lore": "Talismán que muestra a Godfrey, primer Señor del Círculo, mientras recibe la preciada savia.\n\n \n\nAl usar un vial de lágrimas, aumenta el aplomo.\n\n \n\nEl Señor del Árbol Áureo aceptó la savia estoicamente, sin atisbo de vacilación. ¡No debe sorprender que proyecte una larga sombra sobre las tierras!",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Al usar un vial de lágrimas, aumenta el aplomo."
+      ],
+      "text": "Al usar un vial de lágrimas, aumenta el aplomo.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.0"
+      ],
+      "text": "-Peso: 3.0",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo encuentras junto al árbol dorado en el punto indicado de  Fortaleza sombría (tercera visita) ."
+      ],
+      "text": "-Lo encuentras junto al árbol dorado en el punto indicado de  Fortaleza sombría (tercera visita) .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes del DLC Shadow of the Erdtree"
+}

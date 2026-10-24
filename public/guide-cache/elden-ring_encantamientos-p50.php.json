@@ -1,0 +1,29 @@
+{
+  "title": "Constitución de bestia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p50.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/constitucion-de-bestia.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/constitucion-de-bestia_2.jpg"
+  ],
+  "lore": "Encantamiento instruido por Gurranq, el Clérigo Bestia.\n\n \n\nLlena el cuerpo de vigor de bestia y alivia la acumulación de congelación y hemorragias.\n\n \n\nTras adquirir inteligencia, las bestias debieron haber sentido cómo se esfumaba su naturaleza salvaje a medida que se extendía la civilización.",
+  "intro": [
+    "Baja por unas rocas al Sur del \"Gran puente de Farum\", en el punto ya indicado de Montedrago y encontrarás allí un escarabajo que suelta este encantamiento."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Reduce la acumulación de hemorragias y congelación.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 10",
+        "-Ranuras: 1",
+        "-Fe necesaria: 9"
+      ],
+      "text": "Reduce la acumulación de hemorragias y congelación.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 10\n-Ranuras: 1\n-Fe necesaria: 9",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

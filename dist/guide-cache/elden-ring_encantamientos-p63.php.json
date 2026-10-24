@@ -1,0 +1,28 @@
+{
+  "title": "Bendición del dracorrayo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p63.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/bendicion-del-dracorrayo.jpg"
+  ],
+  "lore": "Encantamiento superior del culto a los dragones antiguos de la capital.\n\n \n\nInvoca un rayo que refuerza el cuerpo del invocador. Desviar los ataques se vuelve más fácil y aumenta la resistencia a todos los daños. No obstante, la negación de daños de rayo se reduce.\n\n \n\nSolo aquellos a los que los dragones aprecian pueden sobrevivir al calvario de recubrir su cuerpo con el rayo.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en la \"Iglesia del invocador de tormentas\" en la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Refuerza el cuerpo del invocador con rayo.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 20",
+        "-Ranuras: 1",
+        "-Fe necesaria: 21"
+      ],
+      "text": "Refuerza el cuerpo del invocador con rayo.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 20\n-Ranuras: 1\n-Fe necesaria: 21",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

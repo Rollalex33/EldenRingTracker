@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de caballero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p104.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-caballero.jpg"
+  ],
+  "lore": "Armadura de hierro de un caballero desconocido.\n\nEstá hecha de una fina placa de hierro.\n\n \n\nEsta protección metálica es pesada, pero ofrece una considerable negación de daños.",
+  "intro": [
+    "-Te la venden las Doncellas gemelas quiescentes por 4.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 10.6",
+        "Negación de daños",
+        "-Físico: 12.4",
+        "-VS golpe: 11.9",
+        "-VS tajo: 13.5",
+        "-VS perforación: 13.5",
+        "-Magia: 10.9",
+        "-Fuego: 10.9",
+        "-Rayo: 9.5",
+        "-Sagrado: 8.8",
+        "Resistencia",
+        "-Inmunidad: 28",
+        "-Robustez: 50",
+        "-Concentración: 18",
+        "-Vitalidad: 18",
+        "-Aplomo: 19"
+      ],
+      "text": "-Peso: 10.6\nNegación de daños\n-Físico: 12.4\n-VS golpe: 11.9\n-VS tajo: 13.5\n-VS perforación: 13.5\n-Magia: 10.9\n-Fuego: 10.9\n-Rayo: 9.5\n-Sagrado: 8.8\nResistencia\n-Inmunidad: 28\n-Robustez: 50\n-Concentración: 18\n-Vitalidad: 18\n-Aplomo: 19",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

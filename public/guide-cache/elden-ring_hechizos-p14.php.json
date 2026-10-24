@@ -1,0 +1,28 @@
+{
+  "title": "Esquirla de piedra refulgente ligera",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p14.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/esquirla-de-piedra-refulgente-ligera.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes de la Academia de Raya Lucaria.\n\n \n\nLa piedra refulgente canaliza la magia para lanzar ágiles proyectiles mágicos a los enemigos.\n\nEste hechizo se puede usar inmediatamente tras realizar otra acción.\n\n \n\nAquellos no merecedores de la corona de piedra suelen concluir aquí su breve trayectoria en la hechicería.",
+  "intro": [
+    "-Te lo vende Hechicera Sellen o Miriel por 600 runas, tras haberle entregado el Pergamino de la academia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara con rapidez proyectiles mágicos de piedra refulgente.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 5",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 12"
+      ],
+      "text": "Dispara con rapidez proyectiles mágicos de piedra refulgente.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 5\n-Ranuras: 1\n-Inteligencia necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

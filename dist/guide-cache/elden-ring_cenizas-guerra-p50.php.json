@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Tajo doble",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p50.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-tajo-doble.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Ligero\" y la siguiente habilidad:\n\n \n\n\"Tajo doble: Habilidad propia de espadachines de alto nivel. Lleva a cabo un ataque de tajo cruzado desde una posición baja. Si se usa repetidamente, se pueden asestar hasta dos ataques adicionales\".\n\n \n\nPuede usarse en espadas y armas de asta capaces de asestar ataques de tajo (exceptuando armas colosales).",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en espadas y armas de tajo de asta (exceptuando armas colosales).",
+        "-Tipo: Ligero"
+      ],
+      "text": "Puede usarse en espadas y armas de tajo de asta (exceptuando armas colosales).\n-Tipo: Ligero",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La suelta un escarabajo en un tejado de  Sellia, ciudad de la hechicería , ( Caelid (principal) )."
+      ],
+      "text": "-La suelta un escarabajo en un tejado de  Sellia, ciudad de la hechicería , ( Caelid (principal) ).",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Ligero"
+}

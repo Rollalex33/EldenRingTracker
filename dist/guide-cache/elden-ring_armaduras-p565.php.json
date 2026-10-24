@@ -1,0 +1,47 @@
+{
+  "title": "Casco de Gaius",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p565.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-gaius.jpg"
+  ],
+  "lore": "Casco de hierro negro del comandante Gaius.\n\nForma parte de una armadura decorada con un diseño de semillas caídas.\n\n \n\nGaius fue el discípulo más antiguo del mismo Señor de alabastro que enseñó la técnica gravitatoria a Radahn y a Gaea.",
+  "intro": [
+    "-Te lo vende Enia por 8.000 runas después de haber derrotado al jefazo Caballero putrefacto."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 8.6",
+        "Negación de daños",
+        "-Físico: 6.1",
+        "-VS golpe: 5.6",
+        "-VS tajo: 7.2",
+        "-VS perforación: 7.0",
+        "-Magia: 5.0",
+        "-Fuego: 4.9",
+        "-Rayo: 4.9",
+        "-Sagrado: 4.9",
+        "Resistencia",
+        "-Inmunidad: 29",
+        "-Robustez: 35",
+        "-Concentración: 23",
+        "-Vitalidad: 23",
+        "-Aplomo: 12"
+      ],
+      "text": "-Peso: 8.6\nNegación de daños\n-Físico: 6.1\n-VS golpe: 5.6\n-VS tajo: 7.2\n-VS perforación: 7.0\n-Magia: 5.0\n-Fuego: 4.9\n-Rayo: 4.9\n-Sagrado: 4.9\nResistencia\n-Inmunidad: 29\n-Robustez: 35\n-Concentración: 23\n-Vitalidad: 23\n-Aplomo: 12",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

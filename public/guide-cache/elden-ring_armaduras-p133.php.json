@@ -1,0 +1,48 @@
+{
+  "title": "Brazaletes de plata cerúlea",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p133.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/brazaletes-de-plata-cerulea.jpg"
+  ],
+  "lore": "Brazaletes elaborados con plata cerúlea.\n\nLos llevaban los arqueros albináuricos que montaban en lobos.\n\n \n\nLa plata azulada es un metal nacido de la misma madre que los propios arqueros y proporciona protección contra la magia y congelación.",
+  "intro": [
+    "-Los suelta Latenna la albináutica al matarla.",
+    "-Los pueden soltar las arqueras albináuricas que van montadas en lobo y que encuentras por el Campo sacroníveo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.1",
+        "Negación de daños",
+        "-Físico: 2.3",
+        "-VS golpe: 1.5",
+        "-VS tajo: 2.5",
+        "-VS perforación: 1.9",
+        "-Magia: 1.9",
+        "-Fuego: 1.6",
+        "-Rayo: 1.0",
+        "-Sagrado: 1.0",
+        "Resistencia",
+        "-Inmunidad: 4",
+        "-Robustez: 14",
+        "-Concentración: 4",
+        "-Vitalidad: 4",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.1\nNegación de daños\n-Físico: 2.3\n-VS golpe: 1.5\n-VS tajo: 2.5\n-VS perforación: 1.9\n-Magia: 1.9\n-Fuego: 1.6\n-Rayo: 1.0\n-Sagrado: 1.0\nResistencia\n-Inmunidad: 4\n-Robustez: 14\n-Concentración: 4\n-Vitalidad: 4\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

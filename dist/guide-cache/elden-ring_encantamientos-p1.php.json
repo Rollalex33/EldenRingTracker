@@ -1,0 +1,29 @@
+{
+  "title": "Curación urgente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/curacion-urgente.jpg"
+  ],
+  "lore": "Encantamiento de los fieles de los Dos Dedos.\n\n \n\nCura una pequeña cantidad de PS.\n\nEste encantamiento se puede lanzar en movimiento.\n\n \n\nLos Dos Dedos tienen grandes esperanzas puestas en los SinLuz; tantas que aunque resulten heridos, aunque caigan en la batalla, seguirán luchando para cumplir su deber.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Confesor.",
+    "-Te lo vende el Hermano Corhyn por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Restaura una pequeña cantidad de PS.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 16",
+        "-Ranuras: 1",
+        "-Fe necesaria: 8"
+      ],
+      "text": "Restaura una pequeña cantidad de PS.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 16\n-Ranuras: 1\n-Fe necesaria: 8",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

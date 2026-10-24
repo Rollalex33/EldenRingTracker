@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Hoja sagrada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p6.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-hoja-sagrada.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Sagrado\" y la siguiente habilidad:\n\n \n\n\"Hoja sagrada: Otorga al arma ataques sagrados y dispara un proyectil de hojas doradas. El arma mantiene el encantamiento sagrado durante poco tiempo\".\n\n \n\nSe usa solo en armas de embestida, a excepción de armas más pequeñas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en armas cuerpo a cuerpo (exceptuando látigos, puños y garras).",
+        "-Tipo: Sagrado"
+      ],
+      "text": "Puede usarse en armas cuerpo a cuerpo (exceptuando látigos, puños y garras).\n-Tipo: Sagrado",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La suelta un escarabajo en el punto indicado de  Necrolimbo (Este) , al norte de la Tercera iglesia de Márika”."
+      ],
+      "text": "-La suelta un escarabajo en el punto indicado de  Necrolimbo (Este) , al norte de la Tercera iglesia de Márika”.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Sagrado"
+}

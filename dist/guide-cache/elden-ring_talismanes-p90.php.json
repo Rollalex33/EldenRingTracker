@@ -1,0 +1,38 @@
+{
+  "title": "Talismán de efecto",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p90.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/talisman-de-efecto.jpg"
+  ],
+  "lore": "Talismán que muestra un alma enferma.\n\n \n\nAl provocar ciertos efectos, este talismán otorga resistencia al mismo efecto.\n\n \n\nCuando los débiles contraían la temida enfermedad de la mosca, morían mucho antes de sufrir la metamorfosis. Curiosamente, quienes cuidaban de los infectados y les procuraban sepultura jamás se veían afectados.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Aumenta la resistencia al último efecto sufrido."
+      ],
+      "text": "Aumenta la resistencia al último efecto sufrido.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 0.6"
+      ],
+      "text": "-Peso: 0.6",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-En un cadáver sobre una plataforma de madera en la  Aldea enferma abandonada ."
+      ],
+      "text": "-En un cadáver sobre una plataforma de madera en la  Aldea enferma abandonada .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes del DLC Shadow of the Erdtree"
+}

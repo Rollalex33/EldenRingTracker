@@ -1,0 +1,62 @@
+{
+  "title": "Gran catana de Rakshasa",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p368.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-catana-de-rakshasa.jpg"
+  ],
+  "lore": "Una gran cantana cuya hoja representa un diseño teñido por la sangre. Arma de Rakshasa, el que corta y devora.\n\n \n\nArma berserker usada para soportar los ataques enemigos y responder con furia. Al atacar, el portador tiene menos probabilidades de tambalearse en los contraataques, pero también recibe más daño.\n\n \n\nHabilidad única: Siega de malas hierbas\n\nEjecuta movimientos horizontales con la espada al estilo guadaña para segar a los enemigos como si fueran hierbajos. Repítelo para continuar con el ataque mientras quede energía.",
+  "intro": [
+    "-La consigues como recompensa por derrotar al jefazo Rakshasa."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 27"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 27",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran catana",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 9.5",
+        "-Habilidad: Siega de malas hierbas",
+        "-Coste de PC: 8 (- 8)",
+        "Potencia de ataque",
+        "-Físico: 155",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 53.0",
+        "-Magia: 24.0",
+        "-Fuego: 24.0",
+        "-Rayo: 24.0",
+        "-Sagrado: 24.0",
+        "-Estabilidad: 35",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Gran catana\n-Tipo de daño: Tajo/Perf.\n-Peso: 9.5\n-Habilidad: Siega de malas hierbas\n-Coste de PC: 8 (- 8)\nPotencia de ataque\n-Físico: 155\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 53.0\n-Magia: 24.0\n-Fuego: 24.0\n-Rayo: 24.0\n-Sagrado: 24.0\n-Estabilidad: 35\nEfectos pasivos\n-Provoca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes catanas"
+}

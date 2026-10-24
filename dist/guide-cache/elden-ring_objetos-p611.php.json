@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de enjambre",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p611.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-enjambre.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene una mezcla de residuos.\n\n \n\nLánzalo contra los enemgos para liberar un enjambre de moscas sangrientas. Los infames insectos infligirán daño y acumularán hemorragias. Las cacofonías de sus alas mermarán la cordura de los berserkers.\n\n \n\nLas larvas que se encuentran en los desechos se alimentan de sangre y se convierten en viles moscas que, por desgracia, poseen una vida extremadamente corta.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se lanza a los enemigos para desatar un enjambre de moscas."
+      ],
+      "text": "Se lanza a los enemigos para desatar un enjambre de moscas.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x1 y  Excremento manchado de sangre  x1 (necesitas el  Manual de guerrero nómada [24] )."
+      ],
+      "text": "-Se puede crear con  Seta  x1 y  Excremento manchado de sangre  x1 (necesitas el  Manual de guerrero nómada [24] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

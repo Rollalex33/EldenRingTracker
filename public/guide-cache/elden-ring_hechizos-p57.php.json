@@ -1,0 +1,29 @@
+{
+  "title": "Invocaciones tibiales",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p57.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/invocaciones-tibiales.jpg"
+  ],
+  "lore": "Hechizo de los siervos de la Muerte.\n\n \n\nInvoca a un grupo de aquellos que se perdieron en la Muerte.\n\nTres esqueletos aparecerán a cierta distancia del lanzador y atacarán a los enemigos antes de desaparecer.\n\n \n\nLos muertos llevan largo tiempo abandonados a su suerte, lo que necesitan es liderazgo.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Barquero tibial en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca a aquellos que viven en la muerte.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 17",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 28",
+        "-Fe: 20"
+      ],
+      "text": "Invoca a aquellos que viven en la muerte.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 17\n-Ranuras: 1\n-Inteligencia necesaria: 28\n-Fe: 20",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

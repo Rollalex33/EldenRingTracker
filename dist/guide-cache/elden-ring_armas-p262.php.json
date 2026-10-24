@@ -1,0 +1,63 @@
+{
+  "title": "Hoja de la invocación",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p262.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-de-la-invocacion.jpg"
+  ],
+  "lore": "Daga entregada a alguien que otrora emprendió un viaje para cumplir su deber. Aún conserva el poder de su anterior dueña, la doncella enyescada.\n\n \n\nAquel que camina junto a la llama, algún día halará la senda de la Muerte Escrita.\n\n \n\nHabilidad única: Hoja dorada\n\nSalta para cargar el arma con llamas doradas y lanzarlas contra el enemigo un único proyectil en forma de espada.\n\nInflige daño sagrado.",
+  "intro": [
+    "-La encuentras en un cadáver en Tierras prohibidas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 6",
+        "-Destreza: 13",
+        "-Arcano: 15"
+      ],
+      "text": "-Fuerza: 6\n-Destreza: 13\n-Arcano: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Arcano: C"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Arcano: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 1.5",
+        "-Habilidad: Hoja dorada",
+        "-Coste de PC: 17",
+        "Potencia de ataque",
+        "-Físico: 71",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 43",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 31.0",
+        "-Magia: 18.0",
+        "-Fuego: 18.0",
+        "-Rayo: 18.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 1.5\n-Habilidad: Hoja dorada\n-Coste de PC: 17\nPotencia de ataque\n-Físico: 71\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 43\n-Crítico: 110\nProtección contra daños\n-Físicos: 31.0\n-Magia: 18.0\n-Fuego: 18.0\n-Rayo: 18.0\n-Sagrado: 30.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

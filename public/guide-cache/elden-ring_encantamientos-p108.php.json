@@ -1,0 +1,28 @@
+{
+  "title": "Rugido de Rugalea",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p108.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/rugido-de-rugalea.jpg"
+  ],
+  "lore": "Un encantamiento de lo que se conoce jocosamente como \"la comunión úrsida\".\n\nCanaliza el poder de Rugalea, el Gran Oso Rojo.\n\n \n\nTransforma al usuario en un Gran Oso Rojo y emite un potente rugido.\n\nSi se carga, aumenta la potencia.\n\n \n\nUn encantamiento que se asemeja más a la invocación divina de los cornamentados que a la Comunión Dragontina. El único modo de descubrir una deidad personal es mediante el combate desesperado en la naturaleza.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Rugalea, el Gran Oso Rojo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Emite el furioso rugido del Gran Oso Rojo.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 17",
+        "-Ranuras: 1",
+        "-Fe necesaria: 14"
+      ],
+      "text": "Emite el furioso rugido del Gran Oso Rojo.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 17\n-Ranuras: 1\n-Fe necesaria: 14",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

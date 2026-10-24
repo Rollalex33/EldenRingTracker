@@ -1,0 +1,62 @@
+{
+  "title": "Gran catana cazadragones",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p320.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-catana-cazadragones.jpg"
+  ],
+  "lore": "Gran catana reforzada con púas de grava a lo largo de la hoja y empuñada por el hombre dragón antiguo del foso del dragón.\n\nTiene un efecto antidragón.\n\n \n\nEl hombre dragón antiguo, antaño guerrero de la Comunión Dragontina, fue juez de los dignos devoradores del Temible.\n\n \n\nHabilidad: Tajo hiendedragones\n\nEsta habilidad para cazar dragones colosales envuelve el arma en un aura de grava afilada antes de ejecutar un amplio tajo de salto.\n\nCarga el ataque para disparar el aura.",
+  "intro": [
+    "-La consigues como recompensa por derrotar al jefazo Hombre dragón antiguo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 15",
+        "-Destreza: 20"
+      ],
+      "text": "-Fuerza: 15\n-Destreza: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran catana",
+        "-Tipo de daño: Tajo/Perf.",
+        "-Peso: 10.5",
+        "-Habilidad: T. hiendedragones",
+        "-Coste de PC: 18 (- -)",
+        "Potencia de ataque",
+        "-Físico: 152",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 69.0",
+        "-Magia: 32.0",
+        "-Fuego: 32.0",
+        "-Rayo: 32.0",
+        "-Sagrado: 32.0",
+        "-Estabilidad: 37",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Gran catana\n-Tipo de daño: Tajo/Perf.\n-Peso: 10.5\n-Habilidad: T. hiendedragones\n-Coste de PC: 18 (- -)\nPotencia de ataque\n-Físico: 152\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 69.0\n-Magia: 32.0\n-Fuego: 32.0\n-Rayo: 32.0\n-Sagrado: 32.0\n-Estabilidad: 37\nEfectos pasivos\n-Provoca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes catanas"
+}

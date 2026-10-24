@@ -1,0 +1,48 @@
+{
+  "title": "Guanteletes del cañaveral",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p22.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guanteletes-del-canaveral.jpg"
+  ],
+  "lore": "Guanteletes envueltos en resistente cuero.\n\nLos llevan los guerreros de los territorios del cañaveral.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Samurái.",
+    "-Te los vende el Comerciante solitario 3 por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.8",
+        "Negación de daños",
+        "-Físico: 2.1",
+        "-VS golpe: 2.3",
+        "-VS tajo: 2.9",
+        "-VS perforación: 2.3",
+        "-Magia: 2.5",
+        "-Fuego: 2.8",
+        "-Rayo: 2.9",
+        "-Sagrado: 2.7",
+        "Resistencia",
+        "-Inmunidad: 20",
+        "-Robustez: 17",
+        "-Concentración: 17",
+        "-Vitalidad: 18",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.8\nNegación de daños\n-Físico: 2.1\n-VS golpe: 2.3\n-VS tajo: 2.9\n-VS perforación: 2.3\n-Magia: 2.5\n-Fuego: 2.8\n-Rayo: 2.9\n-Sagrado: 2.7\nResistencia\n-Inmunidad: 20\n-Robustez: 17\n-Concentración: 17\n-Vitalidad: 18\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

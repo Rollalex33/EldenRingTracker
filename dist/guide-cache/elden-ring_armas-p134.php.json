@@ -1,0 +1,63 @@
+{
+  "title": "Espada de cristal",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p134.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-cristal.jpg"
+  ],
+  "lore": "Espada hecha de cristal puro, un trabajo imposible para un ser humano. Está imbuida de una poderosa magia y su ataque escala con inteligencia. Los inescrutables cristalianos tienen una única misión en la vida proteger sus cristales hasta el fin de sus días. Una teoría postula que anhelan el regreso de su creador, quien les forjará nuevos hermanos.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-La encuentras en un cadáver tras cruzar un puente colgante en la \"Aldea de los albináuricos\" en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 13",
+        "-Destreza: 10",
+        "-Inteligencia: 15"
+      ],
+      "text": "-Fuerza: 13\n-Destreza: 10\n-Inteligencia: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 4.5",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 106",
+        "-Magia: 68",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 44.0",
+        "-Magia: 44.0",
+        "-Fuego: 30.0",
+        "-Rayo: 30.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 4.5\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 106\n-Magia: 68\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 44.0\n-Magia: 44.0\n-Fuego: 30.0\n-Rayo: 30.0\n-Sagrado: 30.0\n-Estabilidad: 33\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

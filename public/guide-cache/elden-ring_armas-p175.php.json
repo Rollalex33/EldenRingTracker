@@ -1,0 +1,63 @@
+{
+  "title": "Espadón del exterminador de dioses",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p175.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadon-del-exterminador-de-dioses.jpg"
+  ],
+  "lore": "Espada sagrada de la Reina del Ojo Velado, que controlaba a los apóstoles sacrodermos antes de sucumbir ante Maliketh.\n\n \n\nLas llamas negras de los apóstoles se canalizan a través de esta espada.\n\n \n\nHabilidad única: Llama negra de la Reina\n\nRecubre la espada con la llama negra exterminadora de dioses anets de atacar con un tajo en barrido. Usa el arma una vez más para lanzar otro ataque. Las llamas negras seguirán desgastando los PS del enemigo durante un rato.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en en la Torre Sagrada de Caelid, en Montedrago, después de haber derrotado al jefazo Apóstol sacrodermo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 22",
+        "-Fe: 20"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 22\n-Fe: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 17.5",
+        "-Habilidad: Llama negra de la Reina",
+        "-Coste de PC: 15 (- 15)",
+        "Potencia de ataque",
+        "-Físico: 119",
+        "-Magia: 0",
+        "-Fuego: 77",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 63.0",
+        "-Magia: 38.0",
+        "-Fuego: 49.0",
+        "-Rayo: 38.0",
+        "-Sagrado: 38.0",
+        "-Estabilidad: 45",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada colosal\n-Tipo de daño: Estándar\n-Peso: 17.5\n-Habilidad: Llama negra de la Reina\n-Coste de PC: 15 (- 15)\nPotencia de ataque\n-Físico: 119\n-Magia: 0\n-Fuego: 77\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 63.0\n-Magia: 38.0\n-Fuego: 49.0\n-Rayo: 38.0\n-Sagrado: 38.0\n-Estabilidad: 45\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas colosales"
+}

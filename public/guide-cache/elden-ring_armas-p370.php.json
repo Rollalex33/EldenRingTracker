@@ -1,0 +1,66 @@
+{
+  "title": "Mano enloquecida",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p370.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/mano-enloquecida.jpg"
+  ],
+  "lore": "Guante cosido con la piel desollada de las víctimas de un terrible baño de sangre. Ataca al objetivo con locura. Aumenta la potencia de ataque cuando se provoca locura en las inmediaciones.\n\nFabricado a partir del férreo y oscuro impulso de venganza de aquellos que fueron perseguidos como herejes por sus propios hermanos, es propio de los más oprimidos.\n\n \n\nHabilidad única: Golpe de lanza enloquecedora\n\nConfiere a la mano la forma de una lanza antes de asestar una estocada que penetra en el cuerpo del enemigo y le inflige una gran dosis de locura.",
+  "intro": [
+    "-Lo suelta el npc hostil \"Mano enloquecida\" en el punto indicado del Bosque del abismo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 8",
+        "-Inteligencia: 13",
+        "-Fe: 20"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 8\n-Inteligencia: 13\n-Fe: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Inteligencia: E",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Inteligencia: E\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Puño",
+        "-Tipo de daño: Golpe",
+        "-Peso: 1.0",
+        "-Habilidad: Golpe lanza enloquecedora",
+        "-Coste de PC: 13 (- -)",
+        "Potencia de ataque",
+        "-Físico: 53",
+        "-Magia: 0",
+        "-Fuego: 63",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 20.0",
+        "-Magia: 15.0",
+        "-Fuego: 42.0",
+        "-Rayo: 15.0",
+        "-Sagrado: 15.0",
+        "-Estabilidad: 19",
+        "Efectos pasivos",
+        "-Provoca acumulación de locura (55)."
+      ],
+      "text": "-Categoría: Puño\n-Tipo de daño: Golpe\n-Peso: 1.0\n-Habilidad: Golpe lanza enloquecedora\n-Coste de PC: 13 (- -)\nPotencia de ataque\n-Físico: 53\n-Magia: 0\n-Fuego: 63\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 20.0\n-Magia: 15.0\n-Fuego: 42.0\n-Rayo: 15.0\n-Sagrado: 15.0\n-Estabilidad: 19\nEfectos pasivos\n-Provoca acumulación de locura (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Puño"
+}

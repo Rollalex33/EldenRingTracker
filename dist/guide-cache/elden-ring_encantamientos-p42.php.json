@@ -1,0 +1,28 @@
+{
+  "title": "Llama, dame fuerza",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p42.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/llama-dame-fuerza.jpg"
+  ],
+  "lore": "Encantamiento superior de los monjes ígneos.\n\n \n\nCrea un fuego enérgico en tu interior que aumenta el poder de ataque físico y de fuego.\n\n \n\nEste encantamiento no quema al lanzador, y por ello los guardianes de la Llama lo consideran prohibido.",
+  "intro": [
+    "-Lo encuentras en un cadáver por el exterior del Fuerte Gael en Caelid (Noroeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Aumenta el poder de ataque físico y de afinidad con el fuego.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 28",
+        "-Ranuras: 1",
+        "-Fe necesaria: 15"
+      ],
+      "text": "Aumenta el poder de ataque físico y de afinidad con el fuego.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 28\n-Ranuras: 1\n-Fe necesaria: 15",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Espadas gemelas de caballero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p208.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadas-gemelas-de-caballero.jpg"
+  ],
+  "lore": "Atractiva hoja doble de aspecto delgado que premia la idiosincracia caballeresca.\n\n \n\nPuede empuñarse con una sola mano, pero su veradera fuerza se alcana solo en ataques giratorios a dos manos.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientas tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-Se encuentra en un cadáver en la hoguera de “Pasos orientales del molinar” en  el punto ya indicado de la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 18"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hoja doble",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 8.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 123",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hoja doble\n-Tipo de daño: Estándar/Perforación\n-Peso: 8.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 123\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 47.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hojas dobles"
+}

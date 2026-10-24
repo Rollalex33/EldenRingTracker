@@ -1,0 +1,30 @@
+{
+  "title": "Frasco con cebo para bestias",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p587.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-con-cebo-para-bestias.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro ritual.\n\nEncantado con hechizos de asesinos.\n\n \n\nConsume PC al lanzarlo para crear una sombra rojiza.\n\n \n\nLa ilusión atraerá a las bestias para que ataquen.\n\nEste efecto no cambia ni siquiera durante el combate.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC. Se lanza para atraer únicamente a bestias."
+      ],
+      "text": "Consume PC. Se lanza para atraer únicamente a bestias.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Sangre de bestia  x1 y  Hueso de gran bestia  x2 (necesitas el  Manual de guerrero nómada [5] )."
+      ],
+      "text": "-Se puede crear con  Sangre de bestia  x1 y  Hueso de gran bestia  x2 (necesitas el  Manual de guerrero nómada [5] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

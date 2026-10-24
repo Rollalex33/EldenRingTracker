@@ -1,0 +1,59 @@
+{
+  "title": "Escudo de la grieta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p7.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-la-grieta.jpg"
+  ],
+  "lore": "Pequeño escudo redondo de metal que luce una grieta siniestra.\n\n \n\nEs un anticuado amuleto que devuelve la mirada al enemigo y aumenta la concentración.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Prisionero.",
+    "-Te lo vende el Comerciante nómada 6 por 1.800 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8"
+      ],
+      "text": "-Fuerza: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: E"
+      ],
+      "text": "-Fuerza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo pequeño",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 2.0",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 70",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 30.0",
+        "-Fuego: 35.0",
+        "-Rayo: 15.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 37"
+      ],
+      "text": "-Categoría: Escudo pequeño\n-Tipo de ataque: Golpe\n-Peso: 2.0\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 70\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 30.0\n-Fuego: 35.0\n-Rayo: 15.0\n-Sagrado: 35.0\n-Estabilidad: 37",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Pequeños"
+}

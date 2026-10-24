@@ -1,0 +1,63 @@
+{
+  "title": "Epitafio dorado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p247.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/epitafio-dorado.jpg"
+  ],
+  "lore": "Espada fabricada para conmemorar la muerte de Godwyn el Dorado, el primer semidiós desaparecido.\n\n \n\nEstá imbuida de la humilde oración de un muchacho: \"Oh, hermano, noble hermano, alcanza la verdadera muerte\".\n\n \n\nHabilidad única: Ley de la tumba\n\nAlza el epitafio para otorgaros el efecto de la orden sagrada a ti mismo y a todos los aliados que estén cerca.\n\nResulta particularmente eficaz para acabar con aquellos que viven en la muerte.",
+  "intro": [
+    "-La encuentras en un cadáver en la Tumba del héroe de Auriza, en las Afueras de la capital."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 10",
+        "-Fe: 14"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 10\n-Fe: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 3.5",
+        "-Habilidad: Ley de la tumba",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 85",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 85",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 25.0",
+        "-Magia: 15.0",
+        "-Fuego: 15.0",
+        "-Rayo: 15.0",
+        "-Sagrado: 40.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 3.5\n-Habilidad: Ley de la tumba\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 85\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 85\n-Crítico: 100\nProtección contra daños\n-Físicos: 25.0\n-Magia: 15.0\n-Fuego: 15.0\n-Rayo: 15.0\n-Sagrado: 40.0\n-Estabilidad: 30\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

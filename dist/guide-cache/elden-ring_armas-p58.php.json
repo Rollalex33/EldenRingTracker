@@ -1,0 +1,64 @@
+{
+  "title": "Arco grande de gólem",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p58.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arco-grande-de-golem.jpg"
+  ],
+  "lore": "Arco grande de piedra negra fabricado por una civilización actualmente desaparecida. Arma gólem del guardián.\n\n \n\nPara empuñar este arco extremadamente pesado es necesaria mucha fuerza, lo que sugiere que no fue diseñado para el uso humano.\n\n \n\nHabilidad: De punta en el blanco\n\nUna potente habilidad de arquero en la que se utiliza un arco grande en una posición oblicua.\n\nPrepara el arco y gira la cuerda para disparar una imponente flecha que puede atravesar a los enemigos.",
+  "intro": [
+    "-Lo podrá soltar el gólem que está a la entrada del Castillo de Morne, en la Península del Llanto.",
+    "-Lo puede soltar también uno de los gólems que están en el puente de Colina Tormentosa y los que están por el cañón del \"Pozo profundo de Siofra\" en Montedrago.",
+    "-Lo puede soltar el gólem que la lleva equipada en la Base de Rauh (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 24",
+        "-Destreza: 18"
+      ],
+      "text": "-Fuerza: 24\n-Destreza: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arco grande",
+        "-Tipo de daño: Nada",
+        "-Peso: 14.5",
+        "-Habilidad: De punta en el blanco",
+        "-Coste de PC: - (9 9)",
+        "Potencia de ataque",
+        "-Físico: 130",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Alcance: 50",
+        "Protección contra daños",
+        "-Físicos: -",
+        "-Magia: -",
+        "-Fuego: -",
+        "-Rayo: -",
+        "-Sagrado: -",
+        "-Estabilidad: -",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arco grande\n-Tipo de daño: Nada\n-Peso: 14.5\n-Habilidad: De punta en el blanco\n-Coste de PC: - (9 9)\nPotencia de ataque\n-Físico: 130\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Alcance: 50\nProtección contra daños\n-Físicos: -\n-Magia: -\n-Fuego: -\n-Rayo: -\n-Sagrado: -\n-Estabilidad: -\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Arcos grandes"
+}

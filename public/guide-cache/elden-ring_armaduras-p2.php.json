@@ -1,0 +1,48 @@
+{
+  "title": "Armadura de caballero vagabundo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p2.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-caballero-vagabundo.jpg"
+  ],
+  "lore": "Pieza superior de la armadura un caballero desterrado de su patria.\n\nSucia y rota tras soportar la dura vida del vagante.\n\n \n\nEl blasón delantero está tan gastado y sucio que apenas evoca sentimiento alguno.\n\n \n\nLa armadura de metal es pesada pero resistente y ofrece una considerable negación de daños.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Vagante.",
+    "-Te la vende el Comerciante ermitaño 3 por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 10.6",
+        "Negación de daños",
+        "-Físico: 13.5",
+        "-VS golpe: 11.4",
+        "-VS tajo: 12.4",
+        "-VS perforación: 11.9",
+        "-Magia: 10.2",
+        "-Fuego: 10.9",
+        "-Rayo: 8.8",
+        "-Sagrado: 8.8",
+        "Resistencia",
+        "-Inmunidad: 35",
+        "-Robustez: 57",
+        "-Concentración: 23",
+        "-Vitalidad: 23",
+        "-Aplomo: 15"
+      ],
+      "text": "-Peso: 10.6\nNegación de daños\n-Físico: 13.5\n-VS golpe: 11.4\n-VS tajo: 12.4\n-VS perforación: 11.9\n-Magia: 10.2\n-Fuego: 10.9\n-Rayo: 8.8\n-Sagrado: 8.8\nResistencia\n-Inmunidad: 35\n-Robustez: 57\n-Concentración: 23\n-Vitalidad: 23\n-Aplomo: 15",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Destral de lengua bífida",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p341.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/destral-de-lengua-bifida.jpg"
+  ],
+  "lore": "Peculiar arma empuñada por diablillos.\n\nDestral forjado en forma de dragón de lengua bífida.\n\n \n\nSu hoja bifurcada y algo curva se denomina \"lengua de diablillo\" y causa hemorragias.\n\n \n\nHabilidad única: Llama de dragón\n\nLanza fuego desde unas fauces dragontinas y traza un arco hacia delant. Las llamas del suelo seguirán ardiendo un rato.",
+  "intro": [
+    "-Lo pueden soltar los diablillos de las Catacumbas del río Escorpión y Catacumbas de Grieta Neblinosa."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 13"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 4.0",
+        "-Habilidad: Llama de dragón",
+        "-Coste de PC: 14 (- -)",
+        "Potencia de ataque",
+        "-Físico: 125",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 45.0",
+        "-Magia: 30.0",
+        "-Fuego: 30.0",
+        "-Rayo: 30.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (50)."
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Estándar/Perf.\n-Peso: 4.0\n-Habilidad: Llama de dragón\n-Coste de PC: 14 (- -)\nPotencia de ataque\n-Físico: 125\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 45.0\n-Magia: 30.0\n-Fuego: 30.0\n-Rayo: 30.0\n-Sagrado: 30.0\n-Estabilidad: 30\nEfectos pasivos\n-Provoca la acumulación de hemorragias (50).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

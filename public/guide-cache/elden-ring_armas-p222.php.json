@@ -1,0 +1,63 @@
+{
+  "title": "Kris de piedra refulgente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p222.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/kris-de-piedra-refulgente.jpg"
+  ],
+  "lore": "Hoja ritual obsequiada a Leyndell por la Academia de Raya Lucaria para celebrar la recién conseguida paz. Aunque el arma ostenta piedras refulgentes preciosas y los motivos decorativos de la dinastía del Árbol Áureo, la hoja ondulada simboliza un antiguo ritual.\n\n \n\nHabilidad única: Dardo de piedras refulgentes\n\nHabilidad basada en el hechizo \"guijarro de piedras refulgentes\".\n\nCarga el ataque para convertirlo en el dardo de piedras refulgentes.\n\nAcompáñala con un ataque potente para lanzar una estocada.",
+  "intro": [
+    "-Te la da Sellen al completar su historia habiéndote puesto de su lado."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 5",
+        "-Destreza: 12",
+        "-Inteligencia: 16"
+      ],
+      "text": "-Fuerza: 5\n-Destreza: 12\n-Inteligencia: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 1.5",
+        "-Habilidad: Dardo de piedras refulgentes",
+        "-Coste de PC: 10",
+        "Potencia de ataque",
+        "-Físico: 57",
+        "-Magia: 68",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 23.0",
+        "-Magia: 45.0",
+        "-Fuego: 14.0",
+        "-Rayo: 14.0",
+        "-Sagrado: 14.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 1.5\n-Habilidad: Dardo de piedras refulgentes\n-Coste de PC: 10\nPotencia de ataque\n-Físico: 57\n-Magia: 68\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 23.0\n-Magia: 45.0\n-Fuego: 14.0\n-Rayo: 14.0\n-Sagrado: 14.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

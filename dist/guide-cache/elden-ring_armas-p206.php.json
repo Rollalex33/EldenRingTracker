@@ -1,0 +1,61 @@
+{
+  "title": "Machete ceremonial",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p206.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/machete-ceremonial.jpg"
+  ],
+  "lore": "Machete decorado con telas de muchos colores. Herramienta ceremonial utilizada por las bailarinas en las fiestas de Dominula, aldea del molinar.\n\n \n\nElaborado a partir de huesos humanos.\n\nOtorga algunas runas al asestar golpes.\n\n \n\nHabilidad: Golpes salvajes\n\nBalancea tu arma con desenfreno.\n\nSigue balanceándola mientras mantienes el botón pulsado. Puedes acompañarla con un ataque normal o potente.",
+  "intro": [
+    "-Lo pueden soltar las bailarinas que están por la zona de los  molinos, en el punto ya indicado de la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 8"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 8",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 4.5",
+        "-Habilidad: Golpes salvajes",
+        "-Coste de PC: 2 (10 15)",
+        "Potencia de ataque",
+        "-Físico: 119",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Estándar\n-Peso: 4.5\n-Habilidad: Golpes salvajes\n-Coste de PC: 2 (10 15)\nPotencia de ataque\n-Físico: 119\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 47.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hoja Escama de Dragón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p195.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-escama-de-dragon.jpg"
+  ],
+  "lore": "Arma forjada afilando una escama de grava, material considerado como la fuente de la inmortalidad de los dragones antiguos, para convertirla en una cuchilla impoluta.\n\n \n\nPor desgracia, los soldados draconianos nunca consiguieron la inmortalidad y perecieron como meras imitaciones de sus parientes voladores.\n\n \n\nHabilidad única: Hoja del rayo gélido\n\nImbuye tu hoja del poder de unr ayo gélido y desátalo sobre tu enemigo.\n\nSu efecto permanecerá activo por poco tiempo.",
+  "intro": [
+    "-La suelta el jefazo Soldado draconiano en Lago de la putrefacción."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 20"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: D\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Catana",
+        "-Tipo de daño: Tajo/Perforación",
+        "-Peso: 5.5",
+        "-Habilidad: Hoja del rayo gélido",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 110",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 35.0",
+        "-Magia: 25.0",
+        "-Fuego: 25.0",
+        "-Rayo: 50.0",
+        "-Sagrado: 25.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Catana\n-Tipo de daño: Tajo/Perforación\n-Peso: 5.5\n-Habilidad: Hoja del rayo gélido\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 110\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 35.0\n-Magia: 25.0\n-Fuego: 25.0\n-Rayo: 50.0\n-Sagrado: 25.0\n-Estabilidad: 30\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Catanas"
+}

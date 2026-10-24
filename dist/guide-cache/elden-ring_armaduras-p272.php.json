@@ -1,0 +1,47 @@
+{
+  "title": "Túnica de mago guerrero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p272.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tunica-de-mago-guerrero.jpg"
+  ],
+  "lore": "Túnica que usan los eruditos de la Academia de Raya Lucaria.\n\nEstá hecha jirones por que se usó en el campo de batalla.\n\n \n\nCada vez que se iniciaba una guerra y la Academia cerraba sus puertas, solo los eruditos de Haima osaban salir al exterior.\n\nLa reclusión no tiene como objetivo facilitar el descubrimiento, sino que es tan solo una conveniente forma de cobardía.",
+  "intro": [
+    "-La suelta el erudito que está cruzando el puente (“Desvío del  camino de la iniquidad”) en la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.1",
+        "Negación de daños",
+        "-Físico: 5.3",
+        "-VS golpe: 6.1",
+        "-VS tajo: 4.2",
+        "-VS perforación: 5.3",
+        "-Magia: 13.0",
+        "-Fuego: 11.9",
+        "-Rayo: 12.4",
+        "-Sagrado: 12.6",
+        "Resistencia",
+        "-Inmunidad: 42",
+        "-Robustez: 23",
+        "-Concentración: 63",
+        "-Vitalidad: 71",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 4.1\nNegación de daños\n-Físico: 5.3\n-VS golpe: 6.1\n-VS tajo: 4.2\n-VS perforación: 5.3\n-Magia: 13.0\n-Fuego: 11.9\n-Rayo: 12.4\n-Sagrado: 12.6\nResistencia\n-Inmunidad: 42\n-Robustez: 23\n-Concentración: 63\n-Vitalidad: 71\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

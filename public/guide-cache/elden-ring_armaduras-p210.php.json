@@ -1,0 +1,47 @@
+{
+  "title": "Pantalones pirata de viajero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p210.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/pantalones-pirata-de-viajero.jpg"
+  ],
+  "lore": "Pantalones pirata de un perfumista viajero desconocido.\n\n \n\nSe dice que este sanador busca nuevos aromas y vergeles con la esperanza de tratar a los bastardos, a los augurios y a todas las demás clases consideradas impuras.",
+  "intro": [
+    "-Los encuentras en un cadáver en las \"Ruinas de la rúa de los Sabios\", en Caelid (principal)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.5",
+        "Negación de daños",
+        "-Físico: 3.0",
+        "-VS golpe: 3.0",
+        "-VS tajo: 2.3",
+        "-VS perforación: 1.5",
+        "-Magia: 7.3",
+        "-Fuego: 7.3",
+        "-Rayo: 7.1",
+        "-Sagrado: 7.3",
+        "Resistencia",
+        "-Inmunidad: 34",
+        "-Robustez: 13",
+        "-Concentración: 41",
+        "-Vitalidad: 39",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.5\nNegación de daños\n-Físico: 3.0\n-VS golpe: 3.0\n-VS tajo: 2.3\n-VS perforación: 1.5\n-Magia: 7.3\n-Fuego: 7.3\n-Rayo: 7.1\n-Sagrado: 7.3\nResistencia\n-Inmunidad: 34\n-Robustez: 13\n-Concentración: 41\n-Vitalidad: 39\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

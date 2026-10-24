@@ -1,0 +1,29 @@
+{
+  "title": "Círculo de hojas refulgentes",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p8.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/circulo-de-hojas-refulgentes.jpg"
+  ],
+  "lore": "Uno de los hechizos de la familia real cariana.\n\n \n\nForma un arco de hojas mágicas a tu alrededor que atacan a los enemigos cercanos de forma automática.\n\nEste hechizo se puede lanzar mientras estás en movimiento.\n\n \n\nConcedido a los caballeros hechizados carianos, que combinaban esta habilidad y su destreza con la espada para mantener la presión sobre su enemigo, atacando tanto con acero como con hechicerías.",
+  "intro": [
+    "-Te lo vende Hechicera Sellen o Miriel por 2.500 runas, tras haberle entregado el Pergamino de la Casa Real.",
+    "-Te lo vende Conde Ymir (DLC Shadow of the Erdtree) por 2.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Forma un arco defensivo de cuchillas mágicas refulgentes.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 18",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 22"
+      ],
+      "text": "Forma un arco defensivo de cuchillas mágicas refulgentes.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 18\n-Ranuras: 1\n-Inteligencia necesaria: 22",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

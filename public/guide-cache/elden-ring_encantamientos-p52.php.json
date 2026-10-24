@@ -1,0 +1,29 @@
+{
+  "title": "Curación de la Orden",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p52.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/curacion-de-la-orden.jpg"
+  ],
+  "lore": "Uno de los encantamientos de los fundamentalistas de la Orden Dorada.\n\nUtilizado por los cazadores de aquellos que viven en la muerte.\n\n \n\nAlivia la acumulación de la necroplaga.\n\n \n\nLa noble Máscara Dorada lamentaba en qué se habían convertido los cazadores. Qué fácil fue transformar la erudición y sabiduría en desvaríos fanáticos. Todo lo que, en su necedad, deseaban los buenos, era tener un mal absoluto con el que luchar.\n\n \n\n¿Existe una noción semejante en los fundamentos de la Orden?",
+  "intro": [
+    "-La suelta un escarabajo en el \"Acueducto de Siofra\" en Nokron."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Reduce la acumulación de necroplaga.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 15",
+        "-Ranuras: 1",
+        "-Inteligencia: 11",
+        "-Fe necesaria: 11"
+      ],
+      "text": "Reduce la acumulación de necroplaga.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 15\n-Ranuras: 1\n-Inteligencia: 11\n-Fe necesaria: 11",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

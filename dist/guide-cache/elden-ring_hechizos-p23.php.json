@@ -1,0 +1,28 @@
+{
+  "title": "Meteoritos",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p23.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/meteoritos.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes que manipulan las fuerzas gravitatorias.\n\n \n\nInvoca un vacío del que emana una lluvia de pequeños meteoritos.\n\nMantén el hechizo para prolongar el efecto.\n\n \n\nEste hechizo proviene de los Señores de ónice, cuya piel era de piedra, y fueron nombrados señores por un respetuoso miedo a su poder destructivo.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Señor de ónice."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Hace que caigan pequeños meteoritos del cielo.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 30",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 30"
+      ],
+      "text": "Hace que caigan pequeños meteoritos del cielo.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 30\n-Ranuras: 1\n-Inteligencia necesaria: 30",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

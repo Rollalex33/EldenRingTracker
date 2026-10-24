@@ -1,0 +1,59 @@
+{
+  "title": "Gran garrote",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p217.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-garrote.jpg"
+  ],
+  "lore": "Enorme garrote hecho con madera noble. Se requiere una fuerza excepcional y cero destreza para golpear salvajemente a los enemigos con él. Aunque pueda parecer un arma sacrílega, se dice que este garrote es una rama marchita del Árbol Áureo. Esta arma imbuida de poder sagrado jamás podrá partirse.\n\n \n\nHabilidad: Tierra Dorada\n\nEmbiste el suelo con el arma y reúne la fuerza necesaria para desatar una explosión de energía sagrada que se fusiona formando dardos dorados. Acompáñala con un ataque potente para blandir el arma con un ataque en barrido.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Trol excavapiedra en la Antigua galería de Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 35"
+      ],
+      "text": "-Fuerza: 35",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C"
+      ],
+      "text": "-Fuerza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Golpe",
+        "-Peso: 17.0",
+        "-Habilidad: Tierra Dorada",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 154",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 71.0",
+        "-Magia: 42.0",
+        "-Fuego: 42.0",
+        "-Rayo: 42.0",
+        "-Sagrado: 42.0",
+        "-Estabilidad: 47",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Golpe\n-Peso: 17.0\n-Habilidad: Tierra Dorada\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 154\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 71.0\n-Magia: 42.0\n-Fuego: 42.0\n-Rayo: 42.0\n-Sagrado: 42.0\n-Estabilidad: 47\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

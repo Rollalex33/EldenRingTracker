@@ -1,0 +1,63 @@
+{
+  "title": "Euporia",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p380.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/euporia.jpg"
+  ],
+  "lore": "Hoja doble que simboliza la abundancia.\n\nEl tesoro secreto de la torre.\n\n \n\nAunque los filos, hechos a partir de brotes dorados, se han marchitado y oscurecido, su luestre puede ser recuperado infligiendo daño a enemigos. Los daños infligidos a aquellos que viven en la muerte no tendrán tal efecto.\n\n \n\nHabilidad única: Vórtice de Euporia\n\nUsa el poder del vórtice para hacer girar el arma y asestar varios tajos hacia delante. Cuanto mayor sea el lustre del arma, mayor será el poder de la habilidad. Sin embargo, esta habilidad consumirá todo el lustre del arma.",
+  "intro": [
+    "-En el punto indicado de Belurat, asentamiento de la torre, al que accedes desde Enir-Ilim."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 16",
+        "-Fe: 24"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 16\n-Fe: 24",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hoja doble",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 8.5",
+        "-Habilidad: Vórtice de Euporia",
+        "-Coste de PC: 28 (- -)",
+        "Potencia de ataque",
+        "-Físico: 84",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 100",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 32.0",
+        "-Magia: 26.0",
+        "-Fuego: 26.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 59.0",
+        "-Estabilidad: 32",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hoja doble\n-Tipo de daño: Estándar/Perf.\n-Peso: 8.5\n-Habilidad: Vórtice de Euporia\n-Coste de PC: 28 (- -)\nPotencia de ataque\n-Físico: 84\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 100\n-Crítico: 100\nProtección contra daños\n-Físicos: 32.0\n-Magia: 26.0\n-Fuego: 26.0\n-Rayo: 26.0\n-Sagrado: 59.0\n-Estabilidad: 32\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hojas dobles"
+}

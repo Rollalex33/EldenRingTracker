@@ -1,0 +1,30 @@
+{
+  "title": "Cangrejo cocido",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p476.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cangrejo-cocido.jpg"
+  ],
+  "lore": "Cangrejo cocido.\n\nEs la jugosa y generosa carne de un ejemplar de primera calidad.\n\nLos verdaderos expertos saben salarla en el punto justo.\n\n \n\nAumenta considerablemente la negación de daños físicos durante un tiempo.\n\n \n\nA diferencia del \"gambón\" en venta, esto es cangrejo de verdad.\n\nAunque no es que importe demasiado, puesto que aún así está delicioso.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Aumenta considerablemente la negación de daños físicos durante un tiempo."
+      ],
+      "text": "Aumenta considerablemente la negación de daños físicos durante un tiempo.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te los vende  Trasno Terrible  por 600 runas."
+      ],
+      "text": "-Te los vende  Trasno Terrible  por 600 runas.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

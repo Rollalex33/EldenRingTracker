@@ -1,0 +1,64 @@
+{
+  "title": "Hélice sangrienta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p204.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/helice-sangrienta.jpg"
+  ],
+  "lore": "Ominosa espada perforante con un filo sinuoso.\n\nLa portan los siervos nobles del Señor de la Sangre.\n\n \n\nEstá diseñada para perforar la carne y causar una grave hemorragia a través de la herida. La sangre extraída gotea con gracia a lo largo del filo.\n\n \n\nHabilidad única: Delicadeza del dinasta\n\nEsquiva ágilmente un ataque para ganar distancia respecto a los enemigos. Acompáñala con unataque potente para lanzar una estocada repentina y vuelve a usar el ataque potente para realizar un movimiento de barrido.",
+  "intro": [
+    "-Dentro de un cofre en el sótano de las \"Ruinas de Sanguifuria\" en la Meseta Altus, teniendo que derrotar primero al jefazo Noble sanguino."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 19",
+        "-Arcano: 17"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 19\n-Arcano: 17",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Arcano: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada de embestida pesada",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 8.0",
+        "-Habilidad: Delicadeza del dinasta",
+        "-Coste de PC: 5 (- 7)",
+        "Potencia de ataque",
+        "-Físico: 121",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 57.0",
+        "-Magia: 40.0",
+        "-Fuego: 40.0",
+        "-Rayo: 40.0",
+        "-Sagrado: 40.0",
+        "-Estabilidad: 34",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (82)."
+      ],
+      "text": "-Categoría: Espada de embestida pesada\n-Tipo de daño: Estándar/Perforación\n-Peso: 8.0\n-Habilidad: Delicadeza del dinasta\n-Coste de PC: 5 (- 7)\nPotencia de ataque\n-Físico: 121\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 57.0\n-Magia: 40.0\n-Fuego: 40.0\n-Rayo: 40.0\n-Sagrado: 40.0\n-Estabilidad: 34\nEfectos pasivos\n-Provoca la acumulación de hemorragias (82).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas de embestida pesadas"
+}

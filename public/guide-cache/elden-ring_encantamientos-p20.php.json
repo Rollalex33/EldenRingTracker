@@ -1,0 +1,28 @@
+{
+  "title": "Fortaleza llameante",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p20.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/fortaleza-llameante.jpg"
+  ],
+  "lore": "Encantamiento de los fieles de los Dos Dedos.\n\n \n\nAumenta la negación de daños de fuego.\n\nEste encantamiento se puede lanzar mientras estás en movimiento.\n\n \n\nSigue el camino que se te ha trazado y harás enemgos del resto: los monjes, los hechiceros, los caballeros del dragón antiguo y los descendientes del oro. Escúchame: los Sinluz no son bien recibidos en las Tierras Intermedias.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn por 3.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Aumenta la negación de dañós de fuego.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 20",
+        "-Ranuras: 1",
+        "-Fe necesaria: 10"
+      ],
+      "text": "Aumenta la negación de dañós de fuego.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 20\n-Ranuras: 1\n-Fe necesaria: 10",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Espada bastón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p252.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-baston.jpg"
+  ],
+  "lore": "Espada favorita de un anciano caballero cuyas gestas son ya cosa del pasado, ahora reconvertida en bastón. La punta está bastante desgastada.\n\n \n\nAunque le cueste erguirse y hasta blandir la espada en alto, a este caballero le gustaría terminar sus días luchando.\n\n \n\nHabilidad: Combate\n\nEsta habilidad comienza con la espada en posición horizontal.\n\nRompe la guardia enemiga con un ataque normal o bien corre y embiste con un ataque potente.",
+  "intro": [
+    "-La encuentras en un cadáver en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 11"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 11",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 2.5",
+        "-Habilidad: Combate",
+        "-Coste de PC: - (6 8)",
+        "Potencia de ataque",
+        "-Físico: 96",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 85",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 41.0",
+        "-Magia: 27.0",
+        "-Fuego: 27.0",
+        "-Rayo: 27.0",
+        "-Sagrado: 27.0",
+        "-Estabilidad: 27",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 2.5\n-Habilidad: Combate\n-Coste de PC: - (6 8)\nPotencia de ataque\n-Físico: 96\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 85\n-Crítico: 100\nProtección contra daños\n-Físicos: 41.0\n-Magia: 27.0\n-Fuego: 27.0\n-Rayo: 27.0\n-Sagrado: 27.0\n-Estabilidad: 27\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

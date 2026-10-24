@@ -1,0 +1,30 @@
+{
+  "title": "Tormenta helada de Zamor",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p64.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tormenta-helada-de-zamor.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/tormenta-helada-de-zamor_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/tormenta-helada-de-zamor_2.jpg"
+  ],
+  "lore": "Hechizo de hielo de la ciudad de Zamor.\n\n \n\nGolpea el suelo con el bastón para crear un tornado helado.\n\nLa potencia de este hechizo aumenta al cargarlo.\n\n \n\nOcultos en las gélidas tempestades, los caballeros de Zamor han desafiado a los gigantes de fuego desde la antig&uuml;edad.",
+  "intro": [
+    "Lo encuentras en un cadáver en el punto indicado de las \"Ruinas de Zamor\" en Picos de los gigantes."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Clava el bastón en el suelo para crear un tornado gélido.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 22",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 36"
+      ],
+      "text": "Clava el bastón en el suelo para crear un tornado gélido.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 22\n-Ranuras: 1\n-Inteligencia necesaria: 36",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

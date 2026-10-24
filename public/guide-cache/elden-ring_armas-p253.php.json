@@ -1,0 +1,61 @@
+{
+  "title": "Alabarda de gárgola",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p253.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/alabarda-de-gargola.jpg"
+  ],
+  "lore": "Alabarda de bronce que portaban las gárgolas denodadas.\n\n \n\nTal y como le pasaba a su portador, las piezas que faltan fueron arregladas con adipocira, el retal de los campeones.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-La suelta una Gárgola denodada que aparece como enemigo normal en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 26",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 26\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Alabarda",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 12.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 131",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 42.0",
+        "-Fuego: 42.0",
+        "-Rayo: 42.0",
+        "-Sagrado: 42.0",
+        "-Estabilidad: 50",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Alabarda\n-Tipo de daño: Estándar/Perforación\n-Peso: 12.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 131\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 42.0\n-Fuego: 42.0\n-Rayo: 42.0\n-Sagrado: 42.0\n-Estabilidad: 50\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Alabardas"
+}

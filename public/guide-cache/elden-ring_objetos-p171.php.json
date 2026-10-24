@@ -1,0 +1,31 @@
+{
+  "title": "Nota: Mausoleo Errante",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p171.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/nota-mausoleo-errante.jpg"
+  ],
+  "lore": "Nota que vende un comerciante nómada.\n\nContiene informacón sobre el Mausoleo Errante.\n\n \n\nSolo los clientes que paguen podrán obtener más información al respecto.\n\n \n\n \n\nNota que vendía un comerciante nómada y que ofrece información breve.\n\n \n\n\"Para detener los avances del mausoleo, primero hay que limpiar alrededor de los pies\".",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Nota que ofrece información breve.",
+        "Consulta la sección de  Mausoleos errantes  para más información."
+      ],
+      "text": "Nota que ofrece información breve.\nConsulta la sección de  Mausoleos errantes  para más información.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Te la vende el  Comerciante solitario 1  por 600 runas."
+      ],
+      "text": "-Te la vende el  Comerciante solitario 1  por 600 runas.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Información"
+}

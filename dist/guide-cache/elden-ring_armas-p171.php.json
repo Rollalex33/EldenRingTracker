@@ -1,0 +1,63 @@
+{
+  "title": "Espadón del Azote de las Estrellas",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p171.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadon-del-azote-de-las-estrellas.jpg"
+  ],
+  "lore": "Espadones curvos de acero negro que empuñaba el general Radahn.\n\nDos armas adornadas con la melena de un león.\n\n \n\nRadahn consiguió bastante renombre en su juventud como el Azote de las estrellas. Se dice que, durante esa época, talló el blasón de la gravedad en estas espadas.\n\n \n\nHabilidad única: Grito invocador de astros\n\nUne ambas espadas y ruge al cielo para atraer a los enemigos con una onda gravitatoria.\n\nVuelve a pulsar el botón para seguir golpeando con tus espadas imbuidas de la fuerza de la gravedad.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del Azote de las Estrellas a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 38",
+        "-Destreza: 12",
+        "-Inteligencia: 15"
+      ],
+      "text": "-Fuerza: 38\n-Destreza: 12\n-Inteligencia: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Inteligencia: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Inteligencia: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 20.0",
+        "-Habilidad: Grito invocador de astros",
+        "-Coste de PC: 20 (- 20)",
+        "Potencia de ataque",
+        "-Físico: 129",
+        "-Magia: 83",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 65.0",
+        "-Magia: 47.0",
+        "-Fuego: 34.0",
+        "-Rayo: 34.0",
+        "-Sagrado: 34.0",
+        "-Estabilidad: 52",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada colosal\n-Tipo de daño: Estándar\n-Peso: 20.0\n-Habilidad: Grito invocador de astros\n-Coste de PC: 20 (- 20)\nPotencia de ataque\n-Físico: 129\n-Magia: 83\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 65.0\n-Magia: 47.0\n-Fuego: 34.0\n-Rayo: 34.0\n-Sagrado: 34.0\n-Estabilidad: 52\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas colosales"
+}

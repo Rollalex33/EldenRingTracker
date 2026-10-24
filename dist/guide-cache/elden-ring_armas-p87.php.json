@@ -1,0 +1,61 @@
+{
+  "title": "Espadón de caballero proscrito",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p87.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadon-de-caballero-proscrito.jpg"
+  ],
+  "lore": "Espadón bellamente forjado que tiene grabado un antiguo motivo.\n\nSe entregaba a los caballeros que, ya fuera por infortunio u ofensa, eran obligados a abandonar su hogar.\n\nMuchos de estos caballeros fueron enviados a la periferia, donde se vieron obligadaos a empezar de nuevo con la desesperación como única compañía.\n\n \n\nHabilidad: Pisotón y tajo vertical\n\nPrepara tu arma y avanza hasta una posición baja para que la mayoría de los ataques del enemigo no te hagan retroceder.\n\nAcompáñala con un ataque potente para ejecutar un golpe hacia arriba.",
+  "intro": [
+    "-Lo puede soltar el \"Caballero proscrito\" al que te enfrentas en el Castillo de Velo Tormentoso (y en otras localizaciones también)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 17",
+        "-Destreza: 9"
+      ],
+      "text": "-Fuerza: 17\n-Destreza: 9",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Pisotón y tajo vertical",
+        "-Coste de PC: 5 (- 8)",
+        "Potencia de ataque",
+        "-Físico: 142",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 10.0\n-Habilidad: Pisotón y tajo vertical\n-Coste de PC: 5 (- 8)\nPotencia de ataque\n-Físico: 142\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

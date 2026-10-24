@@ -1,0 +1,64 @@
+{
+  "title": "Espada de la oscuridad",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p366.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-la-oscuridad.jpg"
+  ],
+  "lore": "Espada de oscuridad que fue sacada de su funda de piedra en un altar.\n\n \n\nDesde la mismísima base, unas espirales de oascuridad se fusionan y se liberan, con sus vértices y remolinos dándole forma al filo oscuro.\n\n \n\nHabilidad única: Oscuridad\n\nAlza la espada y hiende la zona con oscuridad. Inflige daño sagrado y reduce temporalmente la negación de daños sagrados.",
+  "intro": [
+    "-Siguiendo el orden propuesto en Eliteguias, la conseguirás usando la Espada en funda de piedra en el altar en las Ruinas de Unte.",
+    "Luego, más adelante en Antiguas ruinas de Rauh, podrás cambiarla por la Espada de la luz... Si quieres tener ambas espadas a la vez, tendrás que esperar a conseguir una nueva Espada en funda de piedra en NJ+."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 11",
+        "-Fe: 24"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 11\n-Fe: 24",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadas rectas",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 4.0",
+        "-Habilidad: Oscuridad",
+        "-Coste de PC: 30 (- -)",
+        "Potencia de ataque",
+        "-Físico: 93",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 93",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 26.0",
+        "-Magia: 15.0",
+        "-Fuego: 15.0",
+        "-Rayo: 15.0",
+        "-Sagrado: 42.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadas rectas\n-Tipo de daño: Estándar/Perf.\n-Peso: 4.0\n-Habilidad: Oscuridad\n-Coste de PC: 30 (- -)\nPotencia de ataque\n-Físico: 93\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 93\n-Crítico: 100\nProtección contra daños\n-Físicos: 26.0\n-Magia: 15.0\n-Fuego: 15.0\n-Rayo: 15.0\n-Sagrado: 42.0\n-Estabilidad: 31\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

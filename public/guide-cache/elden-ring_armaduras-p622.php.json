@@ -1,0 +1,47 @@
+{
+  "title": "Túnica de hojaseca (mod.)",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p622.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tunica-de-hojaseca-mod.jpg"
+  ],
+  "lore": "Atuendo de viaje desteñido por el sol y algo sucio por los clérigos.\n\n \n\nEl morral de cuero que cuelga del hombro está decorado con uno de los emblemas de Miquella, un motivo de hierba dorada.",
+  "intro": [
+    "-Se consigue al modificar la Túnica de hojaseca usando la opción de \"Modificar prendas\" en cualquier Lugar de gracia."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.1",
+        "Negación de daños",
+        "-Físico: 4.2",
+        "-VS golpe: 6.1",
+        "-VS tajo: 2.7",
+        "-VS perforación: 2.7",
+        "-Magia: 13.8",
+        "-Fuego: 11.4",
+        "-Rayo: 12.4",
+        "-Sagrado: 13.8",
+        "Resistencia",
+        "-Inmunidad: 35",
+        "-Robustez: 24",
+        "-Concentración: 67",
+        "-Vitalidad: 63",
+        "-Aplomo: 8"
+      ],
+      "text": "-Peso: 4.1\nNegación de daños\n-Físico: 4.2\n-VS golpe: 6.1\n-VS tajo: 2.7\n-VS perforación: 2.7\n-Magia: 13.8\n-Fuego: 11.4\n-Rayo: 12.4\n-Sagrado: 13.8\nResistencia\n-Inmunidad: 35\n-Robustez: 24\n-Concentración: 67\n-Vitalidad: 63\n-Aplomo: 8",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

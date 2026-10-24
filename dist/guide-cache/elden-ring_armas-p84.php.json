@@ -1,0 +1,62 @@
+{
+  "title": "Antorcha alargada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p84.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/antorcha-alargada.jpg"
+  ],
+  "lore": "Antorcha unida a un largo mango. Ilumina las zonas oscuras, pero no puede levantarse por encima de la cabeza.\n\n \n\nLa utilizan los soldados de guardia y sus ataques hacen arder a los enemigs.\n\n \n\nHabilidad: Carga al adelante\n\nCarga rápidamente hacia delante con el arma en la cadera y aprovecha el momento para terminar en una embestida.\n\nMantén el botón pulsado para cubrir una mayor distancia.",
+  "intro": [
+    "-Lo pueden soltar los exiliados del Castillo de Velo Tormentoso."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 15"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza",
+        "-Tipo de daño: Perforación",
+        "-Peso: 6.0",
+        "-Habilidad: Carga hacia adelante",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 104",
+        "-Magia: 0",
+        "-Fuego: 31",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 48.0",
+        "-Magia: 26.0",
+        "-Fuego: 33.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 26.0",
+        "-Estabilidad: 34",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza\n-Tipo de daño: Perforación\n-Peso: 6.0\n-Habilidad: Carga hacia adelante\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 104\n-Magia: 0\n-Fuego: 31\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 48.0\n-Magia: 26.0\n-Fuego: 33.0\n-Rayo: 26.0\n-Sagrado: 26.0\n-Estabilidad: 34\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas"
+}

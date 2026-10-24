@@ -1,0 +1,58 @@
+{
+  "title": "Escudo apuntado con blasón rojo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p52.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-apuntado-con-blason-rojo.jpg"
+  ],
+  "lore": "Un escudo de metal de tamaño medio. Es más fácil de manejar que un escudo de lágrima.\n\n \n\nEl blasón simboliza unas alas rojas.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Te lo vende el Comerciante nómada 9 por 2.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10"
+      ],
+      "text": "-Fuerza: 10",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo mediano",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 77",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 100.0",
+        "-Magia: 42.0",
+        "-Fuego: 50.0",
+        "-Rayo: 32.0",
+        "-Sagrado: 43.0",
+        "-Estabilidad: 50"
+      ],
+      "text": "-Categoría: Escudo mediano\n-Tipo de ataque: Golpe\n-Peso: 3.5\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 77\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 100.0\n-Magia: 42.0\n-Fuego: 50.0\n-Rayo: 32.0\n-Sagrado: 43.0\n-Estabilidad: 50",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Medianos"
+}

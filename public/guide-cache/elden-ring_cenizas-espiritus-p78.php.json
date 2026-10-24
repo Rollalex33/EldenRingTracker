@@ -1,0 +1,26 @@
+{
+  "title": "Jolán y Anna",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p78.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/jolan-y-anna.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar los espíritus de Jolán y Anna.\n\n \n\nEspíritus de dos espadachinas de la Noche, uno de ellos poseído por la muñeca del Conde Ymir, Anna.\n\n \n\nJuntas, la espada de Jolán y las garras de Anna son como la noche más negra y penetran la guardia enemiga.\n\n \n\nNacidas en una cárcel fría y desprovista de luz, Jolán y Anna fueron criadas para convertirse en las más aterradoras espadachinas de la Noche, aunque este peso dejó sus corazones frágiles y maleables.",
+  "intro": [
+    "-La consigues examinando una marioneta en la zona secreta de la Torre de Rabbath a la que se accede siguiendo la historia de Jolán y teniendo que usar (y perder) las cenizas de espíritu Espadachina de la Noche Jolán."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca los espíritus de Jolán y Anna.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 144"
+      ],
+      "text": "Invoca los espíritus de Jolán y Anna.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 144",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

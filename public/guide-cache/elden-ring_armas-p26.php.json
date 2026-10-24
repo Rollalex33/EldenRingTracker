@@ -1,0 +1,61 @@
+{
+  "title": "Pico de guerra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p26.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/pico-de-guerra.jpg"
+  ],
+  "lore": "Martillo de guerra con un férreo pico sobresaliente.\n\nEn esencia, una piqueta diseñada para su uso en combate.\n\n \n\nEsta arma sencilla, pero altamente eficaz, destaca por sus poderosos ataques de perforación que pueden atravesar una armadura metálica.\n\n \n\nHabilidad: Patada\n\nLevanta bien la pierna para darle una patada a tu enemigo.\n\nResulta eficaz contra enemigos en guardia y puede romper su posición.\n\nA veces, lo más eficaz es lo más simple.",
+  "intro": [
+    "-Lo pueden soltar los soldados de Godrick que lo lleven equipado en Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 9"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 9",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 2.5",
+        "-Habilidad: Patada",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 108",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 40.0",
+        "-Magia: 27.0",
+        "-Fuego: 27.0",
+        "-Rayo: 27.0",
+        "-Sagrado: 27.0",
+        "-Estabilidad: 27",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Martillo\n-Tipo de daño: Golpe\n-Peso: 2.5\n-Habilidad: Patada\n-Coste de PC: -\nPotencia de ataque\n-Físico: 108\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 40.0\n-Magia: 27.0\n-Fuego: 27.0\n-Rayo: 27.0\n-Sagrado: 27.0\n-Estabilidad: 27\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Martillos"
+}

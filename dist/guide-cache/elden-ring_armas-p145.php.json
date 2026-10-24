@@ -1,0 +1,63 @@
+{
+  "title": "Arpón de hombre de barro",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p145.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arpon-de-hombre-de-barro.jpg"
+  ],
+  "lore": "Arpón cuya punta contiene un fragmento de meteorito afilado. Lo portaban los hombres de barro que infestaban los restos dinásticos.\n\n \n\nLa hoja emite una tenue luz e inflige daño mágico.\n\n \n\nHabilidad: Embestiadfsaladora\n\nUna habilidad que permite a las armas de embestida atravesar escudos. Acumula potencia y abalánzate dando una embestida para perforar la guardia de cualquier enemigo.",
+  "intro": [
+    "-Lo pueden soltar los hombres de barro en el Río Ainsel y los del Río Siofra."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 10",
+        "-Inteligencia: 12"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 10\n-Inteligencia: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Inteligencia: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Inteligencia: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza",
+        "-Tipo de daño: Perforación",
+        "-Peso: 5.5",
+        "-Habilidad: Embestida empaladora",
+        "-Coste de PC: 9",
+        "Potencia de ataque",
+        "-Físico: 99",
+        "-Magia: 64",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 38.0",
+        "-Fuego: 25.0",
+        "-Rayo: 25.0",
+        "-Sagrado: 25.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza\n-Tipo de daño: Perforación\n-Peso: 5.5\n-Habilidad: Embestida empaladora\n-Coste de PC: 9\nPotencia de ataque\n-Físico: 99\n-Magia: 64\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 49.0\n-Magia: 38.0\n-Fuego: 25.0\n-Rayo: 25.0\n-Sagrado: 25.0\n-Estabilidad: 33\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas"
+}

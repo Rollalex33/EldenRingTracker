@@ -1,0 +1,58 @@
+{
+  "title": "Escudo de madera del candelárbol",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p56.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-de-madera-del-candelarbol.jpg"
+  ],
+  "lore": "Un escudo largo de madera y tamaño mediano. Fácil de portar y bastante ligero para su tamaño.\n\n \n\nSe cree que el diseño del candelárbol iluminado representa la profecía secreta de un pecado capital.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un oglpe crítico.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en la Cueva del Sabio, en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8"
+      ],
+      "text": "-Fuerza: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo mediano",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 76",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 88.0",
+        "-Magia: 42.0",
+        "-Fuego: 32.0",
+        "-Rayo: 50.0",
+        "-Sagrado: 43.0",
+        "-Estabilidad: 47"
+      ],
+      "text": "-Categoría: Escudo mediano\n-Tipo de ataque: Golpe\n-Peso: 3.5\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 76\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 88.0\n-Magia: 42.0\n-Fuego: 32.0\n-Rayo: 50.0\n-Sagrado: 43.0\n-Estabilidad: 47",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Medianos"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Garra de dragón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p6.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/garra-de-dragon.jpg"
+  ],
+  "lore": "Uno de los encantamientos de la Comunión Dragontina.\n\n \n\nTransforma al lanzador en un dragón que usa sus garras para desgarrar a los enemigos.\n\nPermite lanzar otro ataque.\n\n \n\nEl encantamiento de quienes han cazado dragones y se han alimentado de sus corazones. El suyo es un poder puro y sobrecogedor.",
+  "intro": [
+    "-Es uno de los encantamientos que intercambias en la Iglesia de la Comunión Dragontina o en la Catedral de la Comunión Dragontina por 1 Corazón de dragón."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Canaliza al dragón para que descuartice a los enemigos con sus garras.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Fe necesaria: 17",
+        "-Arcano necesario: 13"
+      ],
+      "text": "Canaliza al dragón para que descuartice a los enemigos con sus garras.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 24\n-Ranuras: 1\n-Fe necesaria: 17\n-Arcano necesario: 13",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hacha de soldado de Messmer",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p306.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hacha-de-soldado-de-messmer.jpg"
+  ],
+  "lore": "Arma usada por los soldados de Messmer el Empalador.\n\nHacha de acero desgastada por el uso.\n\n \n\nLa favorita de quienes se perdieron a si mismos en la la guerra de su señor. Permite ejecutar poderosos ataques de carga.\n\n \n\nHabilidad: Grito de guerra\n\nDa un grito de guerra para avivar el espíritu y aumentar tu potencia de ataque.\n\nMientras está activo, transforma los ataques potentes en ataques de carga.",
+  "intro": [
+    "-La pueden soltar los soldados de Messmer en Llanura de las Tumbas y en el Castillo de Ensis."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Tajo",
+        "-Peso: 5.5",
+        "-Habilidad: Grito de guerra",
+        "-Coste de PC: 16 (- -)",
+        "Potencia de ataque",
+        "-Físico: 133",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Tajo\n-Peso: 5.5\n-Habilidad: Grito de guerra\n-Coste de PC: 16 (- -)\nPotencia de ataque\n-Físico: 133\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 49.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 33\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

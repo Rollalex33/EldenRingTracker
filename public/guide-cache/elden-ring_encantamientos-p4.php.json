@@ -1,0 +1,29 @@
+{
+  "title": "Curación",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p4.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/curacion.jpg"
+  ],
+  "lore": "Encantamiento de los fieles de los Dos Dedos.\n\n \n\nCura los PS del invocador y de los aliados cercanos.\n\nMantén pulsado para seguir rezando y retrasar la activación.\n\n \n\nLos Dos Dedos tienen grandes esperanzas puestas en los Sinluz; tantas que aunque resulten heridos, aunque caigan en la batalla, seguirán luchando para cumplir su deber.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Profeta.",
+    "-Te lo vende el Hermano Corhyn por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Cura los PS propios y de los aliados cercanos.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 32",
+        "-Ranuras: 1",
+        "-Fe necesaria: 12"
+      ],
+      "text": "Cura los PS propios y de los aliados cercanos.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 32\n-Ranuras: 1\n-Fe necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

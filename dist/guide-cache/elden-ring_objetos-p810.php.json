@@ -1,0 +1,31 @@
+{
+  "title": "Piedra de espectro",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p810.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/piedra-de-espectro.jpg"
+  ],
+  "lore": "Artilugio de los guardianes de tumbas hecho de piedra espiritual.\n\nObjeto que puede crearse.\n\n \n\nGenera ruidos que imitan la presencia humana en el lugar donde cae al lanzarlo.\n\n \n\nSe dice que lo usaban los solitarios guardianes de tumbas para satisfacer su anhelo de compañía.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Hace un ruido que imita la presencia humana."
+      ],
+      "text": "Hace un ruido que imita la presencia humana.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Piedra espiritual  x1 y  Grillo sepulcral  x2 (necesitas el  Manual de sepulturero (2) ).",
+        "-Las pueden soltar algunos enemigos de la  Costa Cerúlea ."
+      ],
+      "text": "-Se puede crear con  Piedra espiritual  x1 y  Grillo sepulcral  x2 (necesitas el  Manual de sepulturero (2) ).\n-Las pueden soltar algunos enemigos de la  Costa Cerúlea .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

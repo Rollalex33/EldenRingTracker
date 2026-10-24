@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Embestida empaladora",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p17.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-embestida-empaladora.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Ligero\" y la siguiente habilidad:\n\n \n\n\"Embestida empaladora: Habilidad que permite a las armas de embestida atravesar escudos. Acumula potencia y abalánzate dando una embestida para perforar la guardia de cualquier enemigo\".\n\n \n\nPuede usarse en armas de embestida (exceptuando armas colosales).",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en armas de embestida (exceptuando armas colosales).",
+        "-Tipo: Ligero"
+      ],
+      "text": "Puede usarse en armas de embestida (exceptuando armas colosales).\n-Tipo: Ligero",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te la vende  Caballero Bernahl  por 1.000 runas."
+      ],
+      "text": "-Te la vende  Caballero Bernahl  por 1.000 runas.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Ligero"
+}

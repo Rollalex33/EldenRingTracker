@@ -1,0 +1,30 @@
+{
+  "title": "Frasco albináurico",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p620.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-albinaurico.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro ritual.\n\nContiene hechicerías de los Cucos.\n\n \n\nConsume PC al lanzarlo contra los enemigos para impedir durante un tiempo determinado las acciones de recuperación con viales de lágrimas.\n\n \n\nLos Caballeros del Cuco así lo declaran. Contempla tu sangre maldita. Como cualquier corriente que fluye por nuestro gran reino.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC. Se lanza para evitar la curación con viales de lágrimas."
+      ],
+      "text": "Consume PC. Se lanza para evitar la curación con viales de lágrimas.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x2 y  Coágulo de albináurico  x1 (necesitas el  Manual de artesano de las piedras refulgentes [3] )."
+      ],
+      "text": "-Se puede crear con  Seta  x2 y  Coágulo de albináurico  x1 (necesitas el  Manual de artesano de las piedras refulgentes [3] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

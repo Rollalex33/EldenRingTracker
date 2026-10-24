@@ -1,0 +1,38 @@
+{
+  "title": "Gran flecha ósea emplumada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p599.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-flecha-osea-emplumada.jpg"
+  ],
+  "lore": "Flecha tan grande como una lanza tallada a partir de huesos de animales robustos.\n\n \n\nObjeto que puede crearse. El emplumado permite lanzar disparos a mayor distancia.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha grande",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 90",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Flecha grande\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 90\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Hueso de gran bestia  x1 y  Pluma de vuelo  x1 (necesitas el  Manual de guerrero nómada [13] )."
+      ],
+      "text": "-Se puede crear con  Hueso de gran bestia  x1 y  Pluma de vuelo  x1 (necesitas el  Manual de guerrero nómada [13] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

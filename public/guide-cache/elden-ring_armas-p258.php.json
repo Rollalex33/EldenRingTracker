@@ -1,0 +1,64 @@
+{
+  "title": "Rayo de Gransax",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p258.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/rayo-de-gransax.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/rayo-de-gransax_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/rayo-de-gransax_2.jpg"
+  ],
+  "lore": "Lanza tallada a partir del arma que empuñaba Gransax.\n\nEs una de las armas legendarias.\n\n \n\nGransax era un dragón antiguo que, en una ocasión, hizo llover la calamidad sobre la capital del Reino. Es el único momento registrado en la historia en el que los muros de Leyndell han caído.\n\nEsto marcó el inicio de la guerra contra los dragones antiguos.\n\n \n\nHabilidad única: Lanza fulgurante antigua\n\nImbuye el arma del rayo rojo de los dragones antiguos y luego úsala como si fuera una lanza.\n\nPuede cargarse para aumentar su poder.",
+  "intro": [
+    "En el punto ya indicado de Leyndell, tienes que saltar por la barandilla hacia ese gazebo, pero solo eso, hacia, no hasta.... desde el bordilo anterior tienes que subir por esa enorme lanza y en la cima de ésta ya encontrarás el arma. Entonces sí, ya podrás saltar al tejado del gazebo, en el que por cierto hay una Llave de espada pétrea.",
+    "Ten en cuenta que este arma no estará disponible después de derrotar a Maliketh, la Hoja Negra."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 20",
+        "-Destreza: 40"
+      ],
+      "text": "-Fuerza: 20\n-Destreza: 40",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza",
+        "-Tipo de daño: Perforación",
+        "-Peso: 8.5",
+        "-Habilidad: Lanza fulgurante antigua",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 98",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 63",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 60.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 47.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 40",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Lanza\n-Tipo de daño: Perforación\n-Peso: 8.5\n-Habilidad: Lanza fulgurante antigua\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 98\n-Magia: 0\n-Fuego: 0\n-Rayo: 63\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 60.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 47.0\n-Sagrado: 31.0\n-Estabilidad: 40\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas"
+}

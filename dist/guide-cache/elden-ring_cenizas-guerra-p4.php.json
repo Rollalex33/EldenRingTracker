@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Laceración",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p4.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-laceracion.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Sangriento\" y la siguiente habilidad:\n\n \n\n\"Laceración: Habilidad del juramento de sangre practicada por aquellos que han compartido e poder del Señor de la Sangre. Cubre la hoja con tu propia sangre desde una posición baja para desatar un tajo desgarrador en un amplio radio\".\n\n \n\nSe usa solo en armas de embestida, a excepción de armas más pequeñas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en espadas (exceptuando armas colosales).",
+        "-Tipo: Sangriento"
+      ],
+      "text": "Puede usarse en espadas (exceptuando armas colosales).\n-Tipo: Sangriento",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La suelta el Caballero de Godrick del  Fuerte de Haigh  en  Necrolimbo (Este) ."
+      ],
+      "text": "-La suelta el Caballero de Godrick del  Fuerte de Haigh  en  Necrolimbo (Este) .",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Sangriento"
+}

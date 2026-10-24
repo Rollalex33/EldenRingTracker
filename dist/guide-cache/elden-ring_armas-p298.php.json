@@ -1,0 +1,61 @@
+{
+  "title": "Hacha de Godfrey",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p298.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hacha-de-godfrey.jpg"
+  ],
+  "lore": "Arma de Godfrey, Señor del Círculo. Se rompió en el curso de la batalla que libró como líder de los Sinluz durante la Larga Marcha. Esta arma simboliza la promesa de Godfrey de actuar como un señor y, más adelante, se convirtió en el emblema del linaje dorado. Tanaño, la corona se afianzaba mediante la fuerza.\n\n \n\nHabilidad única: Rugido majestuoso\n\nProfiere un poderoso rugido antes de pisar el suelo con todo su peso para provocar un seísmo. Envía potentes ondas de choque en todas las direcciones contra las que es imposible protegerse.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de Hoarah Loux a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 42",
+        "-Destreza: 14"
+      ],
+      "text": "-Fuerza: 42\n-Destreza: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 18.0",
+        "-Habilidad: Rugido majestuoso",
+        "-Coste de PC: 25",
+        "Potencia de ataque",
+        "-Físico: 165",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 75.0",
+        "-Magia: 45.0",
+        "-Fuego: 45.0",
+        "-Rayo: 45.0",
+        "-Sagrado: 45.0",
+        "-Estabilidad: 50",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Estándar\n-Peso: 18.0\n-Habilidad: Rugido majestuoso\n-Coste de PC: 25\nPotencia de ataque\n-Físico: 165\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 75.0\n-Magia: 45.0\n-Fuego: 45.0\n-Rayo: 45.0\n-Sagrado: 45.0\n-Estabilidad: 50\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

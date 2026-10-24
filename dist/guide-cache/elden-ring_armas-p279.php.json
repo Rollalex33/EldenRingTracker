@@ -1,0 +1,63 @@
+{
+  "title": "Arco de albináurico",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p279.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arco-de-albinaurico.jpg"
+  ],
+  "lore": "Arco largo decorado con una delicada orfebrería y usado por las arqueras albináuricas cabalgadoras de lobos.\n\n \n\nPara dominarlos, se requiere más destreza que fuerza.\n\n \n\nHabilidad: Disparo poderoso\n\nUna habilidad de arquero que se realiza desde una posición oblicua.\n\n \n\nPrepara el arco y, a continuación, tira de la cuerda hasta el límite para aumentar la potencia del tiro y atravesar la guardia del enemigo.",
+  "intro": [
+    "-Lo pueden soltar las arqueras albináuricas que van montadas en lobo y que encuentras por el Campo sacroníveo.",
+    "-Lo consigues al eliminar al albináurico montado en lobo cerca de la Cabaña albináurica en Vista Sombría (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 7",
+        "-Destreza: 18"
+      ],
+      "text": "-Fuerza: 7\n-Destreza: 18",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arco",
+        "-Tipo de daño: Nada",
+        "-Peso: 4.5",
+        "-Habilidad: Disparo poderoso",
+        "-Coste de PC: - (6 6)",
+        "Potencia de ataque",
+        "-Físico: 82",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Alcance: 50",
+        "Protección contra daños",
+        "-Físicos: -",
+        "-Magia: -",
+        "-Fuego: -",
+        "-Rayo: -",
+        "-Sagrado: -",
+        "-Estabilidad: -",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arco\n-Tipo de daño: Nada\n-Peso: 4.5\n-Habilidad: Disparo poderoso\n-Coste de PC: - (6 6)\nPotencia de ataque\n-Físico: 82\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Alcance: 50\nProtección contra daños\n-Físicos: -\n-Magia: -\n-Fuego: -\n-Rayo: -\n-Sagrado: -\n-Estabilidad: -\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Arcos"
+}

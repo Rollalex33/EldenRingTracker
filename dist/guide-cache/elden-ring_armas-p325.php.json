@@ -1,0 +1,63 @@
+{
+  "title": "Espada de guerrero astado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p325.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-guerrero-astado.jpg"
+  ],
+  "lore": "Espada curva de los guerreros astados, guardianes de la torre.\n\n \n\nLos cuernos retorcidos con los que está decorada permiten usarla como cuerno de llamada.\n\n \n\nHabilidad: Invocación de cuernos\n\nInvoca cuernos retorcidos para cubrir la hoja del arma. Al clavar el arma en el suelo, se generan cuernos punzantes.",
+  "intro": [
+    "-La puede soltar el guerrero astado en Belurat, asentamiento de la torre, la Casa parroquial de Midra, las Antiguas ruinas de Rauh y Enir-Ilim."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 14",
+        "-Fe: 14"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 14\n-Fe: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadas curvas",
+        "-Tipo de daño: Tajo",
+        "-Peso: 5.0",
+        "-Habilidad: Inv. cuerno",
+        "-Coste de PC: 17 (- -)",
+        "Potencia de ataque",
+        "-Físico: 108",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 48.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadas curvas\n-Tipo de daño: Tajo\n-Peso: 5.0\n-Habilidad: Inv. cuerno\n-Coste de PC: 17 (- -)\nPotencia de ataque\n-Físico: 108\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 48.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 30\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas curvas"
+}

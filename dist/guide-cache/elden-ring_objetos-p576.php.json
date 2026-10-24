@@ -1,0 +1,30 @@
+{
+  "title": "Veneno pulverizable",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p576.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/veneno-pulverizable.jpg"
+  ],
+  "lore": "Arte prohibido de los perfumistas corruptos.\n\nPuede crearse con una botella de perfume.\n\n \n\nConsume PC para liberar una niebla venenosa desde la boca del usuario para provocar una acumulación de veneno.\n\n \n\nEl polvo perfumado se mantiene en la boca para disolvelro antes de expulsarlo. Antiguamente era un arte sanador, o al menos eso suele decirse.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC para liberar una niebla venenosa de la boca."
+      ],
+      "text": "Consume PC para liberar una niebla venenosa de la boca.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se puede crear con  Flor de Altus  x1,  Polvo de Miranda  x1,  Flor venenosa  x1 (necesitas el  Manual de perfumista [2] )."
+      ],
+      "text": "-Se puede crear con  Flor de Altus  x1,  Polvo de Miranda  x1,  Flor venenosa  x1 (necesitas el  Manual de perfumista [2] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

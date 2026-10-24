@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de inquisidora",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p82.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-la-inquisidora.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar los espíritus de dos inquisidoras cornamentadas.\n\n \n\nLas inquisidoras blanden candelabros con pinchos. Una de ellas lanza un conjuro de la torre para recuperar los PS, mientras que el conjuro de la otra aumenta su propia potencia de ataque.\n\n \n\nLas inquisiciones solían confundir las mentes de los no iniciados, por lo que la veteranía se consideraba una ventaja.",
+  "intro": [
+    "-Las encuentras en un cadáver en Enir-Ilim."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca los espíritus de dos inquisidoras.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 93"
+      ],
+      "text": "Invoca los espíritus de dos inquisidoras.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 93",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

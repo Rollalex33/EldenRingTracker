@@ -1,0 +1,33 @@
+{
+  "title": "Jabón",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p305.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/jabon.jpg"
+  ],
+  "lore": "Un jabón natural hecho de zumo se seta.\n\nObjeto que puede crearse.\n\n \n\nElimina la suciedad y otras acumulaciones del cuerpo, además de reducir ligeramente la acumulación de veneno.\n\n \n\nLa suciedad que cubre el exterior acaba permeando el exterior y mancilando el propio espíritu.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Elimina la suciedad y otras acumulaciones el cuerpo."
+      ],
+      "text": "Elimina la suciedad y otras acumulaciones el cuerpo.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta fundida  x2 (necesitas el  Manual de guerrero nómada [17] ).",
+        "-Encuentras 4 en un cadáver en el  Río Ainsel .",
+        "-Encuentras 3 en un cadáver en el  Río Siofra .",
+        "-Te lo vende el  Comerciante abandonado 1  por 400 runas."
+      ],
+      "text": "-Se puede crear con  Seta fundida  x2 (necesitas el  Manual de guerrero nómada [17] ).\n-Encuentras 4 en un cadáver en el  Río Ainsel .\n-Encuentras 3 en un cadáver en el  Río Siofra .\n-Te lo vende el  Comerciante abandonado 1  por 400 runas.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Grebas de Gaius",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p560.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/grebas-de-gaius.jpg"
+  ],
+  "lore": "Grebas de hierro negro fabricadas para el comandante Gaius.\n\nUna broma cruel, pues no podía llevarlas.\n\n \n\nMontado sobre el jabalí al que llamaba su otra mitad, Gaius era en realidad un guerrero de origen albináurico.",
+  "intro": [
+    "-Las consigues al eliminar al albináurico montado en lobo cerca de la Cabaña albináurica en Vista Sombría."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 8.9",
+        "Negación de daños",
+        "-Físico: 7.4",
+        "-VS golpe: 7.1",
+        "-VS tajo: 9.2",
+        "-VS perforación: 8.8",
+        "-Magia: 7.2",
+        "-Fuego: 7.1",
+        "-Rayo: 7.1",
+        "-Sagrado: 7.1",
+        "Resistencia",
+        "-Inmunidad: 29",
+        "-Robustez: 35",
+        "-Concentración: 20",
+        "-Vitalidad: 20",
+        "-Aplomo: 17"
+      ],
+      "text": "-Peso: 8.9\nNegación de daños\n-Físico: 7.4\n-VS golpe: 7.1\n-VS tajo: 9.2\n-VS perforación: 8.8\n-Magia: 7.2\n-Fuego: 7.1\n-Rayo: 7.1\n-Sagrado: 7.1\nResistencia\n-Inmunidad: 29\n-Robustez: 35\n-Concentración: 20\n-Vitalidad: 20\n-Aplomo: 17",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

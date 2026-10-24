@@ -1,0 +1,62 @@
+{
+  "title": "Arco de hueso",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p327.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arco-de-hueso.jpg"
+  ],
+  "lore": "Un arco corto rudimentario, hecho a partir de un hueso enfermizo.\n\n \n\nUn medio para invocar espíritus y un producto de las antiguas artes de maleficios de la torre.\n\n \n\nHabilidad: Disparo de rencor\n\nImbuye las flechas con espíritus vengativos antes de dispararlas en un aluvión. Las flechas imbuídas persiguen a los enemigos durante su trayectoria.",
+  "intro": [
+    "-Lo encuentras en un cadáver en el punto indicado de Belurat, asentamiento de la torre."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 11"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 11",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: E\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arco ligero",
+        "-Tipo de daño: Nada",
+        "-Peso: 3.0",
+        "-Habilidad: Disparo de rencor",
+        "-Coste de PC: - (3 3)",
+        "Potencia de ataque",
+        "-Físico: 66",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "-Alcance: 29",
+        "Protección contra daños",
+        "-Físicos: -",
+        "-Magia: -",
+        "-Fuego: -",
+        "-Rayo: -",
+        "-Sagrado: -",
+        "-Estabilidad: -",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arco ligero\n-Tipo de daño: Nada\n-Peso: 3.0\n-Habilidad: Disparo de rencor\n-Coste de PC: - (3 3)\nPotencia de ataque\n-Físico: 66\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\n-Alcance: 29\nProtección contra daños\n-Físicos: -\n-Magia: -\n-Fuego: -\n-Rayo: -\n-Sagrado: -\n-Estabilidad: -\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Arcos ligeros"
+}

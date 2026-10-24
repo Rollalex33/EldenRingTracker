@@ -1,0 +1,28 @@
+{
+  "title": "Llamapulta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p22.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/llamapulta.jpg"
+  ],
+  "lore": "Encantamiento originado por una siniestra profecía.\n\n \n\nLanza una bola de fuego abrasador.\n\nLa potencia de este hechizo aumenta al cargarlo y hace que la bola de fuego explote.\n\n \n\nAunque la llama de la perdición es una anatema para el Árbol Áureo, a veces los profetas lo vislumbran dentro de la fe. Por desgacia, cuando esto ocurre, lo único que obtienen a cambio es el destierro.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn por 800 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Lanza una bola de fuego salvaje.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 11",
+        "-Ranuras: 1",
+        "-Fe necesaria: 10"
+      ],
+      "text": "Lanza una bola de fuego salvaje.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 11\n-Ranuras: 1\n-Fe necesaria: 10",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Espada morada de Santa Trina",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p355.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-morada-de-santa-trina.jpg"
+  ],
+  "lore": "Espada de p lata de Santa Trina, ahora manchada de color morado.\n\nInflige sueño eterno.\n\n \n\nCuando Santa Trina fue abandonada, las leves nieblas de luz morada se unieron en una embriagadora nube de color morado intenso.\n\n \n\nHabilidad única: Neblina del sueño eterno\n\nLibera una aterciopelada neblina morada que se extiende frente a ti y causa somnolencia eterna al enemigo.",
+  "intro": [
+    "-La encuentras en un cadáver en Fisura en ataúd de piedra."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 12",
+        "-Inteligencia: 14"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 12\n-Inteligencia: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D",
+        "-Inteligencia: E"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D\n-Inteligencia: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadas rectas",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 2.5",
+        "-Habilidad: Neblina sueño eterno",
+        "-Coste de PC: 25 (- -)",
+        "Potencia de ataque",
+        "-Físico: 95",
+        "-Magia: 61",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 37.0",
+        "-Magia: 37.0",
+        "-Fuego: 25.0",
+        "-Rayo: 25.0",
+        "-Sagrado: 25.0",
+        "-Estabilidad: 27",
+        "Efectos pasivos",
+        "-Causa acumulación de sueño eterno (42)."
+      ],
+      "text": "-Categoría: Espadas rectas\n-Tipo de daño: Estándar/Perf.\n-Peso: 2.5\n-Habilidad: Neblina sueño eterno\n-Coste de PC: 25 (- -)\nPotencia de ataque\n-Físico: 95\n-Magia: 61\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 37.0\n-Magia: 37.0\n-Fuego: 25.0\n-Rayo: 25.0\n-Sagrado: 25.0\n-Estabilidad: 27\nEfectos pasivos\n-Causa acumulación de sueño eterno (42).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

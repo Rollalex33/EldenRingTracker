@@ -1,0 +1,47 @@
+{
+  "title": "Casco de caballero proscrito (mod.)",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p111.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-caballero-proscrito-mod.jpg"
+  ],
+  "lore": "Conjunto de armadura completa y gruesa que cubre todo el cuerpo.\n\nEste casco lo llevaban los caballeros que se vieron obligados a abandonar su hogar, ya fuese por una desgracia o por sus propios errores.\n\n \n\nTodos y cada uno de ellos eran feroes guerreros consumados.\n\nQuizás por ello, a pesar de haber perdido su territorio, seguían manteniendo el título de caballeros.",
+  "intro": [
+    "-Lo pueden soltar los \"Caballeros proscritos\" que hay en el Castillo de Velo Tormentoso."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.1",
+        "Negación de daños",
+        "-Físico: 7.0",
+        "-VS golpe: 5.5",
+        "-VS tajo: 7.1",
+        "-VS perforación: 6.4",
+        "-Magia: 5.0",
+        "-Fuego: 5.0",
+        "-Rayo: 4.9",
+        "-Sagrado: 4.9",
+        "Resistencia",
+        "-Inmunidad: 21",
+        "-Robustez: 30",
+        "-Concentración: 13",
+        "-Vitalidad: 14",
+        "-Aplomo: 8"
+      ],
+      "text": "-Peso: 7.1\nNegación de daños\n-Físico: 7.0\n-VS golpe: 5.5\n-VS tajo: 7.1\n-VS perforación: 6.4\n-Magia: 5.0\n-Fuego: 5.0\n-Rayo: 4.9\n-Sagrado: 4.9\nResistencia\n-Inmunidad: 21\n-Robustez: 30\n-Concentración: 13\n-Vitalidad: 14\n-Aplomo: 8",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

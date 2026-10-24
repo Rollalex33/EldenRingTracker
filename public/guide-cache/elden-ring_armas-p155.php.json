@@ -1,0 +1,61 @@
+{
+  "title": "Katar",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p155.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/katar.jpg"
+  ],
+  "lore": "Daga de importación con una empuñadura singular. La hoja puede blandirse como si de una extensión del puño se tratase.\n\n \n\nHabilidad: Embestida empaladora\n\nUna habilidad que permite a las armas de embestida atravesar escudos. Acumula potencia y abalánzate dando una embestida para perforar la guardia de cualquier enemigo.",
+  "intro": [
+    "-Lo encuentras dentro de un cofre en el Fuerte Gael, en Caelid (Noroeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Puño",
+        "-Tipo de daño: Golpe",
+        "-Peso: 2.5",
+        "-Habilidad: Embestida empaladora",
+        "-Coste de PC: 9",
+        "Potencia de ataque",
+        "-Físico: 97",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 36.0",
+        "-Magia: 21.0",
+        "-Fuego: 21.0",
+        "-Rayo: 21.0",
+        "-Sagrado: 21.0",
+        "-Estabilidad: 21",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Puño\n-Tipo de daño: Golpe\n-Peso: 2.5\n-Habilidad: Embestida empaladora\n-Coste de PC: 9\nPotencia de ataque\n-Físico: 97\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 36.0\n-Magia: 21.0\n-Fuego: 21.0\n-Rayo: 21.0\n-Sagrado: 21.0\n-Estabilidad: 21\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Puños"
+}

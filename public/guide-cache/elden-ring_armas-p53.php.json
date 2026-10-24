@@ -1,0 +1,61 @@
+{
+  "title": "Machete de hierro",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p53.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/machete-de-hierro.jpg"
+  ],
+  "lore": "Machete de hierro de tamaño considerable, normalmente utilizado por el maltratado Bastardo.\n\n \n\nImpregnadas de resentimiento, estas armas se blanden con violencia y sin piedad, a menudo después de ir al encuentro de los enemigos.\n\n \n\nHabilidad: Golpes salvajes\n\nBalancea tu arma con desenfreno.\n\nSigue balanceándola mientras mantienes el botón pulsado. Puedes acompañarla con un ataque normal o potente.",
+  "intro": [
+    "-Lo pueden soltar las criaturas ¿semihumanas? que hay en Península del Llanto, así como las del Altiplano Sombrío cerca de la Forja en ruinas de lluvia de estrellas pasada (DLC Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 15",
+        "-Destreza: 7"
+      ],
+      "text": "-Fuerza: 15\n-Destreza: 7",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hacha",
+        "-Tipo de daño: Estándar",
+        "-Peso: 6.0",
+        "-Habilidad: Golpes salvajes",
+        "-Coste de PC: 2 (10 15)",
+        "Potencia de ataque",
+        "-Físico: 120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 51.0",
+        "-Magia: 34.0",
+        "-Fuego: 34.0",
+        "-Rayo: 34.0",
+        "-Sagrado: 34.0",
+        "-Estabilidad: 34",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hacha\n-Tipo de daño: Estándar\n-Peso: 6.0\n-Habilidad: Golpes salvajes\n-Coste de PC: 2 (10 15)\nPotencia de ataque\n-Físico: 120\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 51.0\n-Magia: 34.0\n-Fuego: 34.0\n-Rayo: 34.0\n-Sagrado: 34.0\n-Estabilidad: 34\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hachas"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Piedra de la Llama Frenética",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p205.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/piedra-de-la-llama-frenetica.jpg"
+  ],
+  "lore": "Fragmento de ruina bendita con un encantamiento de los Tres Dedos.\n\nObjeto que puede crearse.\n\n \n\nConsume PC para generar calor y recuperar de forma continuada los PS de los portadores de la llama frenética.\n\n \n\nEnloquece a quienes no han adoptado la llama. ¡Procura no confundirlo con su versión más amable!",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC para curar a los seguidores del caos de forma constante."
+      ],
+      "text": "Consume PC para curar a los seguidores del caos de forma constante.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Ascua amarilla  x1 y  Piedra de santuario  x1 (necesitas el  Manual de frenético [2] ).",
+        "- Hyetta  suelta 3 si la matas.",
+        "-Consigues 5 al completar la historia de  Hyetta ."
+      ],
+      "text": "-Se puede crear con  Ascua amarilla  x1 y  Piedra de santuario  x1 (necesitas el  Manual de frenético [2] ).\n- Hyetta  suelta 3 si la matas.\n-Consigues 5 al completar la historia de  Hyetta .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Consumibles"
+}

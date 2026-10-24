@@ -1,0 +1,63 @@
+{
+  "title": "Mano envenenada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p326.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/mano-envenenada.jpg"
+  ],
+  "lore": "Guante cosido con la piel desollada de las víctimas de un terrible baño de sangre. Ataca al objetivo con veneno mortal. Aumenta la potencia de ataque cuando se produce envenenamiento en las inmediaciones.\n\nFabricado a partir del férreo y oscuro impulso de venganza de aquellos a los que les han quemado o robado todo, es propio de los más oprimidos.\n\n \n\nHabilidad: Golpe de lanza ponzoñosa\n\nConfiere a la mano la forma de una lanza antes de asestar una estocada que penetra en el cuerpo del enemigo y le inflige una gran dosis de veneno mortal.",
+  "intro": [
+    "-En un cadáver en el punto indicado de Belurat, asentamiento de la torre."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 8",
+        "-Arcano: 28"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 8\n-Arcano: 28",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Arcano: C"
+      ],
+      "text": "-Fuerza: E\n-Arcano: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Puño",
+        "-Tipo de daño: Golpe",
+        "-Peso: 1.0",
+        "-Habilidad: Golpe de lanza ponzoñosa",
+        "-Coste de PC: 13 (- -)",
+        "Potencia de ataque",
+        "-Físico: 76",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 33.0",
+        "-Magia: 19.0",
+        "-Fuego: 19.0",
+        "-Rayo: 19.0",
+        "-Sagrado: 19.0",
+        "-Estabilidad: 19",
+        "Efectos pasivos",
+        "-Provoca acumulación de veneno (108)."
+      ],
+      "text": "-Categoría: Puño\n-Tipo de daño: Golpe\n-Peso: 1.0\n-Habilidad: Golpe de lanza ponzoñosa\n-Coste de PC: 13 (- -)\nPotencia de ataque\n-Físico: 76\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 33.0\n-Magia: 19.0\n-Fuego: 19.0\n-Rayo: 19.0\n-Sagrado: 19.0\n-Estabilidad: 19\nEfectos pasivos\n-Provoca acumulación de veneno (108).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Puño"
+}

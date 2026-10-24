@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de sueño",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p632.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-sueno.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene los encantamientos de Santa Trina.\n\n \n\nConsume PC al lanzarlo contra los enemigos para provocar la acumulación de sueño.\n\n \n\nSu neblina color malva adormece de forma implacable a sus víctimas del mismo modo que lo haría una nana o una charla que no interesa. ¡Felices sueños!.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Consume PC. Se lanza para provocar la acumulación de sueño"
+      ],
+      "text": "Consume PC. Se lanza para provocar la acumulación de sueño",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta  x1 y  Lirio de Trina  x1 (necesitas el  Manual de Fevor [1] )."
+      ],
+      "text": "-Se puede crear con  Seta  x1 y  Lirio de Trina  x1 (necesitas el  Manual de Fevor [1] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

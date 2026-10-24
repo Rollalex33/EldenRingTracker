@@ -1,0 +1,63 @@
+{
+  "title": "Espada inseparable",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p192.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-inseparable.jpg"
+  ],
+  "lore": "Espada forjada con una mezcla de plata y oro.\n\nEs un arma sagrada diseñada para dar caza a quienes viven en la muerte.\n\nInflige daño sagrado.\n\n \n\nLos inseparables gemelos hallaron refugio en la Orden Dorada, la única institución que no los desprecia como seres malditos.\n\n \n\nHabilidad: Hoja sagrada\n\nOtorga al arma ataques sagrados y dispara un proyectil de hojas doradas.\n\nEl arma mantiene el encantamiento sagado durante poco tiempo.",
+  "intro": [
+    "-Se consigue al completar la historia del Hermano gemelo de D."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 18",
+        "-Destreza: 18",
+        "-Fe: 20"
+      ],
+      "text": "-Fuerza: 18\n-Destreza: 18\n-Fe: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: C"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Hoja sagrada",
+        "-Coste de PC: 19",
+        "Potencia de ataque",
+        "-Físico: 98",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 98",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 59.0",
+        "-Magia: 34.0",
+        "-Fuego: 34.0",
+        "-Rayo: 34.0",
+        "-Sagrado: 52.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 10.0\n-Habilidad: Hoja sagrada\n-Coste de PC: 19\nPotencia de ataque\n-Físico: 98\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 98\n-Crítico: 100\nProtección contra daños\n-Físicos: 59.0\n-Magia: 34.0\n-Fuego: 34.0\n-Rayo: 34.0\n-Sagrado: 52.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

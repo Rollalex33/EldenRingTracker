@@ -1,0 +1,47 @@
+{
+  "title": "Turbante de emisario",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p435.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/turbante-de-emisario.jpg"
+  ],
+  "lore": "Turbante suave que llevan los emisarios del oráculo.\n\nDensamente envuelto con varias capas de tela.\n\n \n\nAumenta la potencia de los hechizos basados en burbujas.\n\n \n\nNadie sabe qué oculta la tela, pero hay quienes aseguran haber oído un leve lloriqueo en su interior. Se lo habrán imaginado.",
+  "intro": [
+    "-La encuentras en un cadáver en el Árbol Hierático de Miquella."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.8",
+        "Negación de daños",
+        "-Físico: 2.8",
+        "-VS golpe: 3.1",
+        "-VS tajo: 3.1",
+        "-VS perforación: 2.8",
+        "-Magia: 5.3",
+        "-Fuego: 4.7",
+        "-Rayo: 4.9",
+        "-Sagrado: 5.5",
+        "Resistencia",
+        "-Inmunidad: 27",
+        "-Robustez: 15",
+        "-Concentración: 46",
+        "-Vitalidad: 46",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 3.8\nNegación de daños\n-Físico: 2.8\n-VS golpe: 3.1\n-VS tajo: 3.1\n-VS perforación: 2.8\n-Magia: 5.3\n-Fuego: 4.7\n-Rayo: 4.9\n-Sagrado: 5.5\nResistencia\n-Inmunidad: 27\n-Robustez: 15\n-Concentración: 46\n-Vitalidad: 46\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Escudo ardiente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p59.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-ardiente.jpg"
+  ],
+  "lore": "Pequeño escudo forjado a partir de lava sin enfriar del Monte Gelmir.\n\n \n\nGracias a su calor, ofrece resistencia a la congelación e incluso se puede usar para infligir daño de fuego al empuñarlo como arma.\n\n \n\nHabilidad: Golpe de escudo\n\nTe parapetas tras el escudo antes de usar todo el cuerpo para embestir a tus enemigos.\n\nHarás retroceder a los enemigos más débiles e incluso puedes hacer que se tambaleen.",
+  "intro": [
+    "-Lo encuentras en un cadáver en la Mansión del Volcán, en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10",
+        "-Destreza: 9",
+        "-Fe: 12"
+      ],
+      "text": "-Fuerza: 10\n-Destreza: 9\n-Fe: 12",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: E\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo pequeño",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 3.0",
+        "-Habilidad: Golpe de escudo",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 58",
+        "-Magia: 0",
+        "-Fuego: 37",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 79.0",
+        "-Magia: 38.0",
+        "-Fuego: 56.0",
+        "-Rayo: 14.0",
+        "-Sagrado: 38.0",
+        "-Estabilidad: 41"
+      ],
+      "text": "-Categoría: Escudo pequeño\n-Tipo de ataque: Golpe\n-Peso: 3.0\n-Habilidad: Golpe de escudo\n-Coste de PC: -\nPotencia de ataque\n-Físico: 58\n-Magia: 0\n-Fuego: 37\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 79.0\n-Magia: 38.0\n-Fuego: 56.0\n-Rayo: 14.0\n-Sagrado: 38.0\n-Estabilidad: 41",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Pequeños"
+}

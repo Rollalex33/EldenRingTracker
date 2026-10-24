@@ -1,0 +1,64 @@
+{
+  "title": "Machete de putrefacción",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p356.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/machete-de-putrefaccion.jpg"
+  ],
+  "lore": "Arma que empuñaba el Caballero putrefacto.\n\nUn gran machete de putrefacción endurecida que está enganchado a un arco hecho de huesos humanos.\n\n \n\nObtiene el poder del atributo del portador.\n\n \n\nHabilidad única: Guillotina giratoria\n\nSujeta la hoja pútrida por ambos extremos y arquéate para desatar un potente tajo desde arriba. Repítelo para ejecutar tantos ataques adicionales como te permita la resistencia. Los ataques potentes realizan un salto seguido de un ataque giratorio.",
+  "intro": [
+    "-Lo consigues entregándole el Recuerdo de la putrefacción a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 28",
+        "-Destreza: 10",
+        "-Arcano: 15"
+      ],
+      "text": "-Fuerza: 28\n-Destreza: 10\n-Arcano: 15",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: E",
+        "-Arcano: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: E\n-Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran hacha",
+        "-Tipo de daño: Tajo",
+        "-Peso: 13.5",
+        "-Habilidad: Guillotina girat.",
+        "-Coste de PC: 12 (- 7)",
+        "Potencia de ataque",
+        "-Físico: 141",
+        "-Magia: 42",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 44.0",
+        "-Fuego: 38.0",
+        "-Rayo: 38.0",
+        "-Sagrado: 38.0",
+        "-Estabilidad: 46",
+        "Efectos pasivos",
+        "-Provoca la acumulación de congelación (55)."
+      ],
+      "text": "-Categoría: Gran hacha\n-Tipo de daño: Tajo\n-Peso: 13.5\n-Habilidad: Guillotina girat.\n-Coste de PC: 12 (- 7)\nPotencia de ataque\n-Físico: 141\n-Magia: 42\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 44.0\n-Fuego: 38.0\n-Rayo: 38.0\n-Sagrado: 38.0\n-Estabilidad: 46\nEfectos pasivos\n-Provoca la acumulación de congelación (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes hachas"
+}

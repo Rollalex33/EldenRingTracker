@@ -1,0 +1,28 @@
+{
+  "title": "Cristal devastador",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p36.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cristal-devastador.jpg"
+  ],
+  "lore": "Hechizo de los misteriosos cristalianos.\n\n \n\nCrea una masa de cristal que se fragmenta en un estallido avanzado.\n\nSi se carga aumenta la potencia.\n\n \n\nLos cristalianos son seres inorgánicos pero vivos. Se rigen por principios semejantes a los de la corriente primigenia y, como tal, son invitados venerados por los hechiceros.",
+  "intro": [
+    "-Lo encuentras en un cadáver en la Academia de Raya Lucaria, en Liurnia (Norte)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Crea una masa de cristal que se fragmenta en una explosión avanzada.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 21",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 38"
+      ],
+      "text": "Crea una masa de cristal que se fragmenta en una explosión avanzada.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 21\n-Ranuras: 1\n-Inteligencia necesaria: 38",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

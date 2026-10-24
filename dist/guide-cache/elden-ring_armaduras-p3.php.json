@@ -1,0 +1,48 @@
+{
+  "title": "Guanteletes de caballero vagabundo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p3.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guanteletes-de-caballero-vagabundo.jpg"
+  ],
+  "lore": "Guanteletes de un caballero desterrado de su patria.\n\nEstán sucios y maltrechos tras soportar la dura vida del vagabundo.\n\n \n\nLa armadura de metal es pesada pero resistente y ofrece una considerable negación de daños.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Vagante.",
+    "-Te los vende el Comerciante ermitaño 3 por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.5",
+        "Negación de daños",
+        "-Físico: 3.3",
+        "-VS golpe: 2.8",
+        "-VS tajo: 3.1",
+        "-VS perforación: 2.9",
+        "-Magia: 2.5",
+        "-Fuego: 2.7",
+        "-Rayo: 2.1",
+        "-Sagrado: 2.1",
+        "Resistencia",
+        "-Inmunidad: 12",
+        "-Robustez: 19",
+        "-Concentración: 8",
+        "-Vitalidad: 8",
+        "-Aplomo: 3"
+      ],
+      "text": "-Peso: 3.5\nNegación de daños\n-Físico: 3.3\n-VS golpe: 2.8\n-VS tajo: 3.1\n-VS perforación: 2.9\n-Magia: 2.5\n-Fuego: 2.7\n-Rayo: 2.1\n-Sagrado: 2.1\nResistencia\n-Inmunidad: 12\n-Robustez: 19\n-Concentración: 8\n-Vitalidad: 8\n-Aplomo: 3",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

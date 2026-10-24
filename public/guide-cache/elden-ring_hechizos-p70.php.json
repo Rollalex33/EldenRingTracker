@@ -1,0 +1,28 @@
+{
+  "title": "Dominio de Loretta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p70.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/dominio-de-loretta.jpg"
+  ],
+  "lore": "Hechizo utilizado por Loretta, caballera del Árbol Hierático.\n\n \n\nCrea un gran arco mágico y dispara cuatro flechas grandes simultáneamente.\n\nLa potencia de ste hechizo aumenta al cargarlo. Mantén el hechizo para aguantar las flechas en posición.\n\n \n\nCreado por Loretta tras su largo y sangriento trayecto en busca de un lugar en el que los albináuricos pudieran vivir en paz.",
+  "intro": [
+    "-Lo consigues como recompensapor derrotar a la jefaza Guardia Real Loretta."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara cuatro grandes flechas del gran arco mágico a la vez.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 39",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 46"
+      ],
+      "text": "Dispara cuatro grandes flechas del gran arco mágico a la vez.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 39\n-Ranuras: 1\n-Inteligencia necesaria: 46",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

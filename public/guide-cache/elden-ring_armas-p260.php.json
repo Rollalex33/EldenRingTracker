@@ -1,0 +1,62 @@
+{
+  "title": "Espada de Milos",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p260.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-milos.jpg"
+  ],
+  "lore": "Siniestro espadón hecho a partir de la columna vertebral de un gigante.\n\nInflige heridas por su forma de sierra asimétrica y restaura algo de PC al derrotar a un enemigo.\n\n \n\nMilos era pequeño para ser un gigante, por lo que se consideraba que estaba mancillado y que era terriblemente grotesco.\n\n \n\nHabildiad única: Chillido de Milos\n\nEmite un grito terrorífico y maldito que reduce toda la egación de daño sy las resistencias de estado de los enemigos cercanos.\n\nMientras está activo, los ataques potentes se convertirán en un ataque combinado.",
+  "intro": [
+    "-La suelta el Zampaheces cuando lo derrotas al invadirte siguiendo su historia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 15",
+        "-Destreza: 19"
+      ],
+      "text": "-Fuerza: 15\n-Destreza: 19",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Chillido de Milos",
+        "-Coste de PC: 30",
+        "Potencia de ataque",
+        "-Físico: 141",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos",
+        "-provoca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 10.0\n-Habilidad: Chillido de Milos\n-Coste de PC: 30\nPotencia de ataque\n-Físico: 141\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos\n-provoca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

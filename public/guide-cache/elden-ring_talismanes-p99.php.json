@@ -1,0 +1,38 @@
+{
+  "title": "Talismán con espada a dos manos",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_talismanes-p99.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/talisman-con-espada-a-dos-manos.jpg"
+  ],
+  "lore": "Talismán que representa a un guerrero blandiendo una espada a dos manos.\n\nMejora los ataques con armas a dos manos.\n\n \n\nLos guerreros astados encarnaban a la perfección el poderío militar de la torre que vigilaban y sus hábiles ataques fulminaban a todos los enemigos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Mejora los ataques con armas a dos manos."
+      ],
+      "text": "Mejora los ataques con armas a dos manos.",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 1.2"
+      ],
+      "text": "-Peso: 1.2",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo encuentras dentro de un cofre en las  Ruinas del templo ."
+      ],
+      "text": "-Lo encuentras dentro de un cofre en las  Ruinas del templo .",
+      "images": []
+    }
+  ],
+  "category": "talismanes",
+  "categoryName": "Talismanes",
+  "subcategory": "Talismanes del DLC Shadow of the Erdtree"
+}

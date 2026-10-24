@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Sin habilidad",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p21.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-sin-habilidad.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra no confiere a  un arma ninguna afinidad y sustituye cualquier habilidad presente por la siguiente:\n\n \n\n\"Sin habilidad: Esta arma no tiene ninguna habilidad. Si el arma que llevas en la otra mano tiene alguna habilidad, se utilizará dicha habilidad\".\n\n \n\nSe usa solo en armas de embestida, a excepción de armas más pequeñas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en escudos y antorchas.",
+        "-Tipo: Estándar"
+      ],
+      "text": "Puede usarse en escudos y antorchas.\n-Tipo: Estándar",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te la vende  Caballero Bernahl  por 600 runas."
+      ],
+      "text": "-Te la vende  Caballero Bernahl  por 600 runas.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Estándar"
+}

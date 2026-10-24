@@ -1,0 +1,58 @@
+{
+  "title": "Escudo redondo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p18.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-redondo.jpg"
+  ],
+  "lore": "Escudo redondo de madera que ha sido reforzado con metal.\n\n \n\nAl ser ligero para su tamaño, este escudo es fácil de manejar. Eso sí, no tiene la misma capacidad de evitar el daño que un escudo de metal auténtico.\n\n \n\nHabilidad: Elusión\n\nUtiliza esta habilidad cuando un enemigo te ataque cuerpo a cuerpo para eludirlo y romper su posición.\n\nAsí tendrás la oportunidad de asestar un golpe crítico.",
+  "intro": [
+    "-Te lo vende Comerciante nómada 4 por 1.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8"
+      ],
+      "text": "-Fuerza: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo mediano",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 4.0",
+        "-Habilidad: Elusión",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 76",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 83.0",
+        "-Magia: 50.0",
+        "-Fuego: 37.0",
+        "-Rayo: 43.0",
+        "-Sagrado: 50.0",
+        "-Estabilidad: 42"
+      ],
+      "text": "-Categoría: Escudo mediano\n-Tipo de ataque: Golpe\n-Peso: 4.0\n-Habilidad: Elusión\n-Coste de PC: -\nPotencia de ataque\n-Físico: 76\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 83.0\n-Magia: 50.0\n-Fuego: 37.0\n-Rayo: 43.0\n-Sagrado: 50.0\n-Estabilidad: 42",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Medianos"
+}

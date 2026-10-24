@@ -1,0 +1,47 @@
+{
+  "title": "Grebas de duelista podrido",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p423.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/grebas-de-duelista-podrido.jpg"
+  ],
+  "lore": "Grebas envueltas con éneas serpientes y consumidas por la putrefacción roja.\n\n \n\nLas usaban los gladiadores que fueron expulsados del coliseo.\n\nSu portador se convierte en un objetivo algo más fácil para los enemigos.",
+  "intro": [
+    "-Las suelta un duelista podrido que está por la parte Noroeste del Campo sacroníveo, cerca de Ordina, ciudad litúrgica."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.3",
+        "Negación de daños",
+        "-Físico: 7.4",
+        "-VS golpe: 6.2",
+        "-VS tajo: 7.7",
+        "-VS perforación: 7.1",
+        "-Magia: 6.2",
+        "-Fuego: 6.5",
+        "-Rayo: 5.8",
+        "-Sagrado: 6.2",
+        "Resistencia",
+        "-Inmunidad: 35",
+        "-Robustez: 35",
+        "-Concentración:15",
+        "-Vitalidad: 15",
+        "-Aplomo: 10"
+      ],
+      "text": "-Peso: 7.3\nNegación de daños\n-Físico: 7.4\n-VS golpe: 6.2\n-VS tajo: 7.7\n-VS perforación: 7.1\n-Magia: 6.2\n-Fuego: 6.5\n-Rayo: 5.8\n-Sagrado: 6.2\nResistencia\n-Inmunidad: 35\n-Robustez: 35\n-Concentración:15\n-Vitalidad: 15\n-Aplomo: 10",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Pantalones de tela",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p71.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/pantalones-de-tela.jpg"
+  ],
+  "lore": "Pantalones hechos de un tosco material.\n\nLos llevan los denostados Sinluz,\n\nforzados a trabajar como esclavos en las Tierras Intermedias.\n\n \n\nLos Sinluz llevan errando desde tiempos inmemoriales por las Tierras Intermedias, procedentes del Mar de Niebla.\n\nLa mayoría son eliminados al poco de su llegada, mas los pocos supervivientes se convierten en esclavos.",
+  "intro": [
+    "-Están dentro del cofre en la sala de Cueva de Agualóbrega, donde se encuentra Parches."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.0",
+        "Negación de daños",
+        "-Físico: 3.0",
+        "-VS golpe: 2.3",
+        "-VS tajo: 1.5",
+        "-VS perforación: 2.3",
+        "-Magia: 7.3",
+        "-Fuego: 7.1",
+        "-Rayo: 6.8",
+        "-Sagrado: 7.1",
+        "Resistencia",
+        "-Inmunidad: 26",
+        "-Robustez: 14",
+        "-Concentración: 37",
+        "-Vitalidad: 37",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.0\nNegación de daños\n-Físico: 3.0\n-VS golpe: 2.3\n-VS tajo: 1.5\n-VS perforación: 2.3\n-Magia: 7.3\n-Fuego: 7.1\n-Rayo: 6.8\n-Sagrado: 7.1\nResistencia\n-Inmunidad: 26\n-Robustez: 14\n-Concentración: 37\n-Vitalidad: 37\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Piernas"
+}

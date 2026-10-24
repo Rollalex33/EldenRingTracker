@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de Lionel",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p359.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-lionel.jpg"
+  ],
+  "lore": "Armadura de hierro abombada con un estandarte que cuelga de su espalda.\n\nLa llevaba Lionel, el Corazón de León.\n\n \n\nFue al conocer a Fia, quien había sido expulsada de su hogar, cuando este cortés e intrépido caballero decidió acogela como un padre.",
+  "intro": [
+    "-La encuentras en un cadáver sobre una cama en la misma sala del lugar de gracia \"Iglesia inferior de la capital\" en Leyndell."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 21.2",
+        "Negación de daños",
+        "-Físico: 17.5",
+        "-VS golpe: 16.3",
+        "-VS tajo: 19.2",
+        "-VS perforación: 19.7",
+        "-Magia: 13.5",
+        "-Fuego: 14.9",
+        "-Rayo: 13.0",
+        "-Sagrado: 13.5",
+        "Resistencia",
+        "-Inmunidad: 63",
+        "-Robustez: 99",
+        "-Concentración: 42",
+        "-Vitalidad: 50",
+        "-Aplomo: 37"
+      ],
+      "text": "-Peso: 21.2\nNegación de daños\n-Físico: 17.5\n-VS golpe: 16.3\n-VS tajo: 19.2\n-VS perforación: 19.7\n-Magia: 13.5\n-Fuego: 14.9\n-Rayo: 13.0\n-Sagrado: 13.5\nResistencia\n-Inmunidad: 63\n-Robustez: 99\n-Concentración: 42\n-Vitalidad: 50\n-Aplomo: 37",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

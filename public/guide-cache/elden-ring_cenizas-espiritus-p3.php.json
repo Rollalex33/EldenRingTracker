@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de lobo solitario",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p3.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-lobo-solitario.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar los espíritus de tres lobos solitarios.\n\n \n\nEspíritus de lobos que fueron perseguidos y apartados de su manada. Posteriormente, conocieron a un Sinluz anónimo que los acogió como compañeros de caza.\n\nLos espíritus de los lobos hostigan a los enemigos con su agilidad, lo cual es de gran ayuda para quien os invoque en combate.",
+  "intro": [
+    "-Te las da Renna al hablar con ella por primera vez."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca los espíritus de tres lobos solitarios.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 55"
+      ],
+      "text": "Invoca los espíritus de tres lobos solitarios.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 55",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus"
+}

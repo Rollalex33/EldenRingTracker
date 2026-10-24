@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Patada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p13.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-patada.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Pesado\" y la siguiente habilidad:\n\n \n\n\"Patada: Levanta bien la pierna para darle una patada a tu enemigo. Eficaz contra enemigos en guardia, puede romper su posición. A veces lo más eficaz es lo más simple\".\n\n \n\nSe usa solo en armas de embestida, a excepción de armas más pequeñas.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en todas las armas cuerpo a cuerpo.",
+        "-Tipo: Pesado"
+      ],
+      "text": "Puede usarse en todas las armas cuerpo a cuerpo.\n-Tipo: Pesado",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te la vende  Caballero Bernahl  por 800 runas."
+      ],
+      "text": "-Te la vende  Caballero Bernahl  por 800 runas.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Pesado"
+}

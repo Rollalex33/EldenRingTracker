@@ -1,0 +1,65 @@
+{
+  "title": "Martillo de yunque",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p324.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/martillo-de-yunque.jpg"
+  ],
+  "lore": "Uno de los tesoros de las forjas en ruinas.\n\nUn formidable martillo qeu incorpora como cabeza el yunque al rojo vivo de la forja.\n\n \n\nSe dice que la forma del yunque se inspira en la de un altar y que, antaño, se usaba como tal en ritos y rituales.\n\n \n\nHabilidad: Lanzas de artes de herrería\n\nGolpea el yunque al rojo vivo contra el suelo y al extraerlo arroja innumerables lanzas que desaparecen al instante.",
+  "intro": [
+    "-Lo consigues al examinar el altar al final de Entrada de lava de la forja en ruinas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 39",
+        "-Destreza: 10",
+        "-Inteligencia: 11",
+        "-Fe: 20"
+      ],
+      "text": "-Fuerza: 39\n-Destreza: 10\n-Inteligencia: 11\n-Fe: 20",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E",
+        "-Inteligencia: E",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E\n-Inteligencia: E\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Golpe",
+        "-Peso: 22.0",
+        "-Habilidad: Lanzas de herrería",
+        "-Coste de PC: 18 (- -)",
+        "Potencia de ataque",
+        "-Físico: 131",
+        "-Magia: 0",
+        "-Fuego: 85",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 80.0",
+        "-Magia: 43.0",
+        "-Fuego: 59.0",
+        "-Rayo: 43.0",
+        "-Sagrado: 41.0",
+        "-Estabilidad: 53",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Golpe\n-Peso: 22.0\n-Habilidad: Lanzas de herrería\n-Coste de PC: 18 (- -)\nPotencia de ataque\n-Físico: 131\n-Magia: 0\n-Fuego: 85\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 80.0\n-Magia: 43.0\n-Fuego: 59.0\n-Rayo: 43.0\n-Sagrado: 41.0\n-Estabilidad: 53\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

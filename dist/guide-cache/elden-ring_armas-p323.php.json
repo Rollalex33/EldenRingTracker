@@ -1,0 +1,65 @@
+{
+  "title": "Daga de letra herrérica",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p323.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/daga-de-letra-herrerica.jpg"
+  ],
+  "lore": "Daga con un grabado de letra herrérica.\n\n \n\nSu tamaño reducido potencia los efectos de las artes de herrería, por lo que puede usarse siempre como arma arrojadiza.\n\n \n\nUna vez lanzada, reaparece al instante en la mano del portador.\n\n \n\nHabilidad: Lanzamiento perforante\n\nLanza el arma con un potente giro, locual facilita que atraviese a los enemigos. Al usar esta habilidad, el arma se puede lanzar más lejos de lo normal y, además, atravesará enemigos.",
+  "intro": [
+    "-La encuentras en un cadáver en Entrada de lava de la forja en ruinas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 5",
+        "-Destreza: 11",
+        "-Inteligencia: 11",
+        "-Fe: 11"
+      ],
+      "text": "-Fuerza: 5\n-Destreza: 11\n-Inteligencia: 11\n-Fe: 11",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C",
+        "-Inteligencia: E",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C\n-Inteligencia: E\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Hojas arrojadizas",
+        "-Tipo de daño: Perf.",
+        "-Peso: 1.5",
+        "-Habilidad: Lanzamiento perforante",
+        "-Coste de PC: 8 (- -)",
+        "Potencia de ataque",
+        "-Físico: 62",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 35.0",
+        "-Magia: 20.0",
+        "-Fuego: 20.0",
+        "-Rayo: 20.0",
+        "-Sagrado: 20.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Hojas arrojadizas\n-Tipo de daño: Perf.\n-Peso: 1.5\n-Habilidad: Lanzamiento perforante\n-Coste de PC: 8 (- -)\nPotencia de ataque\n-Físico: 62\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 35.0\n-Magia: 20.0\n-Fuego: 20.0\n-Rayo: 20.0\n-Sagrado: 20.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Hojas arrojadizas"
+}

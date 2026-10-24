@@ -1,0 +1,47 @@
+{
+  "title": "Guantes de preceptor",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p194.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guantes-de-preceptor.jpg"
+  ],
+  "lore": "Guantes de los preceptores mágicos que sirven a la realeza cariana.\n\nDe color negro y muy discretos.",
+  "intro": [
+    "-Los suelta Seluvis al morir de forma \"natural\" durante su historia (tú no puedes matarlo directamente), da igual cual de las dos opciones desencadenara su muerte."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.1",
+        "Negación de daños",
+        "-Físico: 1.5",
+        "-VS golpe: 1.6",
+        "-VS tajo: 1.5",
+        "-VS perforación: 1.5",
+        "-Magia: 3.6",
+        "-Fuego: 3.3",
+        "-Rayo: 3.2",
+        "-Sagrado: 3.2",
+        "Resistencia",
+        "-Inmunidad: 17",
+        "-Robustez: 8",
+        "-Concentración: 28",
+        "-Vitalidad: 25",
+        "-Aplomo: 1"
+      ],
+      "text": "-Peso: 2.1\nNegación de daños\n-Físico: 1.5\n-VS golpe: 1.6\n-VS tajo: 1.5\n-VS perforación: 1.5\n-Magia: 3.6\n-Fuego: 3.3\n-Rayo: 3.2\n-Sagrado: 3.2\nResistencia\n-Inmunidad: 17\n-Robustez: 8\n-Concentración: 28\n-Vitalidad: 25\n-Aplomo: 1",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

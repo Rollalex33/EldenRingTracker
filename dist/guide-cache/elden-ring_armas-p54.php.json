@@ -1,0 +1,62 @@
+{
+  "title": "Lucero del alba",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p54.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lucero-del-alba.jpg"
+  ],
+  "lore": "Martillo de guerra compuesto por una esfera fijada a un mango.\n\nAunque se trata de una maza que inflige daño por golpe, la así llamad aestrella está cubierta por púas que provocan hemorragias.\n\n \n\nSu nombre elegante es más bien irónico, puesto que esta arma suele oler a sangre.\n\n \n\nHabilidad: Patada\n\nLevanta bien la pierna para darle una patada a tu enemigo.\n\nResulta eficaz contra enemigos en guardia y puede romper su posición.\n\nA veces, lo más eficaz es lo más simple.",
+  "intro": [
+    "-Dentro de un cofre en Península del Llanto."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 12",
+        "-Destreza: 8"
+      ],
+      "text": "-Fuerza: 12\n-Destreza: 8",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 5.0",
+        "-Habilidad: Patada",
+        "-Coste de PC: -",
+        "Potencia de ataque",
+        "-Físico: 118",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 47.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 31",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (50)."
+      ],
+      "text": "-Categoría: Martillo\n-Tipo de daño: Golpe\n-Peso: 5.0\n-Habilidad: Patada\n-Coste de PC: -\nPotencia de ataque\n-Físico: 118\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 47.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 31\nEfectos pasivos\n-Provoca la acumulación de hemorragias (50).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Martillos"
+}

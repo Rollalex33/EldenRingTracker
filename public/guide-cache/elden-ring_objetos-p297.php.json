@@ -1,0 +1,39 @@
+{
+  "title": "Flecha esquirlada emplumada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p297.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/flecha-esquirlada-emplumada.jpg"
+  ],
+  "lore": "Flecha tallada a partir de huesos de animales cuya punta presenta un fragmento de cristal. Crea un sonido reverberante en el momento del impacto.\n\n \n\nObjeto que puede crearse. El emplumado permite lanzar disparos a mayor distancia.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 45",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Flecha\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 45\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nEfectos pasivos",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Encuentras 10 en un cadáver en el  Río Ainsel ."
+      ],
+      "text": "-Encuentras 10 en un cadáver en el  Río Ainsel .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

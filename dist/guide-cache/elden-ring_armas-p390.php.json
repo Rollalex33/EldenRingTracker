@@ -1,0 +1,65 @@
+{
+  "title": "Botella de perfume fulgurante",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p390.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/botella-de-perfume-fulgurante.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/botella-de-perfume-fulgurante_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/botella-de-perfume-fulgurante_2.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/botella-de-perfume-fulgurante_3.jpg"
+  ],
+  "lore": "Botella de perfume convertida en arma por los perfumistas del Reino de las Sombras.\n\n \n\nLos ataques liberan un polvo perfumado que genera rayos.\n\n \n\nDe vez en cuando, los perfumistas emprenden viajes en busca de nuevos aromas y jardines.\n\n \n\nHabilidad: Patada\n\nLevanta bien la pierna para darle una patada a tu enemigo.\n\nResulta eficaz contra enemigos en guardia y puede romper su posición.\n\nA veces, lo más eficaz es lo más simple.",
+  "intro": [
+    "La encuentras en un cadáver en ese lago en el punto indicado de la Costa Cerúlea."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 3",
+        "-Destreza: 16",
+        "-Fe: 14"
+      ],
+      "text": "-Fuerza: 3\n-Destreza: 16\n-Fe: 14",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Botella de perfume",
+        "-Tipo de daño: Estándar",
+        "-Peso: 1.0",
+        "-Habilidad: Patada",
+        "-Coste de PC: - (- -)",
+        "Potencia de ataque",
+        "-Físico: 0",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 110",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 21.0",
+        "-Magia: 28.0",
+        "-Fuego: 25.0",
+        "-Rayo: 65.0",
+        "-Sagrado: 28.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Botella de perfume\n-Tipo de daño: Estándar\n-Peso: 1.0\n-Habilidad: Patada\n-Coste de PC: - (- -)\nPotencia de ataque\n-Físico: 0\n-Magia: 0\n-Fuego: 0\n-Rayo: 110\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 21.0\n-Magia: 28.0\n-Fuego: 25.0\n-Rayo: 65.0\n-Sagrado: 28.0\n-Estabilidad: 15\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Botellas de perfume"
+}

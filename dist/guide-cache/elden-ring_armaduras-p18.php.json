@@ -1,0 +1,48 @@
+{
+  "title": "Túnica de profeta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p18.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tunica-de-profeta.jpg"
+  ],
+  "lore": "Túnica de los profetas que predijeron su desdicha, y que como resultado, fueron perseguidos y expulsados de su hogar.\n\n \n\nLos grilletes del cuello advierten a los transeúntes que no presten atención a sus sermones.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Profeta.",
+    "-Te la vende el Comerciante ermitaño 2 por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 6.3",
+        "Negación de daños",
+        "-Físico: 6.7",
+        "-VS golpe: 6.7",
+        "-VS tajo: 6.1",
+        "-VS perforación: 6.7",
+        "-Magia: 13.5",
+        "-Fuego: 12.6",
+        "-Rayo: 13.0",
+        "-Sagrado: 13.0",
+        "Resistencia",
+        "-Inmunidad: 46",
+        "-Robustez: 25",
+        "-Concentración: 83",
+        "-Vitalidad: 90",
+        "-Aplomo: 3"
+      ],
+      "text": "-Peso: 6.3\nNegación de daños\n-Físico: 6.7\n-VS golpe: 6.7\n-VS tajo: 6.1\n-VS perforación: 6.7\n-Magia: 13.5\n-Fuego: 12.6\n-Rayo: 13.0\n-Sagrado: 13.0\nResistencia\n-Inmunidad: 46\n-Robustez: 25\n-Concentración: 83\n-Vitalidad: 90\n-Aplomo: 3",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

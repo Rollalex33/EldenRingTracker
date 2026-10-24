@@ -1,0 +1,29 @@
+{
+  "title": "Hoja refulgente mágica",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p6.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-refulgente-magica.jpg"
+  ],
+  "lore": "Un viejo hechizo de la familia real cariana.\n\n \n\nCrea un sello sobre tu cabeza, del que aparece, tras un tiempo de espera, una hoja refulgente que detecta a los enemigos.\n\nEste hechizo se puede lanzar mietnras estás en movimiento. El tiempo de espera de este hechizo aumenta al cargar.\n\n \n\nDicen que era el prototipo de los hechizos de falangespada que portaban los caballeros hechizados reales.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Prisionero.",
+    "-Te lo vende Miriel, pastor de los Juramentos por 3.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Crea un sello que lanza una hoja refulgente tras un tiempo de espera.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 12",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 14"
+      ],
+      "text": "Crea un sello que lanza una hoja refulgente tras un tiempo de espera.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 12\n-Ranuras: 1\n-Inteligencia necesaria: 14",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

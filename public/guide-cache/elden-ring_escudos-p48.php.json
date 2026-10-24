@@ -1,0 +1,58 @@
+{
+  "title": "Escudo córneo de crisol",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_escudos-p48.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/escudo-corneo-de-crisol.jpg"
+  ],
+  "lore": "Escudo grande de oro teñido de rojo usado por los Caballeros del Crisol. Cuenta con un gran cuerno.\n\n \n\nUn carácter sagrado ahbita en su interior. El cuerno del crisol ensarta a los enemigos al golpear con el escudo.\n\n \n\nHabilidad: Golpe de escudo\n\nTe parapetas tras el escudo antes de usar todo el cuerpo para embestir a tus enemigos.\n\nHarás retroceder a los enemigos más débilese incluso puedes hacer que se tambaleen.",
+  "intro": [
+    "-Lo puede soltar un Caballero del crisol en el \"Acueducto de Siofra\" en Nokron."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 26"
+      ],
+      "text": "-Fuerza: 26",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones de atributo",
+      "lines": [
+        "-Fuerza: D"
+      ],
+      "text": "-Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Escudo grande",
+        "-Tipo de ataque: Golpe",
+        "-Peso: 11.5",
+        "-Habilidad: Golpe de escudo",
+        "-Coste de PC: 10",
+        "Potencia de ataque",
+        "-Físico: 147",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 100.0",
+        "-Magia: 51.0",
+        "-Fuego: 50.0",
+        "-Rayo: 46.0",
+        "-Sagrado: 64.0",
+        "-Estabilidad: 60"
+      ],
+      "text": "-Categoría: Escudo grande\n-Tipo de ataque: Golpe\n-Peso: 11.5\n-Habilidad: Golpe de escudo\n-Coste de PC: 10\nPotencia de ataque\n-Físico: 147\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 100.0\n-Magia: 51.0\n-Fuego: 50.0\n-Rayo: 46.0\n-Sagrado: 64.0\n-Estabilidad: 60",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "categoryName": "Escudos",
+  "subcategory": "Grandes"
+}

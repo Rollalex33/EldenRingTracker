@@ -1,0 +1,39 @@
+{
+  "title": "Ceniza de Guerra: Tributo de sangre",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-guerra-p83.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ceniza-de-guerra-tributo-de-sangre.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Sangriento\" y la siguiente habilidad habilidad:\n\n \n\n\"Tributo de sangre: Habilidad de juramento de sangre concedida por el Señor de la Sangre. Gira para acumular potencia y, a continuación, desata una ráfaga de embestidas que absorbe la sangre y los PS del objetivo\".\n\n \n\nPuede usarse en armas de embestida (exceptuando armas colosales).",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Información",
+      "lines": [
+        "Puede usarse en armas de embestida (exceptuando armas colosales).",
+        "-Tipo: Sangriento"
+      ],
+      "text": "Puede usarse en armas de embestida (exceptuando armas colosales).\n-Tipo: Sangriento",
+      "images": []
+    },
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Confiere afinidades y habilidades a un arma."
+      ],
+      "text": "Confiere afinidades y habilidades a un arma.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Lo suelta un escarabajo en el  Palacio de Mohgwyn ."
+      ],
+      "text": "-Lo suelta un escarabajo en el  Palacio de Mohgwyn .",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Sangriento"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Cometa nocturno",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p44.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cometa-nocturno.jpg"
+  ],
+  "lore": "Uno de los hechizos nocturnos de Sellia, ciudad de la hechicería.\n\n \n\nDispara un cometa mágico casi invisible.\n\nEste hechizo se puede lanzar repetidamente y mientras estás en movimiento, la potencia de este hechizo aumenta al cargarlo.\n\n \n\nLos hechiceros sellianos eran asesinos y se dice que solían dar caza a los sullos.",
+  "intro": [
+    "-Está dentro de un cofre tras una barrera mágica en Sellia, ciudad de la hechicería, (Caelid (principal))."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara un cometa mágico casi invisible.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 38"
+      ],
+      "text": "Dispara un cometa mágico casi invisible.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 24\n-Ranuras: 1\n-Inteligencia necesaria: 38",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

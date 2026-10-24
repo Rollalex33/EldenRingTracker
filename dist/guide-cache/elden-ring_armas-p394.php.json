@@ -1,0 +1,67 @@
+{
+  "title": "Lanza de sanguinemigo sagrada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p394.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-de-sanguinemigo-sagrada.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-de-sanguinemigo-sagrada_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-de-sanguinemigo-sagrada_2.jpg"
+  ],
+  "lore": "Gran lanza de los hechiceros sanguinemigos.\n\nUno de los elementos más destacados de sus rituales de sangre.\n\n \n\nLas lanzas sagradas de sangre son instrumentos de comunión con un dios foráneo. La madre de la verdad ansía una herida.\n\n \n\nHabilidad única: Favor sanguino del sanguinemigo\n\nLevanta la lanza sagrada, atraviesa el cuerpo de la madre de la verdad y crea una explosión de hemofuego alrededor del objetivo.\n\nRepítelo para ejecutar hasta tres ataques adicionales.",
+  "intro": [
+    "La suelta uno de los sanguinemigos que están en ese lago en el punto indicado al Suroeste de la Forja en ruinas de Taylew.",
+    "Además, por ahí también hay un par de cadáveres con Amarilis sanguino x5 y Piedra de forja [7] x4."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 22",
+        "-Destreza: 12",
+        "-Arcano: 13"
+      ],
+      "text": "-Fuerza: 22\n-Destreza: 12\n-Arcano: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: E",
+        "-Arcano: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: E\n-Arcano: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza larga",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 8.0",
+        "-Habilidad: F. sang. sanguinemigo",
+        "-Coste de PC: 20 (- 20)",
+        "Potencia de ataque",
+        "-Físico: 115",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 40.0",
+        "-Magia: 25.0",
+        "-Fuego: 25.0",
+        "-Rayo: 25.0",
+        "-Sagrado: 25.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (96)."
+      ],
+      "text": "-Categoría: Lanza larga\n-Tipo de daño: Estándar/Perf.\n-Peso: 8.0\n-Habilidad: F. sang. sanguinemigo\n-Coste de PC: 20 (- 20)\nPotencia de ataque\n-Físico: 115\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 40.0\n-Magia: 25.0\n-Fuego: 25.0\n-Rayo: 25.0\n-Sagrado: 25.0\n-Estabilidad: 30\nEfectos pasivos\n-Provoca la acumulación de hemorragias (96).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas largas"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de la Noche",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p534.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-la-noche.jpg"
+  ],
+  "lore": "Armadura pectoral negra como el carbón y fría al tacto.\n\nLíneas fluidas con la aparente forma de una huella dactilar adornan su superficie. Encierra a su portador en una oscuridad total.\n\n \n\nFue otorgada a los nacidos en las profundidades subterráneas y los ordena como espadachines de la Noche.",
+  "intro": [
+    "-La encuentras en un cadáver en la Prisión de Bonny."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 7.1",
+        "Negación de daños",
+        "-Físico: 7.1",
+        "-VS golpe: 7.1",
+        "-VS tajo: 8.0",
+        "-VS perforación: 8.0",
+        "-Magia: 12.4",
+        "-Fuego: 9.5",
+        "-Rayo: 9.5",
+        "-Sagrado: 12.6",
+        "Resistencia",
+        "-Inmunidad: 55",
+        "-Robustez: 32",
+        "-Concentración: 46",
+        "-Vitalidad: 46",
+        "-Aplomo: 12"
+      ],
+      "text": "-Peso: 7.1\nNegación de daños\n-Físico: 7.1\n-VS golpe: 7.1\n-VS tajo: 8.0\n-VS perforación: 8.0\n-Magia: 12.4\n-Fuego: 9.5\n-Rayo: 9.5\n-Sagrado: 12.6\nResistencia\n-Inmunidad: 55\n-Robustez: 32\n-Concentración: 46\n-Vitalidad: 46\n-Aplomo: 12",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

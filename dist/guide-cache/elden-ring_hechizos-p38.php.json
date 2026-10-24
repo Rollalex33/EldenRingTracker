@@ -1,0 +1,28 @@
+{
+  "title": "Maza de Haima",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/maza-de-haima.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes de la Academia de Raya Lucaria.\n\n \n\nCrea un gran martillo mágico y lo hace golpear.\n\nPermite un ataque adicional.\n\n \n\nProcedente de la tradición académica del epítome de Haima, jurisprudente de la Academia, este hechizo utiliza la fuerza como instrumento para aplacar los conflictos.",
+  "intro": [
+    "-Dentro de un cofre en la Torre marginal de los coversos, en Liurnia (Este)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Ataca con un gran martillo mágico.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 22",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 25"
+      ],
+      "text": "Ataca con un gran martillo mágico.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 22\n-Ranuras: 1\n-Inteligencia necesaria: 25",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

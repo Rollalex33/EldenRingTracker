@@ -1,0 +1,61 @@
+{
+  "title": "Dedo anillado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p225.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/dedo-anillado.jpg"
+  ],
+  "lore": "Maza elaborada a partir de un enorme dedo recubierto de varios anillos pesados. Se cree pertenecía a un antecesor del hurgadedo.\n\n \n\nLegado de un antiguo acto de blasfemia, aún posee vida, como puede demostrar el calor apenas perceptible que sigue desprendiendo.\n\n \n\nHabilidad única: Toba poderosa\n\nHincha el dedo y luego dóblalo para que acumule fuerzas antes de lanzar un golpe de efecto contra los enemigos.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en la Tumba del héroe de Gelmir, en el Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 15",
+        "-Destreza: 9"
+      ],
+      "text": "-Fuerza: 15\n-Destreza: 9",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 4.5",
+        "-Habilidad: Toba poderosa",
+        "-Coste de PC: 14",
+        "Potencia de ataque",
+        "-Físico: 121",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 38.0",
+        "-Magia: 26.0",
+        "-Fuego: 26.0",
+        "-Rayo: 26.0",
+        "-Sagrado: 26.0",
+        "-Estabilidad: 28",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Martillo\n-Tipo de daño: Golpe\n-Peso: 4.5\n-Habilidad: Toba poderosa\n-Coste de PC: 14\nPotencia de ataque\n-Físico: 121\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 38.0\n-Magia: 26.0\n-Fuego: 26.0\n-Rayo: 26.0\n-Sagrado: 26.0\n-Estabilidad: 28\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Martillos"
+}

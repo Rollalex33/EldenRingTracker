@@ -1,0 +1,61 @@
+{
+  "title": "Desmontadora",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p28.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/desmontadora.jpg"
+  ],
+  "lore": "Este espadon curvo lo utilizan los fornidos soldados a sueldo de Kaiden. Combina la hoja de una cimitarra con el peso de un destral.\n\n \n\nArma difícil de manejar que exige mucha fuerza y destreza por parte de su portador, pero que con práctica y habilidad puede ser muy versátil. Se puede usar incluso a lomos de un caballo.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-Lo pueden soltar los mercenarios (a pie o a caballo) que hay por Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 19",
+        "-Destreza: 16"
+      ],
+      "text": "-Fuerza: 19\n-Destreza: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón curvo",
+        "-Tipo de daño: Tajo",
+        "-Peso: 10.0",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 138",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 65.0",
+        "-Magia: 35.0",
+        "-Fuego: 35.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón curvo\n-Tipo de daño: Tajo\n-Peso: 10.0\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 138\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 65.0\n-Magia: 35.0\n-Fuego: 35.0\n-Rayo: 35.0\n-Sagrado: 35.0\n-Estabilidad: 42\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadón curvo"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Guadaña sepulcral",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p50.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guadana-sepulcral.jpg"
+  ],
+  "lore": "Gran guadaña compuesta por una enorme hoja fijada a un palo torcido. Arma empuñada por los ancianos guardianes de tumbas que se ocupan de los cementerios olvidados de las Tierras Intermedias.\n\n \n\nSe dice que esta arma sirvió como amuleto contra los espíritus malignos en el pasado.\n\n \n\nHabilidad: Tajo giratorio\n\nHabilidad preferida por los guerreros más hábiles.\n\nAtaca a los enemigos mientras tu cuerpo gira. Sigue usando el arma para encadenar varios ataques sucesivos.",
+  "intro": [
+    "-La pueden soltar los esqueletos del cementerio que hay por la parte Noroeste de Necrolimbo (Este), y en general cualquier otro esqueleto que la lleve equipada.",
+    "-Lo pueden soltar los enemigos de Pie del pico escarpado (Shadow of the Erdtree)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 17",
+        "-Destreza: 13"
+      ],
+      "text": "-Fuerza: 17\n-Destreza: 13",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Guadaña",
+        "-Tipo de daño: Tajo",
+        "-Peso: 9.5",
+        "-Habilidad: Tajo giratorio",
+        "-Coste de PC: 6 (- 12)",
+        "Potencia de ataque",
+        "-Físico: 144",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 33",
+        "Efectos pasivos",
+        "-Provca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Guadaña\n-Tipo de daño: Tajo\n-Peso: 9.5\n-Habilidad: Tajo giratorio\n-Coste de PC: 6 (- 12)\nPotencia de ataque\n-Físico: 144\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 49.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 33\nEfectos pasivos\n-Provca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Guadaña"
+}

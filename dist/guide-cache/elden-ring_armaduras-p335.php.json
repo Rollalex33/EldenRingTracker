@@ -1,0 +1,47 @@
+{
+  "title": "Guanteletes escamados",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p335.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guanteletes-escamados.jpg"
+  ],
+  "lore": "Guanteletes que portaba el viejo caballero Istan.\n\nEl metal corroído está reforzado con unas escamas duras como la roca, por loq ue son muy efectivos contra ataques que no sean físicos.\n\n \n\nIstvan es uno de los pocos Sinluz ancianos que aún siguen con vida a día de hoy.",
+  "intro": [
+    "-Los suelta el “Vestusto caballero Istvan” al eliminarlo como  parte de la historia de Tanith."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.3",
+        "Negación de daños",
+        "-Físico: 4.0",
+        "-VS golpe: 3.4",
+        "-VS tajo: 4.2",
+        "-VS perforación: 4.0",
+        "-Magia: 3.3",
+        "-Fuego: 3.5",
+        "-Rayo: 3.2",
+        "-Sagrado: 3.3",
+        "Resistencia",
+        "-Inmunidad: 19",
+        "-Robustez: 28",
+        "-Concentración: 13",
+        "-Vitalidad: 13",
+        "-Aplomo: 6"
+      ],
+      "text": "-Peso: 5.3\nNegación de daños\n-Físico: 4.0\n-VS golpe: 3.4\n-VS tajo: 4.2\n-VS perforación: 4.0\n-Magia: 3.3\n-Fuego: 3.5\n-Rayo: 3.2\n-Sagrado: 3.3\nResistencia\n-Inmunidad: 19\n-Robustez: 28\n-Concentración: 13\n-Vitalidad: 13\n-Aplomo: 6",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

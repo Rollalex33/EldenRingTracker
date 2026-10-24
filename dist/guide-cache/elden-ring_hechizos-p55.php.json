@@ -1,0 +1,28 @@
+{
+  "title": "Hoja invisible",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p55.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-invisible.jpg"
+  ],
+  "lore": "Uno de los hechizos nocturnos de Sellia, ciudad de la hechicería.\n\n \n\nHechiza el arma de la mano derecha y la vuelve completamente invisible.\n\nEste hechizo se puede lanzar mientras estás en movimiento.\n\n \n\nLos asesinos sellianos lo utilizaban para presentarse como hechiceros desarmados.",
+  "intro": [
+    "-Se encuentra dentro de un cofre en la cima de la Torre del espejismo, en la Meseta Altus."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Hace que el armamento de la mano derecha sea completamente invisible.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 13",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 12"
+      ],
+      "text": "Hace que el armamento de la mano derecha sea completamente invisible.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 13\n-Ranuras: 1\n-Inteligencia necesaria: 12",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

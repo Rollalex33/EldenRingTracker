@@ -1,0 +1,61 @@
+{
+  "title": "Artes marciales de hojaseca",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p332.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/artes-marciales-de-hojaseca.jpg"
+  ],
+  "lore": "Una técnica de combate cuerpo a cuerop que no usa armas.\n\nEste arte marcial combina patadas y puñetazos.\n\n \n\nLas enseñanzas de un grupo de buscadores espirituales conocidos como la secta hojaseca, que tan solo se revelan a aquellos cuya personalidad y valor son dignos. La práctica del arte marcial marca el inicio del viaje de un asceta.\n\n \n\nHabilidad: Estallido de palma\n\nHabilidad de los buscadores espirituales conocidos como secta hojaseca. Imbuye la mano con energía antes de realizar un golpe con la palma para desatar una ráfaga explosiva. Carga el ataque para reforzar la potencia y el impacto.",
+  "intro": [
+    "-Se consigue derrotando a Hojaseca Dane en las Ruinas de Moorth."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 8"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 8",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Cuerpo a cuerpo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 1.0",
+        "-Habilidad: Est. palma",
+        "-Coste de PC: 14 (- -)",
+        "Potencia de ataque",
+        "-Físico: 80",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 35.0",
+        "-Magia: 20.0",
+        "-Fuego: 20.0",
+        "-Rayo: 20.0",
+        "-Sagrado: 20.0",
+        "-Estabilidad: 20",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Cuerpo a cuerpo\n-Tipo de daño: Golpe\n-Peso: 1.0\n-Habilidad: Est. palma\n-Coste de PC: 14 (- -)\nPotencia de ataque\n-Físico: 80\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 35.0\n-Magia: 20.0\n-Fuego: 20.0\n-Rayo: 20.0\n-Sagrado: 20.0\n-Estabilidad: 20\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Cuerpo a cuerpo"
+}

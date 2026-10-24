@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de Cuchillo Negro",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p425.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-cuchillo-negro.jpg"
+  ],
+  "lore": "Armadura de escamas que usan las asesinas de los Cuchillos Negros y que se forjó de tal manera que no emite sonido alguno.\n\n \n\nAún perduran rastros de poder en su vuelo de camuflaje, lo cual ahoga el sonido al caminar.\n\n \n\nLas asesinas que llevaron a cabo las hazañas de la Noche de los Puñales Negros eran todas mujeres y, según los rumores, eran númenes estrechamente vinculadas a la propia Márika.",
+  "intro": [
+    "-La encuentras en un cadáver bajo las escaleras que llevan al transportador al final de Ordina, ciudad litúrgica en el Campo sacroníveo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 9.2",
+        "Negación de daños",
+        "-Físico: 11.4",
+        "-VS golpe: 10.9",
+        "-VS tajo: 12.4",
+        "-VS perforación: 12.4",
+        "-Magia: 8.8",
+        "-Fuego: 9.5",
+        "-Rayo: 6.7",
+        "-Sagrado: 11.4",
+        "Resistencia",
+        "-Inmunidad: 28",
+        "-Robustez: 46",
+        "-Concentración: 23",
+        "-Vitalidad: 23",
+        "-Aplomo: 14"
+      ],
+      "text": "-Peso: 9.2\nNegación de daños\n-Físico: 11.4\n-VS golpe: 10.9\n-VS tajo: 12.4\n-VS perforación: 12.4\n-Magia: 8.8\n-Fuego: 9.5\n-Rayo: 6.7\n-Sagrado: 11.4\nResistencia\n-Inmunidad: 28\n-Robustez: 46\n-Concentración: 23\n-Vitalidad: 23\n-Aplomo: 14",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Estoque de Rogier",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p96.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/estoque-de-rogier.jpg"
+  ],
+  "lore": "Espada perforante de calidad superior, con una ornamentación muy elaborada.\n\nArma emblemática del hechicero Rogier.\n\nAquellos que dominan este arma ofrecen un espectáculo digno de ser visto, pues requiere de gran destreza para ser blandida correctamente. Destaca s estilo fluido y la excelencia con la que asesta ataques sucesivos.\n\n \n\nHabilidad: Falange de hojas refulgentes\n\nUna habilidad utilizada por los caballeros hechizados carianos.\n\nForma un arco de espadas refulgentes mágicas por encima de su cabeza para atacar de forma automática.\n\nAcompáñala con un ataque potente para encadenar esta habilidad con una estocada.",
+  "intro": [
+    "-Te lo da Rogier durante su historia (una versión +8)."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 8",
+        "-Destreza: 17"
+      ],
+      "text": "-Fuerza: 8\n-Destreza: 17",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada de embestida",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 3.5",
+        "-Habilidad: Falange de hojas refulgentes",
+        "-Coste de PC: 10 (- 4)",
+        "Potencia de ataque",
+        "-Físico: 136",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 49.0",
+        "-Magia: 33.0",
+        "-Fuego: 33.0",
+        "-Rayo: 33.0",
+        "-Sagrado: 33.0",
+        "-Estabilidad: 23",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada de embestida\n-Tipo de daño: Estándar/Perforación\n-Peso: 3.5\n-Habilidad: Falange de hojas refulgentes\n-Coste de PC: 10 (- 4)\nPotencia de ataque\n-Físico: 136\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 49.0\n-Magia: 33.0\n-Fuego: 33.0\n-Rayo: 33.0\n-Sagrado: 33.0\n-Estabilidad: 23\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas de embestida"
+}

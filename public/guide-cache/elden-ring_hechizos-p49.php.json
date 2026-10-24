@@ -1,0 +1,28 @@
+{
+  "title": "Torrente de cristal",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p49.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/torrente-de-cristal.jpg"
+  ],
+  "lore": "Hechizo de los misteriosos cristalianos.\n\n \n\nCrea una masa de cristal que dispara una rápida sucesión de fragmentos.\n\nMantén el hechizo para seguir disparando fragmentos.\n\n \n\nLa ira de los cristalianos encapsulada en un hechizo. Los fragmentos presentan un tamaño sustancial, lo que hace que incluso un golpe fortuito pueda infligir una grave herida.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar los Cristalianos en el Escondrijo de Sellia, en Montedrago.."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Crea una masa de cristal que dispara un chorro de fragmentos de cristal.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 47"
+      ],
+      "text": "Crea una masa de cristal que dispara un chorro de fragmentos de cristal.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 24\n-Ranuras: 1\n-Inteligencia necesaria: 47",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

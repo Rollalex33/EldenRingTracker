@@ -1,0 +1,36 @@
+{
+  "title": "Ceniza de Guerra: Falange de hojas refulgentes",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p96.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/estoque-de-rogier.jpg"
+  ],
+  "lore": "Esta Ceniza de Guerra confiere a un arma la afinidad \"Mágico\" y la siguiente habilidad:\n\n\"Falange de hojas refulgentes: Habilidad que manifiesta un arco protector de cuatro hojas mágicas sobre tu cabeza que se lanzan automáticamente contra los enemigos cercanos. Realiza un ataque fuerte a continuación para asestar una gran estocada con embestida\".\n\nSe usa en espadas y armas de embestida.",
+  "intro": [
+    "Consulta la sección de personajes y armas de EliteGuías para más información sobre Rogier y su estoque."
+  ],
+  "sections": [
+    {
+      "heading": "Información y Afinidades",
+      "lines": [
+        "Puede usarse en todas las espadas y armas de embestida (excepto armas colosales).",
+        "Tipo / Afinidad: Mágico (Magic)",
+        "Efecto: 4 cuchillas mágicas perseguidoras seguidas de una estocada de gran postura."
+      ],
+      "text": "Puede usarse en espadas y armas de embestida.\n-Tipo: Mágico",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Viene equipada de serie en el Estoque de Rogier +8.",
+        "Se puede desenganchar en cualquier Lugar de Gracia para aplicarla a otras armas.",
+        "Te lo regala el Hechicero Rogier en la Mesa Redonda al hablar con él después de derrotar a Godrick, el Injertado en el Castillo de Velo Tormentoso."
+      ],
+      "text": "-Viene equipada en el Estoque de Rogier +8 que te da Rogier en la Mesa Redonda.",
+      "images": []
+    }
+  ],
+  "category": "cenizas-guerra",
+  "categoryName": "Cenizas de guerra",
+  "subcategory": "Mágico"
+}

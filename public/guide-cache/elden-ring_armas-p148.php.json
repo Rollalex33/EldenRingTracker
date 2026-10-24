@@ -1,0 +1,61 @@
+{
+  "title": "Gran martillo de cuerno",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p148.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-martillo-de-cuerno.jpg"
+  ],
+  "lore": "Un cuerno vistoso y grande con hendiduras que recuerdan a los anillos de edad de un árobl. Se usa como arma contundente.\n\nLa utilizan los guerreros de los adoradores ancestrales.\n\n \n\nEsta cornamente ancestral está imbuida con el poder de los espíritus ancestrales. Restaura una pequeña parte de tus PS al derrotar a un enemigo.\n\n \n\nHabilidad: Rugido bárbaro\n\nSuelta un rugido bestial para infundirle ánimos y aumentar tu potencia de ataque.\n\nMientras está activa, transforma los ataques potentes en un salvaje ataque combinado.",
+  "intro": [
+    "-Lo pueden soltar ciertos \"espíritus cornudos\" en el Río Siofra."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 22",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 22\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 10.0",
+        "-Habilidad: Rugido bárbaro",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 134",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 65.0",
+        "-Magia: 35.0",
+        "-Fuego: 35.0",
+        "-Rayo: 35.0",
+        "-Sagrado: 35.0",
+        "-Estabilidad: 42",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 10.0\n-Habilidad: Rugido bárbaro\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 134\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 65.0\n-Magia: 35.0\n-Fuego: 35.0\n-Rayo: 35.0\n-Sagrado: 35.0\n-Estabilidad: 42\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

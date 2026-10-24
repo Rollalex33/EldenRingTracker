@@ -1,0 +1,28 @@
+{
+  "title": "Vórtice de esquirlas",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p61.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/vortice-de-esquirlas.jpg"
+  ],
+  "lore": "Uno de los hechizos de piedras refulgentes de la Academia de Raya Lucaria.\n\n \n\nDispara un proyectil doble que crea una espiral durante su recorrido. Este hechzo se puede lanzar repetidamente mientras estás en movimiento.\n\nLa potencia de este hechizo aumenta al cargarlo.\n\n \n\nUn hechizo tradicional del epítome de Karolos, el más venerable de la Academia. Producto de un intento fallido de crear un nuevo cometa.",
+  "intro": [
+    "-Te lo vende Sellen por 8.000 runas al final de su historia habiéndote puesto de su lado."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara dos proyectiles en espiral.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 14",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 27"
+      ],
+      "text": "Dispara dos proyectiles en espiral.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 14\n-Ranuras: 1\n-Inteligencia necesaria: 27",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

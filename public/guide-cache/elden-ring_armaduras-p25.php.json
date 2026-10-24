@@ -1,0 +1,48 @@
+{
+  "title": "Ropa de prisionero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p25.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ropa-de-prisionero.jpg"
+  ],
+  "lore": "Prenda andrajosa.\n\nLa usaba un prisionero acusado de un crimen espantoso.\n\n \n\nComo nunca se lavó, todas y cada una de sus fibras están llenas de porquería.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Prisionero.",
+    "-Te la vende el Comerciante ermitaño 1 por 1.500 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.2",
+        "Negación de daños",
+        "-Físico: 4.2",
+        "-VS golpe: 5.3",
+        "-VS tajo: 5.3",
+        "-VS perforación: 4.2",
+        "-Magia: 11.9",
+        "-Fuego: 11.4",
+        "-Rayo: 11.4",
+        "-Sagrado: 12.6",
+        "Resistencia",
+        "-Inmunidad: 42",
+        "-Robustez: 23",
+        "-Concentración: 63",
+        "-Vitalidad: 63",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 3.2\nNegación de daños\n-Físico: 4.2\n-VS golpe: 5.3\n-VS tajo: 5.3\n-VS perforación: 4.2\n-Magia: 11.9\n-Fuego: 11.4\n-Rayo: 11.4\n-Sagrado: 12.6\nResistencia\n-Inmunidad: 42\n-Robustez: 23\n-Concentración: 63\n-Vitalidad: 63\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

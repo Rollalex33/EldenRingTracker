@@ -1,0 +1,61 @@
+{
+  "title": "Piqueta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p42.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/piqueta.jpg"
+  ],
+  "lore": "Piqueta grande diseñada para partir lechos de roca. Herramienta de los recios mineros.\n\n \n\nOriginalmente, no estaba diseñada para usarse cmo arma, pero puede perforar con facilidad una armadura.\n\n\"Pequeños miserables, ¿creéis que vuestra armadura es más robusta que la piedra?\".\n\n \n\nHabilidad: Indómito\n\nAfianza tu posición y prepárate para los ataques para aumentar brevemente el aplomo.\n\nEl daño recibido se verá reducido durante la preparación.",
+  "intro": [
+    "-La pueden soltar los mineros en Mina de Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 22",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 22\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Indómito",
+        "-Coste de PC: 9",
+        "Potencia de ataque",
+        "-Físico: 144",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Perforación\n-Peso: 10.0\n-Habilidad: Indómito\n-Coste de PC: 9\nPotencia de ataque\n-Físico: 144\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "quest_ranni",
+    "npc": "Ranni la Bruja",
+    "icono": "witch-hat",
+    "pasos": [
+      {
+        "pasoId": "ranni_01",
+        "orden": 1,
+        "ubicacionNombre": "Iglesia de Elleh",
+        "region": "Necrolimbo Centro",
+        "coords": [
+          1375,
+          2030
+        ],
+        "descripcion": "Habla con Renna (Ranni) de noche en las ruinas de la Iglesia de Elleh para recibir la Campana de invocación de espíritus y las Cenizas de lobo solitario.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes021.php#paso1",
+        "locationId": "loc_ranni_01_elleh",
+        "missable": true,
+        "advertenciaMissable": "Si avanzas hacia la Mesa Redonda sin hablar con ella aquí, desaparecerá de la iglesia y tendrás que comprar la campana en las Doncellas Gemelas."
+      },
+      {
+        "pasoId": "ranni_02",
+        "orden": 2,
+        "ubicacionNombre": "Torre de Ranni (Tres Hermanas)",
+        "region": "Liurnia Oeste (Caria)",
+        "coords": [
+          3240,
+          1130
+        ],
+        "descripcion": "Tras superar la Mansión Cariana y derrotar a Loretta, sube a la cima de su torre para jurarle lealtad y entrar a su servicio. Conocerás a Iji, Blaidd y Seluvis.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes021.php#paso2",
+        "locationId": "loc_ranni_02_torre",
+        "missable": false
+      },
+      {
+        "pasoId": "ranni_03",
+        "orden": 3,
+        "ubicacionNombre": "Nokron, Ciudad Eterna",
+        "region": "Río Siofra (Subterráneo)",
+        "coords": [
+          1420,
+          2900
+        ],
+        "descripcion": "Derrota a Radahn en Caelid para que caiga una estrella en Necrolimbo. Desciende al cráter y recupera la Hoja Dactilicida del cofre sagrado en Nokron.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes021.php#paso3",
+        "locationId": "loc_ranni_03_nokron",
+        "missable": false,
+        "mapaOrigen": "underground"
+      },
+      {
+        "pasoId": "ranni_04",
+        "orden": 4,
+        "ubicacionNombre": "Cuenca de la Cascada de Nokstella",
+        "region": "Curso del Río Ainsel",
+        "coords": [
+          2420,
+          1580
+        ],
+        "descripcion": "Recoge la Miniatura de Ranni junto a la Gracia y descansa repetidamente en el Sitio de Gracia para hablarle hasta que te encomiende aniquilar a la Sombra Nefasta.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes021.php#paso4",
+        "locationId": "loc_ranni_04_nokstella",
+        "missable": false,
+        "mapaOrigen": "underground"
+      },
+      {
+        "pasoId": "ranni_05",
+        "orden": 5,
+        "ubicacionNombre": "Catedral de Manus Celes",
+        "region": "Altar del Claro de Luna (Liurnia)",
+        "coords": [
+          2030,
+          1100
+        ],
+        "descripcion": "Derrota a Astel, asciende a la meseta sur de Liurnia. En la caverna bajo la catedral, coloca el Anillo de la Luna Negra en su dedo para culminar el pacto y recibir el legendario Espadón de la Luna Negra.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes021.php#paso5",
+        "locationId": "loc_ranni_05_manus_celes",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_blaidd",
+    "npc": "Blaidd el Semilobo",
+    "icono": "wolf",
+    "pasos": [
+      {
+        "pasoId": "blaidd_01",
+        "orden": 1,
+        "ubicacionNombre": "Ruinas del Bosque Neblinoso",
+        "region": "Necrolimbo Este",
+        "coords": [
+          1350,
+          2520
+        ],
+        "descripcion": "Escucha los aullidos en la torre. Habla con Kalé en la Iglesia de Elleh para aprender el gesto \"Chasquido de dedos\" y úsalo bajo la torre para que Blaidd baje a hablar.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes008.php#paso1",
+        "locationId": "loc_blaidd_01_bosque",
+        "missable": true,
+        "advertenciaMissable": "Si activas el Festival de Radahn antes de conocerlo aquí, se saltará este paso y aparecerá directamente en el Castillo de la Melena Roja."
+      },
+      {
+        "pasoId": "blaidd_02",
+        "orden": 2,
+        "ubicacionNombre": "Cárcel Eterna del Sabueso Aislado",
+        "region": "Necrolimbo Sur",
+        "coords": [
+          1220,
+          2270
+        ],
+        "descripcion": "Entra a la cárcel eterna para invocar a Blaidd en la pelea contra el Caballero Sabueso Darriwil. Tras vencerlo, habla con Blaidd para recibir una Piedra de forja sombría [2].",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes008.php#paso2",
+        "locationId": "loc_blaidd_02_carcel",
+        "missable": false
+      },
+      {
+        "pasoId": "blaidd_03",
+        "orden": 3,
+        "ubicacionNombre": "Río Siofra (Pilar del Acantilado)",
+        "region": "Río Siofra (Subterráneo)",
+        "coords": [
+          1460,
+          2880
+        ],
+        "descripcion": "Reúnete con Blaidd en el borde del acantilado de Siofra al este de la Gracia Orilla del Río Siofra. Te sugerirá hablar con Seluvis para averiguar cómo llegar a Nokron.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes008.php#paso3",
+        "locationId": "loc_blaidd_03_siofra",
+        "missable": false,
+        "mapaOrigen": "underground"
+      },
+      {
+        "pasoId": "blaidd_04",
+        "orden": 4,
+        "ubicacionNombre": "Castillo de la Melena Roja",
+        "region": "Caelid Sur",
+        "coords": [
+          1380,
+          3250
+        ],
+        "descripcion": "Lucha codo con codo con Blaidd en el glorioso Festival de Radahn. Habla con él tras derrotar al general de las estrellas junto a la Gracia del desierto.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes008.php#paso4",
+        "locationId": "loc_blaidd_04_radahn",
+        "missable": false
+      },
+      {
+        "pasoId": "blaidd_05",
+        "orden": 5,
+        "ubicacionNombre": "Torre de Ranni (Final)",
+        "region": "Liurnia Oeste (Caria)",
+        "coords": [
+          3240,
+          1130
+        ],
+        "descripcion": "Tras completar la misión de Ranni, regresa a la Torre de Ranni. Blaidd ha enloquecido por la pérdida de su ama; véncelo para obtener su Espadón regio y el Conjunto completo de Blaidd.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes008.php#paso5",
+        "locationId": "loc_blaidd_05_duelo",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_sellen",
+    "npc": "Hechicera Sellen",
+    "icono": "sparkles",
+    "pasos": [
+      {
+        "pasoId": "sellen_01",
+        "orden": 1,
+        "ubicacionNombre": "Ruinas de la Posta (Bodega)",
+        "region": "Necrolimbo Este",
+        "coords": [
+          1380,
+          2320
+        ],
+        "descripcion": "Derrota al Cabeza de Calabaza Loco en la cripta subterránea para acceder a la celda de Sellen y convertirte en su fiel discípulo de la hechicería fulgurante.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes023.php#paso1",
+        "locationId": "loc_sellen_01_posta",
+        "missable": false
+      },
+      {
+        "pasoId": "sellen_02",
+        "orden": 2,
+        "ubicacionNombre": "Cabaña del Ermitaño (Monte Gelmir)",
+        "region": "Monte Gelmir",
+        "coords": [
+          3520,
+          1470
+        ],
+        "descripcion": "Encuentra al petrificado Hechicero Primigenio Azur para recibir el hechizo legendario \"Cometa Azur\". Muéstraselo a Sellen en las Ruinas de la Posta para avanzar su misión.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes023.php#paso2",
+        "locationId": "loc_sellen_02_azur",
+        "missable": false
+      },
+      {
+        "pasoId": "sellen_03",
+        "orden": 3,
+        "ubicacionNombre": "Escondite de Sellia (Maestro Lusat)",
+        "region": "Montedrago de Greyoll (Caelid)",
+        "coords": [
+          1790,
+          3160
+        ],
+        "descripcion": "Usa el Rompesellos de Sellia detrás de la pared ilusoria en el cementerio de Sellia para liberar al Maestro Lusat y conseguir \"Estrellas del Colapso\".",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes023.php#paso3",
+        "locationId": "loc_sellen_03_lusat",
+        "missable": false
+      },
+      {
+        "pasoId": "sellen_04",
+        "orden": 4,
+        "ubicacionNombre": "Ruinas de la Perdición de la Bruja",
+        "region": "Península del Llanto Oeste",
+        "coords": [
+          930,
+          2040
+        ],
+        "descripcion": "Desciende a la cripta de la Península del Llanto para encontrar el cuerpo encadenado de Sellen y extraer su Piedra refulgente de alma primaria.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes023.php#paso4",
+        "locationId": "loc_sellen_04_cuerpo",
+        "missable": false
+      },
+      {
+        "pasoId": "sellen_05",
+        "orden": 5,
+        "ubicacionNombre": "Laboratorio Secreto de Seluvis",
+        "region": "Liurnia Oeste (Tres Hermanas)",
+        "coords": [
+          3220,
+          1160
+        ],
+        "descripcion": "Entre la Torre de Ranni y de Renna, rompe el suelo ilusorio en las ruinas para trasplantar la piedra de alma en el títere réplica de Sellen.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes023.php#paso5",
+        "locationId": "loc_sellen_05_titere",
+        "missable": false
+      },
+      {
+        "pasoId": "sellen_06",
+        "orden": 6,
+        "ubicacionNombre": "Gran Biblioteca de Raya Lucaria",
+        "region": "Academia de Raya Lucaria",
+        "coords": [
+          2600,
+          1160
+        ],
+        "descripcion": "Afuera de la biblioteca, elige el símbolo dorado para defender a Sellen contra Jerren. Sellen tomará la academia y te recompensará con la Daga de cristal y su máscara de erudito.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes023.php#paso6",
+        "locationId": "loc_sellen_06_biblioteca",
+        "missable": true,
+        "advertenciaMissable": "¡Decisión irreversible! Si eliges el signo rojo ayudarás a Jerren y perderás los conjuntos de armadura de Azur y Lusat."
+      }
+    ]
+  },
+  {
+    "id": "quest_alexander",
+    "npc": "Alexander el Tarro Guerrero",
+    "icono": "shield",
+    "pasos": [
+      {
+        "pasoId": "alexander_01",
+        "orden": 1,
+        "ubicacionNombre": "Colina de Tormentas Norte",
+        "region": "Necrolimbo Norte",
+        "coords": [
+          1610,
+          2210
+        ],
+        "descripcion": "Golpea a Alexander por detrás con un ataque contundente para desatascarlo de la tierra. Recibirás el gesto Deleite y un Frasco de carne exaltada.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes002.php#paso1",
+        "locationId": "loc_alexander_01_colina",
+        "missable": false
+      },
+      {
+        "pasoId": "alexander_02",
+        "orden": 2,
+        "ubicacionNombre": "Túnel de Gael",
+        "region": "Caelid Frontera Oeste",
+        "coords": [
+          1490,
+          2740
+        ],
+        "descripcion": "Habla con él tras la puerta cerrada en el Túnel de Gael camino hacia las tierras rojas de Caelid.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes002.php#paso2",
+        "locationId": "loc_alexander_02_gael",
+        "missable": false
+      },
+      {
+        "pasoId": "alexander_03",
+        "orden": 3,
+        "ubicacionNombre": "Plaza del Festival de Radahn",
+        "region": "Castillo de la Melena Roja",
+        "coords": [
+          1380,
+          3250
+        ],
+        "descripcion": "Participa en el combate contra Radahn invocando a Alexander. Tras la victoria, habla con él mientras recoge restos de guerreros para fortalecerse.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes002.php#paso3",
+        "locationId": "loc_alexander_03_radahn",
+        "missable": false
+      },
+      {
+        "pasoId": "alexander_04",
+        "orden": 4,
+        "ubicacionNombre": "Sur del Salón de Estudio Cariano",
+        "region": "Liurnia Este",
+        "coords": [
+          2440,
+          1640
+        ],
+        "descripcion": "Alexander vuelve a atascarse. Arrójale una Vasija de aceite para lubricarlo antes de golpearlo por la espalda.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes002.php#paso4",
+        "locationId": "loc_alexander_04_aceite",
+        "missable": false
+      },
+      {
+        "pasoId": "alexander_05",
+        "orden": 5,
+        "ubicacionNombre": "Lago de Lava de Monte Gelmir",
+        "region": "Monte Gelmir",
+        "coords": [
+          3500,
+          1390
+        ],
+        "descripcion": "Tras aniquilar al Dragón de Magma cerca del Fuerte Laiedd, habla con Alexander sumergido en la lava para recibir el Yelmo de tarro.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes002.php#paso5",
+        "locationId": "loc_alexander_05_lava",
+        "missable": false
+      },
+      {
+        "pasoId": "alexander_06",
+        "orden": 6,
+        "ubicacionNombre": "Farum Azula en Ruinas",
+        "region": "Farum Azula",
+        "coords": [
+          2790,
+          4400
+        ],
+        "descripcion": "Duelo a muerte final sobre los restos de las ruinas flotantes. Concédele su último deseo de batalla para recibir el valioso Fragmento de Alexander (+15% daño de habilidades).",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes002.php#paso6",
+        "locationId": "loc_alexander_06_farum",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_millicent",
+    "npc": "Millicent de la Prótesis",
+    "icono": "flower",
+    "pasos": [
+      {
+        "pasoId": "millicent_01",
+        "orden": 1,
+        "ubicacionNombre": "Choza de Gowry",
+        "region": "Caelid Centro",
+        "coords": [
+          1680,
+          3035
+        ],
+        "descripcion": "Habla con Gowry para iniciar la búsqueda de la Aguja de oro puro derrotando al Comandante O'Neil en el Pantano de Eonia.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso1",
+        "locationId": "loc_millicent_01_gowry",
+        "missable": false
+      },
+      {
+        "pasoId": "millicent_02",
+        "orden": 2,
+        "ubicacionNombre": "Iglesia de la Plaga",
+        "region": "Caelid Este (Sellia)",
+        "coords": [
+          1690,
+          3120
+        ],
+        "descripcion": "Entrega la aguja reparada a Millicent para curar su putrefacción roja. Te recompensará con el Talismán de la espada con alas.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso2",
+        "locationId": "loc_millicent_02_plaga",
+        "missable": false
+      },
+      {
+        "pasoId": "millicent_03",
+        "orden": 3,
+        "ubicacionNombre": "Colina Mirador del Árbol Áureo",
+        "region": "Meseta de Altus",
+        "coords": [
+          3360,
+          1790
+        ],
+        "descripcion": "Consigue la Prótesis de valquiria en el Castillo Sombrío y entrégasela en la colina para que pueda empuñar su espada nuevamente.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso3",
+        "locationId": "loc_millicent_03_altus",
+        "missable": false
+      },
+      {
+        "pasoId": "millicent_04",
+        "orden": 4,
+        "ubicacionNombre": "Aldea del Molino (Dominula)",
+        "region": "Meseta de Altus Norte",
+        "coords": [
+          3770,
+          2030
+        ],
+        "descripcion": "Derrota al Apóstol Sacrodermo en la cima de los molinos. Descansa en la Gracia y habla con Millicent.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso4",
+        "locationId": "loc_millicent_04_dominula",
+        "missable": false
+      },
+      {
+        "pasoId": "millicent_05",
+        "orden": 5,
+        "ubicacionNombre": "Ruinas del Valle de las Nieves Antiguo",
+        "region": "Picos de los Gigantes",
+        "coords": [
+          3720,
+          3100
+        ],
+        "descripcion": "Habla con ella junto a la Gracia del valle helado sobre el castillo de Sol y el relicario de Miquella.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso5",
+        "locationId": "loc_millicent_05_picos",
+        "missable": false
+      },
+      {
+        "pasoId": "millicent_06",
+        "orden": 6,
+        "ubicacionNombre": "Sala de Rezos de Elphael",
+        "region": "Árbol Hierático de Miquella",
+        "coords": [
+          4480,
+          3010
+        ],
+        "descripcion": "Reúnete con ella en la fortaleza de Elphael antes de descender al pozo de putrefacción.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso6",
+        "locationId": "loc_millicent_06_elphael",
+        "missable": false
+      },
+      {
+        "pasoId": "millicent_07",
+        "orden": 7,
+        "ubicacionNombre": "Canal de Drenaje (Duelo de Hermanas)",
+        "region": "Árbol Hierático de Miquella",
+        "coords": [
+          4560,
+          2980
+        ],
+        "descripcion": "Derrota al Espíritu del árbol ulcerado en la charca de podredumbre. Usa el signo dorado para ayudarla contra sus cuatro hermanas y obtener la Insignia de espada alada podrida y la Aguja de Miquella.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes018.php#paso7",
+        "locationId": "loc_millicent_07_drenaje",
+        "missable": true,
+        "advertenciaMissable": "Si pisas a Millicent cuando está exhausta en el suelo después de la batalla, morirá de un solo impacto."
+      }
+    ]
+  },
+  {
+    "id": "quest_varre",
+    "npc": "Varré Rostro Blanco",
+    "icono": "mask",
+    "pasos": [
+      {
+        "pasoId": "varre_01",
+        "orden": 1,
+        "ubicacionNombre": "El Primer Paso",
+        "region": "Necrolimbo Centro",
+        "coords": [
+          1295,
+          2040
+        ],
+        "descripcion": "Te da la bienvenida a las Tierras Intermedias advirtiéndote de tu condición de \"Sin luz sin doncella\".",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes029.php#paso1",
+        "locationId": "loc_varre_01_primer_paso",
+        "missable": false
+      },
+      {
+        "pasoId": "varre_02",
+        "orden": 2,
+        "ubicacionNombre": "Iglesia de la Rosa",
+        "region": "Liurnia Centro-Oeste",
+        "coords": [
+          2330,
+          1120
+        ],
+        "descripcion": "Te otorga 5 Dedos purulentos sangrientos para realizar 3 invasiones multijugador (o invadir al Magnus en Altus).",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes029.php#paso2",
+        "locationId": "loc_varre_02_iglesia_rosa",
+        "missable": false
+      },
+      {
+        "pasoId": "varre_03",
+        "orden": 3,
+        "ubicacionNombre": "Iglesia de la Inhibición",
+        "region": "Liurnia Noreste",
+        "coords": [
+          3070,
+          1660
+        ],
+        "descripcion": "Empapa el Favor del Señor de la Sangre con la sangre de la doncella muerta en la Iglesia de la Inhibición.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes029.php#paso3",
+        "locationId": "loc_varre_03_sangre",
+        "missable": false
+      },
+      {
+        "pasoId": "varre_04",
+        "orden": 4,
+        "ubicacionNombre": "Entrada del Mausoleo de la Dinastía",
+        "region": "Palacio de Mohgwyn (Subterráneo)",
+        "coords": [
+          1340,
+          3420
+        ],
+        "descripcion": "Invade el mundo de Varré a través de su signo rojo en el pasillo del mausoleo antes de derrotar a Mohg para conseguir su Ramo de Varré y conjunto.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes029.php#paso4",
+        "locationId": "loc_varre_04_invasion",
+        "missable": true,
+        "advertenciaMissable": "Si matas a Mohg, Señor de la Sangre antes de invadir a Varré, su signo desaparecerá.",
+        "mapaOrigen": "underground"
+      }
+    ]
+  },
+  {
+    "id": "quest_nepheli",
+    "npc": "Nepheli Loux",
+    "icono": "axe",
+    "pasos": [
+      {
+        "pasoId": "nepheli_01",
+        "orden": 1,
+        "ubicacionNombre": "Castillo de Velo Tormentoso (Aposento)",
+        "region": "Castillo de Velo Tormentoso",
+        "coords": [
+          1775,
+          1765
+        ],
+        "descripcion": "Habla con Nepheli para que esté disponible como invocación contra Godrick el Injertado.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes019.php#paso1",
+        "locationId": "loc_nepheli_01_velo",
+        "missable": false
+      },
+      {
+        "pasoId": "nepheli_02",
+        "orden": 2,
+        "ubicacionNombre": "Aldea de los Albináuricos",
+        "region": "Liurnia Suroeste",
+        "coords": [
+          2120,
+          1040
+        ],
+        "descripcion": "Bajo el puente de piedra de la aldea en ruinas, te ayuda a ajusticiar al Asesino de Augurios.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes019.php#paso2",
+        "locationId": "loc_nepheli_02_aldea",
+        "missable": false
+      },
+      {
+        "pasoId": "nepheli_03",
+        "orden": 3,
+        "ubicacionNombre": "Mesa Redonda (Sótano)",
+        "region": "Mesa Redonda",
+        "coords": [
+          750,
+          550
+        ],
+        "descripcion": "Desanimada tras ser repudiada por Sir Gideon. Entrégale el Rey de los halcones de las tormentas de la Capilla de la Espera.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes019.php#paso3",
+        "locationId": "loc_nepheli_03_mesa",
+        "missable": true,
+        "advertenciaMissable": "¡Peligro crítico! NUNCA le des la poción de Seluvis o se convertirá en un títere inanimado arruinando su trono."
+      },
+      {
+        "pasoId": "nepheli_04",
+        "orden": 4,
+        "ubicacionNombre": "Sala del Trono de Godrick",
+        "region": "Castillo de Velo Tormentoso",
+        "coords": [
+          1835,
+          1740
+        ],
+        "descripcion": "Coronada como legítima Señora Soberana de Necrolimbo junto a Kenneth Haight. Te obsequia una Piedra de forja de dragón antiguo.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes019.php#paso4",
+        "locationId": "loc_nepheli_04_trono",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_fia",
+    "npc": "Fia, Compañera del Lecho de Muerte",
+    "icono": "moon",
+    "pasos": [
+      {
+        "pasoId": "fia_01",
+        "orden": 1,
+        "ubicacionNombre": "Habitación de Fia",
+        "region": "Mesa Redonda",
+        "coords": [
+          760,
+          540
+        ],
+        "descripcion": "Acepta sus abrazos para recibir la Bendición del baldaquino. Te entregará la Daga mellada que pertenece a D.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes012.php#paso1",
+        "locationId": "loc_fia_01_mesa",
+        "missable": false
+      },
+      {
+        "pasoId": "fia_02",
+        "orden": 2,
+        "ubicacionNombre": "Trono del Príncipe de la Muerte",
+        "region": "Fondo de Raíz Profunda (Subterráneo)",
+        "coords": [
+          3520,
+          2460
+        ],
+        "descripcion": "Supera a los Campeones de Fia. Entrégale el Estigma de la Muerte y derrota al Dragón Liche Fortissax en su sueño para reclamar la Runa restauradora del Príncipe de la Muerte.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes012.php#paso2",
+        "locationId": "loc_fia_02_fortissax",
+        "missable": false,
+        "mapaOrigen": "underground"
+      }
+    ]
+  },
+  {
+    "id": "quest_yura",
+    "npc": "Yura, Cazador de Dedos Sangrientos",
+    "icono": "sword",
+    "pasos": [
+      {
+        "pasoId": "yura_01",
+        "orden": 1,
+        "ubicacionNombre": "Ruinas de la Costa (Paso Bajo el Puente)",
+        "region": "Necrolimbo Sur",
+        "coords": [
+          1310,
+          2130
+        ],
+        "descripcion": "Te advierte sobre el temible Dragón Volador Agheel que anida en el lago.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes030.php#paso1",
+        "locationId": "loc_yura_01_ruinas",
+        "missable": false
+      },
+      {
+        "pasoId": "yura_02",
+        "orden": 2,
+        "ubicacionNombre": "Río de Aguamarga (Murkwater)",
+        "region": "Necrolimbo Centro",
+        "coords": [
+          1430,
+          2210
+        ],
+        "descripcion": "Acude en tu auxilio cuando te invade Nerijus, Dedo Sangriento. Dropea la Daga Reduvia.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes030.php#paso2",
+        "locationId": "loc_yura_02_nerijus",
+        "missable": false
+      },
+      {
+        "pasoId": "yura_03",
+        "orden": 3,
+        "ubicacionNombre": "Puerta Principal de la Academia",
+        "region": "Liurnia Norte",
+        "coords": [
+          2700,
+          1200
+        ],
+        "descripcion": "Ayúdalo cruzando el puente sellado al norte para derrotar al Asesino de Cuervos.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes030.php#paso3",
+        "locationId": "loc_yura_03_raya",
+        "missable": false
+      },
+      {
+        "pasoId": "yura_04",
+        "orden": 4,
+        "ubicacionNombre": "Segunda Iglesia de Márika",
+        "region": "Meseta de Altus",
+        "coords": [
+          3420,
+          1830
+        ],
+        "descripcion": "Yura yace mortalmente herido por Eleonora. Recoge su katana Nagakiba y derrota a la invasora violeta.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes030.php#paso4",
+        "locationId": "loc_yura_04_eleonora",
+        "missable": false
+      },
+      {
+        "pasoId": "yura_05",
+        "orden": 5,
+        "ubicacionNombre": "Ruinas de Zamor (Shabriri)",
+        "region": "Picos de los Gigantes",
+        "coords": [
+          3420,
+          2930
+        ],
+        "descripcion": "Su cuerpo ha sido poseído por Shabriri. Puedes escucharlo para conocer la Llama Frenética o derrotarlo para obtener el Conjunto de Ronin.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes030.php#paso5",
+        "locationId": "loc_yura_05_shabriri",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_corhyn_goldmask",
+    "npc": "Hermano Corhyn y Máscara Dorada",
+    "icono": "sun",
+    "pasos": [
+      {
+        "pasoId": "corhyn_01",
+        "orden": 1,
+        "ubicacionNombre": "Mesa Redonda",
+        "region": "Mesa Redonda",
+        "coords": [
+          740,
+          560
+        ],
+        "descripcion": "Maestro de encantamientos de la Orden Dorada.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes009.php#paso1",
+        "locationId": "loc_corhyn_01_mesa",
+        "missable": false
+      },
+      {
+        "pasoId": "corhyn_02",
+        "orden": 2,
+        "ubicacionNombre": "Cruce del Camino de Altus",
+        "region": "Meseta de Altus",
+        "coords": [
+          3380,
+          1910
+        ],
+        "descripcion": "Inicia su peregrinación en busca del ilustre erudito Máscara Dorada.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes009.php#paso2",
+        "locationId": "loc_corhyn_02_camino",
+        "missable": false
+      },
+      {
+        "pasoId": "corhyn_03",
+        "orden": 3,
+        "ubicacionNombre": "Gran Puente del Bosque",
+        "region": "Meseta de Altus",
+        "coords": [
+          3480,
+          1940
+        ],
+        "descripcion": "Máscara Dorada contempla el árbol sagrado inmóvil en el extremo roto del puente.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes009.php#paso3",
+        "locationId": "loc_corhyn_03_puente",
+        "missable": false
+      },
+      {
+        "pasoId": "corhyn_04",
+        "orden": 4,
+        "ubicacionNombre": "Estatua de Radagon en Leyndell",
+        "region": "Leyndell, Capital Real",
+        "coords": [
+          3300,
+          2350
+        ],
+        "descripcion": "Lanza el encantamiento \"Ley de regresión\" frente al mensaje en el suelo para revelar el colosal secreto: \"Radagon es Márika\".",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes009.php#paso4",
+        "locationId": "loc_corhyn_04_estatua",
+        "missable": true,
+        "advertenciaMissable": "¡Crítico! Debes resolver el acertijo antes de derrotar a Maliketh en Farum Azula."
+      },
+      {
+        "pasoId": "corhyn_05",
+        "orden": 5,
+        "ubicacionNombre": "Leyndell, Capital de Ceniza",
+        "region": "Leyndell de Ceniza",
+        "coords": [
+          3190,
+          2460
+        ],
+        "descripcion": "Encuentra el cadáver de Máscara Dorada en la base del acantilado para reclamar la Runa restauradora del Orden Perfecto.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes009.php#paso5",
+        "locationId": "loc_corhyn_05_runa",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_boc",
+    "npc": "Boc el Costurero",
+    "icono": "scissors",
+    "pasos": [
+      {
+        "pasoId": "boc_01",
+        "orden": 1,
+        "ubicacionNombre": "Árbol Ilusorio de Agheel Norte",
+        "region": "Necrolimbo Centro",
+        "coords": [
+          1450,
+          2140
+        ],
+        "descripcion": "Golpea el arbusto que habla para romper el hechizo que transformó al desdichado Boc.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes007.php#paso1",
+        "locationId": "loc_boc_01_arbusto",
+        "missable": false
+      },
+      {
+        "pasoId": "boc_02",
+        "orden": 2,
+        "ubicacionNombre": "Cueva Litoral (Entrada)",
+        "region": "Necrolimbo Costa Suroeste",
+        "coords": [
+          1270,
+          1920
+        ],
+        "descripcion": "Derrota a los Jefes Semihumanos para devolverle la Aguja de coser de su amada madre.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes007.php#paso2",
+        "locationId": "loc_boc_02_costa",
+        "missable": false
+      },
+      {
+        "pasoId": "boc_03",
+        "orden": 3,
+        "ubicacionNombre": "Muralla de la Capital Este",
+        "region": "Leyndell, Capital Real",
+        "coords": [
+          3470,
+          2360
+        ],
+        "descripcion": "Boc desea ser hermoso. Usa el Parlavisco \"Eres hermoso\" frente a él para salvar su vida con amor.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes007.php#paso3",
+        "locationId": "loc_boc_03_leyndell",
+        "missable": true,
+        "advertenciaMissable": "¡Si le entregas una Lágrima Larval morirá trágicamente en la Academia de Raya Lucaria!"
+      }
+    ]
+  },
+  {
+    "id": "quest_patches",
+    "npc": "Patches la Hiena",
+    "icono": "smile",
+    "pasos": [
+      {
+        "pasoId": "patches_01",
+        "orden": 1,
+        "ubicacionNombre": "Cueva de Aguamarga (Murkwater)",
+        "region": "Necrolimbo Centro",
+        "coords": [
+          1440,
+          2210
+        ],
+        "descripcion": "Abre su cofre y perdónale la vida cuando se rinda para abrir su tienda y comprar el Grillete de Margit.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes020.php#paso1",
+        "locationId": "loc_patches_01_cueva",
+        "missable": false
+      },
+      {
+        "pasoId": "patches_02",
+        "orden": 2,
+        "ubicacionNombre": "Isla Pintoresca",
+        "region": "Liurnia Sur (Lago)",
+        "coords": [
+          2200,
+          1290
+        ],
+        "descripcion": "Te aconseja ser devorado por la Doncella de Hierro en la base de la academia para llegar a Monte Gelmir.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes020.php#paso2",
+        "locationId": "loc_patches_02_liurnia",
+        "missable": false
+      },
+      {
+        "pasoId": "patches_03",
+        "orden": 3,
+        "ubicacionNombre": "Mansión del Volcán",
+        "region": "Monte Gelmir",
+        "coords": [
+          3550,
+          1370
+        ],
+        "descripcion": "Te entrega la carta de encargo para cazar al Gran Tragasangre Tragoth y recibir la colosal Armadura de Toro de Cabra.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes020.php#paso3",
+        "locationId": "loc_patches_03_mansion",
+        "missable": false
+      },
+      {
+        "pasoId": "patches_04",
+        "orden": 4,
+        "ubicacionNombre": "Castillo Sombrío",
+        "region": "Meseta de Altus Norte",
+        "coords": [
+          3720,
+          1880
+        ],
+        "descripcion": "Casi agonizante frente al puente del salón del jefe, te entrega las Castañuelas de bailarina para Tanith.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes020.php#paso4",
+        "locationId": "loc_patches_04_sombrio",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_roderika",
+    "npc": "Roderika de los Espíritus",
+    "icono": "sparkles",
+    "pasos": [
+      {
+        "pasoId": "roderika_01",
+        "orden": 1,
+        "ubicacionNombre": "Choza de la Colina Tormentosa",
+        "region": "Colina de Tormentas",
+        "coords": [
+          1570,
+          1960
+        ],
+        "descripcion": "Consigue la Ceniza de medusa espiritual y el Recuerdo de crisálidas en el castillo.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes022.php#paso1",
+        "locationId": "loc_roderika_01_choza",
+        "missable": false
+      },
+      {
+        "pasoId": "roderika_02",
+        "orden": 2,
+        "ubicacionNombre": "Mesa Redonda (Sintonizadora)",
+        "region": "Mesa Redonda",
+        "coords": [
+          755,
+          545
+        ],
+        "descripcion": "Convence al Maestro Herrero Hewg de enseñarle el arte milenario de la sintonización de espíritus.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes022.php#paso2",
+        "locationId": "loc_roderika_02_mesa",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_kenneth",
+    "npc": "Kenneth Haight",
+    "icono": "crown",
+    "pasos": [
+      {
+        "pasoId": "kenneth_01",
+        "orden": 1,
+        "ubicacionNombre": "Estructura Elevada de Necrolimbo Este",
+        "region": "Necrolimbo Este",
+        "coords": [
+          1320,
+          2500
+        ],
+        "descripcion": "El heredero legítimo de Haight pide limpiar el fuerte tomado por caballeros renegados.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes017.php#paso1",
+        "locationId": "loc_kenneth_01_repisa",
+        "missable": false
+      },
+      {
+        "pasoId": "kenneth_02",
+        "orden": 2,
+        "ubicacionNombre": "Fuerte Haight",
+        "region": "Necrolimbo Sureste",
+        "coords": [
+          1220,
+          2630
+        ],
+        "descripcion": "Purifica la fortaleza y recibe la Daga de acero de Erd. Júrane lealtad.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes017.php#paso2",
+        "locationId": "loc_kenneth_02_fuerte",
+        "missable": false
+      },
+      {
+        "pasoId": "kenneth_03",
+        "orden": 3,
+        "ubicacionNombre": "Trono de Velo Tormentoso",
+        "region": "Castillo de Velo Tormentoso",
+        "coords": [
+          1835,
+          1740
+        ],
+        "descripcion": "Rinde pleitesía a Nepheli Loux como reina de Necrolimbo.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes017.php#paso3",
+        "locationId": "loc_kenneth_03_trono",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_latenna",
+    "npc": "Latenna la Albináurica",
+    "icono": "bow",
+    "pasos": [
+      {
+        "pasoId": "latenna_01",
+        "orden": 1,
+        "ubicacionNombre": "Choza del Lobo Durmiente",
+        "region": "Liurnia Sur",
+        "coords": [
+          2020,
+          1480
+        ],
+        "descripcion": "Cruza la Cueva de Cristal del Lago. Muéstrale la mitad del Medallón Secreto del Árbol Hierático que te dio Albus para que se una como Ceniza espiritual.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes015.php#paso1",
+        "locationId": "loc_latenna_01_lobo",
+        "missable": false
+      },
+      {
+        "pasoId": "latenna_02",
+        "orden": 2,
+        "ubicacionNombre": "Ruinas del Desierto Apóstata",
+        "region": "Campo Sacroníveo Norte",
+        "coords": [
+          4320,
+          2730
+        ],
+        "descripcion": "Invócala frente al cuerpo inmenso de Phillia en la iglesia derruida para entregar la gota primordial y recibir una Piedra de forja de dragón antiguo sombría.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes015.php#paso2",
+        "locationId": "loc_latenna_02_apostata",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_dungeater",
+    "npc": "El Zampaheces (Dung Eater)",
+    "icono": "skull",
+    "pasos": [
+      {
+        "pasoId": "dung_01",
+        "orden": 1,
+        "ubicacionNombre": "Prisión de las Alcantarillas",
+        "region": "Subsuelo de los Marginados (Leyndell)",
+        "coords": [
+          3300,
+          2340
+        ],
+        "descripcion": "Usa la Llave de la celda de las cloacas para liberarlo de su pestilente confinamiento.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes011.php#paso1",
+        "locationId": "loc_dung_01_celda",
+        "missable": false
+      },
+      {
+        "pasoId": "dung_02",
+        "orden": 2,
+        "ubicacionNombre": "Foso Exterior de la Capital",
+        "region": "Leyndell Afueras",
+        "coords": [
+          3420,
+          2280
+        ],
+        "descripcion": "Vence al Zampaheces invasor en las aguas del foso. Dropea la Espada de Milos.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes011.php#paso2",
+        "locationId": "loc_dung_02_foso",
+        "missable": false
+      },
+      {
+        "pasoId": "dung_03",
+        "orden": 3,
+        "ubicacionNombre": "Atadura del Trono de la Maldición",
+        "region": "Subsuelo de los Marginados",
+        "coords": [
+          3300,
+          2340
+        ],
+        "descripcion": "Aliméntalo con 5 Maldiciones del semillero para obtener la Runa restauradora de la Maldición del Caído.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes011.php#paso3",
+        "locationId": "loc_dung_03_runa",
+        "missable": true,
+        "advertenciaMissable": "Si le das la poción de Seluvis en su lugar, podrás convertirlo en una poderosísima Ceniza invocable pero perderás su final."
+      }
+    ]
+  },
+  {
+    "id": "quest_diallos",
+    "npc": "Diallos de Hoslow",
+    "icono": "heart",
+    "pasos": [
+      {
+        "pasoId": "diallos_01",
+        "orden": 1,
+        "ubicacionNombre": "Mesa Redonda",
+        "region": "Mesa Redonda",
+        "coords": [
+          745,
+          535
+        ],
+        "descripcion": "Noble presumido en busca de su fiel sirvienta Lanya.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes010.php#paso1",
+        "locationId": "loc_diallos_01_mesa",
+        "missable": false
+      },
+      {
+        "pasoId": "diallos_02",
+        "orden": 2,
+        "ubicacionNombre": "Pueblo de la Puerta de la Academia",
+        "region": "Liurnia Centro",
+        "coords": [
+          2450,
+          1330
+        ],
+        "descripcion": "Llora desconsolado el cadáver de Lanya prometiendo vengar su sangre contra la Mansión.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes010.php#paso2",
+        "locationId": "loc_diallos_02_lanya",
+        "missable": false
+      },
+      {
+        "pasoId": "diallos_03",
+        "orden": 3,
+        "ubicacionNombre": "Tarriburgo (Jarburg)",
+        "region": "Liurnia Este",
+        "coords": [
+          2430,
+          1680
+        ],
+        "descripcion": "Diallos da su vida para defender heroicamente a los pequeños tarros de los cazadores furtivos. Recibe la Máscara de Hoslow y el Látigo de pétalos.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes010.php#paso3",
+        "locationId": "loc_diallos_03_jarburg",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_irina_edgar",
+    "npc": "Irina y Edgar de Morne",
+    "icono": "heart",
+    "pasos": [
+      {
+        "pasoId": "morne_01",
+        "orden": 1,
+        "ubicacionNombre": "Entrada del Puente del Sacrificio",
+        "region": "Península del Llanto",
+        "coords": [
+          1115,
+          2300
+        ],
+        "descripcion": "Irina te pide que lleves su carta a su padre Edgar en el asediado Castillo de Morne.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes016.php#paso1",
+        "locationId": "loc_morne_01_irina",
+        "missable": false
+      },
+      {
+        "pasoId": "morne_02",
+        "orden": 2,
+        "ubicacionNombre": "Torre del Castillo de Morne",
+        "region": "Península del Llanto",
+        "coords": [
+          770,
+          2150
+        ],
+        "descripcion": "Entrega la carta de Irina al comandante Edgar en lo alto de la almena.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes016.php#paso2",
+        "locationId": "loc_morne_02_edgar",
+        "missable": false
+      },
+      {
+        "pasoId": "morne_03",
+        "orden": 3,
+        "ubicacionNombre": "Playa de Morne (León Bastardo)",
+        "region": "Península del Llanto Sur",
+        "coords": [
+          680,
+          2130
+        ],
+        "descripcion": "Derrota al León Bastardo para recuperar el Espadón de hoja injertada.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes016.php#paso3",
+        "locationId": "loc_morne_03_leon",
+        "missable": false
+      },
+      {
+        "pasoId": "morne_04",
+        "orden": 4,
+        "ubicacionNombre": "Choza del Vengador",
+        "region": "Liurnia Suroeste",
+        "coords": [
+          2140,
+          1260
+        ],
+        "descripcion": "Edgar enloquecido de venganza te invade como Dedo Sangriento. Dropea la Alabarda de caballero desterrado +8 y una Uva de Shabiri.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes016.php#paso4",
+        "locationId": "loc_morne_04_vengador",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_rogier",
+    "npc": "Hechicero Rogier",
+    "icono": "sparkles",
+    "pasos": [
+      {
+        "pasoId": "rogier_01",
+        "orden": 1,
+        "ubicacionNombre": "Capilla del Castillo de Velo Tormentoso",
+        "region": "Castillo de Velo Tormentoso",
+        "coords": [
+          1755,
+          1740
+        ],
+        "descripcion": "Te instruye en hechizos con espada y te advierte del mal que infesta el castillo.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes025.php#paso1",
+        "locationId": "loc_rogier_01_castillo",
+        "missable": false
+      },
+      {
+        "pasoId": "rogier_02",
+        "orden": 2,
+        "ubicacionNombre": "Cripta Subterránea del Castillo",
+        "region": "Castillo de Velo Tormentoso",
+        "coords": [
+          1730,
+          1735
+        ],
+        "descripcion": "Examina la inmensa cara espectral en las profundidades donde Rogier fue infectado con la espina mortal.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes025.php#paso2",
+        "locationId": "loc_rogier_02_cara",
+        "missable": false
+      },
+      {
+        "pasoId": "rogier_03",
+        "orden": 3,
+        "ubicacionNombre": "Balcón de la Mesa Redonda",
+        "region": "Mesa Redonda",
+        "coords": [
+          765,
+          555
+        ],
+        "descripcion": "En silla de ruedas, te entrega su Estoque de Rogier +8 y pistas vitales sobre la Noche de los Cuchillos Negros y Ranni.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes025.php#paso3",
+        "locationId": "loc_rogier_03_muerte",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_d_hunter",
+    "npc": "D, Cazador de los Muertos",
+    "icono": "sword",
+    "pasos": [
+      {
+        "pasoId": "d_01",
+        "orden": 1,
+        "ubicacionNombre": "Afueras de Aldea de Aguainvocante",
+        "region": "Necrolimbo Norte",
+        "coords": [
+          1620,
+          2330
+        ],
+        "descripcion": "Te previene de la presencia del Barquero Tibial que reanima los cadáveres.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes013.php#paso1",
+        "locationId": "loc_d_01_mariner",
+        "missable": false
+      },
+      {
+        "pasoId": "d_02",
+        "orden": 2,
+        "ubicacionNombre": "Acueducto de Siofra",
+        "region": "Río Siofra (Subterráneo)",
+        "coords": [
+          1640,
+          2990
+        ],
+        "descripcion": "Entrega la armadura gemela a su hermano mudo en el acueducto para que tome venganza contra Fia tras su muerte.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes013.php#paso2",
+        "locationId": "loc_d_02_hermano",
+        "missable": false,
+        "mapaOrigen": "underground"
+      }
+    ]
+  },
+  {
+    "id": "quest_hyetta",
+    "npc": "Hyetta, Doncella de los Dedos Ciega",
+    "icono": "sun",
+    "pasos": [
+      {
+        "pasoId": "hyetta_01",
+        "orden": 1,
+        "ubicacionNombre": "Acantilados Frente al Lago",
+        "region": "Liurnia Sur",
+        "coords": [
+          1920,
+          1660
+        ],
+        "descripcion": "Pide una Uva de Shabriri para ver la luz distante que la guía hacia su destino.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes014.php#paso1",
+        "locationId": "loc_hyetta_01_acantilados",
+        "missable": false
+      },
+      {
+        "pasoId": "hyetta_02",
+        "orden": 2,
+        "ubicacionNombre": "Ruinas Purificadas",
+        "region": "Liurnia Este",
+        "coords": [
+          2130,
+          1550
+        ],
+        "descripcion": "Espera en el muro exterior de las ruinas. Dale la segunda Uva de Shabriri que está en la bodega subterránea.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes014.php#paso2",
+        "locationId": "loc_hyetta_02_purificadas",
+        "missable": false
+      },
+      {
+        "pasoId": "hyetta_03",
+        "orden": 3,
+        "ubicacionNombre": "Puente de la Puerta del Pueblo",
+        "region": "Liurnia Centro",
+        "coords": [
+          2450,
+          1330
+        ],
+        "descripcion": "Entrégale la tercera Uva de Shabriri (dropeada por Edgar el Vengador) y revélale la aterradora verdad de que son ojos humanos.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes014.php#paso3",
+        "locationId": "loc_hyetta_03_puente",
+        "missable": false
+      },
+      {
+        "pasoId": "hyetta_04",
+        "orden": 4,
+        "ubicacionNombre": "Iglesia de Bellum",
+        "region": "Liurnia Norte (Bellum)",
+        "coords": [
+          2940,
+          1480
+        ],
+        "descripcion": "Pide la Uva de la Huella Dactilar obtenida al derrotar al invasor Vyke en la Iglesia de la Inhibición.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes014.php#paso4",
+        "locationId": "loc_hyetta_04_bellum",
+        "missable": false
+      },
+      {
+        "pasoId": "hyetta_05",
+        "orden": 5,
+        "ubicacionNombre": "Proscenio de la Llama Frenética",
+        "region": "Subsuelo de los Marginados (Leyndell)",
+        "coords": [
+          3270,
+          2360
+        ],
+        "descripcion": "Tras ser abrazado desnudo por los Tres Dedos, habla con Hyetta para transferirle la llama del caos y recibir el Sello de la Llama Frenética.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes014.php#paso5",
+        "locationId": "loc_hyetta_05_tres_dedos",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_seluvis",
+    "npc": "Preceptor Seluvis",
+    "icono": "sparkles",
+    "pasos": [
+      {
+        "pasoId": "seluvis_01",
+        "orden": 1,
+        "ubicacionNombre": "Torre de Seluvis",
+        "region": "Liurnia Oeste (Tres Hermanas)",
+        "coords": [
+          3210,
+          1150
+        ],
+        "descripcion": "Te entrega su siniestra poción con la orden de administrársela con engaños a Nepheli Loux.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes026.php#paso1",
+        "locationId": "loc_seluvis_01_torre",
+        "missable": false
+      },
+      {
+        "pasoId": "seluvis_02",
+        "orden": 2,
+        "ubicacionNombre": "Bodega de Títeres de Seluvis",
+        "region": "Liurnia Oeste (Tres Hermanas)",
+        "coords": [
+          3220,
+          1160
+        ],
+        "descripcion": "Descubre su laboratorio secreto detrás del suelo ilusorio con títeres de Sellen y guerreros.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes026.php#paso2",
+        "locationId": "loc_seluvis_02_bodega",
+        "missable": false
+      },
+      {
+        "pasoId": "seluvis_03",
+        "orden": 3,
+        "ubicacionNombre": "Emboscada del Filtro de Ámbar",
+        "region": "Meseta de Altus",
+        "coords": [
+          3380,
+          1950
+        ],
+        "descripcion": "Consigue la Luz de ámbar estelar para conspirar contra Ranni. Si intentas dársela a Ranni, serás aniquilado al instante.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes026.php#paso3",
+        "locationId": "loc_seluvis_03_ambar",
+        "missable": true,
+        "advertenciaMissable": "Si entregas la Hoja Dactilicida a Ranni, Seluvis aparecerá muerto y no podrás conseguir sus talismanes mágicos."
+      }
+    ]
+  },
+  {
+    "id": "quest_tanith_rya",
+    "npc": "Lady Tanith y Rya la Reclutadora",
+    "icono": "flame",
+    "pasos": [
+      {
+        "pasoId": "tanith_01",
+        "orden": 1,
+        "ubicacionNombre": "Gazebo de Liurnia Sur (Rya)",
+        "region": "Liurnia Sur (Lago)",
+        "coords": [
+          2180,
+          1380
+        ],
+        "descripcion": "Rya te pide que recuperes su valioso collar robado por el bribón Boggart en la choza vecina.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes024.php#paso1",
+        "locationId": "loc_rya_01_collar",
+        "missable": false
+      },
+      {
+        "pasoId": "tanith_02",
+        "orden": 2,
+        "ubicacionNombre": "Gran Elevador de Dectus (Cima)",
+        "region": "Meseta de Altus",
+        "coords": [
+          3280,
+          1680
+        ],
+        "descripcion": "Rya te espera agradecida y te teletransporta de inmediato a la Mansión del Volcán tomando su mano.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes024.php#paso2",
+        "locationId": "loc_rya_02_dectus",
+        "missable": false
+      },
+      {
+        "pasoId": "tanith_03",
+        "orden": 3,
+        "ubicacionNombre": "Salón de la Mansión del Volcán",
+        "region": "Monte Gelmir",
+        "coords": [
+          3550,
+          1380
+        ],
+        "descripcion": "Lady Tanith te hace jurar alianza a los Renegados y te entrega las Cartas de Contrato para cazar a otros Sin Luz.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes027.php#paso1",
+        "locationId": "loc_tanith_01_mansion",
+        "missable": false
+      },
+      {
+        "pasoId": "tanith_04",
+        "orden": 4,
+        "ubicacionNombre": "Arena de Rykard Decapitado",
+        "region": "Mansión del Volcán",
+        "coords": [
+          3500,
+          1340
+        ],
+        "descripcion": "Tras derrotar a Rykard, Tanith devora con desesperación la carne serpentina. Mátala para vencer a su caballero protector y obtener el Conjunto de Tanith.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes027.php#paso2",
+        "locationId": "loc_tanith_02_devoracion",
+        "missable": false
+      }
+    ]
+  },
+  {
+    "id": "quest_gurranq",
+    "npc": "Gurranq, Clérigo Bestial",
+    "icono": "skull",
+    "pasos": [
+      {
+        "pasoId": "gurranq_01",
+        "orden": 1,
+        "ubicacionNombre": "Santuario de las Bestias",
+        "region": "Montedrago de Greyoll (Caelid)",
+        "coords": [
+          2260,
+          3250
+        ],
+        "descripcion": "Aliméntalo con Raíces Mortuorias. Al darle la cuarta enloquecerá temporalmente y deberás golpearlo con cautela para que recobre el juicio. Recompensas: Ojo de la Bestia, Garras Bestiales y Martillo Bestial.",
+        "eliteguiasUrl": "https://www.eliteguias.com/guias/e/er/er_personajes013.php",
+        "locationId": "loc_gurranq_01_santuario",
+        "missable": false
+      }
+    ]
+  }
+]

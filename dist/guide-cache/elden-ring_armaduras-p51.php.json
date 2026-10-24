@@ -1,0 +1,47 @@
+{
+  "title": "Guanteletes kaiden",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p51.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guanteletes-kaiden.jpg"
+  ],
+  "lore": "Guanteletes que usan los soldados a sueldo de Kaiden.\n\n \n\nEstos mercenarios corpulentos e intrépidos, de los que se dice que proceden del gélido norte, son expertos en luchar a lomos de un caballo.\n\nKaiden es el nombre de su lugar de origen.",
+  "intro": [
+    "-Los pueden soltar los mercenarios (a pie o a caballo) que hay por Necrolimbo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 2.9",
+        "Negación de daños",
+        "-Físico: 2.9",
+        "-VS golpe: 2.1",
+        "-VS tajo: 2.9",
+        "-VS perforación: 2.9",
+        "-Magia: 1.9",
+        "-Fuego: 2.1",
+        "-Rayo: 1.7",
+        "-Sagrado: 1.9",
+        "Resistencia",
+        "-Inmunidad: 8",
+        "-Robustez: 15",
+        "-Concentración: 6",
+        "-Vitalidad: 6",
+        "-Aplomo: 3"
+      ],
+      "text": "-Peso: 2.9\nNegación de daños\n-Físico: 2.9\n-VS golpe: 2.1\n-VS tajo: 2.9\n-VS perforación: 2.9\n-Magia: 1.9\n-Fuego: 2.1\n-Rayo: 1.7\n-Sagrado: 1.9\nResistencia\n-Inmunidad: 8\n-Robustez: 15\n-Concentración: 6\n-Vitalidad: 6\n-Aplomo: 3",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

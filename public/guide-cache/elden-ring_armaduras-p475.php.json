@@ -1,0 +1,47 @@
+{
+  "title": "Guanteletes del Omnisciente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p475.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guanteletes-del-omnisciente.jpg"
+  ],
+  "lore": "Guanteletes que presentan innumerables ojos y orejas.\n\nLos llevaba Gideon Ofnir, el Omnisciente.\n\n \n\nEl conocimiento empieza por reconocer la propia ignorancia. La comprensión de que la búsqueda del conocimiento es infinita.\n\nPero cuando Gideon vislumbró la voluntad de la Reina Márika, se estremeció.\n\n \n\nPorque era un final que no debería ocurrir.",
+  "intro": [
+    "-Los suelta Sir Gideon Ofnir el Omnisciente al derrotarlo (como jefazo, no como npc)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 3.5",
+        "Negación de daños",
+        "-Físico: 3.2",
+        "-VS golpe: 2.9",
+        "-VS tajo: 3.3",
+        "-VS perforación: 2.9",
+        "-Magia: 3.1",
+        "-Fuego: 2.3",
+        "-Rayo: 2.5",
+        "-Sagrado: 2.1",
+        "Resistencia",
+        "-Inmunidad: 9",
+        "-Robustez: 15",
+        "-Concentración: 7",
+        "-Vitalidad: 7",
+        "-Aplomo: 4"
+      ],
+      "text": "-Peso: 3.5\nNegación de daños\n-Físico: 3.2\n-VS golpe: 2.9\n-VS tajo: 3.3\n-VS perforación: 2.9\n-Magia: 3.1\n-Fuego: 2.3\n-Rayo: 2.5\n-Sagrado: 2.1\nResistencia\n-Inmunidad: 9\n-Robustez: 15\n-Concentración: 7\n-Vitalidad: 7\n-Aplomo: 4",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

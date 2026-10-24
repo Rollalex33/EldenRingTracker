@@ -1,0 +1,64 @@
+{
+  "title": "Espadón de la luna negra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p198.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espadon-de-la-luna-negra.jpg"
+  ],
+  "lore": "Espadón de la luna otorgado por las reinas carianas a sus cónyuges según una longeva tradición.\n\nUna de las armas legendarias.\n\n \n\nEl sello de Ranni es una luna llena, fría y plúmbea, y esta espada es un haz de su luz.\n\n \n\nHabilidad única: Espadón de luz lunar\n\nAlza la espada por encima de tu cabeza para bañarla en la luz de la luna negra.\n\nAumenta temporalmente la potencia de ataque mágico e imbuye la hoja en congelación.\n\nLos ataques cargados liberan ráfagas de luz lunar.",
+  "intro": [
+    "-Lo consigues como recompensa al final de la historia de Ranni."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 16",
+        "-Destreza: 11",
+        "-Inteligencia: 38"
+      ],
+      "text": "-Fuerza: 16\n-Destreza: 11\n-Inteligencia: 38",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Inteligencia: C"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Inteligencia: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 10.0",
+        "-Habilidad: Espadón de luz lunar",
+        "-Coste de PC: 32",
+        "Potencia de ataque",
+        "-Físico: 82",
+        "-Magia: 98",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 57.0",
+        "-Magia: 63.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 31.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos",
+        "-Provoca la acumulación de congelación (55)."
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 10.0\n-Habilidad: Espadón de luz lunar\n-Coste de PC: 32\nPotencia de ataque\n-Físico: 82\n-Magia: 98\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 57.0\n-Magia: 63.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 31.0\n-Estabilidad: 44\nEfectos pasivos\n-Provoca la acumulación de congelación (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Frasco de aceite acordonado",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p571.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/frasco-de-aceite-acordonado.jpg"
+  ],
+  "lore": "Objeto que puede crearse con un tarro agrietado.\n\nContiene una mezcla de materiales macerados en aceite y está envuelto con un cordón corto que te ayudará a lanzarlo.\n\n \n\nLánzalo contra los enemigos a tus espaldas para empaparlos en aceite y hacerlos extremadamente vulnerables al daño de fuego.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se lanza a los enemigos para empaparlos con aceite."
+      ],
+      "text": "Se lanza a los enemigos para empaparlos con aceite.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Se puede crear con  Seta fundida  x1 y  Cuerda  x1 (necesitas el  Manual de guerrero nómada [17] )."
+      ],
+      "text": "-Se puede crear con  Seta fundida  x1 y  Cuerda  x1 (necesitas el  Manual de guerrero nómada [17] ).",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Proyectiles"
+}

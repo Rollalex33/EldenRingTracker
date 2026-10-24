@@ -1,0 +1,28 @@
+{
+  "title": "Niebla de doncella nocturna",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p46.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/niebla-de-doncella-nocturna.jpg"
+  ],
+  "lore": "Uno de los hechizos nocturnos de Sellia, ciudad de la hechicería.\n\n \n\nLibera una niebla plateada que absorbe energía ante el invocador e inflige daño a todo aquel que quede atrapado en su interior, incluido el propio usuario.\n\n \n\nBajo Sellia duerme la Ciudad Eterna de Nokron. Este hechizo proviene de las doncellas de aquel lugar.",
+  "intro": [
+    "-Te lo vende Gowry por 5.000 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Libera niebla plateada que absorbe energía ante el lanzador.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 20",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 14"
+      ],
+      "text": "Libera niebla plateada que absorbe energía ante el lanzador.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 20\n-Ranuras: 1\n-Inteligencia necesaria: 14",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

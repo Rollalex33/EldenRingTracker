@@ -1,0 +1,62 @@
+{
+  "title": "Gran hacha putrefacta",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p282.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/gran-hacha-putrefacta.jpg"
+  ],
+  "lore": "Una gran hacha que fue diseñada para los combates entre gladiadores y que ahora supura putrefacción roja.\n\n \n\nLa usaban los duelistas exiliados del coliseo.\n\n \n\nHabilidad: Indómito\n\nAfianza tu posición y prepárate para los ataques para aumentar brevemente el aplomo.\n\nEl daño recibido se verá reducido durante la preparación.",
+  "intro": [
+    "-La suelta un duelista podrido que está por la parte Noroeste del Campo sacroníveo, cerca de Ordina, ciudad litúrgica."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 30",
+        "-Destreza: 10"
+      ],
+      "text": "-Fuerza: 30\n-Destreza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: D"
+      ],
+      "text": "-Fuerza: E\n-Destreza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Estándar",
+        "-Peso: 20.0",
+        "-Habilidad: Indómito",
+        "-Coste de PC: 9",
+        "Potencia de ataque",
+        "-Físico: 162",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 78.0",
+        "-Magia: 47.0",
+        "-Fuego: 47.0",
+        "-Rayo: 47.0",
+        "-Sagrado: 47.0",
+        "-Estabilidad: 52",
+        "Efectos pasivos",
+        "-Provoca la acumulación de putrefacción (65)."
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Estándar\n-Peso: 20.0\n-Habilidad: Indómito\n-Coste de PC: 9\nPotencia de ataque\n-Físico: 162\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 78.0\n-Magia: 47.0\n-Fuego: 47.0\n-Rayo: 47.0\n-Sagrado: 47.0\n-Estabilidad: 52\nEfectos pasivos\n-Provoca la acumulación de putrefacción (65).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

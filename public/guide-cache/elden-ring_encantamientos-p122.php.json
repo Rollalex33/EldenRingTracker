@@ -1,0 +1,28 @@
+{
+  "title": "Tornado de bestia divina",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p122.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/tornado-de-bestia-divina.jpg"
+  ],
+  "lore": "La tempestad del León Danzante, que se usa como encantamiento.\n\n \n\nUn retorcimiento del cuerpo, similar a un torbellino, lanza un tornado hacia adelante.\n\nSi se carga, aumenta la potencia.\n\n \n\nLa mayoría de las bestias divinas fueron destripadas y colgadas en las lanzas de Messmer, antes de ser calcinadas en sus llamas.\n\nQuienes lo vieron lo comparan con una pira funeraria para la propia torre.",
+  "intro": [
+    "-Lo suelta el jefazo Bestia divina  León Danzante en las Antiguas ruinas de Rauh."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca una tormenta que lanza un tornado.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 24",
+        "-Ranuras: 1",
+        "-Fe necesaria: 28"
+      ],
+      "text": "Invoca una tormenta que lanza un tornado.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 24\n-Ranuras: 1\n-Fe necesaria: 28",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos del DLC Shadow of the Erdtree"
+}

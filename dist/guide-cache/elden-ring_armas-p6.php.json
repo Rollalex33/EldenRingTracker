@@ -1,0 +1,61 @@
+{
+  "title": "Garrote",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p6.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/garrote.jpg"
+  ],
+  "lore": "Trozo de madera grueso y sólido.\n\nNo es necesaria ninguna habilidad para empuñar esta arma de contusión.\n\n \n\nArma primitiva y sencilla que solo requiere de fuerza bruta y persistencia para pulverizar al enemigo.\n\n \n\nHabilidad: Rugido bárbaro\n\nSuelta un rugido bestial para infundirte ánimos y aumentar tu potencia de ataque.\n\nMientras está activa, transforma los ataques potentes en un salvaje ataque combinado.",
+  "intro": [
+    "-Forma parte del equipo inicial de la clase Miserable.",
+    "-Lo pueden soltar los semihumanos que hay por dentro y por fuera de la Cueva del litoral, en Necrolimbo.",
+    "-Te lo vende el Comerciante nómada 1 por 600 runas."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 10"
+      ],
+      "text": "-Fuerza: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C"
+      ],
+      "text": "-Fuerza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Rugido bárbaro",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 103",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 41.0",
+        "-Magia: 27.0",
+        "-Fuego: 27.0",
+        "-Rayo: 27.0",
+        "-Sagrado: 27.0",
+        "-Estabilidad: 27",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Martillo\n-Tipo de daño: Golpe\n-Peso: 3.5\n-Habilidad: Rugido bárbaro\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 103\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 41.0\n-Magia: 27.0\n-Fuego: 27.0\n-Rayo: 27.0\n-Sagrado: 27.0\n-Estabilidad: 27\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Martillos"
+}

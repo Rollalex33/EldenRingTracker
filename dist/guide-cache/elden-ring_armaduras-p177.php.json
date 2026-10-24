@@ -1,0 +1,47 @@
+{
+  "title": "Armadura de caballero cariano",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p177.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/armadura-de-caballero-cariano.jpg"
+  ],
+  "lore": "Armadura de los caballeros hechizados que en su día sirvieron a la familia real cariana.\n\n \n\nLos caballeros hechizados, ungidos por la Reina de la Luna, fueron héroes de los más altos honores, pero cayeron en desgracia con el declive de la familia real.",
+  "intro": [
+    "-La encuentras en un cadáver en la Academia de Raya Lucaria, en Liurnia (Norte)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 10.4",
+        "Negación de daños",
+        "-Físico: 11.8",
+        "-VS golpe: 10.8",
+        "-VS tajo: 12.3",
+        "-VS perforación: 11.8",
+        "-Magia: 12.3",
+        "-Fuego: 11.8",
+        "-Rayo: 9.4",
+        "-Sagrado: 11.8",
+        "Resistencia",
+        "-Inmunidad: 28",
+        "-Robustez: 46",
+        "-Concentración: 21",
+        "-Vitalidad: 23",
+        "-Aplomo: 12"
+      ],
+      "text": "-Peso: 10.4\nNegación de daños\n-Físico: 11.8\n-VS golpe: 10.8\n-VS tajo: 12.3\n-VS perforación: 11.8\n-Magia: 12.3\n-Fuego: 11.8\n-Rayo: 9.4\n-Sagrado: 11.8\nResistencia\n-Inmunidad: 28\n-Robustez: 46\n-Concentración: 21\n-Vitalidad: 23\n-Aplomo: 12",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

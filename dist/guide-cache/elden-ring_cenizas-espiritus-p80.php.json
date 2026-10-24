@@ -1,0 +1,26 @@
+{
+  "title": "Cenizas de diablillo bocudo",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p80.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/cenizas-de-diablillo-bocudo.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu de un diablillo bocudo.\n\n \n\nEl espíritu de este viejo diablillo, el cual se cree que tenía forma de dragón, posee una gran boca que usa como cañón para disparar proyectiles desde la retaguardia del campo de batalla.",
+  "intro": [
+    "-Las encuentras dentro de un cofre en las Catacumbas de Luz Oscura."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu de un diablillo bocudo.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 60"
+      ],
+      "text": "Invoca el espíritu de un diablillo bocudo.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 60",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

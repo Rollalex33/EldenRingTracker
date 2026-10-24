@@ -1,0 +1,28 @@
+{
+  "title": "Uña de piedra refulgente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p77.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/una-de-piedra-refulgente.jpg"
+  ],
+  "lore": "Hechicería de piedras refulgentes del Conde Ymir, sumo sacerdote.\n\nPerteneciente a los dedos hechiceros que dice ser descubierta en unas ruinas sagradas.\n\n \n\nLanza una uña mágica que se rompe durante el vuelo.\n\nSi se carga, aumenta su potencia.\n\n \n\nSegún el Conde Ymir, esto no es más que un juego de niños, un eco de una verdad superior.",
+  "intro": [
+    "-Te lo vende el Conde Ymir por 12.000 runas tras pasar por las Ruinas del Dedo de Rhia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Dispara una demoledora uña mágica.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 10",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 18"
+      ],
+      "text": "Dispara una demoledora uña mágica.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 10\n-Ranuras: 1\n-Inteligencia necesaria: 18",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos del DLC Shadow of the Erdtree"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Linterna",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p169.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/linterna.jpg"
+  ],
+  "lore": "Un pequeño farol que  se lleva en la cintura e ilumina el entorno.\n\n \n\nAl usarlo una vez, se enciende. Al volver a usarlo, se apaga.\n\n \n\nAunque su luz es más tenue que la de una antorcha, tiene la ventaja de que quien lo porta tiene las manos libres.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Efecto",
+      "lines": [
+        "Se coloca en la cintura para iluminar los alrededores."
+      ],
+      "text": "Se coloca en la cintura para iluminar los alrededores.",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Te la vende el  Comerciante solitario 1  por 1.800 runas.",
+        "-Te la vende el  Comerciante nómada 5  por 1.800 runas."
+      ],
+      "text": "-Te la vende el  Comerciante solitario 1  por 1.800 runas.\n-Te la vende el  Comerciante nómada 5  por 1.800 runas.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Objetos principales"
+}

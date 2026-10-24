@@ -1,0 +1,64 @@
+{
+  "title": "Lanza bastón con pinchos",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p369.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/lanza-baston-con-pinchos.jpg"
+  ],
+  "lore": "Gran bastón de Jori, inquisidor anciano.\n\nLas púas doradas de la punta simbolizan la tortura de la inquisición y permiten blandirlo como una gran lanza.\n\n \n\nLos ataques infligen daño sagrado y su potencia aumenta con la fe.\n\n \n\nHabilidad única: Inquisición de Jori\n\nLanza el báculo al aire y dispara una sucesión de arcos de púas doradas. Si continúas pulsando,la descarga proseguirá durante un tiempo.",
+  "intro": [
+    "-La consigues como recompensa por derrotar al jefazo Jori, inquisidor anciano."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 14",
+        "-Destreza: 18",
+        "-Fe: 22"
+      ],
+      "text": "-Fuerza: 14\n-Destreza: 18\n-Fe: 22",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: E",
+        "-Fe: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: E\n-Fe: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Lanza larga",
+        "-Tipo de daño: Estándar/Perf.",
+        "-Peso: 7.5",
+        "-Habilidad: Inquisición Jori",
+        "-Coste de PC: 6 (- -)",
+        "Potencia de ataque",
+        "-Físico: 86",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 86",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 42.0",
+        "-Magia: 31.0",
+        "-Fuego: 31.0",
+        "-Rayo: 31.0",
+        "-Sagrado: 45.0",
+        "-Estabilidad: 37",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (55)."
+      ],
+      "text": "-Categoría: Lanza larga\n-Tipo de daño: Estándar/Perf.\n-Peso: 7.5\n-Habilidad: Inquisición Jori\n-Coste de PC: 6 (- -)\nPotencia de ataque\n-Físico: 86\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 86\n-Crítico: 100\nProtección contra daños\n-Físicos: 42.0\n-Magia: 31.0\n-Fuego: 31.0\n-Rayo: 31.0\n-Sagrado: 45.0\n-Estabilidad: 37\nEfectos pasivos\n-Provoca la acumulación de hemorragias (55).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Lanzas largas"
+}

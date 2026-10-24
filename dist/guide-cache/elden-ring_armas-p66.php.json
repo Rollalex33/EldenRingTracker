@@ -1,0 +1,62 @@
+{
+  "title": "Daga manchada de sangre",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p66.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/daga-manchada-de-sangre.jpg"
+  ],
+  "lore": "Daga con manchas de sangre en la hoja.\n\nProvoca hemorragias a los objetivos.\n\n \n\nAunque la sangre de sus víctimas ha oscurecido la daga, su hoja se ha endurecido y afilado con el tiempo.\n\n \n\nHabilidad: Quiebro\n\nUna habilidad apreciada por aquellos que son ágiles y veloces.\n\nRealiza una maniobra rápida para rodear los objetivos marcados.",
+  "intro": [
+    "-La puede soltar el Jefe semihumano que aparece por el puente que lleva al árbol del  centro de la Península del Llanto."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 9",
+        "-Destreza: 12"
+      ],
+      "text": "-Fuerza: 9\n-Destreza: 12",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Daga",
+        "-Tipo de daño: Tajo / Perforación",
+        "-Peso: 2.0",
+        "-Habilidad: Quiebro",
+        "-Coste de PC: 3",
+        "Potencia de ataque",
+        "-Físico: 81",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 110",
+        "Protección contra daños",
+        "-Físicos: 36.0",
+        "-Magia: 21.0",
+        "-Fuego: 21.0",
+        "-Rayo: 21.0",
+        "-Sagrado: 21.0",
+        "-Estabilidad: 15",
+        "Efectos pasivos",
+        "-Provoca la acumulación de hemorragias (38)."
+      ],
+      "text": "-Categoría: Daga\n-Tipo de daño: Tajo / Perforación\n-Peso: 2.0\n-Habilidad: Quiebro\n-Coste de PC: 3\nPotencia de ataque\n-Físico: 81\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 110\nProtección contra daños\n-Físicos: 36.0\n-Magia: 21.0\n-Fuego: 21.0\n-Rayo: 21.0\n-Sagrado: 21.0\n-Estabilidad: 15\nEfectos pasivos\n-Provoca la acumulación de hemorragias (38).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Dagas"
+}

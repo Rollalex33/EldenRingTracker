@@ -1,0 +1,28 @@
+{
+  "title": "Surge, ¡oh, llama!",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p34.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/surge-oh-llama.jpg"
+  ],
+  "lore": "Encantamiento superior de los monjes ígneos.\n\n \n\nCrea un torrente de fuego que hace arder el área frente al invocador.\n\nEste encantamiento se puede lanzar mientras estás en movimiento. Mantén pulsado para mantener el efecto.\n\n \n\nLa llama de los gigantes es la llama de la perdición, que es capaz de hacer arder el Árbol Áureo. Por ello, tras la guerra contra los gigantes, se selló su destructivo resplandor y se designaron guardianes para vigilarla.",
+  "intro": [
+    "-Te lo vende el Hermano Corhyn o Miriel por 5.500 runas tras haberle entregado el Devocionario de los monjes ígneos."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Incinera el área ante el lanzador con un chorro de fuego.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 1",
+        "-Ranuras: 1",
+        "-Fe necesaria: 9"
+      ],
+      "text": "Incinera el área ante el lanzador con un chorro de fuego.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 1\n-Ranuras: 1\n-Fe necesaria: 9",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

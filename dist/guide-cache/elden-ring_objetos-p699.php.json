@@ -1,0 +1,38 @@
+{
+  "title": "Arpón de Igon",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_objetos-p699.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/arpon-de-igon.jpg"
+  ],
+  "lore": "Gran flecha que se encrespa con pedazos afilados de grava.\n\nTiene un efecto antidragón.\n\n \n\nIgon, el guerrero dracónico roto, las hizo una a una en medio de su agonía, para que el propio Bayle el Temible conociese el miedo.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Flecha grande",
+        "-Tipo de ataque: Perforación",
+        "Potencia de ataque",
+        "-Físico: 90",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100"
+      ],
+      "text": "-Categoría: Flecha grande\n-Tipo de ataque: Perforación\nPotencia de ataque\n-Físico: 90\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100",
+      "images": []
+    },
+    {
+      "heading": "Cómo obtener",
+      "lines": [
+        "-Te las venden las  Doncellas gemelas quiescentes  por 1.000 runas después de haberle entregado la  Esfera de Ion ."
+      ],
+      "text": "-Te las venden las  Doncellas gemelas quiescentes  por 1.000 runas después de haberle entregado la  Esfera de Ion .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "categoryName": "Objetos",
+  "subcategory": "Munición"
+}

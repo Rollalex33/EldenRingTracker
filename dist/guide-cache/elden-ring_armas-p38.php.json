@@ -1,0 +1,62 @@
+{
+  "title": "Martillo de guerra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/martillo-de-guerra.jpg"
+  ],
+  "lore": "Gran martillo de hierro que fue diseñado para los combates entre gladiadores. Lo usaban los duelistas que fueron exiliados del coliseo.\n\n \n\nSuficientemente pesado como para aplastar tanto armaduras como a sus portadores.\n\n \n\nHabilidad: Rugido jactancioso\n\nAnuncia tu presencia con un jactancioso rugido.\n\nAumenta la potencia de ataque, la defensa y la velocidad de recuperación de la resistencia.",
+  "intro": [
+    "-Antes del parche 1.03 se consigue como recompensa por derrotar al jefazo Duelista guardián de las tumbas.",
+    "-Después del parche 1.03 es un posible drop de los duelistas cerca del Coliseo en Leyndell. Ten en cuenta que estos desaparecen tras derrotar a Maliketh."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 26",
+        "-Destreza: 8"
+      ],
+      "text": "-Fuerza: 26\n-Destreza: 8",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Gran martillo",
+        "-Tipo de daño: Golpe",
+        "-Peso: 3.5",
+        "-Habilidad: Rugido jactancioso",
+        "-Coste de PC: 16",
+        "Potencia de ataque",
+        "-Físico: 131",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 68.0",
+        "-Magia: 36.0",
+        "-Fuego: 36.0",
+        "-Rayo: 36.0",
+        "-Sagrado: 36.0",
+        "-Estabilidad: 44",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Gran martillo\n-Tipo de daño: Golpe\n-Peso: 3.5\n-Habilidad: Rugido jactancioso\n-Coste de PC: 16\nPotencia de ataque\n-Físico: 131\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 68.0\n-Magia: 36.0\n-Fuego: 36.0\n-Rayo: 36.0\n-Sagrado: 36.0\n-Estabilidad: 44\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Grandes martillos"
+}

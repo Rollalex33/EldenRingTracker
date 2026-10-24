@@ -1,0 +1,28 @@
+{
+  "title": "Hoja lunar de Adula",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_hechizos-p53.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-lunar-de-adula.jpg"
+  ],
+  "lore": "Hechizo de Adula, el dragón de piedras refulgentes.\n\n \n\nConjura un espadón mágico para asestar un golpe en barrido que lanza proyectiles escarchados con forma de cuchillo.\n\nEste hechizo se puede lanzar repetidamente.\n\n \n\nAdula, devorador de hechiceros, cayó ante Ranni y, posteriormente, hizo un juramento de caballero a su Luna Negra.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al jefazo Adula, dragón de piedra refulgente."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Golpe de barrido seguido de un proyectil de hoja fría.",
+        "-Tipo de conjuro: Hechizo",
+        "-Coste de PC: 22",
+        "-Ranuras: 1",
+        "-Inteligencia necesaria: 32"
+      ],
+      "text": "Golpe de barrido seguido de un proyectil de hoja fría.\n-Tipo de conjuro: Hechizo\n-Coste de PC: 22\n-Ranuras: 1\n-Inteligencia necesaria: 32",
+      "images": []
+    }
+  ],
+  "category": "hechizos",
+  "categoryName": "Hechizos",
+  "subcategory": "Hechizos"
+}

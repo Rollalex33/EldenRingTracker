@@ -1,0 +1,26 @@
+{
+  "title": "Caballero de Fuego Queelign",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_cenizas-espiritus-p72.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/caballero-de-fuego-queelign_2.jpg"
+  ],
+  "lore": "Restos cenicientos en los que aún habitan espíritus.\n\nÚsalos para invocar el espíritu del Caballero de Fuego Queelign.\n\n \n\nEspíritu de un caballero aliviado por un Iris de la Gracia.\n\nBlande un espadón en forma de lanza que empala al enemigo en fuego para alejar a la bella madre Márika de la impureza.\n\n \n\nEsa Gracia, aunque efímera, fue su salvación.\n\nY una vez salvado, lo único que le quedaba era la guerra.",
+  "intro": [
+    "-Te lo da el Caballero de Fuego Queeling si le entregas el Iris de la Gracia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Invoca el espíritu del Caballero de Fuego Queelign.",
+        "-Tipo de conjuro: Invocación de espíritu",
+        "-Coste de PC: 123"
+      ],
+      "text": "Invoca el espíritu del Caballero de Fuego Queelign.\n-Tipo de conjuro: Invocación de espíritu\n-Coste de PC: 123",
+      "images": []
+    }
+  ],
+  "category": "cenizas-espiritus",
+  "categoryName": "Cenizas de espíritus",
+  "subcategory": "Cenizas de espíritus del DLC Shadow of the Erdtree"
+}

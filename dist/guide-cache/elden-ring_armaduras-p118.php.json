@@ -1,0 +1,48 @@
+{
+  "title": "Casco de Raya Lucaria",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p118.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-raya-lucaria.jpg"
+  ],
+  "lore": "Yelmo que llevan los soldados de la academia Raya Lucaria.\n\nSu frente está adornado con una única pluma de cuco.",
+  "intro": [
+    "-Lo pueden soltar los soldados que hay por la zona de Lucaria.",
+    "-También lo pueden soltar los espíritus de la Mansión de los  Caria, en Liurnia (Oeste)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.0",
+        "Negación de daños",
+        "-Físico: 4.4",
+        "-VS golpe: 3.4",
+        "-VS tajo: 4.6",
+        "-VS perforación: 4.4",
+        "-Magia: 3.4",
+        "-Fuego: 3.6",
+        "-Rayo: 2.3",
+        "-Sagrado: 2.8",
+        "Resistencia",
+        "-Inmunidad: 12",
+        "-Robustez: 22",
+        "-Concentración: 9",
+        "-Vitalidad: 9",
+        "-Aplomo: 5"
+      ],
+      "text": "-Peso: 4.0\nNegación de daños\n-Físico: 4.4\n-VS golpe: 3.4\n-VS tajo: 4.6\n-VS perforación: 4.4\n-Magia: 3.4\n-Fuego: 3.6\n-Rayo: 2.3\n-Sagrado: 2.8\nResistencia\n-Inmunidad: 12\n-Robustez: 22\n-Concentración: 9\n-Vitalidad: 9\n-Aplomo: 5",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

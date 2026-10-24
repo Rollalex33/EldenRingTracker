@@ -1,0 +1,47 @@
+{
+  "title": "Casco de soldado de Messmer",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p492.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/casco-de-soldado-de-messmer.jpg"
+  ],
+  "lore": "Casco usado por los soldados que sirven a Messmer el Empalador.\n\nEs de hierro e incluye una visera.\n\n \n\nAunque el diseño del frontal simboliza el Árbol Umbrío, este está grabado en oro. Un pequeño consuelo para quienes se ven obligados a librar una guerra sin gracia ni honor.",
+  "intro": [
+    "-Lo pueden soltar los soldados de Messmer en Llanura de las Tumbas y en el Castillo de Ensis."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 4.0",
+        "Negación de daños",
+        "-Físico: 4.4",
+        "-VS golpe: 3.6",
+        "-VS tajo: 4.4",
+        "-VS perforación: 4.2",
+        "-Magia: 3.1",
+        "-Fuego: 3.6",
+        "-Rayo: 2.5",
+        "-Sagrado: 3.1",
+        "Resistencia",
+        "-Inmunidad: 12",
+        "-Robustez: 22",
+        "-Concentración: 9",
+        "-Vitalidad: 9",
+        "-Aplomo: 7"
+      ],
+      "text": "-Peso: 4.0\nNegación de daños\n-Físico: 4.4\n-VS golpe: 3.6\n-VS tajo: 4.4\n-VS perforación: 4.2\n-Magia: 3.1\n-Fuego: 3.6\n-Rayo: 2.5\n-Sagrado: 3.1\nResistencia\n-Inmunidad: 12\n-Robustez: 22\n-Concentración: 9\n-Vitalidad: 9\n-Aplomo: 7",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Cabeza"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Ira dorada",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p61.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ira-dorada.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/ira-dorada_1.jpg",
+    "https://www.eliteguias.com/img/juegos/elden-ring/ira-dorada_2.jpg"
+  ],
+  "lore": "Encantamiento superior de la adoración del Árbol Áureo.\n\n \n\nCrea una onda de choque dorada que derriba a los enemigos cercanos.\n\nEl tamaño de la onda de choque aumenta al cargarlo.\n\n \n\nEste encantamento se descubrió al fragmentarse el Círculo de Elden y se temía al considerarse un símbolo de la ira del Árbol Áureo.",
+  "intro": [
+    "Ve al punto indicado  en la Meseta Altus, en las \"Ruinas de los silvanos\" cerca del \"Árbol Áureo pequeño\", baja por las escaleras de esas ruinas y en el sótano encontrarás el cofre que contiene este encantamiento."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Genera una onda de choque dorada que hace retroceder a los enemigos.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 40",
+        "-Ranuras: 1",
+        "-Fe necesaria: 32"
+      ],
+      "text": "Genera una onda de choque dorada que hace retroceder a los enemigos.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 40\n-Ranuras: 1\n-Fe necesaria: 32",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

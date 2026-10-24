@@ -1,0 +1,47 @@
+{
+  "title": "Ropa de perfumista viajero",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p208.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/ropa-de-perfumista-viajero.jpg"
+  ],
+  "lore": "Atuendo de un perfumista viajero desconocido.\n\n \n\nEl tupido mandil, insignia de los perfumistas, ha sido sustituido por una pieza de cuero suave más sencilla.",
+  "intro": [
+    "-La encuentras en un cadáver en las \"Ruinas de la rúa de los Sabios\", en Caelid (principal)."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 5.1",
+        "Negación de daños",
+        "-Físico: 6.1",
+        "-VS golpe: 6.1",
+        "-VS tajo: 5.3",
+        "-VS perforación: 4.2",
+        "-Magia: 13.0",
+        "-Fuego: 13.0",
+        "-Rayo: 12.6",
+        "-Sagrado: 13.0",
+        "Resistencia",
+        "-Inmunidad: 57",
+        "-Robustez: 23",
+        "-Concentración: 76",
+        "-Vitalidad: 71",
+        "-Aplomo: 2"
+      ],
+      "text": "-Peso: 5.1\nNegación de daños\n-Físico: 6.1\n-VS golpe: 6.1\n-VS tajo: 5.3\n-VS perforación: 4.2\n-Magia: 13.0\n-Fuego: 13.0\n-Rayo: 12.6\n-Sagrado: 13.0\nResistencia\n-Inmunidad: 57\n-Robustez: 23\n-Concentración: 76\n-Vitalidad: 71\n-Aplomo: 2",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Pecho"
+}

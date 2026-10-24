@@ -1,0 +1,47 @@
+{
+  "title": "Guanteletes de Gaius",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armaduras-p567.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/guanteletes-de-gaius.jpg"
+  ],
+  "lore": "Guanteletes de hierro negro del comandante Gaius.\n\nForman parte de una armadura decorada con un diseño de semillas caídas.\n\n \n\nGaius fue el discípulo más antiguo del mismo Señor de alabastro que enseñó la técnica gravitatoria a Radahn y a Gaea.",
+  "intro": [
+    "-Te los vende Enia por 8.000 runas después de haber derrotado al jefazo Caballero putrefacto."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Ninguno"
+      ],
+      "text": "Ninguno",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Peso: 6.7",
+        "Negación de daños",
+        "-Físico: 4.2",
+        "-VS golpe: 3.9",
+        "-VS tajo: 5.0",
+        "-VS perforación: 4.9",
+        "-Magia: 3.5",
+        "-Fuego: 3.4",
+        "-Rayo: 3.4",
+        "-Sagrado: 3.4",
+        "Resistencia",
+        "-Inmunidad: 22",
+        "-Robustez: 28",
+        "-Concentración: 18",
+        "-Vitalidad: 18",
+        "-Aplomo: 8"
+      ],
+      "text": "-Peso: 6.7\nNegación de daños\n-Físico: 4.2\n-VS golpe: 3.9\n-VS tajo: 5.0\n-VS perforación: 4.9\n-Magia: 3.5\n-Fuego: 3.4\n-Rayo: 3.4\n-Sagrado: 3.4\nResistencia\n-Inmunidad: 22\n-Robustez: 28\n-Concentración: 18\n-Vitalidad: 18\n-Aplomo: 8",
+      "images": []
+    }
+  ],
+  "category": "armaduras",
+  "categoryName": "Armaduras",
+  "subcategory": "Manos"
+}

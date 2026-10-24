@@ -1,0 +1,62 @@
+{
+  "title": "Hoja de hueso de serpiente",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p233.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-de-hueso-de-serpiente.jpg"
+  ],
+  "lore": "Una catana siniestra con un diseño inspirado en el espinazo de las serpientes.\n\n \n\nUna densa hilera de púas emerge del filo, bañada en un veneno letal.\n\n \n\nHabilidad: Tajo doble\n\nHabilidad de los espadachines superiores.\n\nLleva a cabo un ataque de tajo cruzado desde una posición baja.\n\nSi se usa repetidamente pueden llevarse a cabo hasta dos ataques adicionales.",
+  "intro": [
+    "-Te la da Tanith como recompensa por haber completado su  segundo encargo."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 22"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 22",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: E",
+        "-Destreza: C"
+      ],
+      "text": "-Fuerza: E\n-Destreza: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Catana",
+        "-Tipo de daño: Tajo/Perforación",
+        "-Peso: 7.0",
+        "-Habilidad: Tajo doble",
+        "-Coste de PC: 6 (- 3)",
+        "Potencia de ataque",
+        "-Físico: 120",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 45.0",
+        "-Magia: 30.0",
+        "-Fuego: 30.0",
+        "-Rayo: 30.0",
+        "-Sagrado: 30.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos",
+        "-Provoca acumulación de veneno (66)."
+      ],
+      "text": "-Categoría: Catana\n-Tipo de daño: Tajo/Perforación\n-Peso: 7.0\n-Habilidad: Tajo doble\n-Coste de PC: 6 (- 3)\nPotencia de ataque\n-Físico: 120\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 45.0\n-Magia: 30.0\n-Fuego: 30.0\n-Rayo: 30.0\n-Sagrado: 30.0\n-Estabilidad: 30\nEfectos pasivos\n-Provoca acumulación de veneno (66).",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Catanas"
+}

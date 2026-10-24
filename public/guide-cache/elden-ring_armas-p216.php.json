@@ -1,0 +1,63 @@
+{
+  "title": "Martillo de trol",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p216.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/martillo-de-trol.jpg"
+  ],
+  "lore": "Una herramienta de minería que suelen usar los troles excavapiedra para romper la roca firme.\n\n \n\nLos troles descienden de los gigantes, y, antaño, estas herramientas se usaban de forma ceremonial. En un pasado lejano, la herrería se consideraba divina.\n\n \n\nHabilidad: Rugido de trol\n\nMira al horizonte y suelta un intenso rugido para crear potentes ondas de choque que harán retroceder a los enemigos que te rodean.\n\nAcompáñala con un ataque potente para arrojar el arma violentamente.",
+  "intro": [
+    "-Lo encuentras en un cadáver en la Antigua galería de Altus en Monte Gelmir."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 28",
+        "-Destreza: 8",
+        "-Fe: 10"
+      ],
+      "text": "-Fuerza: 28\n-Destreza: 8\n-Fe: 10",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: C",
+        "-Destreza: E",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: C\n-Destreza: E\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Arma colosal",
+        "-Tipo de daño: Golpe",
+        "-Peso: 16.0",
+        "-Habilidad: Rugido de trol",
+        "-Coste de PC: 22",
+        "Potencia de ataque",
+        "-Físico: 153",
+        "-Magia: 0",
+        "-Fuego: 45",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 66.0",
+        "-Magia: 41.0",
+        "-Fuego: 46.0",
+        "-Rayo: 41.0",
+        "-Sagrado: 41.0",
+        "-Estabilidad: 46",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Arma colosal\n-Tipo de daño: Golpe\n-Peso: 16.0\n-Habilidad: Rugido de trol\n-Coste de PC: 22\nPotencia de ataque\n-Físico: 153\n-Magia: 0\n-Fuego: 45\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 66.0\n-Magia: 41.0\n-Fuego: 46.0\n-Rayo: 41.0\n-Sagrado: 41.0\n-Estabilidad: 46\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Armas colosales"
+}

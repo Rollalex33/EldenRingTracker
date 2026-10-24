@@ -1,0 +1,63 @@
+{
+  "title": "Espada de caballero de Miquella",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p289.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/espada-de-caballero-de-miquella.jpg"
+  ],
+  "lore": "Espada forjada por los sirvientes de Miquella del Árbol Hierático cuyo diseño imita el de las armas empuñadas por los guerreros carianos, aunque en lugar de una piedra refulgente, lleva incrustado un pedazo de ámbar del Árbol.\n\n \n\nUna soberbia a la par que infausta pieza que hasta la fecha sigue carente de dueño.\n\n \n\nHabilidad: Hoja sagrada\n\nOtorga al arma ataques sagrados y dispara un proyectil de hojas doradas.\n\nEl arma mantiene el encantamiento sagrado durante poco tiempo.",
+  "intro": [
+    "-La encuentras en un cadáver en un campanario en Elphael,  tutor del Árbol Hierático."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 11",
+        "-Destreza: 11",
+        "-Fe: 16"
+      ],
+      "text": "-Fuerza: 11\n-Destreza: 11\n-Fe: 16",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: E"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espada recta",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 3.5",
+        "-Habilidad: Hoja sagrada",
+        "-Coste de PC: 19",
+        "Potencia de ataque",
+        "-Físico: 105",
+        "-Magia: 0",
+        "-Fuego: 0",
+        "-Rayo: 0",
+        "-Sagrado: 68",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 40.0",
+        "-Magia: 28.0",
+        "-Fuego: 28.0",
+        "-Rayo: 28.0",
+        "-Sagrado: 40.0",
+        "-Estabilidad: 30",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espada recta\n-Tipo de daño: Estándar/Perforación\n-Peso: 3.5\n-Habilidad: Hoja sagrada\n-Coste de PC: 19\nPotencia de ataque\n-Físico: 105\n-Magia: 0\n-Fuego: 0\n-Rayo: 0\n-Sagrado: 68\n-Crítico: 100\nProtección contra daños\n-Físicos: 40.0\n-Magia: 28.0\n-Fuego: 28.0\n-Rayo: 28.0\n-Sagrado: 40.0\n-Estabilidad: 30\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadas rectas"
+}

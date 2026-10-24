@@ -1,0 +1,28 @@
+{
+  "title": "Hoja Negra",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_encantamientos-p99.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-negra.jpg"
+  ],
+  "lore": "Poder obtenido del recuerdo de Maliketh.\n\n \n\nEl lanzador crea una hoja negra ilusoria y luego salta hacia delante para asestar un tajo giratorio que emite una onda de luz.\n\nEste ataque puede continuarse con un ataque adicional.\n\n \n\nHubo un tiempo en que esta hoja estuvo imbuido de Muerte Escrita. Además de infligir daño, reduce los PS máximos de los enemigos y continúa minando sus PS actuales durante un muy breve periodo de tiempo.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo de la Hoja Negra a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Tajo giratorio de hoja negra que emite una onda de luz.",
+        "-Tipo de conjuro: Encantamiento",
+        "-Coste de PC: 26",
+        "-Ranuras: 2",
+        "-Fe necesaria: 46"
+      ],
+      "text": "Tajo giratorio de hoja negra que emite una onda de luz.\n-Tipo de conjuro: Encantamiento\n-Coste de PC: 26\n-Ranuras: 2\n-Fe necesaria: 46",
+      "images": []
+    }
+  ],
+  "category": "encantamientos",
+  "categoryName": "Encantamientos",
+  "subcategory": "Encantamientos"
+}

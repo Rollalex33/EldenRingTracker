@@ -1,0 +1,63 @@
+{
+  "title": "Hoja blasfema",
+  "originalUrl": "https://www.eliteguias.com/guias/e/er/elden-ring_armas-p268.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/elden-ring/hoja-blasfema.jpg"
+  ],
+  "lore": "Arma sagrada de Rykard, señor de la Blasfemia.\n\nLos restos de la infinidad de héroes a los que ha devorado se retuercen en la superficie de esta espada.\n\n \n\nAhora, comparten la misma sangre y están unidos como familia.\n\nSe recuperan unos pocos PS al derrotar a un enemigo.\n\n \n\nHabilidad única: Llamas del megalómano\n\nAlza la espada sagrada sobre tu cabeza para prenderla con llamas blasfemas y luego bájala para lanzar una ráfaga frente a ti.\n\nAborberás PS de los enemigos alcanzados por las llamas.",
+  "intro": [
+    "-Se consigue entregándole el Recuerdo del blasfemo a Enia."
+  ],
+  "sections": [
+    {
+      "heading": "Atributos necesarios",
+      "lines": [
+        "-Fuerza: 22",
+        "-Destreza: 15",
+        "-Fe: 21"
+      ],
+      "text": "-Fuerza: 22\n-Destreza: 15\n-Fe: 21",
+      "images": []
+    },
+    {
+      "heading": "Escalado de atributo",
+      "lines": [
+        "-Fuerza: D",
+        "-Destreza: D",
+        "-Fe: D"
+      ],
+      "text": "-Fuerza: D\n-Destreza: D\n-Fe: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-Categoría: Espadón",
+        "-Tipo de daño: Estándar/Perforación",
+        "-Peso: 13.5",
+        "-Habilidad: Llamas del megalómano",
+        "-Coste de PC: 30",
+        "Potencia de ataque",
+        "-Físico: 121",
+        "-Magia: 0",
+        "-Fuego: 78",
+        "-Rayo: 0",
+        "-Sagrado: 0",
+        "-Crítico: 100",
+        "Protección contra daños",
+        "-Físicos: 72.0",
+        "-Magia: 39.0",
+        "-Fuego: 54.0",
+        "-Rayo: 39.0",
+        "-Sagrado: 39.0",
+        "-Estabilidad: 50",
+        "Efectos pasivos"
+      ],
+      "text": "-Categoría: Espadón\n-Tipo de daño: Estándar/Perforación\n-Peso: 13.5\n-Habilidad: Llamas del megalómano\n-Coste de PC: 30\nPotencia de ataque\n-Físico: 121\n-Magia: 0\n-Fuego: 78\n-Rayo: 0\n-Sagrado: 0\n-Crítico: 100\nProtección contra daños\n-Físicos: 72.0\n-Magia: 39.0\n-Fuego: 54.0\n-Rayo: 39.0\n-Sagrado: 39.0\n-Estabilidad: 50\nEfectos pasivos",
+      "images": []
+    }
+  ],
+  "category": "armas",
+  "categoryName": "Armas",
+  "subcategory": "Espadones"
+}
