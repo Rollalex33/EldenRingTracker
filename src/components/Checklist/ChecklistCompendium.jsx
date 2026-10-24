@@ -21,6 +21,8 @@ import {
 import SettingsModal from '../UI/SettingsModal';
 import { EquipLoadModal } from '../Calculator/EquipLoadModal';
 import { PlatinumModal } from '../Platinum/PlatinumModal';
+import { AppHubMenu } from '../UI/AppHubMenu';
+import { BuildPlannerModal } from '../Builds/BuildPlannerModal';
 import { sortSubcategoriesByGame, sortItems, normalizeStr } from '../../utils/gameOrder';
 import { getItemById } from '../../utils/itemLinker';
 import { buildArmorUnits } from '../../utils/armorSets';
@@ -57,7 +59,38 @@ export function ChecklistCompendium() {
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const [isEquipLoadOpen, setIsEquipLoadOpen] = useState(false);
   const [isPlatinumOpen, setIsPlatinumOpen] = useState(false);
+  const [isHubMenuOpen, setIsHubMenuOpen] = useState(false);
+  const [isBuildPlannerOpen, setIsBuildPlannerOpen] = useState(false);
   const [displayLimit, setDisplayLimit] = useState(100);
+
+  const handleHubNavigate = (target) => {
+    setIsHubMenuOpen(false);
+    switch (target) {
+      case 'checklist':
+        setViewMode('checklist');
+        break;
+      case 'map':
+        setViewMode('map');
+        break;
+      case 'builds':
+        setIsBuildPlannerOpen(true);
+        break;
+      case 'equipload':
+        setIsEquipLoadOpen(true);
+        break;
+      case 'platinum':
+        setIsPlatinumOpen(true);
+        break;
+      case 'guide':
+        setViewMode('map');
+        break;
+      case 'settings':
+        setIsSettingsOpen(true);
+        break;
+      default:
+        break;
+    }
+  };
   const [isHeaderCollapsed, setIsHeaderCollapsed] = useState(() => {
     try {
       return localStorage.getItem('er_header_collapsed') === 'true';
@@ -421,6 +454,8 @@ export function ChecklistCompendium() {
         isArmorCategory={isArmorCategory}
         onOpenEquipLoad={() => setIsEquipLoadOpen(true)}
         onOpenPlatinum={() => setIsPlatinumOpen(true)}
+        onOpenMenu={() => setIsHubMenuOpen(true)}
+        onOpenBuilds={() => setIsBuildPlannerOpen(true)}
       />
 
       {/* Navegación por las 11 Categorías */}
@@ -707,6 +742,20 @@ export function ChecklistCompendium() {
       <PlatinumModal
         isOpen={isPlatinumOpen}
         onClose={() => setIsPlatinumOpen(false)}
+        onOpenItem={(it) => openItemModal(it)}
+      />
+
+      {/* Menú Principal Gracia Perdida */}
+      <AppHubMenu
+        isOpen={isHubMenuOpen}
+        onClose={() => setIsHubMenuOpen(false)}
+        onNavigate={handleHubNavigate}
+      />
+
+      {/* Constructor de Builds & Recomendador de Equipo */}
+      <BuildPlannerModal
+        isOpen={isBuildPlannerOpen}
+        onClose={() => setIsBuildPlannerOpen(false)}
         onOpenItem={(it) => openItemModal(it)}
       />
 

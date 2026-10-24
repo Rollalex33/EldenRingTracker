@@ -23,6 +23,8 @@ import {
   ChevronsUp,
   Trophy,
   Scale,
+  Compass,
+  Menu,
 } from 'lucide-react';
 
 export function ChecklistHeader({
@@ -61,6 +63,8 @@ export function ChecklistHeader({
   isArmorCategory = false,
   onOpenPlatinum,
   onOpenEquipLoad,
+  onOpenMenu,
+  onOpenBuilds,
 }) {
   const [showDetailedStats, setShowDetailedStats] = useState(false);
 
@@ -101,6 +105,30 @@ export function ChecklistHeader({
 
             {/* Acciones principales compactas (Iconos táctiles en móvil) */}
             <div className="flex items-center gap-1.5 flex-shrink-0">
+              {onOpenMenu && (
+                <button
+                  id="open-hub-menu-button"
+                  onClick={onOpenMenu}
+                  className="px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-xl bg-gradient-to-r from-amber-500/20 via-elden-900 to-amber-500/20 hover:from-amber-500/30 hover:to-amber-500/30 text-amber-200 hover:text-white border border-elden-gold/60 hover:border-elden-gold transition flex items-center gap-1.5 text-xs font-serif font-bold shadow-gold-glow active:scale-95"
+                  title="Menú Principal Gracia Perdida"
+                >
+                  <Compass className="w-3.5 h-3.5 text-elden-gold animate-spin-slow" />
+                  <span className="hidden xs:inline">Menú</span>
+                </button>
+              )}
+
+              {onOpenBuilds && (
+                <button
+                  id="open-builds-button"
+                  onClick={onOpenBuilds}
+                  className="px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-xl bg-elden-900/90 hover:bg-elden-850 text-emerald-300 hover:text-white border border-emerald-500/40 hover:border-emerald-400 transition flex items-center gap-1.5 text-xs font-serif font-bold shadow-sm active:scale-95"
+                  title="Constructor de Builds & Optimizador de Atributos"
+                >
+                  <Sword className="w-3.5 h-3.5 text-emerald-400" />
+                  <span className="hidden sm:inline">Builds</span>
+                </button>
+              )}
+
               {onToggleCollapse && (
                 <button
                   id="header-collapse-toggle-btn"
@@ -405,6 +433,30 @@ export function ChecklistHeader({
               >
                 <Shield className="w-3.5 h-3.5" />
                 <span className="text-[11px] hidden sm:inline">Sets</span>
+              </button>
+            )}
+
+            {/* Menú Principal Hub Mini */}
+            {onOpenMenu && (
+              <button
+                id="open-hub-menu-button-mini"
+                onClick={onOpenMenu}
+                className="p-1.5 rounded-xl bg-elden-900 text-amber-200 hover:text-white border border-elden-gold/50 hover:border-elden-gold transition shadow-sm active:scale-95"
+                title="Menú Principal Gracia Perdida"
+              >
+                <Compass className="w-3.5 h-3.5 text-elden-gold" />
+              </button>
+            )}
+
+            {/* Builds Mini */}
+            {onOpenBuilds && (
+              <button
+                id="open-builds-button-mini"
+                onClick={onOpenBuilds}
+                className="p-1.5 rounded-xl bg-elden-900 text-emerald-300 hover:text-white border border-emerald-500/40 hover:border-emerald-400 transition shadow-sm active:scale-95"
+                title="Constructor de Builds & Equipo"
+              >
+                <Sword className="w-3.5 h-3.5 text-emerald-400" />
               </button>
             )}
 

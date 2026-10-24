@@ -16,11 +16,15 @@ import {
   ListChecks,
   Trophy,
   Scale,
+  Compass,
+  Sword,
 } from 'lucide-react';
 import Modal from './components/UI/Modal';
 import SettingsModal from './components/UI/SettingsModal';
 import { EquipLoadModal } from './components/Calculator/EquipLoadModal';
 import { PlatinumModal } from './components/Platinum/PlatinumModal';
+import { AppHubMenu } from './components/UI/AppHubMenu';
+import { BuildPlannerModal } from './components/Builds/BuildPlannerModal';
 
 /**
  * Layout Principal con Split-Screen UI y Modo Checklist Compendio
@@ -37,6 +41,8 @@ export function App() {
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const [isEquipLoadOpen, setIsEquipLoadOpen] = useState(false);
   const [isPlatinumOpen, setIsPlatinumOpen] = useState(false);
+  const [isHubMenuOpen, setIsHubMenuOpen] = useState(false);
+  const [isBuildPlannerOpen, setIsBuildPlannerOpen] = useState(false);
 
   const {
     itemsCompletados,
@@ -56,6 +62,10 @@ export function App() {
   isEquipLoadRef.current = isEquipLoadOpen;
   const isPlatinumRef = useRef(isPlatinumOpen);
   isPlatinumRef.current = isPlatinumOpen;
+  const isHubMenuRef = useRef(isHubMenuOpen);
+  isHubMenuRef.current = isHubMenuOpen;
+  const isBuildPlannerRef = useRef(isBuildPlannerOpen);
+  isBuildPlannerRef.current = isBuildPlannerOpen;
 
   // Interceptar navegación atrás cuando se está en la vista de Mapa
   useEffect(() => {
@@ -66,6 +76,14 @@ export function App() {
     }
 
     const handleMapPop = () => {
+      if (isHubMenuRef.current) {
+        setIsHubMenuOpen(false);
+        return;
+      }
+      if (isBuildPlannerRef.current) {
+        setIsBuildPlannerOpen(false);
+        return;
+      }
       if (isHelpRef.current) {
         setIsHelpOpen(false);
         return;
@@ -88,6 +106,36 @@ export function App() {
     window.addEventListener('popstate', handleMapPop);
     return () => window.removeEventListener('popstate', handleMapPop);
   }, [viewMode, setViewMode]);
+
+  const handleHubNavigate = (target) => {
+    setIsHubMenuOpen(false);
+    switch (target) {
+      case 'checklist':
+        setViewMode('checklist');
+        break;
+      case 'map':
+        setViewMode('map');
+        break;
+      case 'builds':
+        setIsBuildPlannerOpen(true);
+        break;
+      case 'equipload':
+        setIsEquipLoadOpen(true);
+        break;
+      case 'platinum':
+        setIsPlatinumOpen(true);
+        break;
+      case 'guide':
+        setIsPanelOpen(true);
+        setActiveTab('guide');
+        break;
+      case 'settings':
+        setIsSettingsOpen(true);
+        break;
+      default:
+        break;
+    }
+  };
 
   const handleReturnToChecklist = () => {
     if (window.history.state?.erApp === 'map') {
@@ -264,6 +312,17 @@ export function App() {
 
         {/* Controles flotantes en la esquina superior derecha */}
         <div className="absolute top-4 right-4 z-[500] flex items-center gap-1.5 sm:gap-2">
+          {/* Menú Principal Gracia Perdida */}
+          <button
+            id="map-view-hub-menu-btn"
+            onClick={() => setIsHubMenuOpen(true)}
+            className="px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-serif font-bold border transition backdrop-blur flex items-center gap-1.5 shadow-gold-glow bg-gradient-to-r from-amber-500/20 via-elden-900 to-amber-500/20 text-amber-200 border-elden-gold/60 hover:bg-elden-850 hover:text-white active:scale-95"
+            title="Menú Principal Gracia Perdida"
+          >
+            <Compass className="w-4 h-4 text-elden-gold animate-spin-slow" />
+            <span className="hidden sm:inline">Menú</span>
+          </button>
+
           {/* Botón para ir al Compendio / Checklist */}
           <button
             id="map-view-to-checklist-btn"
@@ -276,6 +335,17 @@ export function App() {
             <span className="text-[10px] font-mono px-1.5 py-0.2 rounded-full bg-elden-950/40 text-elden-gold border border-elden-gold/30">
               {itemsCompletados.size}
             </span>
+          </button>
+
+          {/* Botón Constructor de Builds */}
+          <button
+            id="map-view-builds-btn"
+            onClick={() => setIsBuildPlannerOpen(true)}
+            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-850 text-emerald-300 hover:text-white border border-emerald-500/40 hover:border-emerald-400 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif active:scale-95"
+            title="Constructor de Builds & Equipo"
+          >
+            <Sword className="w-4 h-4 text-emerald-400" />
+            <span className="hidden sm:inline">Builds</span>
           </button>
 
           {/* Botón rápido para alternar pestañas si el panel está abierto, o abrirlo directamente */}
@@ -394,6 +464,20 @@ export function App() {
       <PlatinumModal
         isOpen={isPlatinumOpen}
         onClose={closePlatinum}
+        onOpenItem={() => {}}
+      />
+
+      {/* Menú Principal Gracia Perdida */}
+      <AppHubMenu
+        isOpen={isHubMenuOpen}
+        onClose={() => setIsHubMenuOpen(false)}
+        onNavigate={handleHubNavigate}
+      />
+
+      {/* Constructor de Builds & Recomendador de Equipo */}
+      <BuildPlannerModal
+        isOpen={isBuildPlannerOpen}
+        onClose={() => setIsBuildPlannerOpen(false)}
         onOpenItem={() => {}}
       />
     </div>
