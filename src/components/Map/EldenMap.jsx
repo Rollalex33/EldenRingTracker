@@ -18,6 +18,7 @@ import {
   X,
   Map as MapIcon,
   Layers,
+  PanelLeftOpen,
 } from 'lucide-react';
 
 /**
@@ -302,7 +303,7 @@ function CoordinatePickerListener({ isPicking, onCoordPicked }) {
   return null;
 }
 
-export const EldenMap = () => {
+export const EldenMap = ({ isPanelOpen = true, onOpenPanel }) => {
   const {
     locations,
     filtrosActivos,
@@ -315,6 +316,7 @@ export const EldenMap = () => {
     setSelectedLocation,
     mapaActivo,
     setMapaActivo,
+    soloPerdibles,
   } = useTrackerStore();
 
   const activeMapConfig = MAPAS_CONFIG[mapaActivo] || MAPAS_CONFIG.surface;
@@ -391,38 +393,55 @@ export const EldenMap = () => {
 
   return (
     <div className="relative w-full h-full bg-elden-950 overflow-hidden select-none">
-      {/* Overlay superior izquierdo: Información del Territorio y Contador de Marcadores */}
-      <div className="absolute top-4 left-4 z-[500] bg-elden-900/90 backdrop-blur-md border border-elden-gold/40 px-3.5 py-2 rounded-lg shadow-gold-glow flex items-center gap-3 text-xs">
-        <span className="flex items-center gap-1.5 text-elden-gold font-serif font-bold tracking-wider uppercase">
-          <Sparkles className="w-3.5 h-3.5 text-elden-gold" />
-          {activeMapConfig.nombre}
-        </span>
-        <span className="text-slate-600">|</span>
-        <span className="text-slate-300">
-          Marcadores: <strong className="text-white font-mono">{visibleLocations.length}</strong> / {locationsOnCurrentMap.length}
-        </span>
-
-        {/* Herramienta Dev: Picker de Coordenadas */}
-        {isDev && (
-          <>
-            <span className="text-slate-600">|</span>
-            <button
-              onClick={() => {
-                setIsPickerActive(!isPickerActive);
-                if (isPickerActive) setPickedCoord(null);
-              }}
-              className={`px-2 py-1 rounded text-[11px] font-mono font-bold transition flex items-center gap-1.5 border ${
-                isPickerActive
-                  ? 'bg-amber-500 text-elden-950 border-amber-300 shadow-[0_0_12px_rgba(245,158,11,0.6)] animate-pulse'
-                  : 'bg-elden-800/90 text-amber-300 border-amber-500/40 hover:bg-elden-700'
-              }`}
-              title="Activar modo captura de coordenadas haciendo clic en el mapa de Elden Ring"
-            >
-              <Crosshair className="w-3 h-3 text-amber-400" />
-              <span>Picker Coords {isPickerActive ? 'ON' : 'OFF'}</span>
-            </button>
-          </>
+      {/* Overlay superior izquierdo: Botón de reapertura de panel (si está colapsado) + Territorio y Contadores */}
+      <div className="absolute top-4 left-4 z-[500] flex items-center gap-2">
+        {!isPanelOpen && onOpenPanel && (
+          <button
+            onClick={onOpenPanel}
+            className="px-3 py-2 bg-elden-900/95 hover:bg-elden-850 text-elden-gold border border-elden-gold/50 rounded-lg shadow-gold-glow backdrop-blur flex items-center gap-2 text-xs font-serif font-bold transition active:scale-95"
+            title="Abrir Guía y Filtros"
+          >
+            <PanelLeftOpen className="w-4 h-4" />
+            <span className="hidden sm:inline">Guía & Filtros</span>
+            {soloPerdibles && (
+              <span className="w-2 h-2 rounded-full bg-red-400 animate-ping" />
+            )}
+          </button>
         )}
+
+        <div className="bg-elden-900/90 backdrop-blur-md border border-elden-gold/40 px-3 py-2 rounded-lg shadow-gold-glow flex items-center gap-2.5 text-xs">
+          <span className="flex items-center gap-1.5 text-elden-gold font-serif font-bold tracking-wider uppercase">
+            <Sparkles className="w-3.5 h-3.5 text-elden-gold" />
+            <span className="hidden sm:inline">{activeMapConfig.nombre}</span>
+          </span>
+          <span className="text-slate-600 hidden sm:inline">|</span>
+          <span className="text-slate-300">
+            Marcadores: <strong className="text-white font-mono">{visibleLocations.length}</strong>
+            <span className="text-slate-500 font-mono">/{locationsOnCurrentMap.length}</span>
+          </span>
+
+          {/* Herramienta Dev: Picker de Coordenadas */}
+          {isDev && (
+            <>
+              <span className="text-slate-600">|</span>
+              <button
+                onClick={() => {
+                  setIsPickerActive(!isPickerActive);
+                  if (isPickerActive) setPickedCoord(null);
+                }}
+                className={`px-2 py-1 rounded text-[11px] font-mono font-bold transition flex items-center gap-1.5 border ${
+                  isPickerActive
+                    ? 'bg-amber-500 text-elden-950 border-amber-300 shadow-[0_0_12px_rgba(245,158,11,0.6)] animate-pulse'
+                    : 'bg-elden-800/90 text-amber-300 border-amber-500/40 hover:bg-elden-700'
+                }`}
+                title="Activar modo captura de coordenadas haciendo clic en el mapa de Elden Ring"
+              >
+                <Crosshair className="w-3 h-3 text-amber-400" />
+                <span>Picker Coords {isPickerActive ? 'ON' : 'OFF'}</span>
+              </button>
+            </>
+          )}
+        </div>
       </div>
 
       {/* Barra Flotante Superior Derecha: Selector de Mapas + Toggles Rápidos de Filtro */}

@@ -70,7 +70,7 @@ export const QuickFiltersBar = ({ visibleCount = 0, totalMapCount = 0 }) => {
   const activeMapData = MAPAS_CONFIG[mapaActivo] || MAPAS_CONFIG.surface;
 
   return (
-    <div className="absolute top-4 right-4 z-[500] flex flex-col md:flex-row items-end md:items-center gap-2 select-none">
+    <div className="absolute top-16 right-4 z-[450] flex flex-col md:flex-row items-end md:items-center gap-2 select-none">
       {/* 1. Selector Desplegable de Capas / Mapas */}
       <div className="relative">
         <button

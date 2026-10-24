@@ -200,36 +200,22 @@ export function App() {
 
       {/* 2. Panel Principal: Mapa Leaflet abarcando todo el espacio restante */}
       <main className="flex-1 relative h-full min-w-0 bg-elden-950">
-        <EldenMap />
-
-        {/* Botón flotante para reabrir el panel si está colapsado */}
-        {!isPanelOpen && (
-          <div className="absolute top-4 left-4 z-[500] flex items-center gap-2 animate-fadeIn">
-            <button
-              onClick={() => setIsPanelOpen(true)}
-              className="px-3 py-2 bg-elden-900/95 hover:bg-elden-850 text-elden-gold border border-elden-gold/50 rounded-lg shadow-gold-glow backdrop-blur flex items-center gap-2 text-xs font-serif font-bold transition"
-              title="Abrir Guía y Filtros"
-            >
-              <PanelLeftOpen className="w-4 h-4" />
-              <span>Mostrar Guía & Filtros</span>
-              {soloPerdibles && (
-                <span className="w-2 h-2 rounded-full bg-red-400 animate-ping" />
-              )}
-            </button>
-          </div>
-        )}
+        <EldenMap
+          isPanelOpen={isPanelOpen}
+          onOpenPanel={() => setIsPanelOpen(true)}
+        />
 
         {/* Controles flotantes en la esquina superior derecha */}
-        <div className="absolute top-4 right-4 z-[500] flex items-center gap-2">
+        <div className="absolute top-4 right-4 z-[500] flex items-center gap-1.5 sm:gap-2">
           {/* Botón para ir al Compendio / Checklist */}
           <button
             id="map-view-to-checklist-btn"
             onClick={handleReturnToChecklist}
-            className="px-3.5 py-2 rounded-lg text-xs font-serif font-bold border transition backdrop-blur flex items-center gap-2 shadow-gold-glow bg-elden-900/95 text-amber-200 border-elden-gold hover:bg-elden-850 hover:text-white"
+            className="px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-lg text-xs font-serif font-bold border transition backdrop-blur flex items-center gap-1.5 sm:gap-2 shadow-gold-glow bg-elden-900/95 text-amber-200 border-elden-gold hover:bg-elden-850 hover:text-white"
             title="Ir al Checklist de EliteGuías (2,758 ítems)"
           >
             <ListChecks className="w-4 h-4 text-elden-gold" />
-            <span>Checklist Guía</span>
+            <span className="hidden sm:inline">Checklist Guía</span>
             <span className="text-[10px] font-mono px-1.5 py-0.2 rounded-full bg-elden-950/40 text-elden-gold border border-elden-gold/30">
               {itemsCompletados.size}
             </span>
@@ -245,7 +231,7 @@ export function App() {
                 setActiveTab(activeTab === 'guide' ? 'filters' : 'guide');
               }
             }}
-            className="px-3 py-2 rounded-lg text-xs font-serif font-bold border transition backdrop-blur flex items-center gap-2 shadow-gold-glow bg-elden-900/90 text-slate-200 border-elden-gold/40 hover:bg-elden-800 hover:text-white"
+            className="px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-serif font-bold border transition backdrop-blur flex items-center gap-1.5 sm:gap-2 shadow-gold-glow bg-elden-900/90 text-slate-200 border-elden-gold/40 hover:bg-elden-800 hover:text-white"
             title={activeTab === 'guide' ? 'Cambiar a Filtros' : 'Cambiar a Guía'}
           >
             {activeTab === 'guide' ? (
@@ -256,7 +242,7 @@ export function App() {
             ) : (
               <>
                 <BookOpen className="w-3.5 h-3.5 text-elden-gold" />
-                <span className="hidden md:inline">Ver Guía de Quests</span>
+                <span className="hidden md:inline">Ver Guía</span>
               </>
             )}
           </button>
@@ -264,7 +250,7 @@ export function App() {
           {/* Botón de Ajustes y Backup (JSON) */}
           <button
             onClick={openSettings}
-            className="p-2.5 bg-elden-900/90 hover:bg-elden-800 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif"
+            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-800 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif"
             title="Ajustes y Copia de Seguridad (JSON)"
           >
             <Settings className="w-4 h-4 text-elden-gold" />
@@ -274,7 +260,7 @@ export function App() {
           {/* Botón de Ayuda e Información */}
           <button
             onClick={openHelp}
-            className="p-2.5 bg-elden-900/90 hover:bg-elden-800 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif"
+            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-800 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif"
             title="Información y ayuda"
           >
             <HelpCircle className="w-4 h-4 text-elden-gold" />
