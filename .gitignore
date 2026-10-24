@@ -1,2 +1,19 @@
+# Dependencias
+node_modules
+.pnpm-store
+
+# Compilación de producción
+dist
+dist-ssr
+
+# Vercel y entorno
 .vercel
 .env*
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea
