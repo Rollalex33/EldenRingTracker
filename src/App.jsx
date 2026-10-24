@@ -14,18 +14,29 @@ import {
   PanelLeftClose,
   PanelLeftOpen,
   ListChecks,
+  Trophy,
+  Scale,
 } from 'lucide-react';
 import Modal from './components/UI/Modal';
 import SettingsModal from './components/UI/SettingsModal';
+import { EquipLoadModal } from './components/Calculator/EquipLoadModal';
+import { PlatinumModal } from './components/Platinum/PlatinumModal';
 
 /**
  * Layout Principal con Split-Screen UI y Modo Checklist Compendio
  */
 export function App() {
-  const [isPanelOpen, setIsPanelOpen] = useState(true);
+  const [isPanelOpen, setIsPanelOpen] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return window.innerWidth >= 768;
+    }
+    return true;
+  });
   const [activeTab, setActiveTab] = useState('guide'); // 'guide' | 'filters'
   const [isHelpOpen, setIsHelpOpen] = useState(false);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [isEquipLoadOpen, setIsEquipLoadOpen] = useState(false);
+  const [isPlatinumOpen, setIsPlatinumOpen] = useState(false);
 
   const {
     itemsCompletados,
@@ -41,6 +52,10 @@ export function App() {
   isHelpRef.current = isHelpOpen;
   const isSettingsRef = useRef(isSettingsOpen);
   isSettingsRef.current = isSettingsOpen;
+  const isEquipLoadRef = useRef(isEquipLoadOpen);
+  isEquipLoadRef.current = isEquipLoadOpen;
+  const isPlatinumRef = useRef(isPlatinumOpen);
+  isPlatinumRef.current = isPlatinumOpen;
 
   // Interceptar navegación atrás cuando se está en la vista de Mapa
   useEffect(() => {
@@ -57,6 +72,14 @@ export function App() {
       }
       if (isSettingsRef.current) {
         setIsSettingsOpen(false);
+        return;
+      }
+      if (isEquipLoadRef.current) {
+        setIsEquipLoadOpen(false);
+        return;
+      }
+      if (isPlatinumRef.current) {
+        setIsPlatinumOpen(false);
         return;
       }
       setViewMode('checklist');
@@ -100,6 +123,32 @@ export function App() {
     }
   };
 
+  const openEquipLoad = () => {
+    setIsEquipLoadOpen(true);
+    if (typeof window !== 'undefined') {
+      window.history.pushState({ erApp: 'modal-equipload' }, '');
+    }
+  };
+  const closeEquipLoad = () => {
+    setIsEquipLoadOpen(false);
+    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-equipload') {
+      window.history.back();
+    }
+  };
+
+  const openPlatinum = () => {
+    setIsPlatinumOpen(true);
+    if (typeof window !== 'undefined') {
+      window.history.pushState({ erApp: 'modal-platinum' }, '');
+    }
+  };
+  const closePlatinum = () => {
+    setIsPlatinumOpen(false);
+    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-platinum') {
+      window.history.back();
+    }
+  };
+
   // Si el usuario está en modo Checklist Compendio, renderizar la vista dedicada
   if (viewMode === 'checklist') {
     return <ChecklistCompendium />;
@@ -113,13 +162,21 @@ export function App() {
     : 0;
 
   return (
-    <div className="flex h-screen w-screen bg-elden-950 overflow-hidden font-sans text-slate-100">
+    <div className="flex h-screen w-screen bg-elden-950 overflow-hidden font-sans text-slate-100 bg-grace-atmosphere relative">
+      {/* Backdrop en pantallas pequeñas para cerrar el panel al tocar fuera */}
+      {isPanelOpen && (
+        <div
+          onClick={() => setIsPanelOpen(false)}
+          className="fixed inset-0 bg-black/70 backdrop-blur-sm z-35 md:hidden transition-opacity"
+        />
+      )}
+
       {/* 1. Panel Izquierdo / Desplegable (Split-Screen Sidebar) */}
       <aside
-        className={`h-full flex flex-col z-30 transition-all duration-300 ease-in-out border-r border-elden-border bg-elden-900 shadow-2xl relative ${
+        className={`h-full flex flex-col z-40 transition-all duration-300 ease-in-out border-r border-elden-border bg-elden-900 shadow-2xl fixed md:relative inset-y-0 left-0 max-w-[90vw] md:max-w-none ${
           isPanelOpen
-            ? 'w-full sm:w-[420px] md:w-[460px] lg:w-[480px] opacity-100'
-            : 'w-0 sm:w-0 overflow-hidden opacity-0 pointer-events-none'
+            ? 'w-full sm:w-[420px] md:w-[460px] lg:w-[480px] opacity-100 translate-x-0'
+            : 'w-0 sm:w-0 overflow-hidden opacity-0 -translate-x-full md:translate-x-0 pointer-events-none'
         }`}
       >
         {/* Barra superior de navegación por pestañas dentro del Panel */}
@@ -247,10 +304,30 @@ export function App() {
             )}
           </button>
 
+          {/* Botón de Platino */}
+          <button
+            onClick={openPlatinum}
+            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-850 text-amber-300 hover:text-white border border-amber-500/40 hover:border-elden-gold rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif active:scale-95"
+            title="Salón del Platino & Rastreador de Recuerdos"
+          >
+            <Trophy className="w-4 h-4 text-amber-400" />
+            <span className="hidden sm:inline">Platino</span>
+          </button>
+
+          {/* Botón de Carga de Equipo / Fat Roll */}
+          <button
+            onClick={openEquipLoad}
+            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-850 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif active:scale-95"
+            title="Calculadora de Carga de Equipo y Rodamiento (Fat Roll)"
+          >
+            <Scale className="w-4 h-4 text-elden-gold" />
+            <span className="hidden sm:inline">Carga</span>
+          </button>
+
           {/* Botón de Ajustes y Backup (JSON) */}
           <button
             onClick={openSettings}
-            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-800 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif"
+            className="p-2 sm:px-2.5 sm:py-2 bg-elden-900/90 hover:bg-elden-850 text-slate-300 hover:text-elden-gold border border-elden-gold/30 rounded-lg shadow-gold-glow backdrop-blur transition flex items-center gap-1.5 text-xs font-serif"
             title="Ajustes y Copia de Seguridad (JSON)"
           >
             <Settings className="w-4 h-4 text-elden-gold" />
@@ -307,6 +384,18 @@ export function App() {
           </div>
         </div>
       </Modal>
+      {/* Modal de Calculadora de Carga de Equipo y Rodamiento */}
+      <EquipLoadModal
+        isOpen={isEquipLoadOpen}
+        onClose={closeEquipLoad}
+      />
+
+      {/* Modal del Salón del Platino y Recuerdos */}
+      <PlatinumModal
+        isOpen={isPlatinumOpen}
+        onClose={closePlatinum}
+        onOpenItem={() => {}}
+      />
     </div>
   );
 }

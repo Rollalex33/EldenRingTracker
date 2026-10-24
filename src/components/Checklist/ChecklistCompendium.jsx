@@ -19,6 +19,8 @@ import {
   ChevronUp,
 } from 'lucide-react';
 import SettingsModal from '../UI/SettingsModal';
+import { EquipLoadModal } from '../Calculator/EquipLoadModal';
+import { PlatinumModal } from '../Platinum/PlatinumModal';
 import { sortSubcategoriesByGame, sortItems, normalizeStr } from '../../utils/gameOrder';
 import { getItemById } from '../../utils/itemLinker';
 import { buildArmorUnits } from '../../utils/armorSets';
@@ -53,6 +55,8 @@ export function ChecklistCompendium() {
 
   const [activeItemForModal, setActiveItemForModal] = useState(null);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [isEquipLoadOpen, setIsEquipLoadOpen] = useState(false);
+  const [isPlatinumOpen, setIsPlatinumOpen] = useState(false);
   const [displayLimit, setDisplayLimit] = useState(100);
   const [isHeaderCollapsed, setIsHeaderCollapsed] = useState(() => {
     try {
@@ -415,6 +419,8 @@ export function ChecklistCompendium() {
         agruparSets={agruparSetsChecklist}
         onToggleAgruparSets={() => setAgruparSetsChecklist(!agruparSetsChecklist)}
         isArmorCategory={isArmorCategory}
+        onOpenEquipLoad={() => setIsEquipLoadOpen(true)}
+        onOpenPlatinum={() => setIsPlatinumOpen(true)}
       />
 
       {/* Navegación por las 11 Categorías */}
@@ -690,6 +696,19 @@ export function ChecklistCompendium() {
       {isSettingsOpen && (
         <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
       )}
+
+      {/* Modal de Calculadora de Carga y Rodamiento */}
+      <EquipLoadModal
+        isOpen={isEquipLoadOpen}
+        onClose={() => setIsEquipLoadOpen(false)}
+      />
+
+      {/* Modal del Salón del Platino y Recuerdos */}
+      <PlatinumModal
+        isOpen={isPlatinumOpen}
+        onClose={() => setIsPlatinumOpen(false)}
+        onOpenItem={(it) => openItemModal(it)}
+      />
 
       {/* Toast de navegación atrás (Android double-tap exit prevention) */}
       {toastMessage && (

@@ -39,17 +39,17 @@ export function CategoryNav({
   const pctAll = totalAll > 0 ? Math.round((completedAll / totalAll) * 100) : 0;
 
   return (
-    <div className="w-full bg-elden-950/95 border-b border-slate-800 backdrop-blur sticky top-0 z-20 shadow-md">
-      <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto px-3 sm:px-4 py-2 sm:py-2.5 custom-scrollbar no-scrollbar">
+    <div className="w-full bg-elden-950/98 border-b border-elden-gold/30 backdrop-blur sticky top-0 z-20 shadow-runic">
+      <div className="flex items-center gap-1.5 sm:gap-2.5 overflow-x-auto px-3 sm:px-4 py-2 sm:py-2.5 custom-scrollbar no-scrollbar">
         {/* Opción para Ver Todas las Categorías */}
         <button
           id="cat-btn-all"
           type="button"
           onClick={() => onSelectCategory('all')}
-          className={`flex-shrink-0 flex items-center gap-2 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-semibold transition-all select-none border relative overflow-hidden group active:scale-95 ${
+          className={`flex-shrink-0 flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-bold transition-all select-none border relative overflow-hidden group active:scale-95 ${
             activeCategory === 'all'
-              ? 'bg-gradient-to-r from-elden-800 to-elden-850 text-amber-100 border-elden-gold shadow-gold-glow scale-[1.02]'
-              : 'bg-elden-900/80 text-slate-400 border-slate-800 hover:border-slate-700 hover:text-slate-200 hover:bg-elden-850'
+              ? 'bg-gradient-to-r from-elden-850 via-elden-800 to-elden-850 text-amber-100 border-elden-gold shadow-gold-glow scale-[1.02]'
+              : 'bg-elden-900/90 text-slate-300 border-elden-border hover:border-elden-gold/50 hover:text-amber-100 hover:bg-elden-850'
           }`}
         >
           <div
@@ -66,18 +66,18 @@ export function CategoryNav({
           <div
             className={`p-1 sm:p-1.5 rounded-lg transition-colors ${
               activeCategory === 'all'
-                ? 'bg-elden-gold/25 text-elden-gold'
+                ? 'bg-elden-gold/30 text-elden-gold shadow-gold-glow'
                 : isFinishedAll
-                ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/30'
-                : 'bg-elden-950 text-slate-400 group-hover:text-elden-gold'
+                ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/40'
+                : 'bg-elden-950 text-slate-400 group-hover:text-elden-gold border border-elden-border'
             }`}
           >
-            <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-elden-gold" />
+            <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-elden-gold-glow animate-pulse" />
           </div>
 
           <div className="flex flex-col text-left">
-            <span className="tracking-wide text-[11px] sm:text-xs whitespace-nowrap">Todas</span>
-            <div className="flex items-center gap-1 text-[10px] font-mono opacity-80">
+            <span className="tracking-wider text-[11px] sm:text-xs uppercase whitespace-nowrap">Todas</span>
+            <div className="flex items-center gap-1 text-[10px] font-mono opacity-90">
               <span
                 className={
                   isFinishedAll
@@ -118,10 +118,12 @@ export function CategoryNav({
               key={cat.id}
               id={`cat-btn-${cat.id}`}
               onClick={() => onSelectCategory(cat.id)}
-              className={`flex-shrink-0 flex items-center gap-2 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-semibold transition-all select-none border relative overflow-hidden group active:scale-95 ${
+              className={`flex-shrink-0 flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-bold transition-all select-none border relative overflow-hidden group active:scale-95 ${
                 isActive
-                  ? 'bg-gradient-to-r from-elden-800 to-elden-850 text-amber-100 border-elden-gold shadow-gold-glow scale-[1.02]'
-                  : 'bg-elden-900/80 text-slate-400 border-slate-800 hover:border-slate-700 hover:text-slate-200 hover:bg-elden-850'
+                  ? 'bg-gradient-to-r from-elden-850 via-elden-800 to-elden-850 text-amber-100 border-elden-gold shadow-gold-glow scale-[1.02]'
+                  : isFinished
+                  ? 'bg-elden-900/80 text-emerald-200 border-emerald-500/40 hover:border-emerald-400'
+                  : 'bg-elden-900/90 text-slate-300 border-elden-border hover:border-elden-gold/50 hover:text-amber-100 hover:bg-elden-850'
               }`}
             >
               {/* Barra de progreso de fondo */}
@@ -140,10 +142,10 @@ export function CategoryNav({
               <div
                 className={`p-1 sm:p-1.5 rounded-lg transition-colors ${
                   isActive
-                    ? 'bg-elden-gold/25 text-elden-gold'
+                    ? 'bg-elden-gold/30 text-elden-gold shadow-gold-glow'
                     : isFinished
-                    ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/30'
-                    : 'bg-elden-950 text-slate-400 group-hover:text-elden-gold'
+                    ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/40'
+                    : 'bg-elden-950 text-slate-400 group-hover:text-elden-gold border border-elden-border'
                 }`}
               >
                 <CategoryIcon category={cat.id} className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
@@ -158,7 +160,7 @@ export function CategoryNav({
                   )}
                   {expansionFilter === 'all' && dlcCount > 0 && (
                     <span
-                      className="text-[9px] font-mono px-1 rounded bg-purple-950/60 border border-purple-500/30 text-purple-300 hidden sm:inline"
+                      className="text-[9px] font-mono px-1 rounded bg-purple-950/80 border border-purple-500/40 text-purple-300 hidden sm:inline"
                       title={`${dlcCount} ítems del DLC`}
                     >
                       +{dlcCount}
@@ -166,7 +168,7 @@ export function CategoryNav({
                   )}
                 </div>
 
-                <div className="flex items-center gap-1 text-[10px] font-mono opacity-80">
+                <div className="flex items-center gap-1 text-[10px] font-mono opacity-90">
                   <span
                     className={
                       isFinished

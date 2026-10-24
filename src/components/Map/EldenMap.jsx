@@ -36,10 +36,12 @@ const MAP_MAX_BOUNDS = [
 ];
 
 // Rutas a las imágenes de los 3 mapas oficiales / temáticos de Elden Ring
+const baseUrl = (typeof import.meta !== 'undefined' && import.meta.env?.BASE_URL) || '/';
+const cleanBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
 const MAP_IMAGES = {
-  surface: './elden_ring_map.jpg',
-  underground: './elden_ring_underground.jpg',
-  dlc: './elden_ring_dlc.jpg',
+  surface: `${cleanBase}elden_ring_map.jpg`,
+  underground: `${cleanBase}elden_ring_underground.jpg`,
+  dlc: `${cleanBase}elden_ring_dlc.jpg`,
 };
 
 /**
@@ -273,6 +275,31 @@ function MapLayerWatcher({ activeMap }) {
 }
 
 /**
+ * Manejador reactivo para invalidar el tamaño del mapa de Leaflet
+ * cuando se colapsa/expande el panel lateral o cambia el tamaño de la ventana.
+ */
+function MapResizeHandler({ isPanelOpen }) {
+  const map = useMap();
+
+  useEffect(() => {
+    map.invalidateSize();
+    const t1 = setTimeout(() => map.invalidateSize(), 150);
+    const t2 = setTimeout(() => map.invalidateSize(), 350);
+
+    const onResize = () => map.invalidateSize();
+    window.addEventListener('resize', onResize);
+
+    return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
+      window.removeEventListener('resize', onResize);
+    };
+  }, [isPanelOpen, map]);
+
+  return null;
+}
+
+/**
  * Subcomponente para capturar coordenadas reales de Elden Ring al hacer clic
  */
 function CoordinatePickerListener({ isPicking, onCoordPicked }) {
@@ -486,7 +513,7 @@ export const EldenMap = ({ isPanelOpen = true, onOpenPanel }) => {
       <MapContainer
         center={[2200, 2400]}
         zoom={-1}
-        minZoom={-2}
+        minZoom={-3}
         maxZoom={2}
         maxBounds={MAP_MAX_BOUNDS}
         maxBoundsViscosity={0.9}
@@ -495,6 +522,9 @@ export const EldenMap = ({ isPanelOpen = true, onOpenPanel }) => {
         className="w-full h-full z-0"
         style={{ background: '#07090c' }}
       >
+        {/* Gestor automático de redimensionamiento e invalidación de caché Leaflet */}
+        <MapResizeHandler isPanelOpen={isPanelOpen} />
+
         {/* Capa de imagen correspondiente al mapa activo (Superficie / Subterráneo / DLC) */}
         <ImageOverlay
           key={mapaActivo}

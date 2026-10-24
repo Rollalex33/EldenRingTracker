@@ -1,9 +1,30 @@
 import checklistCatalog from '../data/checklistCatalog.json';
+import locationsData from '../data/locations.json';
 
 // Índices rápidos en memoria para O(1) lookup
 const byExactName = new Map();
 const byFileKey = new Map();
 const byId = new Map();
+
+// Índice de ubicaciones del mapa por nombre normalizado
+const locationByNameMap = new Map();
+
+function normalizeForLookup(str) {
+  if (!str) return '';
+  return str
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]/g, '')
+    .trim();
+}
+
+locationsData.forEach((loc) => {
+  const normTitle = normalizeForLookup(loc.titulo);
+  if (normTitle) {
+    locationByNameMap.set(normTitle, loc);
+  }
+});
 
 // Ordenados por longitud descendente para emparejar nombres largos primero
 const sortedCatalog = [...checklistCatalog.items].sort((a, b) => b.name.length - a.name.length);
@@ -64,4 +85,28 @@ export function getItemByFileKey(fileKey) {
 
 export function getItemById(id) {
   return byId.get(id) || null;
+}
+
+/**
+ * Encuentra si un ítem del compendio tiene una ubicación mapeada directamente en el mapa
+ * @param {object} item - Ítem del compendio
+ * @returns {object|null} Objeto de ubicación en el mapa
+ */
+export function findLocationForItem(item) {
+  if (!item || !item.name) return null;
+  const normName = normalizeForLookup(item.name);
+
+  // 1. Coincidencia directa
+  if (locationByNameMap.has(normName)) {
+    return locationByNameMap.get(normName);
+  }
+
+  // 2. Coincidencia parcial para jefes y NPCs
+  for (const [key, loc] of locationByNameMap.entries()) {
+    if (key.includes(normName) || normName.includes(key)) {
+      return loc;
+    }
+  }
+
+  return null;
 }

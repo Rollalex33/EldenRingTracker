@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { matchItemInLine, getItemByFileKey, getItemById } from '../src/utils/itemLinker.js';
+import { matchItemInLine, getItemByFileKey, getItemById, findLocationForItem } from '../src/utils/itemLinker.js';
 
 describe('itemLinker utils', () => {
   it('should find items by ID', () => {
@@ -53,5 +53,17 @@ describe('itemLinker utils', () => {
     expect(matchItemInLine(undefined)).toBeNull();
     expect(matchItemInLine(12345)).toBeNull();
     expect(matchItemInLine('texto generico que no contiene ningun item')).toBeNull();
+  });
+
+  it('should cross-reference items to map locations with findLocationForItem', () => {
+    expect(findLocationForItem(null)).toBeNull();
+    expect(findLocationForItem({})).toBeNull();
+
+    const radahnItem = { name: 'Radahn, Azote de las Estrellas' };
+    const loc = findLocationForItem(radahnItem);
+    expect(loc).not.toBeNull();
+    expect(loc).toHaveProperty('coords');
+    expect(Array.isArray(loc.coords)).toBe(true);
+    expect(loc.coords.length).toBe(2);
   });
 });

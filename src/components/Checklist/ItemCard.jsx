@@ -8,10 +8,13 @@ import {
   TreePine,
   Sword,
   Check,
+  MapPin,
 } from 'lucide-react';
 import { CategoryIcon } from './CategoryIcon';
 import { useSwipeToggle } from '../../hooks/useSwipeToggle';
 import { decodeHtmlEntities } from '../../utils/armorSets';
+import { findLocationForItem } from '../../utils/itemLinker';
+import { useTrackerStore } from '../../store/useTrackerStore';
 
 /**
  * Hook para gestionar el toggle del checkbox del ítem con máxima fiabilidad en móvil y PC,
@@ -60,6 +63,17 @@ export function ItemCard({
   const displayName = decodeHtmlEntities(item.name);
   const toggleGuards = useCheckboxToggle(onToggle, item.id);
   const swipe = useSwipeToggle(() => onToggle(item.id));
+  const matchedLocation = findLocationForItem(item);
+
+  const handleGoToMap = (e) => {
+    e.stopPropagation();
+    if (!matchedLocation) return;
+    const store = useTrackerStore.getState();
+    store.setMapaActivo(matchedLocation.mapaOrigen || 'surface');
+    store.enfocarUbicacion(matchedLocation.coords, matchedLocation.questlinePasoId || null);
+    store.setSelectedLocation(matchedLocation.id);
+    store.setViewMode('map');
+  };
 
   // En modo "marcar rápido" tocar cualquier parte de la tarjeta alterna el estado
   const handleCardClick = () => {
@@ -70,7 +84,7 @@ export function ItemCard({
     }
   };
 
-  // Modo compacto (Lista): fila ~56px optimizada para marcar rápido con el pulgar
+  // Modo compacto (Lista): fila ~58px optimizada para marcar rápido con el pulgar
   if (displayMode === 'list') {
     return (
       <div
@@ -82,14 +96,14 @@ export function ItemCard({
           transform: swipe.dx > 0 ? `translateX(${swipe.dx}px)` : undefined,
           transition: swipe.dx > 0 ? 'none' : 'transform 0.2s ease-out',
         }}
-        className={`group relative rounded-xl border pl-2 pr-1.5 py-1.5 min-h-[56px] transition-colors duration-200 cursor-pointer flex items-center gap-2.5 select-none ${
+        className={`group relative rounded-xl border pl-2.5 pr-2 py-2 min-h-[58px] transition-all duration-200 cursor-pointer flex items-center gap-2.5 select-none ${
           swipe.armed
-            ? 'bg-emerald-950/70 border-emerald-400'
+            ? 'bg-emerald-950/80 border-emerald-400 shadow-[0_0_15px_rgba(16,185,129,0.3)]'
             : isCompleted
-            ? 'bg-elden-950/60 border-emerald-500/30 opacity-70 hover:opacity-100'
+            ? 'bg-elden-950/70 border-emerald-500/30 opacity-75 hover:opacity-100 hover:border-emerald-500/50'
             : isDlc
-            ? 'bg-gradient-to-r from-purple-950/20 via-elden-900/90 to-elden-900/90 border-purple-900/40 hover:border-purple-500/70'
-            : 'bg-elden-900/90 border-slate-800/90 hover:border-elden-gold/60 hover:bg-elden-850'
+            ? 'bg-gradient-to-r from-purple-950/30 via-elden-900 to-elden-950 border-purple-900/50 hover:border-purple-500/80 hover:shadow-[0_0_15px_rgba(168,85,247,0.2)]'
+            : 'bg-gradient-to-r from-elden-850/80 via-elden-900/95 to-elden-950 border-elden-border hover:border-elden-gold/70 hover:shadow-gold-glow'
         } ${quickMark ? 'active:bg-elden-800' : ''}`}
       >
         {/* Miniatura */}
@@ -139,15 +153,27 @@ export function ItemCard({
           </div>
         </div>
 
-        {/* Acciones: info (icono) + link (solo escritorio) + checkbox grande a la derecha */}
-        <div className="flex items-center gap-1 flex-shrink-0">
+        {/* Acciones: mapa + info + link + checkbox grande */}
+        <div className="flex items-center gap-1.5 flex-shrink-0">
+          {matchedLocation && (
+            <button
+              type="button"
+              onClick={handleGoToMap}
+              className="px-2 py-1.5 rounded-lg bg-elden-950/90 hover:bg-elden-800 text-elden-gold border border-elden-gold/50 hover:border-elden-gold shadow-gold-glow text-[11px] font-serif font-bold transition flex items-center gap-1 active:scale-95"
+              title={`Ver ${matchedLocation.titulo} en el mapa interactivo`}
+            >
+              <MapPin className="w-3.5 h-3.5 text-elden-gold animate-pulse" />
+              <span className="hidden sm:inline">Mapa</span>
+            </button>
+          )}
+
           <button
             type="button"
             onClick={(e) => {
               e.stopPropagation();
               onClick(item);
             }}
-            className="w-8 h-8 rounded-lg flex items-center justify-center text-slate-500 hover:text-elden-gold hover:bg-elden-800 transition active:scale-90"
+            className="w-8 h-8 rounded-lg flex items-center justify-center text-slate-400 hover:text-elden-gold hover:bg-elden-800 transition active:scale-90"
             title="Ver guía"
           >
             <Info className="w-4 h-4" />
@@ -157,7 +183,7 @@ export function ItemCard({
             target="_blank"
             rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
-            className="hidden sm:flex w-8 h-8 rounded-lg items-center justify-center text-slate-500 hover:text-elden-gold hover:bg-elden-800 transition"
+            className="hidden sm:flex w-8 h-8 rounded-lg items-center justify-center text-slate-400 hover:text-elden-gold hover:bg-elden-800 transition"
             title="Abrir en EliteGuías"
           >
             <ExternalLink className="w-3.5 h-3.5" />
@@ -168,8 +194,8 @@ export function ItemCard({
             {...toggleGuards}
             className={`w-11 h-11 rounded-xl flex items-center justify-center transition-all flex-shrink-0 active:scale-90 ${
               isCompleted
-                ? 'bg-emerald-950 border border-emerald-500 text-emerald-400'
-                : 'bg-elden-950 border border-slate-600 text-slate-500 group-hover:border-elden-gold/70'
+                ? 'bg-gradient-to-r from-emerald-950 via-emerald-900 to-emerald-950 border border-emerald-400 text-emerald-300 shadow-[0_0_12px_rgba(52,211,153,0.35)]'
+                : 'bg-elden-950 border border-elden-border text-slate-400 hover:border-elden-gold/70 hover:text-amber-200'
             }`}
             title={isCompleted ? 'Desmarcar' : 'Marcar como conseguido'}
           >
@@ -317,16 +343,16 @@ export function ItemCard({
       </div>
 
       {/* Barra de acción inferior de la tarjeta */}
-      <div className="mt-2.5 sm:mt-3 pt-2 sm:pt-2.5 border-t border-slate-800/80 flex items-center justify-between gap-2">
-        {/* Botón de Checkbox grande y táctil (con guardia anti-cierre de teclado en Android) */}
+      <div className="mt-2.5 sm:mt-3 pt-2 sm:pt-2.5 border-t border-elden-border/80 flex items-center justify-between gap-2">
+        {/* Botón de Checkbox grande y táctil */}
         <button
           id={`toggle-${item.id}`}
           type="button"
           {...toggleGuards}
           className={`flex items-center gap-1.5 px-3 py-2 sm:py-1.5 rounded-xl text-xs font-serif font-bold transition-all active:scale-95 ${
             isCompleted
-              ? 'bg-emerald-950/90 text-emerald-300 border border-emerald-500/60 shadow-sm hover:bg-emerald-900/60'
-              : 'bg-elden-950 text-slate-400 border border-slate-700/80 hover:border-elden-gold/70 hover:text-elden-gold hover:bg-elden-850'
+              ? 'bg-gradient-to-r from-emerald-950 via-emerald-900 to-emerald-950 text-emerald-300 border border-emerald-400 shadow-[0_0_10px_rgba(52,211,153,0.3)] hover:brightness-110'
+              : 'bg-elden-950 text-slate-300 border border-elden-border hover:border-elden-gold/80 hover:text-amber-200 hover:bg-elden-850'
           }`}
           title={isCompleted ? 'Marcar como pendiente' : 'Marcar como conseguido'}
         >
@@ -343,18 +369,33 @@ export function ItemCard({
           )}
         </button>
 
-        {/* Botón para abrir el Modal de la Guía */}
-        <button
-          type="button"
-          onClick={(e) => {
-            e.stopPropagation();
-            onClick(item);
-          }}
-          className="text-xs text-slate-400 group-hover:text-elden-gold flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-elden-950/60 border border-slate-800 group-hover:border-elden-gold/40 hover:bg-elden-800 transition active:scale-95"
-        >
-          <Info className="w-3.5 h-3.5 text-elden-gold" />
-          <span>Ver Guía</span>
-        </button>
+        <div className="flex items-center gap-1.5">
+          {/* Botón directo para ubicar en el Mapa */}
+          {matchedLocation && (
+            <button
+              type="button"
+              onClick={handleGoToMap}
+              className="text-xs text-amber-300 hover:text-white flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-elden-950 border border-elden-gold/40 hover:border-elden-gold hover:bg-amber-950/60 transition shadow-gold-glow active:scale-95"
+              title={`Ver ${matchedLocation.titulo} en el mapa interactivo`}
+            >
+              <MapPin className="w-3.5 h-3.5 text-elden-gold animate-pulse" />
+              <span>Mapa</span>
+            </button>
+          )}
+
+          {/* Botón para abrir el Modal de la Guía */}
+          <button
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              onClick(item);
+            }}
+            className="text-xs text-slate-300 hover:text-elden-gold flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-elden-950 border border-elden-border hover:border-elden-gold/50 hover:bg-elden-850 transition active:scale-95"
+          >
+            <Info className="w-3.5 h-3.5 text-elden-gold" />
+            <span>Guía</span>
+          </button>
+        </div>
       </div>
     </div>
   );

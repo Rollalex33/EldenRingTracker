@@ -14,11 +14,11 @@ import {
   Sword,
 } from 'lucide-react';
 import { useTrackerStore } from '../../store/useTrackerStore';
-import { matchItemInLine } from '../../utils/itemLinker';
+import { matchItemInLine, findLocationForItem } from '../../utils/itemLinker';
 import { LinkedItemBadge } from './LinkedItemBadge';
 
 export function ItemDetailModal({ item, onClose }) {
-  const { isCompletado, toggleCompletado } = useTrackerStore();
+  const { isCompletado, toggleCompletado, setViewMode, setMapaActivo, enfocarUbicacion, setSelectedLocation } = useTrackerStore();
 
   // Soporte de navegación histórica dentro del modal
   const [history, setHistory] = useState([]);
@@ -170,6 +170,17 @@ export function ItemDetailModal({ item, onClose }) {
 
   if (!currentItem) return null;
 
+  const matchedLocation = findLocationForItem(currentItem);
+
+  const handleGoToMapFromModal = () => {
+    if (!matchedLocation) return;
+    setMapaActivo(matchedLocation.mapaOrigen || 'surface');
+    enfocarUbicacion(matchedLocation.coords, matchedLocation.questlinePasoId || null);
+    setSelectedLocation(matchedLocation.id);
+    setViewMode('map');
+    handleClose();
+  };
+
   const currentImage = data?.images?.[activeImageIndex] || data?.images?.[0] || currentItem.image;
 
   return (
@@ -249,6 +260,19 @@ export function ItemDetailModal({ item, onClose }) {
             </div>
 
             <div className="flex items-center gap-2">
+              {/* Botón directo al Mapa si tiene ubicación */}
+              {matchedLocation && (
+                <button
+                  id="modal-map-button"
+                  onClick={handleGoToMapFromModal}
+                  className="px-3 py-1.5 rounded-lg font-serif text-xs font-semibold flex items-center gap-1.5 transition border active:scale-95 bg-elden-950 text-elden-gold border-elden-gold/50 hover:border-elden-gold hover:bg-elden-800 shadow-gold-glow"
+                  title={`Ver ${matchedLocation.titulo} en el mapa interactivo`}
+                >
+                  <MapPin className="w-4 h-4 text-elden-gold animate-pulse" />
+                  <span className="hidden sm:inline">Ver en Mapa</span>
+                </button>
+              )}
+
               {/* Botón toggle rápido */}
               <button
                 id={`modal-toggle-${currentItem.id}`}
