@@ -42,9 +42,6 @@ importers:
       autoprefixer:
         specifier: ^10.4.20
         version: 10.5.5(postcss@8.5.28)
-      jpeg-js:
-        specifier: ^0.4.4
-        version: 0.4.4
       postcss:
         specifier: ^8.5.1
         version: 8.5.28
@@ -724,9 +721,6 @@ packages:
   jiti@1.21.7:
     resolution: {integrity: sha512-/imKNG4EbWNrVjoNC/1H5/9GFy+tqjGBHCaSsN+P2RnPqjsLmv6UD3Ej+Kj8nBWaRAwyk7kK5ZUc+OEatnTR3A==}
     hasBin: true
-
-  jpeg-js@0.4.4:
-    resolution: {integrity: sha512-WZzeDOEtTOBK4Mdsar0IqEU5sMr3vSV2RqkAIzUEV2BHnUfKGyswWFPFwK5EeDo93K3FohSHbLAjj0s1Wzd+dg==}
 
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
@@ -1639,8 +1633,6 @@ snapshots:
   is-number@7.0.0: {}
 
   jiti@1.21.7: {}
-
-  jpeg-js@0.4.4: {}
 
   js-tokens@4.0.0: {}
 
