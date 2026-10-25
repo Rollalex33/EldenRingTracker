@@ -100,14 +100,14 @@ export function ItemCard({
           swipe.armed
             ? 'bg-emerald-950/80 border-emerald-400 shadow-[0_0_15px_rgba(16,185,129,0.3)]'
             : isCompleted
-            ? 'bg-elden-950/70 border-emerald-500/30 opacity-75 hover:opacity-100 hover:border-emerald-500/50'
+            ? 'bg-[#08090d]/80 border-emerald-500/30 opacity-70 hover:opacity-95 hover:border-emerald-500/50'
             : isDlc
-            ? 'bg-gradient-to-r from-purple-950/30 via-elden-900 to-elden-950 border-purple-900/50 hover:border-purple-500/80 hover:shadow-[0_0_15px_rgba(168,85,247,0.2)]'
-            : 'bg-gradient-to-r from-elden-850/80 via-elden-900/95 to-elden-950 border-elden-border hover:border-elden-gold/70 hover:shadow-gold-glow'
-        } ${quickMark ? 'active:bg-elden-800' : ''}`}
+            ? 'bg-gradient-to-r from-purple-950/25 via-[#0b0c12] to-[#07080b] border-purple-900/40 hover:border-purple-400/70 hover:shadow-[0_0_15px_rgba(168,85,247,0.15)]'
+            : 'bg-[#0c0d13]/90 border-stone-800/80 hover:border-amber-500/50 hover:bg-[#11131a] hover:shadow-[0_0_15px_rgba(201,160,80,0.15)]'
+        } ${quickMark ? 'active:bg-stone-800' : ''}`}
       >
         {/* Miniatura */}
-        <div className="relative w-10 h-10 rounded-lg bg-black/40 border border-slate-800 flex items-center justify-center overflow-hidden flex-shrink-0">
+        <div className="relative w-10 h-10 rounded-lg bg-black/50 border border-stone-800/90 flex items-center justify-center overflow-hidden flex-shrink-0 group-hover:border-stone-700 transition-colors">
           {item.image ? (
             <img
               src={item.image}
@@ -118,22 +118,22 @@ export function ItemCard({
               onError={(e) => { e.target.style.display = 'none'; }}
             />
           ) : (
-            <CategoryIcon category={item.category} className="w-5 h-5 text-slate-500" />
+            <CategoryIcon category={item.category} className="w-5 h-5 text-stone-500" />
           )}
         </div>
 
         {/* Nombre + meta en una segunda línea */}
         <div className="min-w-0 flex-1">
           <div
-            className={`font-serif text-[13px] sm:text-sm leading-tight font-semibold line-clamp-2 ${
+            className={`font-serif text-[13px] sm:text-sm leading-tight font-semibold line-clamp-2 transition-colors ${
               isCompleted
-                ? 'text-slate-400 line-through decoration-emerald-500/50'
-                : 'text-amber-100 group-hover:text-amber-200'
+                ? 'text-stone-500 line-through decoration-emerald-500/50'
+                : 'text-stone-200 group-hover:text-amber-200'
             }`}
           >
             {displayName}
           </div>
-          <div className="flex items-center gap-1.5 mt-0.5 text-[10px] font-mono text-slate-500 min-w-0">
+          <div className="flex items-center gap-1.5 mt-0.5 text-[10px] font-mono text-stone-400 min-w-0">
             {isDlc && (
               <span className="px-1 rounded bg-purple-950/80 border border-purple-500/40 text-purple-300 font-bold flex items-center gap-0.5 flex-shrink-0">
                 <TreePine className="w-2.5 h-2.5 text-amber-400" /> DLC
@@ -141,7 +141,7 @@ export function ItemCard({
             )}
             {item.subcategory && <span className="truncate">{item.subcategory}</span>}
             {item.weight != null && (
-              <span className="text-amber-200/80 flex-shrink-0" title={`Peso: ${item.weight.toFixed(1)}`}>
+              <span className="text-amber-300/80 flex-shrink-0" title={`Peso: ${item.weight.toFixed(1)}`}>
                 ⚖️ {item.weight.toFixed(1)}
               </span>
             )}
@@ -159,10 +159,10 @@ export function ItemCard({
             <button
               type="button"
               onClick={handleGoToMap}
-              className="px-2 py-1.5 rounded-lg bg-elden-950/90 hover:bg-elden-800 text-elden-gold border border-elden-gold/50 hover:border-elden-gold shadow-gold-glow text-[11px] font-serif font-bold transition flex items-center gap-1 active:scale-95"
+              className="px-2 py-1.5 rounded-lg bg-amber-950/40 hover:bg-amber-900/50 text-amber-300 border border-amber-500/40 hover:border-amber-400 shadow-[0_0_10px_rgba(201,160,80,0.2)] text-[11px] font-serif font-bold transition flex items-center gap-1 active:scale-95"
               title={`Ver ${matchedLocation.titulo} en el mapa interactivo`}
             >
-              <MapPin className="w-3.5 h-3.5 text-elden-gold animate-pulse" />
+              <MapPin className="w-3.5 h-3.5 text-amber-400 animate-pulse" />
               <span className="hidden sm:inline">Mapa</span>
             </button>
           )}
@@ -173,7 +173,7 @@ export function ItemCard({
               e.stopPropagation();
               onClick(item);
             }}
-            className="w-8 h-8 rounded-lg flex items-center justify-center text-slate-400 hover:text-elden-gold hover:bg-elden-800 transition active:scale-90"
+            className="w-8 h-8 rounded-lg flex items-center justify-center text-stone-400 hover:text-amber-300 hover:bg-stone-800/80 border border-transparent hover:border-stone-700 transition active:scale-90"
             title="Ver guía"
           >
             <Info className="w-4 h-4" />
@@ -183,7 +183,7 @@ export function ItemCard({
             target="_blank"
             rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
-            className="hidden sm:flex w-8 h-8 rounded-lg items-center justify-center text-slate-400 hover:text-elden-gold hover:bg-elden-800 transition"
+            className="hidden sm:flex w-8 h-8 rounded-lg items-center justify-center text-stone-400 hover:text-amber-300 hover:bg-stone-800/80 border border-transparent hover:border-stone-700 transition"
             title="Abrir en EliteGuías"
           >
             <ExternalLink className="w-3.5 h-3.5" />
@@ -194,15 +194,15 @@ export function ItemCard({
             {...toggleGuards}
             className={`w-11 h-11 rounded-xl flex items-center justify-center transition-all flex-shrink-0 active:scale-90 ${
               isCompleted
-                ? 'bg-gradient-to-r from-emerald-950 via-emerald-900 to-emerald-950 border border-emerald-400 text-emerald-300 shadow-[0_0_12px_rgba(52,211,153,0.35)]'
-                : 'bg-elden-950 border border-elden-border text-slate-400 hover:border-elden-gold/70 hover:text-amber-200'
+                ? 'bg-gradient-to-br from-emerald-950 via-emerald-900 to-emerald-950 border border-emerald-400 text-emerald-300 shadow-[0_0_12px_rgba(52,211,153,0.35)]'
+                : 'bg-stone-950/90 border border-stone-800 text-stone-400 hover:border-amber-500/60 hover:text-amber-200 hover:bg-stone-900'
             }`}
             title={isCompleted ? 'Desmarcar' : 'Marcar como conseguido'}
           >
             {isCompleted ? (
               <Check className="w-5 h-5" />
             ) : (
-              <div className="w-3 h-3 rounded-full border border-slate-600 group-hover:border-elden-gold/70" />
+              <div className="w-3.5 h-3.5 rounded-full border border-stone-600 group-hover:border-amber-400/80 transition-colors" />
             )}
           </button>
         </div>
@@ -217,10 +217,10 @@ export function ItemCard({
       onClick={handleCardClick}
       className={`group relative rounded-2xl border p-4 transition-all duration-300 cursor-pointer flex flex-col justify-between select-none overflow-hidden ${
         isCompleted
-          ? 'bg-elden-950/50 border-emerald-500/30 opacity-75 hover:opacity-100 hover:border-emerald-500/60 shadow-sm'
+          ? 'bg-[#08090d]/70 border-emerald-500/30 opacity-70 hover:opacity-95 hover:border-emerald-500/50 shadow-sm'
           : isDlc
-          ? 'bg-gradient-to-br from-purple-950/25 via-elden-900/95 to-elden-900 border-purple-900/50 hover:border-purple-400/80 hover:shadow-[0_0_25px_rgba(168,85,247,0.2)]'
-          : 'bg-gradient-to-br from-elden-900/95 via-elden-900 to-elden-950 border-slate-800/90 hover:border-elden-gold/60 hover:shadow-gold-glow hover:-translate-y-0.5'
+          ? 'bg-gradient-to-br from-purple-950/20 via-[#0b0c12] to-[#07080b] border-purple-900/40 hover:border-purple-400/70 hover:shadow-[0_0_20px_rgba(168,85,247,0.15)] hover:-translate-y-0.5'
+          : 'bg-[#0b0c12]/90 border-stone-800/80 hover:border-amber-500/50 hover:bg-[#10121a] hover:shadow-[0_0_20px_rgba(201,160,80,0.15)] hover:-translate-y-0.5'
       }`}
     >
       {/* Resplandor decorativo de fondo */}
@@ -240,8 +240,8 @@ export function ItemCard({
           isCompleted
             ? 'bg-emerald-500'
             : isDlc
-            ? 'bg-gradient-to-r from-purple-600 to-amber-500 opacity-60 group-hover:opacity-100'
-            : 'bg-transparent group-hover:bg-gradient-to-r group-hover:from-elden-gold group-hover:to-amber-500'
+            ? 'bg-gradient-to-r from-purple-500 via-amber-400 to-purple-500 opacity-60 group-hover:opacity-100'
+            : 'bg-transparent group-hover:bg-gradient-to-r group-hover:from-amber-500 group-hover:to-amber-300'
         }`}
       />
 
@@ -255,28 +255,28 @@ export function ItemCard({
               <span>DLC Erdtree</span>
             </span>
           ) : (
-            <span className="px-2 py-0.5 rounded-md text-[10px] font-mono font-medium bg-slate-900/90 border border-slate-800 text-slate-400 flex items-center gap-1">
-              <Sword className="w-2.5 h-2.5 text-slate-500" />
+            <span className="px-2 py-0.5 rounded-md text-[10px] font-mono font-medium bg-stone-900/90 border border-stone-800 text-stone-400 flex items-center gap-1">
+              <Sword className="w-2.5 h-2.5 text-stone-500" />
               <span>Juego Base</span>
             </span>
           )}
 
           {/* Subcategoría */}
           {item.subcategory && (
-            <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-elden-950/80 border border-slate-800/80 text-slate-300 truncate max-w-[150px]">
+            <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-stone-950/80 border border-stone-800/80 text-stone-300 truncate max-w-[150px]">
               {item.subcategory}
             </span>
           )}
 
           {/* Estadísticas de Peso y Potencia de Ataque */}
           {item.weight != null && (
-            <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-elden-950/90 border border-amber-500/30 text-amber-200/90 flex items-center gap-1 font-semibold flex-shrink-0" title={`Peso: ${item.weight.toFixed(1)}`}>
+            <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-stone-950/90 border border-amber-500/30 text-amber-300/90 flex items-center gap-1 font-semibold flex-shrink-0" title={`Peso: ${item.weight.toFixed(1)}`}>
               <span>⚖️</span> {item.weight.toFixed(1)}
             </span>
           )}
 
           {item.attackPower != null && (
-            <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-elden-950/90 border border-rose-500/30 text-rose-300/90 flex items-center gap-1 font-semibold flex-shrink-0" title={`Potencia de ataque físico base: ${item.attackPower}`}>
+            <span className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-stone-950/90 border border-rose-500/30 text-rose-300/90 flex items-center gap-1 font-semibold flex-shrink-0" title={`Potencia de ataque físico base: ${item.attackPower}`}>
               <span>⚔️</span> {item.attackPower}
             </span>
           )}
@@ -289,7 +289,7 @@ export function ItemCard({
           target="_blank"
           rel="noopener noreferrer"
           onClick={(e) => e.stopPropagation()}
-          className="p-1 rounded-lg text-slate-500 hover:text-elden-gold hover:bg-elden-800 transition flex-shrink-0"
+          className="p-1 rounded-lg text-stone-500 hover:text-amber-300 hover:bg-stone-800 transition flex-shrink-0"
           title="Ver página oficial en EliteGuías"
         >
           <ExternalLink className="w-3.5 h-3.5" />
@@ -299,7 +299,7 @@ export function ItemCard({
       {/* Cuerpo Principal: Imagen + Nombre */}
       <div className="flex items-center gap-3.5 my-1">
         {/* Contenedor de Miniatura / Imagen real del juego */}
-        <div className="relative w-14 h-14 rounded-xl bg-elden-950 border border-slate-800 flex items-center justify-center overflow-hidden flex-shrink-0 group-hover:border-elden-gold/50 shadow-inner transition-colors">
+        <div className="relative w-14 h-14 rounded-xl bg-black/60 border border-stone-800 flex items-center justify-center overflow-hidden flex-shrink-0 group-hover:border-amber-500/40 shadow-inner transition-colors">
           {item.image ? (
             <img
               src={item.image}
@@ -313,13 +313,13 @@ export function ItemCard({
           ) : (
             <CategoryIcon
               category={item.category}
-              className="w-6 h-6 text-slate-500 group-hover:text-elden-gold transition-colors"
+              className="w-6 h-6 text-stone-500 group-hover:text-amber-300 transition-colors"
             />
           )}
 
           {/* Insignia de completado en la imagen */}
           {isCompleted && (
-            <div className="absolute inset-0 bg-emerald-950/60 backdrop-blur-[1px] flex items-center justify-center">
+            <div className="absolute inset-0 bg-emerald-950/70 backdrop-blur-[1px] flex items-center justify-center">
               <CheckCircle2 className="w-6 h-6 text-emerald-400 drop-shadow" />
             </div>
           )}
@@ -330,20 +330,20 @@ export function ItemCard({
           <h3
             className={`font-serif text-base font-bold leading-snug line-clamp-2 transition-colors ${
               isCompleted
-                ? 'text-slate-400 line-through decoration-emerald-500/50'
-                : 'text-amber-100 group-hover:text-amber-200'
+                ? 'text-stone-500 line-through decoration-emerald-500/50'
+                : 'text-stone-200 group-hover:text-amber-200'
             }`}
           >
             {displayName}
           </h3>
-          <p className="text-xs text-slate-400 font-sans mt-0.5">
+          <p className="text-xs text-stone-400 font-sans mt-0.5">
             {item.categoryName}
           </p>
         </div>
       </div>
 
       {/* Barra de acción inferior de la tarjeta */}
-      <div className="mt-2.5 sm:mt-3 pt-2 sm:pt-2.5 border-t border-elden-border/80 flex items-center justify-between gap-2">
+      <div className="mt-2.5 sm:mt-3 pt-2 sm:pt-2.5 border-t border-stone-800/80 flex items-center justify-between gap-2">
         {/* Botón de Checkbox grande y táctil */}
         <button
           id={`toggle-${item.id}`}
@@ -352,7 +352,7 @@ export function ItemCard({
           className={`flex items-center gap-1.5 px-3 py-2 sm:py-1.5 rounded-xl text-xs font-serif font-bold transition-all active:scale-95 ${
             isCompleted
               ? 'bg-gradient-to-r from-emerald-950 via-emerald-900 to-emerald-950 text-emerald-300 border border-emerald-400 shadow-[0_0_10px_rgba(52,211,153,0.3)] hover:brightness-110'
-              : 'bg-elden-950 text-slate-300 border border-elden-border hover:border-elden-gold/80 hover:text-amber-200 hover:bg-elden-850'
+              : 'bg-stone-950/90 text-stone-300 border border-stone-800 hover:border-amber-500/60 hover:text-amber-200 hover:bg-stone-900'
           }`}
           title={isCompleted ? 'Marcar como pendiente' : 'Marcar como conseguido'}
         >
@@ -363,7 +363,7 @@ export function ItemCard({
             </>
           ) : (
             <>
-              <Circle className="w-3.5 h-3.5 text-slate-500 group-hover:text-elden-gold" />
+              <Circle className="w-3.5 h-3.5 text-stone-500 group-hover:text-amber-400 transition-colors" />
               <span>Marcar</span>
             </>
           )}
@@ -375,10 +375,10 @@ export function ItemCard({
             <button
               type="button"
               onClick={handleGoToMap}
-              className="text-xs text-amber-300 hover:text-white flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-elden-950 border border-elden-gold/40 hover:border-elden-gold hover:bg-amber-950/60 transition shadow-gold-glow active:scale-95"
+              className="text-xs text-amber-300 hover:text-white flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-amber-950/40 border border-amber-500/40 hover:border-amber-400 hover:bg-amber-900/50 transition shadow-[0_0_10px_rgba(201,160,80,0.2)] active:scale-95"
               title={`Ver ${matchedLocation.titulo} en el mapa interactivo`}
             >
-              <MapPin className="w-3.5 h-3.5 text-elden-gold animate-pulse" />
+              <MapPin className="w-3.5 h-3.5 text-amber-400 animate-pulse" />
               <span>Mapa</span>
             </button>
           )}
@@ -390,9 +390,9 @@ export function ItemCard({
               e.stopPropagation();
               onClick(item);
             }}
-            className="text-xs text-slate-300 hover:text-elden-gold flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-elden-950 border border-elden-border hover:border-elden-gold/50 hover:bg-elden-850 transition active:scale-95"
+            className="text-xs text-stone-300 hover:text-amber-200 flex items-center gap-1 font-serif px-2.5 py-2 sm:py-1.5 rounded-xl bg-stone-950/90 border border-stone-800 hover:border-amber-500/40 hover:bg-stone-900 transition active:scale-95"
           >
-            <Info className="w-3.5 h-3.5 text-elden-gold" />
+            <Info className="w-3.5 h-3.5 text-amber-400" />
             <span>Guía</span>
           </button>
         </div>

@@ -66,6 +66,9 @@ export function ChecklistCompendium() {
   const handleHubNavigate = (target) => {
     setIsHubMenuOpen(false);
     switch (target) {
+      case 'hub':
+        setViewMode('hub');
+        break;
       case 'checklist':
         setViewMode('checklist');
         break;
@@ -456,6 +459,7 @@ export function ChecklistCompendium() {
         onOpenPlatinum={() => setIsPlatinumOpen(true)}
         onOpenMenu={() => setIsHubMenuOpen(true)}
         onOpenBuilds={() => setIsBuildPlannerOpen(true)}
+        onGoHome={() => setViewMode('hub')}
       />
 
       {/* Navegación por las 11 Categorías */}
@@ -473,7 +477,7 @@ export function ChecklistCompendium() {
       />
 
       {/* Barra de Subcategorías y Resumen Compacto */}
-      <div className="px-3 sm:px-4 py-1.5 sm:py-2 bg-elden-900/60 border-b border-slate-800/80 flex items-center justify-between gap-2 flex-shrink-0">
+      <div className="px-3 sm:px-4 py-1.5 sm:py-2 bg-[#07080c]/90 border-b border-stone-800/80 flex items-center justify-between gap-2 flex-shrink-0">
         <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar flex-1 min-w-0 py-0.5">
           {subcategories.length > 1 ? (
             <>
@@ -483,10 +487,10 @@ export function ChecklistCompendium() {
                   setSubcategoriaChecklist('all');
                   setDisplayLimit(60);
                 }}
-                className={`px-2.5 py-1 rounded-lg text-[11px] sm:text-xs font-mono transition whitespace-nowrap border flex-shrink-0 ${
+                className={`px-2.5 py-1 rounded-lg text-[11px] sm:text-xs font-mono transition whitespace-nowrap border flex-shrink-0 active:scale-95 ${
                   subcategoriaChecklist === 'all'
-                    ? 'bg-elden-gold text-elden-950 font-bold border-elden-gold shadow-gold-glow'
-                    : 'bg-elden-900 text-slate-400 border-slate-800 hover:text-slate-200'
+                    ? 'bg-amber-400 text-stone-950 font-bold border-amber-300 shadow-[0_0_10px_rgba(201,160,80,0.3)]'
+                    : 'bg-stone-950/80 text-stone-400 border-stone-800 hover:text-stone-200 hover:border-stone-700'
                 }`}
               >
                 Todas ({catTotal})
@@ -500,10 +504,10 @@ export function ChecklistCompendium() {
                       setSubcategoriaChecklist(sub);
                       setDisplayLimit(60);
                     }}
-                    className={`px-2.5 py-1 rounded-lg text-[11px] sm:text-xs font-mono transition whitespace-nowrap border flex-shrink-0 ${
+                    className={`px-2.5 py-1 rounded-lg text-[11px] sm:text-xs font-mono transition whitespace-nowrap border flex-shrink-0 active:scale-95 ${
                       subcategoriaChecklist === sub
-                        ? 'bg-elden-gold text-elden-950 font-bold border-elden-gold shadow-gold-glow'
-                        : 'bg-elden-900 text-slate-400 border-slate-800 hover:text-slate-200'
+                        ? 'bg-amber-400 text-stone-950 font-bold border-amber-300 shadow-[0_0_10px_rgba(201,160,80,0.3)]'
+                        : 'bg-stone-950/80 text-stone-400 border-stone-800 hover:text-stone-200 hover:border-stone-700'
                     }`}
                   >
                     {sub} ({countSub})
@@ -512,10 +516,10 @@ export function ChecklistCompendium() {
               })}
             </>
           ) : (
-            <div className="flex items-center gap-1.5 text-xs font-serif text-slate-400 truncate">
+            <div className="flex items-center gap-1.5 text-xs font-serif text-stone-400 truncate">
               <CategoryIcon
                 category={currentCategoryConfig.id}
-                className="w-3.5 h-3.5 text-elden-gold flex-shrink-0"
+                className="w-3.5 h-3.5 text-amber-400 flex-shrink-0"
               />
               <span className="truncate">
                 {expansionFilterChecklist === 'dlc'
@@ -529,9 +533,9 @@ export function ChecklistCompendium() {
         </div>
 
         {/* Resumen compacto a la derecha */}
-        <div className="flex items-center gap-2 text-[11px] sm:text-xs flex-shrink-0 pl-1 border-l border-slate-800/80">
-          <span className="font-mono text-slate-300">
-            <strong className="text-amber-200">{catCompleted}</strong>/{catTotal}
+        <div className="flex items-center gap-2 text-[11px] sm:text-xs flex-shrink-0 pl-1 border-l border-stone-800/80">
+          <span className="font-mono text-stone-300">
+            <strong className="text-amber-300">{catCompleted}</strong>/{catTotal}
           </span>
 
           <a
@@ -539,7 +543,7 @@ export function ChecklistCompendium() {
             href={currentCategoryConfig.guideUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-elden-gold hover:text-amber-300 transition p-1"
+            className="text-amber-400 hover:text-amber-300 transition p-1"
             title={`Abrir sección oficial de ${currentCategoryConfig.name} en EliteGuías`}
           >
             <ExternalLink className="w-3.5 h-3.5" />
@@ -649,7 +653,7 @@ export function ChecklistCompendium() {
                   id="load-more-items-btn"
                   type="button"
                   onClick={() => setDisplayLimit((prev) => Math.min(prev + 80, displayUnits.length))}
-                  className="px-5 py-2.5 rounded-xl bg-elden-900 hover:bg-elden-850 text-elden-gold border border-elden-gold/50 hover:border-elden-gold transition font-serif text-xs font-bold flex items-center gap-2 shadow-gold-glow"
+                  className="px-5 py-2.5 rounded-xl bg-stone-900/90 hover:bg-stone-850 text-amber-300 border border-amber-500/40 hover:border-amber-400 transition font-serif text-xs font-bold flex items-center gap-2 shadow-[0_0_15px_rgba(201,160,80,0.2)] active:scale-95"
                 >
                   <ArrowDown className="w-3.5 h-3.5 animate-bounce" />
                   <span>
@@ -660,7 +664,7 @@ export function ChecklistCompendium() {
                   id="load-all-items-btn"
                   type="button"
                   onClick={() => setDisplayLimit(displayUnits.length)}
-                  className="px-4 py-2.5 rounded-xl bg-elden-950/90 hover:bg-elden-900 text-slate-300 hover:text-elden-gold border border-slate-700 hover:border-slate-600 transition font-serif text-xs font-bold"
+                  className="px-4 py-2.5 rounded-xl bg-black/60 hover:bg-stone-900 text-stone-300 hover:text-amber-200 border border-stone-800 hover:border-stone-700 transition font-serif text-xs font-bold active:scale-95"
                   title="Mostrar la totalidad de los ítems"
                 >
                   Ver todos ({displayUnits.length})
@@ -677,10 +681,10 @@ export function ChecklistCompendium() {
           id="jump-next-pending-btn"
           type="button"
           onClick={handleJumpToNextPending}
-          className="fixed bottom-6 right-4 sm:bottom-8 sm:right-8 z-40 px-3.5 py-2.5 rounded-full bg-gradient-to-r from-amber-500 via-amber-400 to-amber-500 text-elden-950 font-serif font-bold text-xs shadow-gold-glow border border-amber-200 flex items-center gap-1.5 active:scale-90 transition-all hover:brightness-110"
+          className="fixed bottom-6 right-4 sm:bottom-8 sm:right-8 z-40 px-3.5 py-2.5 rounded-full bg-gradient-to-r from-amber-500 via-amber-400 to-amber-500 text-stone-950 font-serif font-bold text-xs shadow-[0_0_16px_rgba(201,160,80,0.35)] border border-amber-200 flex items-center gap-1.5 active:scale-90 transition-all hover:brightness-110"
           title="Saltar a la siguiente armadura o ítem pendiente en la pantalla"
         >
-          <Zap className="w-4 h-4 fill-current text-elden-950" />
+          <Zap className="w-4 h-4 fill-current text-stone-950" />
           <span className="hidden xs:inline">Próximo Pendiente</span>
         </button>
       )}
@@ -689,20 +693,19 @@ export function ChecklistCompendium() {
         <button
           type="button"
           onClick={() => mainScrollRef.current?.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="fixed bottom-20 right-4 sm:bottom-22 sm:right-8 z-40 p-2.5 rounded-full bg-elden-900/90 text-slate-300 hover:text-elden-gold border border-slate-700/80 shadow-xl backdrop-blur active:scale-90 transition-all hover:bg-elden-850"
+          className="fixed bottom-20 right-4 sm:bottom-22 sm:right-8 z-40 p-2.5 rounded-full bg-stone-900/90 text-stone-300 hover:text-amber-300 border border-stone-800 shadow-xl backdrop-blur active:scale-90 transition-all hover:bg-stone-800"
           title="Volver arriba"
         >
           <ChevronUp className="w-4 h-4" />
         </button>
       )}
 
-      {/* Toast con Acción de Deshacer */}
       {undoToast && (
         <div
           id="undo-action-toast"
-          className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[210] px-4 py-2.5 rounded-2xl bg-elden-900/95 border border-elden-gold/70 text-slate-100 text-xs font-serif font-bold shadow-2xl backdrop-blur-md animate-fadeIn flex items-center gap-3"
+          className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[210] px-4 py-2.5 rounded-2xl bg-stone-900/95 border border-amber-500/50 text-stone-100 text-xs font-serif font-bold shadow-2xl backdrop-blur-md animate-fadeIn flex items-center gap-3"
         >
-          <span className="truncate max-w-[200px] sm:max-w-xs text-amber-200">
+          <span className="truncate max-w-[200px] sm:max-w-xs text-amber-300">
             {undoToast.message}
           </span>
           <button
@@ -711,7 +714,7 @@ export function ChecklistCompendium() {
               undoToast.undo();
               setUndoToast(null);
             }}
-            className="px-2.5 py-1 rounded-lg bg-elden-gold text-elden-950 font-mono text-[11px] font-bold hover:bg-amber-300 transition flex items-center gap-1 active:scale-95 shadow-sm"
+            className="px-2.5 py-1 rounded-lg bg-amber-400 text-stone-950 font-mono text-[11px] font-bold hover:bg-amber-300 transition flex items-center gap-1 active:scale-95 shadow-sm"
           >
             <RotateCcw className="w-3 h-3" />
             <span>Deshacer</span>

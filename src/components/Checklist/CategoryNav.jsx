@@ -39,26 +39,26 @@ export function CategoryNav({
   const pctAll = totalAll > 0 ? Math.round((completedAll / totalAll) * 100) : 0;
 
   return (
-    <div className="w-full bg-elden-950/98 border-b border-elden-gold/30 backdrop-blur sticky top-0 z-20 shadow-runic">
-      <div className="flex items-center gap-1.5 sm:gap-2.5 overflow-x-auto px-3 sm:px-4 py-2 sm:py-2.5 custom-scrollbar no-scrollbar">
+    <nav className="w-full bg-[#07080c]/95 border-b border-amber-500/20 backdrop-blur-md sticky top-0 z-20 shadow-lg shadow-black/60">
+      <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto px-3 sm:px-4 py-2 sm:py-2.5 custom-scrollbar no-scrollbar">
         {/* Opción para Ver Todas las Categorías */}
         <button
           id="cat-btn-all"
           type="button"
           onClick={() => onSelectCategory('all')}
-          className={`flex-shrink-0 flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-bold transition-all select-none border relative overflow-hidden group active:scale-95 ${
+          className={`flex-shrink-0 flex items-center gap-2 px-3 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-bold transition-all select-none border relative overflow-hidden group active:scale-95 ${
             activeCategory === 'all'
-              ? 'bg-gradient-to-r from-elden-850 via-elden-800 to-elden-850 text-amber-100 border-elden-gold shadow-gold-glow scale-[1.02]'
-              : 'bg-elden-900/90 text-slate-300 border-elden-border hover:border-elden-gold/50 hover:text-amber-100 hover:bg-elden-850'
+              ? 'bg-gradient-to-r from-amber-950/70 via-stone-900 to-amber-950/70 text-amber-200 border-amber-400/80 shadow-[0_0_15px_rgba(201,160,80,0.25)] ring-1 ring-amber-400/30'
+              : 'bg-stone-950/80 text-stone-300 border-stone-800/80 hover:border-amber-500/40 hover:text-amber-100 hover:bg-stone-900/90'
           }`}
         >
           <div
-            className={`absolute bottom-0 left-0 top-0 opacity-20 transition-all duration-300 pointer-events-none ${
+            className={`absolute bottom-0 left-0 top-0 opacity-15 transition-all duration-300 pointer-events-none ${
               isFinishedAll
                 ? 'bg-emerald-500'
                 : activeCategory === 'all'
-                ? 'bg-elden-gold'
-                : 'bg-slate-500'
+                ? 'bg-amber-400'
+                : 'bg-stone-500'
             }`}
             style={{ width: `${pctAll}%` }}
           />
@@ -66,13 +66,13 @@ export function CategoryNav({
           <div
             className={`p-1 sm:p-1.5 rounded-lg transition-colors ${
               activeCategory === 'all'
-                ? 'bg-elden-gold/30 text-elden-gold shadow-gold-glow'
+                ? 'bg-amber-500/20 text-amber-300 ring-1 ring-amber-500/40'
                 : isFinishedAll
-                ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/40'
-                : 'bg-elden-950 text-slate-400 group-hover:text-elden-gold border border-elden-border'
+                ? 'bg-emerald-950/80 text-emerald-400 border border-emerald-500/40'
+                : 'bg-stone-900 text-stone-400 group-hover:text-amber-300 border border-stone-800'
             }`}
           >
-            <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-elden-gold-glow animate-pulse" />
+            <Sparkles className="w-3.5 h-3.5 text-amber-300 animate-pulse" />
           </div>
 
           <div className="flex flex-col text-left">
@@ -83,13 +83,13 @@ export function CategoryNav({
                   isFinishedAll
                     ? 'text-emerald-400 font-bold'
                     : activeCategory === 'all'
-                    ? 'text-elden-gold font-bold'
-                    : 'text-slate-400'
+                    ? 'text-amber-300 font-bold'
+                    : 'text-stone-400'
                 }
               >
                 {completedAll}/{totalAll}
               </span>
-              <span className="text-slate-500">({pctAll}%)</span>
+              <span className="text-stone-500">({pctAll}%)</span>
             </div>
           </div>
         </button>
@@ -118,22 +118,22 @@ export function CategoryNav({
               key={cat.id}
               id={`cat-btn-${cat.id}`}
               onClick={() => onSelectCategory(cat.id)}
-              className={`flex-shrink-0 flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-bold transition-all select-none border relative overflow-hidden group active:scale-95 ${
+              className={`flex-shrink-0 flex items-center gap-2 px-3 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs font-serif font-bold transition-all select-none border relative overflow-hidden group active:scale-95 ${
                 isActive
-                  ? 'bg-gradient-to-r from-elden-850 via-elden-800 to-elden-850 text-amber-100 border-elden-gold shadow-gold-glow scale-[1.02]'
+                  ? 'bg-gradient-to-r from-amber-950/70 via-stone-900 to-amber-950/70 text-amber-200 border-amber-400/80 shadow-[0_0_15px_rgba(201,160,80,0.25)] ring-1 ring-amber-400/30'
                   : isFinished
-                  ? 'bg-elden-900/80 text-emerald-200 border-emerald-500/40 hover:border-emerald-400'
-                  : 'bg-elden-900/90 text-slate-300 border-elden-border hover:border-elden-gold/50 hover:text-amber-100 hover:bg-elden-850'
+                  ? 'bg-stone-950/90 text-emerald-300 border-emerald-500/40 hover:border-emerald-400'
+                  : 'bg-stone-950/80 text-stone-300 border-stone-800/80 hover:border-amber-500/40 hover:text-amber-100 hover:bg-stone-900/90'
               }`}
             >
               {/* Barra de progreso de fondo */}
               <div
-                className={`absolute bottom-0 left-0 top-0 opacity-20 transition-all duration-300 pointer-events-none ${
+                className={`absolute bottom-0 left-0 top-0 opacity-15 transition-all duration-300 pointer-events-none ${
                   isFinished
                     ? 'bg-emerald-500'
                     : isActive
-                    ? 'bg-elden-gold'
-                    : 'bg-slate-500'
+                    ? 'bg-amber-400'
+                    : 'bg-stone-500'
                 }`}
                 style={{ width: `${percentage}%` }}
               />
@@ -142,10 +142,10 @@ export function CategoryNav({
               <div
                 className={`p-1 sm:p-1.5 rounded-lg transition-colors ${
                   isActive
-                    ? 'bg-elden-gold/30 text-elden-gold shadow-gold-glow'
+                    ? 'bg-amber-500/20 text-amber-300 ring-1 ring-amber-500/40'
                     : isFinished
-                    ? 'bg-emerald-950 text-emerald-400 border border-emerald-500/40'
-                    : 'bg-elden-950 text-slate-400 group-hover:text-elden-gold border border-elden-border'
+                    ? 'bg-emerald-950/80 text-emerald-400 border border-emerald-500/40'
+                    : 'bg-stone-900 text-stone-400 group-hover:text-amber-300 border border-stone-800'
                 }`}
               >
                 <CategoryIcon category={cat.id} className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
@@ -160,7 +160,7 @@ export function CategoryNav({
                   )}
                   {expansionFilter === 'all' && dlcCount > 0 && (
                     <span
-                      className="text-[9px] font-mono px-1 rounded bg-purple-950/80 border border-purple-500/40 text-purple-300 hidden sm:inline"
+                      className="text-[9px] font-mono px-1 rounded bg-purple-950/90 border border-purple-500/50 text-purple-300 hidden sm:inline"
                       title={`${dlcCount} ítems del DLC`}
                     >
                       +{dlcCount}
@@ -174,19 +174,19 @@ export function CategoryNav({
                       isFinished
                         ? 'text-emerald-400 font-bold'
                         : isActive
-                        ? 'text-elden-gold font-bold'
-                        : 'text-slate-400'
+                        ? 'text-amber-300 font-bold'
+                        : 'text-stone-400'
                     }
                   >
                     {completedCount}/{totalCount}
                   </span>
-                  <span className="text-slate-500">({percentage}%)</span>
+                  <span className="text-stone-500">({percentage}%)</span>
                 </div>
               </div>
             </button>
           );
         })}
       </div>
-    </div>
+    </nav>
   );
 }

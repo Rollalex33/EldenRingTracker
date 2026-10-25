@@ -21,8 +21,8 @@ export const useTrackerStore = create(
       locations: locations,
       questlines: questlines,
 
-      // Modo de visualización: 'checklist' | 'map'
-      viewMode: 'checklist',
+      // Modo de visualización inicial: 'hub' | 'checklist' | 'map'
+      viewMode: 'hub',
 
       // Estado de la Checklist de EliteGuías
       categoriaActivaChecklist: 'jefazos',
@@ -395,7 +395,7 @@ export const useTrackerStore = create(
           itemsCompletados: itemsSet,
           soloPerdibles: Boolean(persistedState?.soloPerdibles),
           mapaActivo: persistedState?.mapaActivo || 'surface',
-          viewMode: persistedState?.viewMode || 'checklist',
+          viewMode: 'hub',
           categoriaActivaChecklist: persistedState?.categoriaActivaChecklist || 'jefazos',
           expansionFilterChecklist: persistedState?.expansionFilterChecklist || 'all',
           displayModeChecklist: persistedState?.displayModeChecklist || 'grid',

@@ -30,10 +30,10 @@ export function ArmorSetCard({
       id={`armor-set-${unit.id}`}
       className={`rounded-2xl border p-2 space-y-1.5 transition-colors ${
         isComplete
-          ? 'bg-emerald-950/20 border-emerald-500/40'
+          ? 'bg-emerald-950/20 border-emerald-500/35'
           : unit.isDlc
-          ? 'bg-gradient-to-br from-purple-950/20 to-elden-900/80 border-purple-900/50'
-          : 'bg-elden-900/70 border-slate-800/90'
+          ? 'bg-gradient-to-br from-purple-950/25 via-[#0b0c12] to-[#07080b] border-purple-900/40'
+          : 'bg-[#0a0b10]/85 border-stone-800/90'
       }`}
     >
       {/* Cabecera del set */}
@@ -41,7 +41,7 @@ export function ArmorSetCard({
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-1.5 min-w-0">
             <Shield
-              className={`w-4 h-4 flex-shrink-0 ${isComplete ? 'text-emerald-400' : 'text-elden-gold'}`}
+              className={`w-4 h-4 flex-shrink-0 ${isComplete ? 'text-emerald-400' : 'text-amber-400'}`}
             />
             <h3
               className={`font-serif text-sm font-bold truncate ${
@@ -58,7 +58,7 @@ export function ArmorSetCard({
           </div>
 
           <div className="flex items-center gap-2 mt-1.5">
-            <div className="flex-1 h-1.5 bg-elden-950 rounded-full border border-slate-800 overflow-hidden">
+            <div className="flex-1 h-1.5 bg-black/60 rounded-full border border-stone-800 overflow-hidden">
               <div
                 className={`h-full rounded-full transition-all duration-300 ${
                   isComplete
@@ -70,7 +70,7 @@ export function ArmorSetCard({
             </div>
             <span
               className={`text-[11px] font-mono font-bold ${
-                isComplete ? 'text-emerald-400' : 'text-slate-300'
+                isComplete ? 'text-emerald-400' : 'text-stone-300'
               }`}
             >
               {done}/{total}
@@ -81,10 +81,10 @@ export function ArmorSetCard({
         <button
           type="button"
           onClick={handleSetAction}
-          className={`flex-shrink-0 flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-serif font-bold transition-all active:scale-95 border ${
+          className={`flex-shrink-0 flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-serif font-bold transition-all active:scale-95 border ${
             isComplete
-              ? 'bg-elden-950 text-slate-400 border-slate-700 hover:text-amber-300 hover:border-amber-500/60'
-              : 'bg-amber-400 text-elden-950 border-amber-300 shadow-gold-glow hover:bg-amber-300'
+              ? 'bg-stone-900 text-stone-400 border-stone-700 hover:text-amber-300 hover:border-amber-500/60'
+              : 'bg-amber-400 text-stone-950 border-amber-300 shadow-[0_0_12px_rgba(201,160,80,0.3)] hover:bg-amber-300'
           }`}
           title={isComplete ? 'Desmarcar todas las piezas del set' : 'Marcar todas las piezas del set'}
         >

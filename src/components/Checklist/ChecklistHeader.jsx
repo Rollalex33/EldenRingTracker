@@ -25,6 +25,7 @@ import {
   Scale,
   Compass,
   Menu,
+  Home,
 } from 'lucide-react';
 
 export function ChecklistHeader({
@@ -65,6 +66,7 @@ export function ChecklistHeader({
   onOpenEquipLoad,
   onOpenMenu,
   onOpenBuilds,
+  onGoHome,
 }) {
   const [showDetailedStats, setShowDetailedStats] = useState(false);
 
@@ -105,6 +107,18 @@ export function ChecklistHeader({
 
             {/* Acciones principales compactas (Iconos táctiles en móvil) */}
             <div className="flex items-center gap-1.5 flex-shrink-0">
+              {onGoHome && (
+                <button
+                  id="go-home-button"
+                  onClick={onGoHome}
+                  className="px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-xl bg-elden-900/90 hover:bg-elden-850 text-slate-300 hover:text-amber-200 border border-slate-700 hover:border-elden-gold/60 transition flex items-center gap-1.5 text-xs font-serif font-bold shadow-sm active:scale-95"
+                  title="Volver a la Mesa Redonda (Inicio)"
+                >
+                  <Home className="w-3.5 h-3.5 text-amber-300" />
+                  <span className="hidden sm:inline">Inicio</span>
+                </button>
+              )}
+
               {onOpenMenu && (
                 <button
                   id="open-hub-menu-button"
@@ -433,6 +447,18 @@ export function ChecklistHeader({
               >
                 <Shield className="w-3.5 h-3.5" />
                 <span className="text-[11px] hidden sm:inline">Sets</span>
+              </button>
+            )}
+
+            {/* Inicio Mini */}
+            {onGoHome && (
+              <button
+                id="go-home-button-mini"
+                onClick={onGoHome}
+                className="p-1.5 rounded-xl bg-elden-900 text-slate-300 hover:text-amber-200 border border-slate-700 hover:border-elden-gold/60 transition shadow-sm active:scale-95"
+                title="Volver a la Mesa Redonda (Inicio)"
+              >
+                <Home className="w-3.5 h-3.5 text-amber-300" />
               </button>
             )}
 

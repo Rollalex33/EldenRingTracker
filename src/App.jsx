@@ -18,6 +18,7 @@ import {
   Scale,
   Compass,
   Sword,
+  Home,
 } from 'lucide-react';
 import Modal from './components/UI/Modal';
 import SettingsModal from './components/UI/SettingsModal';
@@ -25,6 +26,7 @@ import { EquipLoadModal } from './components/Calculator/EquipLoadModal';
 import { PlatinumModal } from './components/Platinum/PlatinumModal';
 import { AppHubMenu } from './components/UI/AppHubMenu';
 import { BuildPlannerModal } from './components/Builds/BuildPlannerModal';
+import { HubHome } from './components/Hub/HubHome';
 
 /**
  * Layout Principal con Split-Screen UI y Modo Checklist Compendio
@@ -197,6 +199,36 @@ export function App() {
     }
   };
 
+  // Si el usuario está en el Menú Principal (Hub), renderizar la vista de bienvenida
+  if (viewMode === 'hub') {
+    return (
+      <div className="min-h-screen w-screen bg-elden-950">
+        <HubHome
+          onNavigate={(target) => {
+            if (target === 'builds') {
+              setIsBuildPlannerOpen(true);
+            } else {
+              setViewMode(target);
+            }
+          }}
+          onOpenSettings={openSettings}
+          onOpenPlatinum={openPlatinum}
+          onOpenEquipLoad={openEquipLoad}
+          onOpenBuilds={() => setIsBuildPlannerOpen(true)}
+        />
+
+        <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
+        <EquipLoadModal isOpen={isEquipLoadOpen} onClose={closeEquipLoad} />
+        <PlatinumModal isOpen={isPlatinumOpen} onClose={closePlatinum} onOpenItem={() => {}} />
+        <BuildPlannerModal
+          isOpen={isBuildPlannerOpen}
+          onClose={() => setIsBuildPlannerOpen(false)}
+          onOpenItem={() => {}}
+        />
+      </div>
+    );
+  }
+
   // Si el usuario está en modo Checklist Compendio, renderizar la vista dedicada
   if (viewMode === 'checklist') {
     return <ChecklistCompendium />;
@@ -312,6 +344,17 @@ export function App() {
 
         {/* Controles flotantes en la esquina superior derecha */}
         <div className="absolute top-4 right-4 z-[500] flex items-center gap-1.5 sm:gap-2">
+          {/* Volver a Inicio / Mesa Redonda */}
+          <button
+            id="map-view-home-btn"
+            onClick={() => setViewMode('hub')}
+            className="px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-serif font-bold border transition backdrop-blur flex items-center gap-1.5 shadow-gold-glow bg-elden-900/95 text-slate-300 hover:text-amber-200 border-slate-700 hover:border-elden-gold/60 active:scale-95"
+            title="Volver a la Mesa Redonda (Inicio)"
+          >
+            <Home className="w-4 h-4 text-amber-300" />
+            <span className="hidden sm:inline">Inicio</span>
+          </button>
+
           {/* Menú Principal Gracia Perdida */}
           <button
             id="map-view-hub-menu-btn"
