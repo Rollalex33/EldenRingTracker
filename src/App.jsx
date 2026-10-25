@@ -26,6 +26,9 @@ import { EquipLoadModal } from './components/Calculator/EquipLoadModal';
 import { PlatinumModal } from './components/Platinum/PlatinumModal';
 import { AppHubMenu } from './components/UI/AppHubMenu';
 import { BuildPlannerModal } from './components/Builds/BuildPlannerModal';
+import { RuneCalculatorModal } from './components/Calculator/RuneCalculatorModal';
+import { ProgressionRouteModal } from './components/Progression/ProgressionRouteModal';
+import { FloatingQuickHUD } from './components/Navigation/FloatingQuickHUD';
 import { HubHome } from './components/Hub/HubHome';
 
 /**
@@ -45,6 +48,8 @@ export function App() {
   const [isPlatinumOpen, setIsPlatinumOpen] = useState(false);
   const [isHubMenuOpen, setIsHubMenuOpen] = useState(false);
   const [isBuildPlannerOpen, setIsBuildPlannerOpen] = useState(false);
+  const [isRuneCalcOpen, setIsRuneCalcOpen] = useState(false);
+  const [isProgressionOpen, setIsProgressionOpen] = useState(false);
 
   const {
     itemsCompletados,
@@ -68,6 +73,10 @@ export function App() {
   isHubMenuRef.current = isHubMenuOpen;
   const isBuildPlannerRef = useRef(isBuildPlannerOpen);
   isBuildPlannerRef.current = isBuildPlannerOpen;
+  const isRuneCalcRef = useRef(isRuneCalcOpen);
+  isRuneCalcRef.current = isRuneCalcOpen;
+  const isProgressionRef = useRef(isProgressionOpen);
+  isProgressionRef.current = isProgressionOpen;
 
   // Interceptar navegación atrás cuando se está en la vista de Mapa
   useEffect(() => {
@@ -84,6 +93,14 @@ export function App() {
       }
       if (isBuildPlannerRef.current) {
         setIsBuildPlannerOpen(false);
+        return;
+      }
+      if (isRuneCalcRef.current) {
+        setIsRuneCalcOpen(false);
+        return;
+      }
+      if (isProgressionRef.current) {
+        setIsProgressionOpen(false);
         return;
       }
       if (isHelpRef.current) {
@@ -120,6 +137,12 @@ export function App() {
         break;
       case 'builds':
         setIsBuildPlannerOpen(true);
+        break;
+      case 'runes':
+        setIsRuneCalcOpen(true);
+        break;
+      case 'progression':
+        setIsProgressionOpen(true);
         break;
       case 'equipload':
         setIsEquipLoadOpen(true);
@@ -202,11 +225,15 @@ export function App() {
   // Si el usuario está en el Menú Principal (Hub), renderizar la vista de bienvenida
   if (viewMode === 'hub') {
     return (
-      <div className="min-h-screen w-screen bg-elden-950">
+      <div className="h-screen w-screen overflow-hidden bg-elden-950 flex flex-col">
         <HubHome
           onNavigate={(target) => {
             if (target === 'builds') {
               setIsBuildPlannerOpen(true);
+            } else if (target === 'runes') {
+              setIsRuneCalcOpen(true);
+            } else if (target === 'progression') {
+              setIsProgressionOpen(true);
             } else {
               setViewMode(target);
             }
@@ -215,6 +242,8 @@ export function App() {
           onOpenPlatinum={openPlatinum}
           onOpenEquipLoad={openEquipLoad}
           onOpenBuilds={() => setIsBuildPlannerOpen(true)}
+          onOpenRuneCalc={() => setIsRuneCalcOpen(true)}
+          onOpenProgression={() => setIsProgressionOpen(true)}
         />
 
         <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
@@ -224,6 +253,14 @@ export function App() {
           isOpen={isBuildPlannerOpen}
           onClose={() => setIsBuildPlannerOpen(false)}
           onOpenItem={() => {}}
+        />
+        <RuneCalculatorModal
+          isOpen={isRuneCalcOpen}
+          onClose={() => setIsRuneCalcOpen(false)}
+        />
+        <ProgressionRouteModal
+          isOpen={isProgressionOpen}
+          onClose={() => setIsProgressionOpen(false)}
         />
       </div>
     );
@@ -522,6 +559,28 @@ export function App() {
         isOpen={isBuildPlannerOpen}
         onClose={() => setIsBuildPlannerOpen(false)}
         onOpenItem={() => {}}
+      />
+
+      {/* Calculadora de Runas & Zurrón */}
+      <RuneCalculatorModal
+        isOpen={isRuneCalcOpen}
+        onClose={() => setIsRuneCalcOpen(false)}
+      />
+
+      {/* Ruta Óptima de Progresión */}
+      <ProgressionRouteModal
+        isOpen={isProgressionOpen}
+        onClose={() => setIsProgressionOpen(false)}
+      />
+
+      {/* Dock Rápido Flotante */}
+      <FloatingQuickHUD
+        onOpenBuilds={() => setIsBuildPlannerOpen(true)}
+        onOpenEquipLoad={() => setIsEquipLoadOpen(true)}
+        onOpenPlatinum={() => setIsPlatinumOpen(true)}
+        onOpenRuneCalc={() => setIsRuneCalcOpen(true)}
+        onOpenProgression={() => setIsProgressionOpen(true)}
+        onOpenSettings={() => setIsSettingsOpen(true)}
       />
     </div>
   );

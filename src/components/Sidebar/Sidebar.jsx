@@ -184,7 +184,7 @@ export const Sidebar = ({ onToggleGuide, showGuide, className = '' }) => {
       </div>
 
       {/* Lista de Ubicaciones */}
-      <div className="flex-1 overflow-y-auto p-3 space-y-2 custom-scrollbar">
+      <div className="flex-1 min-h-0 overflow-y-auto p-3 space-y-2 custom-scrollbar">
         <div className="flex items-center justify-between text-xs text-stone-400 px-1 py-0.5">
           <span>Ubicaciones ({filteredLocations.length})</span>
           {onToggleGuide && (

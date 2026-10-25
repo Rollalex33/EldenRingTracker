@@ -38,7 +38,7 @@ export const Modal = ({
         </div>
 
         {/* Content */}
-        <div className="p-5 overflow-y-auto custom-scrollbar flex-1 text-slate-300 text-sm">
+        <div className="p-5 overflow-y-auto custom-scrollbar flex-1 min-h-0 text-slate-300 text-sm">
           {children}
         </div>
       </div>

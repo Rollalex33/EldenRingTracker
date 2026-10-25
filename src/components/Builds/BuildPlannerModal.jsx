@@ -547,7 +547,7 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
         </div>
 
         {/* Cuerpo scrolleable */}
-        <div className="flex-1 overflow-y-auto p-3 sm:p-5 custom-scrollbar space-y-4">
+        <div className="flex-1 min-h-0 overflow-y-auto p-3 sm:p-5 custom-scrollbar space-y-4">
           {/* Fila 1: Selector de Clase Inicial + Presets Populares + Builds Guardadas */}
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-3">
             {/* Selector de Clase */}

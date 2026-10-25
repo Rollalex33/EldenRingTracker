@@ -9,15 +9,15 @@ import {
   Settings,
   Sparkles,
   Compass,
-  TreePine,
   ExternalLink,
   ChevronRight,
+  Coins,
+  Route,
+  Award,
+  Crown,
+  Flame,
   Shield,
   Zap,
-  Flame,
-  Award,
-  Layers,
-  CheckCircle2,
 } from 'lucide-react';
 import { useTrackerStore } from '../../store/useTrackerStore';
 import checklistCatalog from '../../data/checklistCatalog.json';
@@ -29,6 +29,8 @@ export function HubHome({
   onOpenPlatinum,
   onOpenEquipLoad,
   onOpenBuilds,
+  onOpenRuneCalc,
+  onOpenProgression,
 }) {
   const {
     itemsCompletados,
@@ -57,9 +59,6 @@ export function HubHome({
     }
   });
 
-  const basePct = baseTotal > 0 ? ((baseDone / baseTotal) * 100).toFixed(1) : '0';
-  const dlcPct = dlcTotal > 0 ? ((dlcDone / dlcTotal) * 100).toFixed(1) : '0';
-
   // Progreso de Platino
   let platinumTotal = 0;
   let platinumDone = 0;
@@ -71,6 +70,24 @@ export function HubHome({
   });
   const platinumPct = Math.round((platinumDone / (platinumTotal || 1)) * 100);
 
+  // Título Dinámico del Jugador
+  const getTarnishedTitle = () => {
+    if (completedCatalog >= 2000 || platinumDone >= 30) {
+      return { title: 'Señor del Círculo (Elden Lord)', desc: 'Has dominado cada rincón de The Lands Between', color: 'text-amber-300' };
+    }
+    if (completedCatalog >= 1000 || platinumDone >= 20) {
+      return { title: 'Portador de Grandes Runas', desc: 'Tu poder hace temblar a los semidioses', color: 'text-yellow-400' };
+    }
+    if (completedCatalog >= 500 || platinumDone >= 10) {
+      return { title: 'Campeón del Árbol Áureo', desc: 'Un guerrero temido a lo largo del continente', color: 'text-emerald-400' };
+    }
+    if (completedCatalog >= 150) {
+      return { title: 'Guerrero Veterano', desc: 'Has forjado tu sendero con sangre y acero', color: 'text-sky-400' };
+    }
+    return { title: 'Sinluz Recién Llegado', desc: 'Guiado por la Gracia hacia tu destino divino', color: 'text-stone-300' };
+  };
+
+  const tarnishedRank = getTarnishedTitle();
   const activeQuest = questlines.find((q) => q.id === selectedQuestlineId) || questlines[0];
 
   const tools = [
@@ -85,14 +102,14 @@ export function HubHome({
       actionLabel: 'Abrir Compendio',
       onClick: () => onNavigate('checklist'),
       highlight: true,
-      accentBorder: 'border-elden-gold/60 hover:border-elden-gold',
-      iconBg: 'bg-amber-500/10 text-elden-gold border-elden-gold/50',
+      accentBorder: 'border-amber-500/50 hover:border-amber-400',
+      iconBg: 'bg-amber-500/10 text-amber-300 border-amber-500/40',
     },
     {
       id: 'map',
-      title: 'Mapa Interactivo',
-      tagline: 'Cartografía GIS Planar de Alta Resolución',
-      desc: 'Explora The Lands Between, el Reino de las Sombras (DLC) y el Mundo Subterráneo con 437 marcadores sincronizados, navegación flyTo y zoom continental.',
+      title: 'Mapa Interactivo GIS',
+      tagline: 'Superficie, Subterráneo y DLC Erdtree',
+      desc: 'Explora The Lands Between, el Reino de las Sombras y el Mundo Subterráneo con 437 marcadores sincronizados, navegación flyTo y zoom continental.',
       icon: Map,
       badge: '437 Marcadores',
       badgeStyle: 'bg-sky-950/80 text-sky-300 border-sky-500/40',
@@ -105,10 +122,10 @@ export function HubHome({
       id: 'builds',
       title: 'Constructor de Builds & Equipo',
       tagline: 'Optimizador de Atributos, Armas, Magias y Cenizas',
-      desc: 'Configura tus 8 atributos, elige entre 10 clases oficiales, calcula HP/FP/Stamina con softcaps reales y recibe sugerencias de armas, armaduras y talismanes compatibles.',
+      desc: 'Configura tus 8 atributos, elige entre 10 clases iniciales, calcula HP/FP/Stamina con softcaps reales y recibe sugerencias de armas y talismanes compatibles.',
       icon: Sword,
-      badge: 'Nuevo & Recomendado',
-      badgeStyle: 'bg-emerald-950/80 text-emerald-300 border-emerald-500/40 animate-pulse',
+      badge: 'Build Engine',
+      badgeStyle: 'bg-emerald-950/80 text-emerald-300 border-emerald-500/40',
       actionLabel: 'Diseñar Build',
       onClick: () => onOpenBuilds(),
       highlight: true,
@@ -116,10 +133,38 @@ export function HubHome({
       iconBg: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/40',
     },
     {
+      id: 'runes',
+      title: 'Calculadora de Runas & Zurrón',
+      tagline: 'Fórmula Oficial FromSoftware & Bolsa Dorada',
+      desc: 'Calcula exactamente cuántas runas necesitas para alcanzar tu nivel objetivo. Cuenta tus Runas Doradas [1]-[13], de Héroe y Señor para saber si ya puedes subir de nivel.',
+      icon: Coins,
+      badge: 'Nuevo & Exclusivo',
+      badgeStyle: 'bg-amber-500/20 text-amber-300 border-amber-500/40 animate-pulse',
+      actionLabel: 'Calcular Runas',
+      onClick: () => onOpenRuneCalc(),
+      highlight: true,
+      accentBorder: 'border-amber-400/60 hover:border-amber-300',
+      iconBg: 'bg-amber-500/15 text-amber-300 border-amber-500/50',
+    },
+    {
+      id: 'progression',
+      title: 'Ruta Óptima de Progresión',
+      tagline: '18 Regiones con Niveles & Mejoras de Armas',
+      desc: 'Guía cronológica región por región con nivel recomendado (+0 a +25), mejoras sombrías (+1 a +10), jefes clave y checklist de hitos sin atascarte ni saltarte eventos.',
+      icon: Route,
+      badge: '18 Regiones',
+      badgeStyle: 'bg-yellow-950/80 text-yellow-300 border-yellow-500/40',
+      actionLabel: 'Ver Ruta Óptima',
+      onClick: () => onOpenProgression(),
+      highlight: true,
+      accentBorder: 'border-yellow-500/50 hover:border-yellow-400',
+      iconBg: 'bg-yellow-500/10 text-yellow-300 border-yellow-500/40',
+    },
+    {
       id: 'equipload',
       title: 'Calculadora de Carga & Rodamiento',
       tagline: 'Elimina el Fat Roll & Optimiza tu Aguante',
-      desc: 'Simula el peso total de tu armamento y armaduras. Calcula el Aguante exacto que necesitas para mantener rodamiento medio o ligero, con soporte para talismanes de carga.',
+      desc: 'Simula el peso total de tu armamento y armaduras. Calcula el Aguante exacto para mantener rodamiento medio o ligero, con soporte para talismanes de carga.',
       icon: Scale,
       badge: 'Fórmulas Auténticas',
       badgeStyle: 'bg-amber-950/80 text-amber-200 border-amber-600/40',
@@ -148,13 +193,13 @@ export function HubHome({
       desc: `Guía detallada de las historias secundarias de personajes principales (${activeQuest?.nombre || 'Ranni'}, Millicent, Alexander, etc.) con detección de bifurcaciones críticas.`,
       icon: BookOpen,
       badge: 'Quests Guiadas',
-      badgeStyle: 'bg-slate-800 text-slate-300 border-slate-700',
+      badgeStyle: 'bg-stone-800 text-stone-300 border-stone-700',
       actionLabel: 'Ver Misiones',
       onClick: () => {
         onNavigate('map');
       },
-      accentBorder: 'border-slate-700 hover:border-slate-500',
-      iconBg: 'bg-slate-800 text-slate-300 border-slate-700',
+      accentBorder: 'border-stone-700 hover:border-stone-500',
+      iconBg: 'bg-stone-800 text-stone-300 border-stone-700',
     },
     {
       id: 'settings',
@@ -163,18 +208,18 @@ export function HubHome({
       desc: 'Exporta toda tu partida a un archivo JSON que puedes restaurar en cualquier momento o sincronizar entre distintos dispositivos sin perder tus marcas.',
       icon: Settings,
       badge: 'Seguridad JSON',
-      badgeStyle: 'bg-slate-800 text-slate-300 border-slate-700',
+      badgeStyle: 'bg-stone-800 text-stone-300 border-stone-700',
       actionLabel: 'Gestionar Datos',
       onClick: () => onOpenSettings(),
-      accentBorder: 'border-slate-700 hover:border-slate-500',
-      iconBg: 'bg-slate-800 text-slate-300 border-slate-700',
+      accentBorder: 'border-stone-700 hover:border-stone-500',
+      iconBg: 'bg-stone-800 text-stone-300 border-stone-700',
     },
   ];
 
   return (
-    <div className="min-h-screen w-screen bg-gradient-to-b from-elden-950 via-elden-900 to-elden-950 text-slate-100 overflow-y-auto custom-scrollbar font-sans select-none pb-16">
+    <div className="h-full w-full bg-[#06070a] text-slate-100 overflow-y-auto custom-scrollbar font-sans pb-20">
       {/* 1. Hero Header Atmosférico */}
-      <header className="relative border-b border-elden-gold/30 bg-gradient-to-r from-elden-950 via-elden-900 to-elden-950 px-4 sm:px-8 py-8 sm:py-12 overflow-hidden shadow-2xl">
+      <header className="relative border-b border-stone-800/80 bg-gradient-to-r from-[#040508] via-[#090a10] to-[#040508] px-4 sm:px-8 py-8 sm:py-12 overflow-hidden shadow-2xl">
         {/* Resplandor áureo decorativo */}
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-amber-500/10 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute top-0 right-1/4 w-64 h-64 bg-purple-500/5 rounded-full blur-3xl pointer-events-none" />
@@ -182,7 +227,7 @@ export function HubHome({
         <div className="relative max-w-6xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-6">
           <div className="space-y-3">
             <div className="flex items-center gap-2 flex-wrap">
-              <span className="text-xs font-serif uppercase tracking-widest px-3 py-1 rounded-full bg-gradient-to-r from-amber-950 via-elden-900 to-amber-950 border border-elden-gold/60 text-elden-gold font-bold flex items-center gap-1.5 shadow-gold-glow">
+              <span className="text-xs font-serif uppercase tracking-widest px-3 py-1 rounded-full bg-gradient-to-r from-amber-950 via-stone-900 to-amber-950 border border-amber-500/50 text-amber-300 font-bold flex items-center gap-1.5 shadow-[0_0_15px_rgba(201,160,80,0.2)]">
                 <Sparkles className="w-3.5 h-3.5 text-amber-300 animate-pulse" />
                 <span>LA MESA REDONDA · SANTUARIO DE GUÍAS</span>
               </span>
@@ -191,7 +236,7 @@ export function HubHome({
                 href="https://www.eliteguias.com/guias/e/er/elden-ring.php"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-xs font-serif px-3 py-1 rounded-full bg-elden-950 hover:bg-elden-850 text-slate-400 hover:text-elden-gold border border-slate-800 hover:border-elden-gold/50 transition flex items-center gap-1"
+                className="text-xs font-serif px-3 py-1 rounded-full bg-black/60 hover:bg-stone-800 text-stone-400 hover:text-amber-300 border border-stone-800 hover:border-amber-500/40 transition flex items-center gap-1"
               >
                 <span>EliteGuías Oficial</span>
                 <ExternalLink className="w-3 h-3" />
@@ -202,34 +247,49 @@ export function HubHome({
               ELDEN RING TRACKER
             </h1>
 
-            <p className="text-xs sm:text-sm text-slate-300 font-sans max-w-2xl leading-relaxed">
+            <p className="text-xs sm:text-sm text-stone-300 font-sans max-w-2xl leading-relaxed">
               Tu centro integral de herramientas para el 100% de <em>The Lands Between</em> y <em>Shadow of the Erdtree</em>.
               Selecciona una herramienta para comenzar tu viaje sin perder ningún coleccionable.
             </p>
+
+            {/* Tarjeta de Rango del Sinluz */}
+            <div className="pt-2 flex items-center gap-3">
+              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-amber-500/20 to-stone-900 border border-amber-500/50 flex items-center justify-center text-amber-300">
+                <Crown className="w-4 h-4" />
+              </div>
+              <div>
+                <div className="text-xs font-serif font-bold text-stone-200">
+                  Rango del Sinluz: <span className={tarnishedRank.color}>{tarnishedRank.title}</span>
+                </div>
+                <div className="text-[11px] text-stone-400 font-sans">
+                  {tarnishedRank.desc}
+                </div>
+              </div>
+            </div>
           </div>
 
           {/* Tarjeta de Resumen Rápido de Progreso Global */}
-          <div className="bg-elden-950/80 border border-elden-gold/40 rounded-2xl p-4 sm:p-5 flex flex-col justify-between space-y-3 shadow-runic min-w-[280px]">
+          <div className="bg-[#0a0b12] border border-amber-500/40 rounded-3xl p-4 sm:p-5 flex flex-col justify-between space-y-3 shadow-2xl min-w-[280px]">
             <div className="flex items-center justify-between text-xs">
               <span className="font-serif font-bold text-amber-200 flex items-center gap-1.5">
-                <Award className="w-4 h-4 text-elden-gold" /> PROGRESO TOTAL
+                <Award className="w-4 h-4 text-amber-400" /> PROGRESO TOTAL
               </span>
               <span className="font-serif font-black text-base gold-gradient-text">{catalogPct}%</span>
             </div>
 
-            <div className="w-full h-2.5 bg-elden-900 rounded-full border border-slate-800 overflow-hidden p-0.5">
+            <div className="w-full h-2.5 bg-stone-900 rounded-full border border-stone-800 overflow-hidden p-0.5">
               <div
-                className="h-full bg-gradient-to-r from-amber-600 via-elden-gold to-amber-300 rounded-full shadow-gold-glow transition-all duration-500"
+                className="h-full bg-gradient-to-r from-amber-600 via-amber-400 to-yellow-300 rounded-full shadow-[0_0_10px_rgba(201,160,80,0.5)] transition-all duration-500"
                 style={{ width: `${catalogPct}%` }}
               />
             </div>
 
             <div className="grid grid-cols-2 gap-2 pt-1 text-[11px] font-mono">
-              <div className="bg-elden-900/60 p-2 rounded-xl border border-slate-800/80">
-                <span className="text-slate-400 block text-[10px]">Juego Base</span>
+              <div className="bg-[#06070a] p-2.5 rounded-xl border border-stone-800">
+                <span className="text-stone-400 block text-[10px]">Juego Base</span>
                 <strong className="text-amber-200">{baseDone}/{baseTotal}</strong>
               </div>
-              <div className="bg-elden-900/60 p-2 rounded-xl border border-slate-800/80">
+              <div className="bg-[#06070a] p-2.5 rounded-xl border border-stone-800">
                 <span className="text-purple-300 block text-[10px]">DLC Erdtree</span>
                 <strong className="text-purple-200">{dlcDone}/{dlcTotal}</strong>
               </div>
@@ -240,13 +300,13 @@ export function HubHome({
 
       {/* 2. Grid de Herramientas y Módulos */}
       <main className="max-w-6xl mx-auto px-4 sm:px-8 py-8 sm:py-10 space-y-8">
-        <div className="flex items-center justify-between border-b border-slate-800 pb-3">
+        <div className="flex items-center justify-between border-b border-stone-800 pb-3">
           <div>
             <h2 className="text-xl sm:text-2xl font-decorative font-bold text-amber-100 flex items-center gap-2">
-              <Compass className="w-5 h-5 text-elden-gold" />
+              <Compass className="w-5 h-5 text-amber-400" />
               <span>Módulos y Herramientas del Aventurero</span>
             </h2>
-            <p className="text-xs text-slate-400 font-sans mt-0.5">
+            <p className="text-xs text-stone-400 font-sans mt-0.5">
               Elige cualquiera de las utilidades integradas diseñadas para dominar cada aspecto del juego
             </p>
           </div>
@@ -259,8 +319,8 @@ export function HubHome({
               <div
                 key={tool.id}
                 onClick={tool.onClick}
-                className={`group relative rounded-3xl border bg-gradient-to-br from-elden-900/90 via-elden-950 to-elden-950 p-5 sm:p-6 flex flex-col justify-between transition-all duration-300 hover:shadow-2xl cursor-pointer overflow-hidden ${tool.accentBorder} ${
-                  tool.highlight ? 'shadow-runic hover:scale-[1.01]' : 'hover:scale-[1.01]'
+                className={`group relative rounded-3xl border bg-gradient-to-br from-[#0c0d15] via-[#090a10] to-[#06070a] p-5 sm:p-6 flex flex-col justify-between transition-all duration-300 hover:shadow-2xl cursor-pointer overflow-hidden ${tool.accentBorder} ${
+                  tool.highlight ? 'hover:scale-[1.01]' : 'hover:scale-[1.01]'
                 }`}
               >
                 {/* Fondo sutil dinámico */}
@@ -280,24 +340,24 @@ export function HubHome({
 
                   {/* Títulos y Descripción */}
                   <div>
-                    <h3 className="text-base sm:text-lg font-serif font-bold text-amber-100 group-hover:text-amber-200 transition-colors">
+                    <h3 className="text-base sm:text-lg font-serif font-bold text-stone-100 group-hover:text-amber-200 transition-colors">
                       {tool.title}
                     </h3>
-                    <span className="text-[11px] font-mono text-amber-300/70 block mt-0.5">
+                    <span className="text-[11px] font-mono text-amber-400/80 block mt-0.5">
                       {tool.tagline}
                     </span>
-                    <p className="text-xs text-slate-300 font-sans leading-relaxed mt-2.5">
+                    <p className="text-xs text-stone-300 font-sans leading-relaxed mt-2.5">
                       {tool.desc}
                     </p>
                   </div>
                 </div>
 
                 {/* Botón de Acción en la Tarjeta */}
-                <div className="pt-4 border-t border-slate-800/80 mt-5 flex items-center justify-between text-xs font-serif font-bold">
-                  <span className="text-slate-400 group-hover:text-amber-200 transition-colors">
+                <div className="pt-4 border-t border-stone-800/80 mt-5 flex items-center justify-between text-xs font-serif font-bold">
+                  <span className="text-stone-400 group-hover:text-amber-200 transition-colors">
                     {tool.actionLabel}
                   </span>
-                  <div className="w-7 h-7 rounded-xl bg-elden-850 group-hover:bg-elden-gold group-hover:text-elden-950 text-slate-400 flex items-center justify-center transition-all">
+                  <div className="w-7 h-7 rounded-xl bg-stone-900 group-hover:bg-amber-500 group-hover:text-stone-950 text-stone-400 flex items-center justify-center transition-all">
                     <ChevronRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
                   </div>
                 </div>
@@ -308,15 +368,15 @@ export function HubHome({
       </main>
 
       {/* 3. Footer con Atribuciones */}
-      <footer className="max-w-6xl mx-auto px-4 sm:px-8 pt-8 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-serif text-slate-400">
+      <footer className="max-w-6xl mx-auto px-4 sm:px-8 pt-8 border-t border-stone-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-serif text-stone-400">
         <div className="flex items-center gap-2">
-          <Sparkles className="w-4 h-4 text-elden-gold" />
-          <span>Elden Ring Interactive Tracker & Companion Engine</span>
+          <Sparkles className="w-4 h-4 text-amber-400" />
+          <span>Elden Ring Companion & Guide Engine</span>
         </div>
         <div className="flex items-center gap-3">
           <button
             onClick={() => onOpenSettings()}
-            className="hover:text-elden-gold transition flex items-center gap-1"
+            className="hover:text-amber-300 transition flex items-center gap-1"
           >
             <Settings className="w-3.5 h-3.5" />
             <span>Ajustes & Respaldo</span>

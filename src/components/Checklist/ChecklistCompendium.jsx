@@ -23,6 +23,9 @@ import { EquipLoadModal } from '../Calculator/EquipLoadModal';
 import { PlatinumModal } from '../Platinum/PlatinumModal';
 import { AppHubMenu } from '../UI/AppHubMenu';
 import { BuildPlannerModal } from '../Builds/BuildPlannerModal';
+import { RuneCalculatorModal } from '../Calculator/RuneCalculatorModal';
+import { ProgressionRouteModal } from '../Progression/ProgressionRouteModal';
+import { FloatingQuickHUD } from '../Navigation/FloatingQuickHUD';
 import { sortSubcategoriesByGame, sortItems, normalizeStr } from '../../utils/gameOrder';
 import { getItemById } from '../../utils/itemLinker';
 import { buildArmorUnits } from '../../utils/armorSets';
@@ -61,6 +64,8 @@ export function ChecklistCompendium() {
   const [isPlatinumOpen, setIsPlatinumOpen] = useState(false);
   const [isHubMenuOpen, setIsHubMenuOpen] = useState(false);
   const [isBuildPlannerOpen, setIsBuildPlannerOpen] = useState(false);
+  const [isRuneCalcOpen, setIsRuneCalcOpen] = useState(false);
+  const [isProgressionOpen, setIsProgressionOpen] = useState(false);
   const [displayLimit, setDisplayLimit] = useState(100);
 
   const handleHubNavigate = (target) => {
@@ -77,6 +82,12 @@ export function ChecklistCompendium() {
         break;
       case 'builds':
         setIsBuildPlannerOpen(true);
+        break;
+      case 'runes':
+        setIsRuneCalcOpen(true);
+        break;
+      case 'progression':
+        setIsProgressionOpen(true);
         break;
       case 'equipload':
         setIsEquipLoadOpen(true);
@@ -555,7 +566,7 @@ export function ChecklistCompendium() {
       <main
         ref={mainScrollRef}
         onScroll={handleMainScroll}
-        className="flex-1 overflow-y-auto p-2 sm:p-4 custom-scrollbar overscroll-contain"
+        className="flex-1 min-h-0 overflow-y-auto p-2 sm:p-4 custom-scrollbar overscroll-contain"
       >
         {filteredItems.length === 0 ? (
           <div className="h-64 flex flex-col items-center justify-center gap-3 text-slate-500 text-center px-4">
@@ -760,6 +771,28 @@ export function ChecklistCompendium() {
         isOpen={isBuildPlannerOpen}
         onClose={() => setIsBuildPlannerOpen(false)}
         onOpenItem={(it) => openItemModal(it)}
+      />
+
+      {/* Calculadora de Runas & Zurrón */}
+      <RuneCalculatorModal
+        isOpen={isRuneCalcOpen}
+        onClose={() => setIsRuneCalcOpen(false)}
+      />
+
+      {/* Ruta Óptima de Progresión */}
+      <ProgressionRouteModal
+        isOpen={isProgressionOpen}
+        onClose={() => setIsProgressionOpen(false)}
+      />
+
+      {/* Dock Rápido Flotante */}
+      <FloatingQuickHUD
+        onOpenBuilds={() => setIsBuildPlannerOpen(true)}
+        onOpenEquipLoad={() => setIsEquipLoadOpen(true)}
+        onOpenPlatinum={() => setIsPlatinumOpen(true)}
+        onOpenRuneCalc={() => setIsRuneCalcOpen(true)}
+        onOpenProgression={() => setIsProgressionOpen(true)}
+        onOpenSettings={() => setIsSettingsOpen(true)}
       />
 
       {/* Toast de navegación atrás (Android double-tap exit prevention) */}

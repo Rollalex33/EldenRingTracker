@@ -53,6 +53,10 @@ html, body, #root {
 }
 
 /* Custom Dark Fantasy Scrollbar */
+.custom-scrollbar {
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
 .custom-scrollbar::-webkit-scrollbar {
   width: 6px;
   height: 6px;
