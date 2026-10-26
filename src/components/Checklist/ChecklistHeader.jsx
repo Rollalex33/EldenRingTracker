@@ -27,6 +27,7 @@ import {
   Menu,
   Home,
 } from 'lucide-react';
+import { useTrackerStore } from '../../store/useTrackerStore';
 
 export function ChecklistHeader({
   totalCompleted,
@@ -98,6 +99,14 @@ export function ChecklistHeader({
                   <span className="tracking-wide">EliteGuías</span>
                   <ExternalLink className="w-2.5 h-2.5" />
                 </a>
+
+                <button
+                  onClick={() => useTrackerStore.getState().setActiveGame('bloodborne')}
+                  className="text-[10px] sm:text-[11px] font-serif px-2.5 py-0.5 rounded-full bg-rose-950/70 hover:bg-rose-900 text-rose-300 hover:text-rose-100 border border-rose-500/50 transition flex items-center gap-1 shadow-sm active:scale-95"
+                  title="Cambiar a Bloodborne (Yharnam)"
+                >
+                  <span>Ir a Bloodborne 🩸</span>
+                </button>
               </div>
 
               <h1 className="text-xl sm:text-2xl md:text-3xl font-decorative font-black tracking-wider gold-gradient-text drop-shadow-md truncate mt-1">

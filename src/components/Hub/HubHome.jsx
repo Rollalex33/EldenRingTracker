@@ -18,6 +18,7 @@ import {
   Flame,
   Shield,
   Zap,
+  Crosshair,
 } from 'lucide-react';
 import { useTrackerStore } from '../../store/useTrackerStore';
 import checklistCatalog from '../../data/checklistCatalog.json';
@@ -37,6 +38,7 @@ export function HubHome({
     mapaActivo,
     questlines,
     selectedQuestlineId,
+    setActiveGame,
   } = useTrackerStore();
 
   const totalCatalog = checklistCatalog.totalItems || 2758;
@@ -91,6 +93,20 @@ export function HubHome({
   const activeQuest = questlines.find((q) => q.id === selectedQuestlineId) || questlines[0];
 
   const tools = [
+    {
+      id: 'bloodborne',
+      title: 'Bloodborne Companion 🩸',
+      tagline: 'El Sueño del Cazador & Cálices',
+      desc: 'Cambia al universo gótico de Yharnam con compendio completo de armas con truco, calculadora de Ecos, Taller de Builds y ruta de cálices para el Platino.',
+      icon: Crosshair,
+      badge: 'Juego Nuevo',
+      badgeStyle: 'bg-rose-950 text-rose-300 border-rose-500/40 animate-pulse',
+      actionLabel: 'Entrar a Yharnam',
+      onClick: () => setActiveGame('bloodborne'),
+      highlight: true,
+      accentBorder: 'border-rose-500/50 hover:border-rose-400',
+      iconBg: 'bg-rose-950/40 text-rose-300 border-rose-500/40',
+    },
     {
       id: 'checklist',
       title: 'Compendio de Coleccionables',
@@ -241,6 +257,14 @@ export function HubHome({
                 <span>EliteGuías Oficial</span>
                 <ExternalLink className="w-3 h-3" />
               </a>
+
+              <button
+                onClick={() => setActiveGame('bloodborne')}
+                className="text-xs font-serif px-3 py-1 rounded-full bg-rose-950/70 hover:bg-rose-900 text-rose-300 hover:text-rose-100 border border-rose-500/50 transition flex items-center gap-1.5 active:scale-95 shadow-sm"
+                title="Cambiar al universo de Bloodborne (Yharnam)"
+              >
+                <span>Ir a Bloodborne 🩸</span>
+              </button>
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-decorative font-black tracking-wider gold-gradient-text drop-shadow-lg">

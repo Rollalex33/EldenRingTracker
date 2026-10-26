@@ -24,7 +24,7 @@ export function FloatingQuickHUD({
   onOpenSettings,
 }) {
   const [isCollapsed, setIsCollapsed] = useState(false);
-  const { viewMode, setViewMode, itemsCompletados } = useTrackerStore();
+  const { viewMode, setViewMode, itemsCompletados, setActiveGame } = useTrackerStore();
 
   const totalDone = itemsCompletados.size;
 
@@ -144,6 +144,16 @@ export function FloatingQuickHUD({
           </button>
 
           <div className="w-[1px] h-5 bg-stone-800" />
+
+          {/* Bloodborne */}
+          <button
+            onClick={() => setActiveGame('bloodborne')}
+            className="px-2 sm:px-2.5 py-1.5 rounded-xl bg-rose-950/60 hover:bg-rose-900 border border-rose-500/40 text-rose-300 hover:text-rose-100 flex items-center gap-1 text-xs font-serif transition active:scale-95 shadow-sm"
+            title="Cambiar a Bloodborne (Yharnam)"
+          >
+            <span>🩸</span>
+            <span className="hidden md:inline font-bold">BB</span>
+          </button>
 
           {/* 9. Ajustes */}
           <button

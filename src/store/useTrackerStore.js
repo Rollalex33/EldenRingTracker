@@ -11,7 +11,9 @@ export const useTrackerStore = create(
   persist(
     (set, get) => ({
       // Estado base de completado y filtros
+      activeGame: 'elden', // 'elden' | 'bloodborne'
       itemsCompletados: new Set(),
+      itemsCompletados_bb: new Set(),
       filtrosActivos: ['graces', 'bosses', 'dungeons', 'npcs', 'weapons', 'spells', 'ashes', 'key_items'],
       busqueda: '',
       soloPerdibles: false, // Filtro avanzado para contenido perdible
@@ -146,6 +148,29 @@ export const useTrackerStore = create(
             else nextSet.delete(id);
           }
           return { itemsCompletados: nextSet };
+        }),
+
+      setActiveGame: (game) => set({ activeGame: game, viewMode: 'hub' }),
+
+      marcarGrupoItemsBB: (itemIds, marcar = true) =>
+        set((state) => {
+          const nextSet = new Set(state.itemsCompletados_bb);
+          for (const id of itemIds) {
+            if (marcar) nextSet.add(id);
+            else nextSet.delete(id);
+          }
+          return { itemsCompletados_bb: nextSet };
+        }),
+
+      toggleCompletadoBB: (id) =>
+        set((state) => {
+          const nextSet = new Set(state.itemsCompletados_bb);
+          if (nextSet.has(id)) {
+            nextSet.delete(id);
+          } else {
+            nextSet.add(id);
+          }
+          return { itemsCompletados_bb: nextSet };
         }),
 
       // Acciones de completado
@@ -354,7 +379,9 @@ export const useTrackerStore = create(
       storage: createJSONStorage(() => localStorage),
       // Serializar Set a Array para almacenar limpiamente en localStorage
       partialize: (state) => ({
+        activeGame: state.activeGame || 'elden',
         itemsCompletados: Array.from(state.itemsCompletados),
+        itemsCompletados_bb: Array.from(state.itemsCompletados_bb || []),
         filtrosActivos: state.filtrosActivos,
         selectedQuestlineId: state.selectedQuestlineId,
         soloPerdibles: state.soloPerdibles,
@@ -389,10 +416,18 @@ export const useTrackerStore = create(
           } catch (e) {}
         }
 
+        const itemsSetBB = new Set(
+          Array.isArray(persistedState?.itemsCompletados_bb)
+            ? persistedState.itemsCompletados_bb
+            : []
+        );
+
         return {
           ...currentState,
           ...persistedState,
+          activeGame: persistedState?.activeGame || 'elden',
           itemsCompletados: itemsSet,
+          itemsCompletados_bb: itemsSetBB,
           soloPerdibles: Boolean(persistedState?.soloPerdibles),
           mapaActivo: persistedState?.mapaActivo || 'surface',
           viewMode: 'hub',

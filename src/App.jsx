@@ -30,6 +30,12 @@ import { RuneCalculatorModal } from './components/Calculator/RuneCalculatorModal
 import { ProgressionRouteModal } from './components/Progression/ProgressionRouteModal';
 import { FloatingQuickHUD } from './components/Navigation/FloatingQuickHUD';
 import { HubHome } from './components/Hub/HubHome';
+import { BloodborneHub } from './components/Bloodborne/BloodborneHub';
+import { BloodborneCompendium } from './components/Bloodborne/BloodborneCompendium';
+import { BloodborneBuildModal } from './components/Bloodborne/BloodborneBuildModal';
+import { BloodborneEchoesModal } from './components/Bloodborne/BloodborneEchoesModal';
+import { BloodborneChaliceModal } from './components/Bloodborne/BloodborneChaliceModal';
+import { BloodborneQuestsModal } from './components/Bloodborne/BloodborneQuestsModal';
 
 /**
  * Layout Principal con Split-Screen UI y Modo Checklist Compendio
@@ -51,8 +57,17 @@ export function App() {
   const [isRuneCalcOpen, setIsRuneCalcOpen] = useState(false);
   const [isProgressionOpen, setIsProgressionOpen] = useState(false);
 
+  // Estados de Modales para Bloodborne
+  const [isBBBuildOpen, setIsBBBuildOpen] = useState(false);
+  const [isBBEchoesOpen, setIsBBEchoesOpen] = useState(false);
+  const [isBBChaliceOpen, setIsBBChaliceOpen] = useState(false);
+  const [isBBQuestsOpen, setIsBBQuestsOpen] = useState(false);
+
   const {
+    activeGame,
+    setActiveGame,
     itemsCompletados,
+    itemsCompletados_bb,
     questlines,
     selectedQuestlineId,
     locations,
@@ -221,6 +236,47 @@ export function App() {
       window.history.back();
     }
   };
+
+  // VISTA DEDICADA DE BLOODBORNE (Sin mapa, con todas las herramientas góticas)
+  if (activeGame === 'bloodborne') {
+    if (viewMode === 'checklist') {
+      return (
+        <div className="h-screen w-screen overflow-hidden flex flex-col bg-[#060508]">
+          <BloodborneCompendium
+            onOpenBuilds={() => setIsBBBuildOpen(true)}
+            onOpenEchoes={() => setIsBBEchoesOpen(true)}
+            onOpenChalice={() => setIsBBChaliceOpen(true)}
+            onOpenQuests={() => setIsBBQuestsOpen(true)}
+            onSwitchGame={() => setActiveGame('elden')}
+          />
+          <BloodborneBuildModal isOpen={isBBBuildOpen} onClose={() => setIsBBBuildOpen(false)} />
+          <BloodborneEchoesModal isOpen={isBBEchoesOpen} onClose={() => setIsBBEchoesOpen(false)} />
+          <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
+          <BloodborneQuestsModal isOpen={isBBQuestsOpen} onClose={() => setIsBBQuestsOpen(false)} />
+          <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
+        </div>
+      );
+    }
+
+    return (
+      <div className="h-screen w-screen overflow-hidden flex flex-col bg-[#060508]">
+        <BloodborneHub
+          onNavigate={(target) => setViewMode(target)}
+          onOpenBuilds={() => setIsBBBuildOpen(true)}
+          onOpenEchoes={() => setIsBBEchoesOpen(true)}
+          onOpenChalice={() => setIsBBChaliceOpen(true)}
+          onOpenQuests={() => setIsBBQuestsOpen(true)}
+          onOpenSettings={openSettings}
+          onSwitchGame={() => setActiveGame('elden')}
+        />
+        <BloodborneBuildModal isOpen={isBBBuildOpen} onClose={() => setIsBBBuildOpen(false)} />
+        <BloodborneEchoesModal isOpen={isBBEchoesOpen} onClose={() => setIsBBEchoesOpen(false)} />
+        <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
+        <BloodborneQuestsModal isOpen={isBBQuestsOpen} onClose={() => setIsBBQuestsOpen(false)} />
+        <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
+      </div>
+    );
+  }
 
   // Si el usuario está en el Menú Principal (Hub), renderizar la vista de bienvenida
   if (viewMode === 'hub') {
