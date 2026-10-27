@@ -32,14 +32,17 @@ export function BloodborneHub({
   const catalogPct = Math.round((completedCount / (totalCatalog || 1)) * 100);
 
   const getHunterRank = () => {
-    if (completedCount >= 180) {
+    if (completedCount >= 400) {
       return { title: 'Gran Ser Trascendido', desc: 'Has ascendido más allá del plano cósmico de la Pesadilla.', color: 'text-purple-300' };
     }
-    if (completedCount >= 100) {
+    if (completedCount >= 250) {
       return { title: 'Cazador de Cazadores', desc: 'Portador de la Insignia de Cuervo y ejecutor de la sangre embriagada.', color: 'text-rose-400' };
     }
-    if (completedCount >= 50) {
+    if (completedCount >= 100) {
       return { title: 'Verdugo de la Iglesia', desc: 'Guerrero devoto consagrado al Taller de la Sanación.', color: 'text-rose-300' };
+    }
+    if (completedCount >= 30) {
+      return { title: 'Cazador del Taller', desc: 'Armado con el arsenal de Gehrman en las calles de Yharnam.', color: 'text-rose-200' };
     }
     return { title: 'Cazador Iniciado', desc: 'Despertado en la camilla de la clínica por la transfusión de sangre.', color: 'text-stone-300' };
   };
@@ -50,8 +53,8 @@ export function BloodborneHub({
     {
       id: 'compendium',
       title: 'Compendio de Yharnam',
-      tagline: 'Armas con Truco, Armas de Fuego, Runas y Jefes',
-      desc: 'Rastrea las 26 armas con truco, armas de fuego, 18 herramientas arcanas, runas de Caryll y jefes de la Pesadilla.',
+      tagline: 'Compendio 100% de 457 Ítems, Atuendos, Cálices & Guía',
+      desc: 'Rastrea las 26 armas con truco, 14 de fuego, 123 atuendos, herramientas, cálices, runas, gemas, jefes y personajes de la guía oficial.',
       icon: Sword,
       badge: `${completedCount} / ${totalCatalog} (${catalogPct}%)`,
       badgeStyle: 'bg-rose-950 text-rose-300 border-rose-500/40',
