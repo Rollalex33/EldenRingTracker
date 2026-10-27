@@ -1,0 +1,34 @@
+{
+  "title": "Atuendo del Coro",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p75.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-del-coro.jpg"
+  ],
+  "lore": "Atuendo del Coro, miembros de alto rango de la Iglesia de la Sanación.\n\n \n\nEl Coro está formado por los clérigos de mayor rango y por eruditos que continúan con el trabajo iniciado en Byrgenwerth. Junto con los Grandes abandonados, observan el cielo en busca de signos astrales que les permitan redescubrir la auténtica grandeza.",
+  "intro": [
+    "Lo encontrarás en un cadáver del Distrito de la Catedral superior, junto con el resto del set menos la Gorra, que va aparte."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 80",
+        "-Ctra. contund.: 80",
+        "-Ctra. arremetida: 80",
+        "-DEF con sangre: 80",
+        "-Arcano: 150",
+        "-Fuego: 110",
+        "-Rayo: 110",
+        "-RES a env. lento: 46",
+        "-RES env. rápido: 38",
+        "-RES a frenesí: 16",
+        "-Bestialidad: 38",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 80\n-Ctra. contund.: 80\n-Ctra. arremetida: 80\n-DEF con sangre: 80\n-Arcano: 150\n-Fuego: 110\n-Rayo: 110\n-RES a env. lento: 46\n-RES env. rápido: 38\n-RES a frenesí: 16\n-Bestialidad: 38\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Lago arcano",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p16.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/lago-arcano.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEstsa transcripción de las voces inhumanas de los Grandes ondula como un reflejo acuoso. Esta runa significa \"lago\" y quienes la memorizan disfrutan de una reducción del daño arcano.\n\n \n\nGrandes volúmenes de agua sirven como baluarte que protege el sueño y como augurio de la verdad arcana.\n\n \n\nSupera este obstáculo y busca lo que te pertenece.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una runa \"lago\". Aumenta la reducción de daño arcano.",
+        "-Efecto:",
+        "Reducción DÑO arcano +5%/+7%."
+      ],
+      "text": "Una runa \"lago\". Aumenta la reducción de daño arcano.\n-Efecto:\nReducción DÑO arcano +5%/+7%.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +7% la encontrarás en un cadáver al principio de  Byrgenwerth .",
+        "-La versión +5% está en un cadáver durante la  segunda visita a Yahar'gul , en la calle de camino al boss  El Renacido ."
+      ],
+      "text": "-La versión +7% la encontrarás en un cadáver al principio de  Byrgenwerth .\n-La versión +5% está en un cadáver durante la  segunda visita a Yahar'gul , en la calle de camino al boss  El Renacido .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

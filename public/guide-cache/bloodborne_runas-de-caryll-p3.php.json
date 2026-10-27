@@ -1,0 +1,33 @@
+{
+  "title": "Bestia",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p3.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/runa-bestia.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de Byrgenwerth.\n\n \n\nPlasma el rugido de una bestia del laberinto. El portador de la runa \"bestia\" potencia los efectos de transformación temproal.\n\n \n\n\"Bestia\" es una de las runas más antiguas de Caryll, así como una de las primeras en ser prohibida. El hallazgo de sangre supuso el descubrimiento de bestias indeseables.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"bestia\". Potencia efecto de transformación temporal.",
+        "-Efecto:",
+        "Mejora temp. transfor. +20/+50/+100"
+      ],
+      "text": "Runa \"bestia\". Potencia efecto de transformación temporal.\n-Efecto:\nMejora temp. transfor. +20/+50/+100",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +20 la suelta la bestia que hay al fondo del  Taller de la Iglesia de la Sanación  cuando la matas.",
+        "-La versión +50 la suelta la bestia del  Bosque prohibido .",
+        "-La versión +100 se encuentra en el mazmorra del  Cáliz raíz del afligido Loran inferior  (gracias al usuario   BloodMaster11   por el dato)."
+      ],
+      "text": "-La versión +20 la suelta la bestia que hay al fondo del  Taller de la Iglesia de la Sanación  cuando la matas.\n-La versión +50 la suelta la bestia del  Bosque prohibido .\n-La versión +100 se encuentra en el mazmorra del  Cáliz raíz del afligido Loran inferior  (gracias al usuario   BloodMaster11   por el dato).",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

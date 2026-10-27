@@ -1,0 +1,53 @@
+{
+  "title": "Escudo de madera",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_escudos-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/escudo-de-madera.jpg"
+  ],
+  "lore": "Un escudo de madera tosco usado por la muchedumbre que se ha alzado para unirse a la cacería.\n\nLos cazadores no suelen usar escudos, ya que no suelen ser efectivos frente a la fuerza de las bestias.\n\nLos escudos están bien, pero no si engendran pasividad.",
+  "intro": [
+    "Está en un cadáver junto al portón tras subir las grandes escaleras en el patio inicial del Distrito de la Catedral."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 8",
+        "Habilidad: 8"
+      ],
+      "text": "Fuerza: 8\nHabilidad: 8",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 120",
+        "NOTA:    Si quieres saber más sobre las estadísticas de los escudos, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 120\nNOTA:    Si quieres saber más sobre las estadísticas de los escudos, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "subcategory": "Juego Base"
+}

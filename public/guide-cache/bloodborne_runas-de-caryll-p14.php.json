@@ -1,0 +1,33 @@
+{
+  "title": "Metamorfosis horaria",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p14.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/metamorfosis-horaria.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de Byrgenwerth.\n\n \n\nLa cruz torcida signfiica \"metamorfosis\".\n\n \n\nAl girar en sentido horario, esta runa aumenta los PS.\n\n \n\nEl descubrimiento de la sangre hizo realidad su sueño evolutivo. La metamorfosis, y los excesos y la desviación subsiguientes, no fueron más que el principio.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una de las runas \"metamorfosis\". Aumenta los PS.",
+        "-Efecto:",
+        "Potencia PS máximos +5%/+10%/+15%"
+      ],
+      "text": "Una de las runas \"metamorfosis\". Aumenta los PS.\n-Efecto:\nPotencia PS máximos +5%/+10%/+15%",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +5% la encontrarás en un cadáver del  Bosque prohibido  cerca del jefazo de la zona.",
+        "-La versión +10% está en un cadáver dentro de una cueva en  Frontera de la pesadilla .",
+        "-La versión +15% se consigue en el Cáliz Pthumeru Ihyll maldito, profundidad 5, agregando ofrenda fétida, podrida y maldición (gracias al usuario   Jesús Echavarria   por el dato)."
+      ],
+      "text": "-La versión +5% la encontrarás en un cadáver del  Bosque prohibido  cerca del jefazo de la zona.\n-La versión +10% está en un cadáver dentro de una cueva en  Frontera de la pesadilla .\n-La versión +15% se consigue en el Cáliz Pthumeru Ihyll maldito, profundidad 5, agregando ofrenda fétida, podrida y maldición (gracias al usuario   Jesús Echavarria   por el dato).",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

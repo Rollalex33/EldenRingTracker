@@ -1,0 +1,35 @@
+{
+  "title": "Vendas de viejo cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p110.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/vendas-de-viejo-cazador.jpg"
+  ],
+  "lore": "Vendas de viejo  cazador. Van ceñidas para prevenir la infección.\n\nObviamente, la  idea de que la infección era contagiosa no era más que una falacia.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Te lo da Yamamura junto con el resto del set (Sombrero de cazador de Yamamura, Haori caqui y Hakama púrpura) al matarlo  dentro de su celda."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.:  40",
+        "-Ctra.  arremetida: 40",
+        "-DEF con sangre:  50",
+        "-Arcano: 60",
+        "-Fuego: 90",
+        "-Rayo: 50",
+        "-RES a env.  lento: 19",
+        "-RES env.  rápido: 17",
+        "-RES a frenesí:  12",
+        "-Bestialidad: 11",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.:  40\n-Ctra.  arremetida: 40\n-DEF con sangre:  50\n-Arcano: 60\n-Fuego: 90\n-Rayo: 50\n-RES a env.  lento: 19\n-RES env.  rápido: 17\n-RES a frenesí:  12\n-Bestialidad: 11\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

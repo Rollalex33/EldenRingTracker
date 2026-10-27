@@ -1,0 +1,61 @@
+{
+  "title": "Romero",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p23.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/romero.jpg"
+  ],
+  "lore": "Un arma especial usada por el Coro, los miembros de alto rango de la Iglesia de la Sanación.\n\nLanza una nube de niebla sagrada creada a partir de balas de mercurio con sangre.\n\nAdemás de la niebla, se escuchanarias, lo que demuestra que la niebla es una bendición celestial.\n\n\"Oh, bella dama, ¿por qué lloras?\".",
+  "intro": [
+    "Te la venden los Mensajeros después de haber conseguido la Insignia de guardián del ojo cósmico."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Habilidad: 8",
+        "Arcano: 8"
+      ],
+      "text": "Habilidad: 8\nArcano: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Arcano: B"
+      ],
+      "text": "Arcano: B",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: 30",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 100",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: 30\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 100\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

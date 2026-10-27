@@ -1,0 +1,35 @@
+{
+  "title": "Guantes largos de cirujano",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p45.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guantes-largos-de-cirujano.jpg"
+  ],
+  "lore": "Unos guantes blancos de cirujano. El intrincando bordado teje un hechizo que protege a quien los lleve puestos.\n\nLa Iglesia desarrolla la caza con una precisión de cirujano.\n\nCuando descubre un cáncer, debe determinar dónde se encuentra, llegar hasta él y arrancárselo de raíz al enfermo.",
+  "intro": [
+    "-En un cadáver por un callejón del Distrito de la Catedral, junto con el resto del set de la iglesia negro (Sombrero, Atuendo, Atuendo inferior).",
+    "-En un cadáver en el tejado de una casa del Bosque prohibido, junto con el resto del set de la iglesia blanco (Sombrero, Atuendo, Atuendo inferior)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 70",
+        "-Arcano: 50",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 32",
+        "-RES env. rápido: 31",
+        "-RES a frenesí: 4",
+        "-Bestialidad: 22",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 40\n-Ctra. arremetida: 50\n-DEF con sangre: 70\n-Arcano: 50\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 32\n-RES env. rápido: 31\n-RES a frenesí: 4\n-Bestialidad: 22\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

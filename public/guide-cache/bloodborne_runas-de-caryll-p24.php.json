@@ -1,0 +1,31 @@
+{
+  "title": "Impureza",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p24.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/impureza.jpg"
+  ],
+  "lore": "Una runa de  Caryll que transcribe sonidos inhumanos.\n\nEsta Runa,  descubierta dentro del devorador de bestias prohibidas, simboliza  “impureza” y el juramento de la Liga.\n\nLos confederados  de la Liga cooperan con cazadores de otros mundos y cazan en busca de  sabandijas.\n\nLas sabandijas  se retuercen en la mugre y son la raíz de la impureza del hombre.  Aplástalas sin dudarlo.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa “impureza”.  Símbolo del  juramento de la Liga .",
+        "-Efecto:",
+        "Pot. PS máx.  Coop. (+2%)"
+      ],
+      "text": "Runa “impureza”.  Símbolo del  juramento de la Liga .\n-Efecto:\nPot. PS máx.  Coop. (+2%)",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Te la da  Valtr  al unirte al juramento."
+      ],
+      "text": "Te la da  Valtr  al unirte al juramento.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Memoria de juramentos"
+}

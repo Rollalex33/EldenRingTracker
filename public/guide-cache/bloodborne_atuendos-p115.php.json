@@ -1,0 +1,36 @@
+{
+  "title": "Pantalones de cazador de Maria",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p115.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-cazador-de-maria.jpg"
+  ],
+  "lore": "Entre los  primeros, que eran todos estudiantes de Gehrman, estaba lady Maria.  Estos eran sus pantalones de cazadora, fabricados en Cainhurst.\n\nMaria es familia  lejana de la reina no muerta, pero sentía gran admiración por  Gehrman, aunque desconocía su curiosa manía.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos  cazadores",
+    "Después de  derrotar al boss Lady Maria, estará disponible a la venta en  los mensajeros de lucidez junto",
+    "con el resto del set (Gorra, Atuendo y Guantes)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.:  50",
+        "-Ctra.  arremetida: 60",
+        "-DEF con sangre:  80",
+        "-Arcano: 50",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env.  lento: 11",
+        "-RES env.  rápido: 30",
+        "-RES a frenesí:  17",
+        "-Bestialidad: 9",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.:  50\n-Ctra.  arremetida: 60\n-DEF con sangre:  80\n-Arcano: 50\n-Fuego: 50\n-Rayo: 50\n-RES a env.  lento: 11\n-RES env.  rápido: 30\n-RES a frenesí:  17\n-Bestialidad: 9\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

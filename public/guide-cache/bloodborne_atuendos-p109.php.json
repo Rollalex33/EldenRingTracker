@@ -1,0 +1,35 @@
+{
+  "title": "Haori caqui",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p109.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/haori-caqui.jpg"
+  ],
+  "lore": "Atuendo de una  lejana tierra oriental, usado por Yamamura, el Vagabundo.\n\nEste guerrero  oriental persiguió a una bestia por una venganza de honor, y luego  se convirtió en cazador de la Liga. Pero cuando miró directamente a  la impureza, enloqueció.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Te lo da Yamamura junto con el resto del set (Sombrero de cazador de Yamamura, Vendas de viejo cazador y Hakama púrpura)  al matarlo dentro de su celda."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 80",
+        "-Ctra. contund.:  60",
+        "-Ctra.  arremetida: 70",
+        "-DEF con sangre:  90",
+        "-Arcano: 80",
+        "-Fuego: 130",
+        "-Rayo: 70",
+        "-RES a env.  lento: 37",
+        "-RES env.  rápido: 34",
+        "-RES a frenesí:  25",
+        "-Bestialidad: 18",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 80\n-Ctra. contund.:  60\n-Ctra.  arremetida: 70\n-DEF con sangre:  90\n-Arcano: 80\n-Fuego: 130\n-Rayo: 70\n-RES a env.  lento: 37\n-RES env.  rápido: 34\n-RES a frenesí:  25\n-Bestialidad: 18\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

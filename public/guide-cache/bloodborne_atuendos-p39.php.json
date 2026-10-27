@@ -1,0 +1,34 @@
+{
+  "title": "Gorra de cazador de Henryk",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p39.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/gorra-de-cazador-de-henryk.jpg"
+  ],
+  "lore": "Sombrero de Henryk, el viejo cazador.\n\nEl taciturno Henryk era un viejo cazador que acompañaba al padre Gascoigne y, aunque formaban un dúo aguerrido y gallardo, su asociación fue la causa de la larga y trágica vida de Henryk.\n\nEl peculiar atuendo amarillo de Henryk resiste los rayos y le será de gran ayuda a cualquier cazador que haya heredado la responsabilidad de dicha labor.",
+  "intro": [
+    "Se consigue, junto con el resto del set, derrotando a Henryk durante la misión secundaria de Eileen."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 50",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 40",
+        "-Arcano: 20",
+        "-Fuego: 30",
+        "-Rayo: 60",
+        "-RES a env. lento: 7",
+        "-RES env. rápido: 14",
+        "-RES a frenesí: 15",
+        "-Bestialidad: 20",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 50\n-Ctra. arremetida: 40\n-DEF con sangre: 40\n-Arcano: 20\n-Fuego: 30\n-Rayo: 60\n-RES a env. lento: 7\n-RES env. rápido: 14\n-RES a frenesí: 15\n-Bestialidad: 20\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

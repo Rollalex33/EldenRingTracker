@@ -1,0 +1,34 @@
+{
+  "title": "Atuendo de cazador carbonizado",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p14.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-cazador-carbonizado.jpg"
+  ],
+  "lore": "Uno de los artículos habituales en el atuendo de un cazador en el taller.\n\nEs producto de la infección de la bestia que invadió el Viejo Yharnam y que culminó en la purificación por fuego de la ciudad.\n\nLa humedad de la capa la hace muy resistente al fuego. Los poratdores cazaron a las víctimas de la infección que sobrevivieron a las llamas y al hedor de la sangre quemada.",
+  "intro": [
+    "-En un cadáver en el piso superior de un edificio a oscuras en Viejo Yharnam, junto con el resto de piezas del set (Guantes y Pantalones)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 110",
+        "-Ctra. contund.: 100",
+        "-Ctra. arremetida: 70",
+        "-DEF con sangre: 100",
+        "-Arcano: 40",
+        "-Fuego: 140",
+        "-Rayo: 60",
+        "-RES a env. lento: 29",
+        "-RES env. rápido: 37",
+        "-RES a frenesí: 45",
+        "-Bestialidad: 58",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 110\n-Ctra. contund.: 100\n-Ctra. arremetida: 70\n-DEF con sangre: 100\n-Arcano: 40\n-Fuego: 140\n-Rayo: 60\n-RES a env. lento: 29\n-RES env. rápido: 37\n-RES a frenesí: 45\n-Bestialidad: 58\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

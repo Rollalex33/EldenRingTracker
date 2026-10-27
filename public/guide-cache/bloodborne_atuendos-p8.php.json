@@ -1,0 +1,34 @@
+{
+  "title": "Pantalones de cazador de yharnam",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p8.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-cazador-de-yharnam.jpg"
+  ],
+  "lore": "Ludwig, primer cazador de la Iglesia de la Sanación, reclutó una vez yharnamitas como cazadores.\n\nEste atuendo de cazador era para los reclutas novatos y proporciona una defensa espléndida. Pero no lo suficiente como para que un hombre corriente tenga opciones contra las bestias.",
+  "intro": [
+    "-Te lo vende el mensajero de la fuente en Sueño del cazador por 500 ecos de sangre desde el inicio del juego."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 60",
+        "-DEF con sangre: 50",
+        "-Arcano: 50",
+        "-Fuego: 60",
+        "-Rayo: 60",
+        "-RES a env. lento: 27",
+        "-RES env. rápido: 23",
+        "-RES a frenesí: 24",
+        "-Bestialidad: 27",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 60\n-Ctra. arremetida: 60\n-DEF con sangre: 50\n-Arcano: 50\n-Fuego: 60\n-Rayo: 60\n-RES a env. lento: 27\n-RES env. rápido: 23\n-RES a frenesí: 24\n-Bestialidad: 27\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pica de la Iglesia",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p36.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pica-de-la-iglesia.jpg"
+  ],
+  "lore": "Una de las  viejas armas con truco de la Iglesia de la Sanación. Es un arma de  caza creada a partir de una de las picas gigantes mencionadas en las  antiguas historias sobre las bestias.\n\nInicialmente, la  pica de la Iglesia sirve como espada grande pero, una vez  transformada, funciona como pica de guerra extendida. A pesar de sus  orígenes, es un arma sumamente práctica.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Se consigue al  derrotar al cazador dentro de unas celdas de Pila de cuerpos subterránea que se abre con la Llave de la celda subterránea."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 9",
+        "Habilidad: 14"
+      ],
+      "text": "Fuerza: 9\nHabilidad: 14",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: E",
+        "Destreza: D",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: E\nDestreza: D\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 88",
+        "ATQ con sangre:  -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  -",
+        "Durabilidad: 250",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 88\nATQ con sangre:  -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  -\nDurabilidad: 250\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

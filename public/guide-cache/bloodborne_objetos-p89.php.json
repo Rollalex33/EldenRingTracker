@@ -1,0 +1,40 @@
+{
+  "title": "Cáliz raíz de Pthumeru",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p89.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/caliz-raiz-de-pthumeru.jpg"
+  ],
+  "lore": "Cáliz raíz que rompe varios sellos del laberinto.\n\nSe dice que los cálices raíz, usados en rituales para romper sellos del antiguo laberinto, hacen que cambie la forma del laberinto.\n\nEl antiguo laberinto fue excavado por los pthumerios, seres sobrehumanos que, supuestamente desentrañaron la sabiduría de la verdad arcana.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Profundidad: 1",
+        "Área: Pthumeru"
+      ],
+      "text": "Profundidad: 1\nÁrea: Pthumeru",
+      "images": []
+    },
+    {
+      "heading": "Materiales",
+      "lines": [
+        "Ecos de sangre: 1000",
+        "Sangre ritual (1) : 2",
+        "Moho de la tumba (1) : 3"
+      ],
+      "text": "Ecos de sangre: 1000\nSangre ritual (1) : 2\nMoho de la tumba (1) : 3",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Se obtiene como recompensa por derrotar al jefazo  Guardián implacable ."
+      ],
+      "text": "Se obtiene como recompensa por derrotar al jefazo  Guardián implacable .",
+      "images": []
+    }
+  ],
+  "category": "calices",
+  "subcategory": "Cálices"
+}

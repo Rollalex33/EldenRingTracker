@@ -1,0 +1,61 @@
+{
+  "title": "Cimitarra de cazabestias",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p31.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cimitarra-de-cazabestias.jpg"
+  ],
+  "lore": "Un arma con  truco usada por los viejos cazadores.\n\nEn el interior  de la curva de la hoja principal se encuentra una secundaria. En su  forma inicial, la cimitarra puede empuñarse como una espada curvada  larga pero, al transformarla, la hoja se contrae y permite dar  puñaladas rápidas y repetidas.\n\nAunque esta arma  con truco permite el combate adaptativo, más adelante fue sustituida  por sierras y armas similares más eficaces  a la hora de acabar con  las bestias.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "En un cadáver  por la zona de Pesadilla del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 9",
+        "Habilidad: 11"
+      ],
+      "text": "Fuerza: 9\nHabilidad: 11",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: E",
+        "Destreza: D",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: E\nDestreza: D\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 90",
+        "ATQ con sangre:  -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 90\nATQ con sangre:  -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

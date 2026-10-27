@@ -1,0 +1,36 @@
+{
+  "title": "Sombra de Yharnam",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_boss-p8.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/sombra-de-yharnam.jpg"
+  ],
+  "lore": "",
+  "intro": [
+    "-Lugar: Bosque prohibido",
+    "El principal problema de este boss es  que no es uno, sino tres a los que te enfrentarás a la vez. La  segunda cosa a tener en cuenta es que la batalla se desarrolla en  varias fases:",
+    "-En la primera te atacarán de manera  normal tal y como los ves al principio.",
+    "-Cuando le hayas quitado a al menos uno  la suficiente vida (al quedarle más o menos el 30%), todos ellos se  transformarán, saliéndoles pequeñas serpientes del pecho, ganando  nuevas habilidades y siendo más agresivos/peligrosos.",
+    "-Cuando hayas matado a 2 de ellos y  solo quede uno (o bien 2 pero con muy poca salud), empezará a invocar de vez en cuando unas serpientes  gigantescas, cuyos efectos en tu salud si te alcanzan pueden ser  devastadores. La parte buena es que mientras las está invocando, si  te das la suficiente prisa en atacarle constantemente, podrás  impedirlo. Y si no puedes impedirlo, simplemente olvídate por un  momento del enemigo y céntrate en no parar quieto para evitar a las  serpientes (y a él también), al poco rato ya desaparecerán ellas  solas.",
+    "Puedes seguir dos estrategias:",
+    "-La primera consiste en atacarles a  todos por igual hasta que todos ellos estén casi apunto de  transformarte (es importante que todavía no lo hagan), entonces  ataca a cualquiera de ellos y cuando se transformen, al quedarle ya a  todos muy poca salud podrás acabar relativamente rápido con todos a  la vez, permitiéndote casi evitar la tercera fase de las serpientes  gigantes.",
+    "-La segunda, y la que preferimos en  Eliteguias (en tu caso puede que no sea así) consiste en irlos  eliminando de uno en uno, para así irse quitando poco a poco el  agobio de tener que enfrentarse a 3 a la vez. En este caso conviene  deshacerse primero del mago que te lanza bolas de fuego, ya que puede  ser bastante molesto esquivar sus proyectiles mientras te centras en  los otros dos. De los otros dos no está muy claro cual es mejor  eliminar primero.",
+    "En cualquier caso, utiliza el entorno  para interponer los obstáculos entre tú y el mago, de manera que  puedas encargarte más “fácilmente” de los otros dos.",
+    "Antes de empezar el combate, podrás invocar a 2 espíritus (gracias al usuario Sergioxx por el aviso).",
+    "-Si mataste a \"Henryk\" (habiendo seguido la historia de Eileen), entonces encontrarás su símbolo para invocarlo en la intersección antes de bajar las escaleras que llevan al jefazo.",
+    "-Si tienes equipada la runa Impureza (del juramento de la Liga), podrás invocar al Gemelo menor Madaras. Su símbolo lo encontrarás cerca del donde está la otra runa Metamorfosis horaria."
+  ],
+  "sections": [
+    {
+      "heading": "Recompensa",
+      "lines": [
+        "18.600 ecos de sangre (97.948 NG+)",
+        "Runa de Caryll  Éxtasis de sangre",
+        "Trofeo  Sombra de Yharnam ."
+      ],
+      "text": "18.600 ecos de sangre (97.948 NG+)\nRuna de Caryll  Éxtasis de sangre\nTrofeo  Sombra de Yharnam .",
+      "images": []
+    }
+  ],
+  "category": "jefazos",
+  "subcategory": "Jefazos normales"
+}

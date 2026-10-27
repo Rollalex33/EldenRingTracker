@@ -1,0 +1,59 @@
+{
+  "title": "Fusil perforante",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p28.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/fusil-perforante.jpg"
+  ],
+  "lore": "Un fusil  diseñado por el taller de Oto, precursor del taller de los  Polvorillas herejes.\n\nDiseñado para  cazar en calles estrechas, este fusil ha sido optimizado para causar  heridas por perforación, pero no es adecuado para contraatacar de  forma fiable.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "Se consigue  comerciando con los mensajeros tras haber conseguido la Insignia de martillo flamígero."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 9",
+        "Habilidad: 10",
+        "Viveza de  sangre: 9"
+      ],
+      "text": "Fuerza: 9\nHabilidad: 10\nViveza de  sangre: 9",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Viveza de  sangre: D"
+      ],
+      "text": "Viveza de  sangre: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: -",
+        "ATQ con sangre:  80",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  1",
+        "Durabilidad: 140",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: -\nATQ con sangre:  80\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  1\nDurabilidad: 140\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "DLC - Antiguos cazadores"
+}

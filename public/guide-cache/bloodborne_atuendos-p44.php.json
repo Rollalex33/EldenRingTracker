@@ -1,0 +1,34 @@
+{
+  "title": "Atuendo de Iglesia negro",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p44.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-iglesia-negro.jpg"
+  ],
+  "lore": "Atuendo de cazadores de la Iglesia de la Sanación. El Chal Santo, símbolo de la Iglesia, ondea a la espalda. La mayoría de sus cazadores son doctores elementales que entienden la importancia de una prevención temprana de la infección, eliminando a las víctimas, incluso a las potenciales, antes de que la enfermedad se manifieste. Su atuendo negro es sinónimo de miedo y de esa peculiar locura de Yhanram.",
+  "intro": [
+    "-En un cadáver por un callejón del Distrito de la Catedral, junto con el resto del set."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 90",
+        "-Ctra. contund.: 90",
+        "-Ctra. arremetida: 110",
+        "-DEF con sangre: 110",
+        "-Arcano: 110",
+        "-Fuego: 100",
+        "-Rayo: 110",
+        "-RES a env. lento: 60",
+        "-RES env. rápido: 58",
+        "-RES a frenesí: 9",
+        "-Bestialidad: 40",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 90\n-Ctra. contund.: 90\n-Ctra. arremetida: 110\n-DEF con sangre: 110\n-Arcano: 110\n-Fuego: 100\n-Rayo: 110\n-RES a env. lento: 60\n-RES env. rápido: 58\n-RES a frenesí: 9\n-Bestialidad: 40\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

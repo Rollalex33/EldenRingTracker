@@ -1,0 +1,31 @@
+{
+  "title": "Semillero",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p27.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/semillero.jpg"
+  ],
+  "lore": "Una runa de  Caryll visualizada por Adeline, paciente del pabellón de  investigación.\n\nEs una  transcripción de los susurros pegajosos e inhumanos que ponen de  manifiesto la naturaleza de un asistente celestial.\n\nLos que hacen  este juramento se convierten en un lumentallo que mira hacia el cielo  mientras cría fantasmas en su nutritivo lecho. Los fantasmas nos  guían y nos llevan a nuevos descubrimientos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa  “semillero”. Aloja fantasmas como lumentallo.",
+        "-Efecto:",
+        "Peq. aum.  descubrimiento de obj."
+      ],
+      "text": "Runa  “semillero”. Aloja fantasmas como lumentallo.\n-Efecto:\nPeq. aum.  descubrimiento de obj.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Te la da  Adeline  al completar su historia."
+      ],
+      "text": "Te la da  Adeline  al completar su historia.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "DLC - Antiguos cazadores"
+}

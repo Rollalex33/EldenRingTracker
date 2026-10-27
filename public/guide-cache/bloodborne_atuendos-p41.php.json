@@ -1,0 +1,34 @@
+{
+  "title": "Guantes de cazador de Henryk",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p41.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guantes-de-cazador-de-henryk.jpg"
+  ],
+  "lore": "Atuendo de Henryk, el viejo cazador.\n\n \n\nEl taciturno Henryk era un viejo cazador que acompañaba al padre Gascoigne y, aunque formaba un dúo aguerrido y gallardo, su asociación fue la causa de la larga y trágica vida de Henryk.\n\n \n\nEl peculiar atuendo amarillo de Henryk resiste a los rayos y le será de gran ayuda a cualquier cazador que haya heredado la responsabilidad de dicha labor.",
+  "intro": [
+    "Se consigue, junto con el resto del set, derrotando a Henryk durante la misión secundaria de Eileen."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 40",
+        "-Arcano: 50",
+        "-Fuego: 60",
+        "-Rayo: 70",
+        "-RES a env. lento: 11",
+        "-RES env. rápido: 22",
+        "-RES a frenesí: 23",
+        "-Bestialidad: 32",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 40\n-Ctra. arremetida: 50\n-DEF con sangre: 40\n-Arcano: 50\n-Fuego: 60\n-Rayo: 70\n-RES a env. lento: 11\n-RES env. rápido: 22\n-RES a frenesí: 23\n-Bestialidad: 32\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

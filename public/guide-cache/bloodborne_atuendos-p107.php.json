@@ -1,0 +1,35 @@
+{
+  "title": "Cabeza dilatada",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p107.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cabeza-dilatada.jpg"
+  ],
+  "lore": "La cabeza  dilatada de un paciente de la catedral, con una cavidad en la que  encaja una cabeza humana, aunque solo un loco se la pondría.\n\nPero, si lo  haces, escucha atentamente al sonido pegajoso, Ploc, ploc... Es como  agua que asciende de las profundidades sin prisa pero sin pausa.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "En un cadáver  de una sala del Pabellón de investigación con varias de  estas mismas cabezas que si que te atacarán."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 20",
+        "-Ctra. contund.:  60",
+        "-Ctra.  arremetida: 0",
+        "-DEF con sangre:  20",
+        "-Arcano: 50",
+        "-Fuego: 20",
+        "-Rayo: 20",
+        "-RES a env.  lento: 6",
+        "-RES env.  rápido: 6",
+        "-RES a frenesí:  1",
+        "-Bestialidad: 0",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 20\n-Ctra. contund.:  60\n-Ctra.  arremetida: 0\n-DEF con sangre:  20\n-Arcano: 50\n-Fuego: 20\n-Rayo: 20\n-RES a env.  lento: 6\n-RES env.  rápido: 6\n-RES a frenesí:  1\n-Bestialidad: 0\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

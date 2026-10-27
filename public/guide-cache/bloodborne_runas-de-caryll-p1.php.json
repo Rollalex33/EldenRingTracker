@@ -1,0 +1,38 @@
+{
+  "title": "Comunión",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/comunion.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de Byrgenwerth.\n\n \n\nHay varias runas relacionadas con la \"sangre\", incluida la de \"comunión\", que aumenta el máximo de viales de sangre que uno puede llevar.\n\n \n\nEsta runa representa la Iglesia de Sanación y a sus ministros. El objetivo de la comunión es, obviamente, el trasvase de sangre.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"comunión\". Aumenta el máximo de viales de sangre.",
+        "-Efecto:",
+        "Sube máximo de viales +1/+2/+3"
+      ],
+      "text": "Runa \"comunión\". Aumenta el máximo de viales de sangre.\n-Efecto:\nSube máximo de viales +1/+2/+3",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Versión +1:",
+        "Al inicio del  Taller de la Iglesia de la Sanación , en el interior del cofre de la sala en la que está el individuo de la silla de ruedas con metralleta.",
+        "-Versión +2:",
+        "Dentro de un cofre en el  segundo piso del edificio lectivo .",
+        "-Versión +3:",
+        "Dentro de un cofre en el interior de la  clínica de Iosefka , habiendo entrado por su entrada alternativa/trasera.",
+        "-Versión +4:",
+        "Como recompensa por derrotar al boss  Emisario celestial ."
+      ],
+      "text": "-Versión +1:\nAl inicio del  Taller de la Iglesia de la Sanación , en el interior del cofre de la sala en la que está el individuo de la silla de ruedas con metralleta.\n-Versión +2:\nDentro de un cofre en el  segundo piso del edificio lectivo .\n-Versión +3:\nDentro de un cofre en el interior de la  clínica de Iosefka , habiendo entrado por su entrada alternativa/trasera.\n-Versión +4:\nComo recompensa por derrotar al boss  Emisario celestial .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

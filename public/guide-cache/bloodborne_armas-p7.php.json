@@ -1,0 +1,63 @@
+{
+  "title": "Martillo eclesiástico",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p7.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/martillo-eclesiastico.jpg"
+  ],
+  "lore": "Un arma con truco que usa la Iglesia de la Sanación.\n\nPor una parte, es una espada de plata de fácil manejo. Por otra, una obtusa arma gigante de piedra caracterizada por su ataque contundente y una fuerza de impacto tremenda.\n\nLas armas con truco forjadas en el taller de la Iglesia de la Sanación, que según se dice están ocultas en la gran catedral, se fabricaban según los principios de una escuela artesanal rival.",
+  "intro": [
+    "Te lo venden los mensajeros cuando consigas la Insignia de cazador con espada."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 16",
+        "Habilidad: 10"
+      ],
+      "text": "Fuerza: 16\nHabilidad: 10",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: C",
+        "Habilidad: E",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: C\nHabilidad: E\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 105",
+        "Contundente: 15",
+        "Arremetida: 15",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 250",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 105\nContundente: 15\nArremetida: 15\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 250\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Gorra con venda de ojos",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p78.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/gorra-con-venda-de-ojos.jpg"
+  ],
+  "lore": "Atuendo del Coro, miembros de alto rango de la Iglesia de la Sanación.\n\n \n\nEl Coro está formado por los clérigos de mayor rango y por eruditos que continúan con el trabajo iniciado en Byrgenwerth. Se cubren los ojos para mostrar su deuda con las enseñanzas del maestro Willem, a pesar de haber seguido un camino divergente.",
+  "intro": [
+    "-En un cadáver del Distrito de la Catedral superior por un pasillo con varios cadáveres más y un \"absorbe-lucidez\"."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 30",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 40",
+        "-Arcano: 70",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 15",
+        "-RES env. rápido: 13",
+        "-RES a frenesí: 4",
+        "-Bestialidad: 13",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 30\n-Ctra. contund.: 40\n-Ctra. arremetida: 40\n-DEF con sangre: 40\n-Arcano: 70\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 15\n-RES env. rápido: 13\n-RES a frenesí: 4\n-Bestialidad: 13\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

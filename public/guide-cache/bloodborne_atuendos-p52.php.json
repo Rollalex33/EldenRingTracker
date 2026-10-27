@@ -1,0 +1,34 @@
+{
+  "title": "Guanteletes de ejecutor",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p52.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guanteletes-de-ejecutor.jpg"
+  ],
+  "lore": "Guanteletes de la banda de ejecutores liderada por el mártir Logarius. Los remaches de latón son característicos de los ejecutores y reflejan su adoración por el combate cuerpo a cuerpo.\n\nComo dijo el gran Logarius: \"Las buenas acciones no siempre son sabias, las malas no siempre son estúpidas. De todas formas, intentaremos ser siempre buenos\".",
+  "intro": [
+    "Se encuentra en un cadáver del Castillo olvidado de Cainhurst junto con el resto del set (menos la parte de la cabeza)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 50",
+        "-Arcano: 60",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 26",
+        "-RES env. rápido: 24",
+        "-RES a frenesí: 9",
+        "-Bestialidad: 24",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 60\n-Ctra. arremetida: 40\n-DEF con sangre: 50\n-Arcano: 60\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 26\n-RES env. rápido: 24\n-RES a frenesí: 9\n-Bestialidad: 24\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

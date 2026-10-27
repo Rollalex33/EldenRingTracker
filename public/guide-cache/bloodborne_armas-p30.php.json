@@ -1,0 +1,61 @@
+{
+  "title": "Brazo de Amygdala",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p30.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/brazo-de-amygdala.jpg"
+  ],
+  "lore": "El brazo de un  Grande Amygdala pequeño.\n\n \n\nEstrictamente  hablando, el brazo de Amygdala no es un arma con truco, pero algunos  locos los empuñan como si fueran palos.\n\n \n\nEmpieza como una  gran arma contundente hecha de hueso pero, al extenderla, la mano  tiembla como si siguiese viva.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "En un cadáver en la sala de Pesadilla del cazador en la que te enfrentas a una \"Bestia sedienta de sangre\"."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 17",
+        "Habilidad: 9"
+      ],
+      "text": "Fuerza: 17\nHabilidad: 9",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: C",
+        "Destreza: E",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: C\nDestreza: E\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 80",
+        "ATQ con sangre: -",
+        "ATQ arcano: 40",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 80\nATQ con sangre: -\nATQ arcano: 40\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Mallas de Cainhurst",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p62.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mallas-de-cainhurst.jpg"
+  ],
+  "lore": "Unas mallas de plata que llevan los guardias reales que protegen a Annalise, reina de los Sangrevil, en el castillo de Cainhurst.\n\nSe dice que esta armadura, delgada como un papel, elude la sangre de los malintencionados, lo cual permite a los guardias reales capturar presas para su amada reina, para que algún día engendre a un Hijo de la Sangre.",
+  "intro": [
+    "-Te las venden los mensajeros junto con el resto del set tras haber conseguido la Insignia de cainhurst."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 60",
+        "-DEF con sangre: 70",
+        "-Arcano: 40",
+        "-Fuego: 40",
+        "-Rayo: 40",
+        "-RES a env. lento: 21",
+        "-RES env. rápido: 23",
+        "-RES a frenesí: 15",
+        "-Bestialidad: 13",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 40\n-Ctra. arremetida: 60\n-DEF con sangre: 70\n-Arcano: 40\n-Fuego: 40\n-Rayo: 40\n-RES a env. lento: 21\n-RES env. rápido: 23\n-RES a frenesí: 15\n-Bestialidad: 13\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

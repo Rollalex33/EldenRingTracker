@@ -1,0 +1,32 @@
+{
+  "title": "Guía",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p25.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guia.jpg"
+  ],
+  "lore": "Una runa de Caryll descubierta por el viejo cazador Ludwig junto a la espada de luz de luna sagrada.\n\nPotencia la cantidad de vida restaurada al recuperarse.\n\n \n\nCuando Ludwig cerró los ojos, vio oscuridad, o quizá la nada, y fue entonces cuando descubrió los minúsculos seres de luz. Ludwig estaba convencido de que estos duendecillos juguetones ofrecían \"guía\" y eliminaban sus miedos, al menos en mitad de una cacería.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"guía\". Potencia la capacidad de respuesta (el tiempo que tienes para recuperar, atacando, la salud perdida).",
+        "-Efecto:",
+        "Pot. cap. resp. (+20%)"
+      ],
+      "text": "Runa \"guía\". Potencia la capacidad de respuesta (el tiempo que tienes para recuperar, atacando, la salud perdida).\n-Efecto:\nPot. cap. resp. (+20%)",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Pertenece al DLC  Antiguos cazadores .",
+        "Se consigue como recompensa por derrotar al boss  Ludwig, el Maldito / la Espada Sagrada ."
+      ],
+      "text": "-Pertenece al DLC  Antiguos cazadores .\nSe consigue como recompensa por derrotar al boss  Ludwig, el Maldito / la Espada Sagrada .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "DLC - Antiguos cazadores"
+}

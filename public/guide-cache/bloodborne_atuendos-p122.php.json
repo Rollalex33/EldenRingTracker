@@ -1,0 +1,35 @@
+{
+  "title": "Atuendo de piel de bestia",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p122.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-piel-de-bestia.jpg"
+  ],
+  "lore": "La piel  ensangrentada de una horrible bestia clérigo, puesta sobre la  espalda. Sin la piel de la bestia, este atuendo extranjero no  llamaría la atención de nadie.\n\nBrador se puso  la cabellera bestial y la piel de un compatriota mientras todavía  estaba empapada de sangre. La mayoría de las manchas de sangre de  esta piel son de ese día.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores",
+    "Lo suelta Brador cuando te invade por tercera vez en la zona de la Cabaña del faro."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física:  120",
+        "-Ctra. contund.:  120",
+        "-Ctra.  arremetida: 70",
+        "-DEF con sangre:  80",
+        "-Arcano: 60",
+        "-Fuego: 40",
+        "-Rayo: 50",
+        "-RES a env.  lento: 38",
+        "-RES env.  rápido: 31",
+        "-RES a frenesí:  20",
+        "-Bestialidad: 66",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física:  120\n-Ctra. contund.:  120\n-Ctra.  arremetida: 70\n-DEF con sangre:  80\n-Arcano: 60\n-Fuego: 40\n-Rayo: 50\n-RES a env.  lento: 38\n-RES env.  rápido: 31\n-RES a frenesí:  20\n-Bestialidad: 66\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

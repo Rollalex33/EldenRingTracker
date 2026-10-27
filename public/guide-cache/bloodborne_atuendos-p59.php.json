@@ -1,0 +1,34 @@
+{
+  "title": "Casco de Cainhurst",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p59.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/casco-de-cainhurst.jpg"
+  ],
+  "lore": "Un casco de plata que llevan los guardias reales que protegen a Annalise, reina de los Sangrevil, en el castillo de Cainhurst.\n\nSe dice que esta armadura, delgada como un papel, elude la sangre de los malintencionados, lo cual permite a los guardias reales capturar presas para su amada reina, para que algún día engendre a un Hijo de la Sangre",
+  "intro": [
+    "-Te lo venden los mensajeros junto con el resto del set tras haber conseguido la Insignia de cainhurst."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 60",
+        "-Arcano: 20",
+        "-Fuego: 40",
+        "-Rayo: 10",
+        "-RES a env. lento: 12",
+        "-RES env. rápido: 13",
+        "-RES a frenesí: 8",
+        "-Bestialidad: 7",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 40\n-Ctra. arremetida: 40\n-DEF con sangre: 60\n-Arcano: 20\n-Fuego: 40\n-Rayo: 10\n-RES a env. lento: 12\n-RES env. rápido: 13\n-RES a frenesí: 8\n-Bestialidad: 7\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

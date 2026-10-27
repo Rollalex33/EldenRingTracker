@@ -1,0 +1,32 @@
+{
+  "title": "Marca de garra",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p22.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/marca-de-garra.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\nLa \"marca de garra\" es un impulso que busca la calidez de la sangre como una bestia. Fortalece los ataques viscerales, una de las técnicas más oscuras de los cazadores.\n\n \n\nAunque la diferencia es sutil, el forjador de runas Caryll describe la \"bestia\" como un horrible e inoportuno instinto en los corazones de los hombres, mientras que la \"marca de garra\" es una atractiva invitación a aceptar esta naturaleza.\n\n ",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"marca de garra. Fortalece los ataques viscerales.",
+        "-Efecto:",
+        "ATQ ataque visceral +10%/20%/30%"
+      ],
+      "text": "Runa \"marca de garra. Fortalece los ataques viscerales.\n-Efecto:\nATQ ataque visceral +10%/20%/30%",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión 10% la sueltan los cazadores que aparecen en la catedral durante la  segunda visita a Yahar'gul.",
+        "-La versión 20% la suelta  Gilbert  cuando lo matas tras haberse convertido en bestia."
+      ],
+      "text": "-La versión 10% la sueltan los cazadores que aparecen en la catedral durante la  segunda visita a Yahar'gul.\n-La versión 20% la suelta  Gilbert  cuando lo matas tras haberse convertido en bestia.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

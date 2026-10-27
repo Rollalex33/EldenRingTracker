@@ -1,0 +1,39 @@
+{
+  "title": "Máscara de vigilante sepulcral",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p67.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-vigilante-sepulcral.jpg",
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-vigilante-sepulcral_1.jpg",
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-vigilante-sepulcral_2.jpg",
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-vigilante-sepulcral_3.jpg"
+  ],
+  "lore": "Máscara de Dores, vigilante sepulcral del bosque prohibido.\n\nSu pálido semblante imita a los vigilantes del laberinto.\n\nWillem tenía dos sirvientes leales en Byrgenwerth. Cuando fueron enviados al laberinto, se encontraron con la verdad arcana y enloquecieron. Uno se convirtió en protector de la contraseña, mientras que Dores se hizo vigilante sepulcral del bosque. A pesar de la locura, ambos siguieron siendo leales.",
+  "intro": [
+    "En Eliteguias no solemos poner imágenes en los objetos/equipamiento, pero el Bosque prohibido ya es lo suficientemente lioso y para no sobrecargarlo de imágenes se indica todo aquí.",
+    "Desde donde recoges el resto de piezas del set (Túnica, Puños, Atuendo inferior), en lo alto de la montaña por el lado opuesto verás un cadáver con algo brillando ¿Cómo llegar hasta allí? Pues bien, mirando hacia esa montaña, ve pegado a ella hacia la izquierda, hasta que puedas subir a un terreno elevado por la derecha. Si miras hacia la derecha verás otro cadáver brillando, pero no es ese, tú sigue adelante, sin tirarte todavía, hasta que al fondo de esa zona alta veas un árbol con un cadáver que contiene Fragmentos gemelos de piedra de sangre x2.",
+    "Pues bien, por esa parte entre el objeto que acabas de recoger y el cadáver que pasaste por alto antes, fíjate en el punto que te mostramos con la imagen de arriba... coge carrerilla para saltar y una vez al otro lado, ya podrás llegar sin problemas a donde está el cadáver que contien la Máscara."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 40",
+        "-Arcano: 50",
+        "-Fuego: 40",
+        "-Rayo: 50",
+        "-RES a env. lento: 16",
+        "-RES env. rápido: 16",
+        "-RES a frenesí: 32",
+        "-Bestialidad: 13",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 40\n-Ctra. arremetida: 50\n-DEF con sangre: 40\n-Arcano: 50\n-Fuego: 40\n-Rayo: 50\n-RES a env. lento: 16\n-RES env. rápido: 16\n-RES a frenesí: 32\n-Bestialidad: 13\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

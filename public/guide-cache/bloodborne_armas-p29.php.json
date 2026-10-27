@@ -1,0 +1,59 @@
+{
+  "title": "Ametralladora Gatling",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p29.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/ametralladora-gatling.jpg"
+  ],
+  "lore": "Esta es una  versión portátil y altamente personalizada de la ametralladora  Gatling fija que usaba Djura, el viejo cazador, en el Viejo Yharnam.  Era el arma favorita del más joven de los tres compañeros de Djura.\n\nLa ametralladora  Gatling ofrece una cadencia de disparo excepcional, pero se considera  un arma incómoda debido a su peso excesivo y a su insaciable consumo  de balas de mercurio.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Se consigue derrotando al cazador de Pesadilla del cazador que la lleva equipada."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 28",
+        "Habilidad: 12"
+      ],
+      "text": "Fuerza: 28\nHabilidad: 12",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Viveza de  sangre: E"
+      ],
+      "text": "Viveza de  sangre: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: -",
+        "ATQ con sangre:  80",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  1",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: -\nATQ con sangre:  80\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  1\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "DLC - Antiguos cazadores"
+}

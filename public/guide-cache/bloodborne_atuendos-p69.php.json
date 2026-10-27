@@ -1,0 +1,35 @@
+{
+  "title": "Pantalones de estudiante",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p69.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-estudiante.jpg"
+  ],
+  "lore": "El uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño.\n\nLa Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio que se inspira en el diseño de sus uniformes. El enfoque puesto no en el conocimiento ni en la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.",
+  "intro": [
+    "-Los encontrarás junto con el resto del set (solo 2 piezas) dentro de un cofre en el interior de la mansión de Byrgenwerth.",
+    "-También hay otro en un cadáver en el Edificio lectivo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 50",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 60",
+        "-Arcano: 70",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 24",
+        "-RES env. rápido: 18",
+        "-RES a frenesí: 19",
+        "-Bestialidad: 19",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 50\n-Ctra. arremetida: 50\n-DEF con sangre: 60\n-Arcano: 70\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 24\n-RES env. rápido: 18\n-RES a frenesí: 19\n-Bestialidad: 19\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

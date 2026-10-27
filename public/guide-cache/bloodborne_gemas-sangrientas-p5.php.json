@@ -1,0 +1,38 @@
+{
+  "title": "Gema sangrienta radiante",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_gemas-sangrientas-p5.php",
+  "images": [],
+  "lore": "Una gema sangrienta que fortalece armas y aporta diversas propiedades. Las gemas sangrientas son piedras de sangre muy exóticas que crecen en sangre fría.\n\n \n\nLas gemas sangrientas se incrustan en armas con herramientas deltaller, pero solo si su forma coincide.\n\n \n\n-La mayoría de las gemas sangrientas radiales tienen efectos que influyen en los ataques físicos.\n\n-La mayoría de las gemas triangulares proporcionan bonos a los atributos y efectos adicionales.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "-Clasificación: 2",
+        "-Forma: Radial",
+        "Reduce costes brío (0,4%)",
+        "-Clasificación: 6",
+        "-Forma: Radial",
+        "Reduce costes brío 2,1%",
+        "Añade ATQ físico +3,6",
+        "-Clasificación: 8",
+        "-Forma: Triangular",
+        "Reduce costes brío 2,8%",
+        "Añade ef. ven. rápi. +1,6"
+      ],
+      "text": "-Clasificación: 2\n-Forma: Radial\nReduce costes brío (0,4%)\n-Clasificación: 6\n-Forma: Radial\nReduce costes brío 2,1%\nAñade ATQ físico +3,6\n-Clasificación: 8\n-Forma: Triangular\nReduce costes brío 2,8%\nAñade ef. ven. rápi. +1,6",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Las pueden soltar algunos enemigos como los encapuchados de  Viejo Yharnam .",
+        "-La versión (2) de Clasificación 6 la suelta el boss  Jabalí antropófago ."
+      ],
+      "text": "-Las pueden soltar algunos enemigos como los encapuchados de  Viejo Yharnam .\n-La versión (2) de Clasificación 6 la suelta el boss  Jabalí antropófago .",
+      "images": []
+    }
+  ],
+  "category": "gemas",
+  "subcategory": "Radial"
+}

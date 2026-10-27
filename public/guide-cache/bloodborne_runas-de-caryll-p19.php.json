@@ -1,0 +1,32 @@
+{
+  "title": "Lago atenuado",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p19.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/lago-atenuado.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEsta transcripción de lsa voces inhumanas de los Grandes ondula como un reflejo acuoso. Esta runa significa \"lago\" y quienes la memorizan disfrutan de una reducción del daño por fuego.\n\n \n\nGrandes volúmenes de agua sirven como baluarte que protege el sueño y como augurio de la verdad arcana.\n\n \n\nSupera este obstáculo y busca lo que te pertenece.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una runa \"lago\". Aumenta la reducción de daño por fuego.",
+        "-Efecto:",
+        "Reducción DÑO fuego +5%/+10%"
+      ],
+      "text": "Una runa \"lago\". Aumenta la reducción de daño por fuego.\n-Efecto:\nReducción DÑO fuego +5%/+10%",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +5% la encontrarás en un cadáver en la  Frontera de la pesadilla .",
+        "-La versión +10% se obtiene en la mazmorra  Cáliz raíz del afligido Loran inferior ."
+      ],
+      "text": "-La versión +5% la encontrarás en un cadáver en la  Frontera de la pesadilla .\n-La versión +10% se obtiene en la mazmorra  Cáliz raíz del afligido Loran inferior .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

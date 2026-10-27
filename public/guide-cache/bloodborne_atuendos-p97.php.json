@@ -1,0 +1,35 @@
+{
+  "title": "Chistera de viejo cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p97.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/chistera-de-viejo-cazador.jpg"
+  ],
+  "lore": "Chistera de  viejo cazador, deformada por manchas de sangre.\n\nAntiguamente,  cuando había cazadores de sobra, era parte de su atuendo estándar.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "En un cadáver  que encuentras mientras bajas al “río de sangre” en la zona de Pesadilla del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 30",
+        "-Ctra. contund.:  60",
+        "-Ctra.  arremetida: 40",
+        "-DEF con sangre:  30",
+        "-Arcano: 30",
+        "-Fuego: 20",
+        "-Rayo: 40",
+        "-RES a env.  lento: 8",
+        "-RES env.  rápido: 5",
+        "-RES a frenesí:  17",
+        "-Bestialidad: 13",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 30\n-Ctra. contund.:  60\n-Ctra.  arremetida: 40\n-DEF con sangre:  30\n-Arcano: 30\n-Fuego: 20\n-Rayo: 40\n-RES a env.  lento: 8\n-RES env.  rápido: 5\n-RES a frenesí:  17\n-Bestialidad: 13\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

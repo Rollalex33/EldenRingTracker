@@ -1,0 +1,64 @@
+{
+  "title": "Pistola de cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p4.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pistola-de-cazador.jpg"
+  ],
+  "lore": "Pistola fabricada en el taller para usarse en la caza.\n\n \n\nLas armas de fuego de los cazadores emplean balas de mercurio impregnadas de sangre del portador, que causan más daño a las bestias.\n\n \n\nLa pistola se desenfunda más deprisa que el trabuco y permite contraatacar con más agilidad.",
+  "intro": [
+    "Te lo da uno de los mensajeros como regalo en tu primera visita a Sueño del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 7",
+        "Habilidad: 9",
+        "Viveza de sangre: 5"
+      ],
+      "text": "Fuerza: 7\nHabilidad: 9\nViveza de sangre: 5",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: -",
+        "Habilidad: -",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: -\nHabilidad: -\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 70",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 100",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: 70\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 100\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Gema sangrienta afilada",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_gemas-sangrientas-p14.php",
+  "images": [],
+  "lore": "Una gema sangrienta que fortalece armas y aporta diversas propiedades. Las gemas sangrientas son piedras de sangre muy exóticas que crecen en sangre fría.\n\n \n\nLas gemas sangrientas se incrustan en armas con herramientas del taller, pero solo si su forma coincide.\n\n \n\nLa mayoría de las gemas sangrientas radiales tienen efectos que influyen en los ataques físicos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "-Clasificación: 8",
+        "-Forma: Radial",
+        "Escala HAB +8,4/+12",
+        "Añade ATQ físico +4,8",
+        "-Clasificación: 9",
+        "Escala HAB +9,5",
+        "durabilidad ARM +3,6"
+      ],
+      "text": "-Clasificación: 8\n-Forma: Radial\nEscala HAB +8,4/+12\nAñade ATQ físico +4,8\n-Clasificación: 9\nEscala HAB +9,5\ndurabilidad ARM +3,6",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Una versión (3) en el  Bosque prohibido , cerca del segundo cerdo gigante tras pasar por el lago de las luciérnagas."
+      ],
+      "text": "-Una versión (3) en el  Bosque prohibido , cerca del segundo cerdo gigante tras pasar por el lago de las luciérnagas.",
+      "images": []
+    }
+  ],
+  "category": "gemas",
+  "subcategory": "Radial"
+}

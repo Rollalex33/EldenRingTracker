@@ -1,0 +1,34 @@
+{
+  "title": "Puños de loco",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p89.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/punos-de-loco.jpg"
+  ],
+  "lore": "Casi todos los buscadores de tumbas, miembros de la Iglesia de la Sanación elegidos para explorar el antiguo laberinto, no soportan la carga del conocimiento antiguo y enloquecen.\n\nEste es el atuendo de esas almas perdidas.\n\nLa verdad se suele asemejar a la locura, inaccesible a los cerrados de mollera. Quienes enloquecen son almas juiciosas que no llegan a ninguna conclusión.",
+  "intro": [
+    "Te los venden los Mensajeros de lucidez junto con el resto del set después tras haber derrotado al boss Loco olvidado."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 40",
+        "-Arcano: 60",
+        "-Fuego: 60",
+        "-Rayo: 60",
+        "-RES a env. lento: 29",
+        "-RES env. rápido: 27",
+        "-RES a frenesí: 1",
+        "-Bestialidad: 15",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 40\n-Ctra. arremetida: 50\n-DEF con sangre: 40\n-Arcano: 60\n-Fuego: 60\n-Rayo: 60\n-RES a env. lento: 29\n-RES env. rápido: 27\n-RES a frenesí: 1\n-Bestialidad: 15\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

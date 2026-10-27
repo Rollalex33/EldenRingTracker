@@ -1,0 +1,34 @@
+{
+  "title": "Ropa de muñeca",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p26.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/ropa-de-muneca.jpg"
+  ],
+  "lore": "Ropa de muñeca abandonada, como si fuera de repuesto.\n\nLa calidad de la mano de obra y el cuuidado con el que ha sido conservada hacen intuir un profundo amor por la muñeca.\n\nRaya en lo maniático y desprende cierta calidez.",
+  "intro": [
+    "-En el interior de un cofre del Antiguo taller abandonado, junto con el resto del set. Aunque no sea muy buena en cuanto a defensa, la puedes vender por 14000 ecos de sangre."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 30",
+        "-Ctra. contund.: 30",
+        "-Ctra. arremetida: 30",
+        "-DEF con sangre: 40",
+        "-Arcano: 40",
+        "-Fuego: 50",
+        "-Rayo: 40",
+        "-RES a env. lento: 42",
+        "-RES env. rápido: 31",
+        "-RES a frenesí: 38",
+        "-Bestialidad: 31",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 30\n-Ctra. contund.: 30\n-Ctra. arremetida: 30\n-DEF con sangre: 40\n-Arcano: 40\n-Fuego: 50\n-Rayo: 40\n-RES a env. lento: 42\n-RES env. rápido: 31\n-RES a frenesí: 38\n-Bestialidad: 31\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

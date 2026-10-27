@@ -1,0 +1,35 @@
+{
+  "title": "Atuendo de alguacil",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p100.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-alguacil.jpg"
+  ],
+  "lore": "Había una vez  una tropa de alguaciles extranjeros que persiguió a una bestia hasta  Yharnam, y esto es lo que llevaban.\n\nLos alguaciles  cayeron presas de la bestia, excepto un superviviente que terminó  por devorarla entera.\n\nEste cuento es  muy apreciado entre los yharnbamitas, que disfrutan con las historias  de extranjeros pomposos e intolerantes que sufren a causa de su  ignorancia.\n\nEsto hace que la  sangre sepa mucho mejor.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "En un cadáver  sobre un tejado en la zona de Pesadilla del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 90",
+        "-Ctra. contund.:  100",
+        "-Ctra.  arremetida:70",
+        "-DEF con sangre:  80",
+        "-Arcano: 100",
+        "-Fuego: 110",
+        "-Rayo: 120",
+        "-RES a env.  lento: 44",
+        "-RES env.  rápido: 35",
+        "-RES a frenesí:  23",
+        "-Bestialidad: 52",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 90\n-Ctra. contund.:  100\n-Ctra.  arremetida:70\n-DEF con sangre:  80\n-Arcano: 100\n-Fuego: 110\n-Rayo: 120\n-RES a env.  lento: 44\n-RES env.  rápido: 35\n-RES a frenesí:  23\n-Bestialidad: 52\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

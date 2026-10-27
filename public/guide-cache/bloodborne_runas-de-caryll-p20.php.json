@@ -1,0 +1,31 @@
+{
+  "title": "Mar profundo fascinante",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p20.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mar-profundo-fascinante.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEsta transcripción de lsa voces inhumanas de los Grandes describe corrientes profundas. Esta runa significa \"mar profundo\" y otorga resistencia aumentada al veneno rápido.\n\n \n\nGrandes volúmenes de agua sirven como baluarte que protege el sueño y como augurio de la verdad arcana.\n\n \n\nSupera este obstáculo y busca lo que te pertenece.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una runa \"mar profundo\". Aumenta resist. a veneno rápido.",
+        "-Efecto:",
+        "Añade RES ven. rápido +200."
+      ],
+      "text": "Una runa \"mar profundo\". Aumenta resist. a veneno rápido.\n-Efecto:\nAñade RES ven. rápido +200.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-En un cadáver en  Frontera de la pesadilla ."
+      ],
+      "text": "-En un cadáver en  Frontera de la pesadilla .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Cortador de bestias",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p26.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cortador-de-bestias.jpg"
+  ],
+  "lore": "Un arma con  truco usada por los viejos cazadores.\n\nEsta gruesa  cuchilla de hierro es capaz de cortar las pieles de las bestias más  resistentes y, cuando se transforma, la hoja se divide en secciones  que permiten utilizarla a modo de látigo pesado.\n\nEs un arma tosca  que depende de la fuerza bruta y no es nada elegante, lo que sugiere  que las primeras cacerías eran espeluznante y sumamente sangrientas.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "En un cadáver  de la zona de Pesadilla del cazador al que accedes tirándote  desde arriba."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 11",
+        "Habilidad: 9"
+      ],
+      "text": "Fuerza: 11\nHabilidad: 9",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: D",
+        "Destreza: E",
+        "Arcano: E"
+      ],
+      "text": "Fuerza: D\nDestreza: E\nArcano: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 92",
+        "ATQ con sangre:  -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  -",
+        "Durabilidad: 230",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 92\nATQ con sangre:  -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  -\nDurabilidad: 230\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

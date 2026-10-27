@@ -1,0 +1,34 @@
+{
+  "title": "Pantalones de Gascoigne",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p24.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-gascoigne.jpg"
+  ],
+  "lore": "Atuendo de cazador del padre Gascoigne.\n\nEs similar a la indumentaria de cazador creada en el taller, solo que está impregnado de un hedor como de bestia que devora a Gascoigne.\n\n\"Padre\" es el título de los clérigos en un país extranjero, y no hay equivalente en la Iglesia de la Sanación.",
+  "intro": [
+    "-Te los venden los mensajeros a cambio de lucidez, después de haber derrotado al jefazo Padre Gascoigne."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 60",
+        "-DEF con sangre: 50",
+        "-Arcano: 60",
+        "-Fuego: 60",
+        "-Rayo: 50",
+        "-RES a env. lento: 31",
+        "-RES env. rápido: 23",
+        "-RES a frenesí: 14",
+        "-Bestialidad: 26",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 60\n-Ctra. arremetida: 60\n-DEF con sangre: 50\n-Arcano: 60\n-Fuego: 60\n-Rayo: 50\n-RES a env. lento: 31\n-RES env. rápido: 23\n-RES a frenesí: 14\n-Bestialidad: 26\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

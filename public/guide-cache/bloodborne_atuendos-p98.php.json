@@ -1,0 +1,35 @@
+{
+  "title": "Guantes de alguacil",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p98.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guantes-de-alguacil.jpg"
+  ],
+  "lore": "Había una vez  una tropa de alguaciles extranjeros que persiguió a una bestia hasta  Yharnam, y esto es lo que llevaban.\n\nLos alguaciles  cayeron presas de la bestia, excepto un superviviente que terminó  por devorarla entera.\n\nEste cuento es  muy apreciado entre los yharnamitas, que disfrutan con las historias  de extranjeros pomposos e intolerantes que sufren a causa de su  ignorancia. Esto hace que la sangre sepa mucho mejor.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "En un cadáver  tras haber cruzado el puente sobre el “río de sangre” en la zona  de Pesadilla del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.:  60",
+        "-Ctra.  arremetida: 50",
+        "-DEF con sangre:  50",
+        "-Arcano: 50",
+        "-Fuego: 60",
+        "-Rayo: 60",
+        "-RES a env.  lento: 23",
+        "-RES env.  rápido: 17",
+        "-RES a frenesí:  12",
+        "-Bestialidad: 31",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.:  60\n-Ctra.  arremetida: 50\n-DEF con sangre:  50\n-Arcano: 50\n-Fuego: 60\n-Rayo: 60\n-RES a env.  lento: 23\n-RES env.  rápido: 17\n-RES a frenesí:  12\n-Bestialidad: 31\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

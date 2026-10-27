@@ -1,0 +1,35 @@
+{
+  "title": "Pantalones de viejo cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p95.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-viejo-cazador.jpg"
+  ],
+  "lore": "Pantalones de viejo cazador que protegieron a innumerables cazadores de las bestias en una época antigua.\n\n \n\nUna creencia muy extendida por aquel entonces era que la \"sangre de las bestias subía por la pierna derecha\", lo que dio lugar al cinturón de doble vuelta.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "En un cadáver  que cerca del atajo en la zona Pesadilla del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.:  50",
+        "-Ctra.  arremetida: 60",
+        "-DEF con sangre:  60",
+        "-Arcano: 50",
+        "-Fuego: 70",
+        "-Rayo: 40",
+        "-RES a env.  lento: 20",
+        "-RES env.  Rápido: 11",
+        "-RES a frenesí:  25",
+        "-Bestialidad: 33",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.:  50\n-Ctra.  arremetida: 60\n-DEF con sangre:  60\n-Arcano: 50\n-Fuego: 70\n-Rayo: 40\n-RES a env.  lento: 20\n-RES env.  Rápido: 11\n-RES a frenesí:  25\n-Bestialidad: 33\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

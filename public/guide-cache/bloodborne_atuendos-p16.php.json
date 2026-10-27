@@ -1,0 +1,34 @@
+{
+  "title": "Pantalones de cazador carbonizados",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p16.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-cazador-carbonizados.jpg"
+  ],
+  "lore": "Uno de los artículos habituales en el atuendo de un cazador elaborada en el taller.\n\nEs producto de la infección de la bestia uqe invadió el Viejo Yharnam y que culimó en la purificación por fuego de la ciudad.\n\nDiseñado para ser muy resistente al fuego. Los portadores de este atuendo cazaron a las víctimas de la infección que sobrevivieron a las llamas y al hedor de la sangre quemada.",
+  "intro": [
+    "-En un cadáver en el piso superior de un edificio a oscuras en Viejo Yharnam, junto con el resto de piezas del set (Atuendo y Guantes)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 60",
+        "-Arcano: 40",
+        "-Fuego: 80",
+        "-Rayo: 40",
+        "-RES a env. lento: 17",
+        "-RES env. rápido: 21",
+        "-RES a frenesí: 27",
+        "-Bestialidad: 33",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 60\n-Ctra. arremetida: 50\n-DEF con sangre: 60\n-Arcano: 40\n-Fuego: 80\n-Rayo: 40\n-RES a env. lento: 17\n-RES env. rápido: 21\n-RES a frenesí: 27\n-Bestialidad: 33\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

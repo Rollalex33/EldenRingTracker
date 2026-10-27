@@ -1,0 +1,34 @@
+{
+  "title": "Yelmo de hierro con capucha negra",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p33.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/yelmo-de-hierro-con-capucha-negra.jpg"
+  ],
+  "lore": "Casco de hierro de los cazadores de la Aldea Invisible.\n\nLos cazadores de Yahar'gul responden ante los fundadores del pueblo, la Escuela de Mensis. Cazadores solo de nombre, estos secuestradores se tapan los ojos con sus capuchas negras.\n\nEste yemo es metálico, algo extraño entre cazadores, y tiene una defensa alta, pero solo contra ataques físicos.",
+  "intro": [
+    "-En un cadáver colgando de un carro por la parte donde aparece el primer cerdo en Yahar'gul, junto con el resto del set."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 70",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 10",
+        "-DEF con sangre: 20",
+        "-Arcano: 20",
+        "-Fuego: 30",
+        "-Rayo: 20",
+        "-RES a env. lento: 13",
+        "-RES env. rápido: 12",
+        "-RES a frenesí: 12",
+        "-Bestialidad: 8",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 70\n-Ctra. contund.: 40\n-Ctra. arremetida: 10\n-DEF con sangre: 20\n-Arcano: 20\n-Fuego: 30\n-Rayo: 20\n-RES a env. lento: 13\n-RES env. rápido: 12\n-RES a frenesí: 12\n-Bestialidad: 8\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

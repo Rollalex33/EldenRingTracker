@@ -1,0 +1,42 @@
+{
+  "title": "Gema sangrienta lóbrega maldita",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_gemas-sangrientas-p44.php",
+  "images": [],
+  "lore": "Una gema sangrienta que fortalece armas y aporta diversas propiedades. Los puntos enfermizos señalan una maldición, pero los efectos dañinos de esta gema son perfectos para reforzar ciertos tipos de armas.\n\n \n\nLa mayoría de las gemas triangulares proporcionan bonos a los atributos y efectos especiales.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "-Clasificación: 6",
+        "-Forma: Triangular",
+        "Añade ef. ven. lento +6",
+        "Añade ATQ físico +3",
+        "PS se pierden gradu. -4",
+        "-Clasificación: 7",
+        "-Forma: Triangular",
+        "Añade ef. ven. lento +7",
+        "Añade ATQ físico +3,6",
+        "durabilidad ARM -22,5",
+        "-Clasificación: 8",
+        "-Forma: Triangular",
+        "Añade ef. ven. lento +8",
+        "Añade ATQ físico +4,2",
+        "durabilidad ARM -31,5",
+        "PS se pierden gradu. -5"
+      ],
+      "text": "-Clasificación: 6\n-Forma: Triangular\nAñade ef. ven. lento +6\nAñade ATQ físico +3\nPS se pierden gradu. -4\n-Clasificación: 7\n-Forma: Triangular\nAñade ef. ven. lento +7\nAñade ATQ físico +3,6\ndurabilidad ARM -22,5\n-Clasificación: 8\n-Forma: Triangular\nAñade ef. ven. lento +8\nAñade ATQ físico +4,2\ndurabilidad ARM -31,5\nPS se pierden gradu. -5",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Se consigue en las  mazmorras cáliz ."
+      ],
+      "text": "Se consigue en las  mazmorras cáliz .",
+      "images": []
+    }
+  ],
+  "category": "gemas",
+  "subcategory": "Triangular"
+}

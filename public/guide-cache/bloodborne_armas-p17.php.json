@@ -1,0 +1,66 @@
+{
+  "title": "Reiterpallasch",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p17.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/reiterpallasch.jpg"
+  ],
+  "lore": "Un arma que llevan los caballeros de Cainhurst.\n\nCombina el elegante diseño de una espada con la peculiar arma de fuego que empuña la orden de Cainhurst.\n\nLos viejos nobles, bebedores de sangre avezados, conocían bien la peste sanguínea y dejaban la discreta tarea de deshacerse de las bestias en manos de sus criados, o caballeros, como los llamaban para guardar las apariencias.",
+  "intro": [
+    "-Dentro de un cofre en el interior del Castillo olvidado de Cainhurst.",
+    "-También te lo venden los mensajeros tras haber conseguido la Insignia de cainhurst."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 8",
+        "Habilidad: 12",
+        "Viveza de sangre: 10"
+      ],
+      "text": "Fuerza: 8\nHabilidad: 12\nViveza de sangre: 10",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: E",
+        "Habilidad: C",
+        "Viveza de sangre: D",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: E\nHabilidad: C\nViveza de sangre: D\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 75",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 75",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 150",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 75\nContundente: -\nArremetida: -\nATQ con sangre: 75\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 150\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Espada de luz de luna sagrada",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p33.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/espada-de-luz-de-luna-sagrada.jpg"
+  ],
+  "lore": "Una espada  arcana descubierta por Ludwig hace mucho tiempo.\n\nCuando la luz de  la luna azul baila alrededor de la espada y canaliza el cosmos  abisal, su fantástica hoja emite una onda luminosa sombría.\n\n \n\nLa espada de  luna sagrada es sinónimo de Ludwig, la espada sagrada, pero han sido  muy pocos los que han podido verla, y sea cual sea la ayuda que  proporciona, parece ser bastante reservada y esquiva.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "Tras el combate  contra el jefazo Ludwig, verás como aparece su cabeza cortada  en el suelo y entonces tendrás varias opciones:",
+    "-Equípate con  cualquier set de la iglesia y al hablar con él respóndele SI.",
+    "-Atácale  directamente.",
+    "-Sal de la zona,  regresa y verás como Simon es quien lo atacó.",
+    "En cualquier  caso, habrás conseguido esta espada."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 16",
+        "Habilidad: 12",
+        "Arcano: 14"
+      ],
+      "text": "Fuerza: 16\nHabilidad: 12\nArcano: 14",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: D",
+        "Destreza: D",
+        "Arcano: C"
+      ],
+      "text": "Fuerza: D\nDestreza: D\nArcano: C",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 90",
+        "ATQ con sangre:  -",
+        "ATQ con fuego: 50",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 250",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 90\nATQ con sangre:  -\nATQ con fuego: 50\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 250\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

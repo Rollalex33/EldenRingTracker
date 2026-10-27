@@ -1,0 +1,34 @@
+{
+  "title": "Ardeo dorado",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p63.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/ardeo-dorado.jpg"
+  ],
+  "lore": "El extraño casco que llevaba la banda de ejecutores liderada por el mártir Logarius.\n\nRepresenta la luminosidad, la ambición y la resolución inquebrantable de enfrentarse a la impureza y mirarla a los ojos con un espíritu firme y dorado.\n\nComo dijo el gran Logarius: \"Las buenas acciones no siempre son sabias, y las malas no siempre son estúpidas. De todas formas, intentaremos ser siempre buenos\".",
+  "intro": [
+    "-Te lo venden los mensajeros junto con el resto del set tras haber conseguido la Insignia de cazador con rueda."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 60",
+        "-DEF con sangre: 40",
+        "-Arcano: 40",
+        "-Fuego: 40",
+        "-Rayo: 70",
+        "-RES a env. lento: 12",
+        "-RES env. rápido: 15",
+        "-RES a frenesí: 13",
+        "-Bestialidad: 16",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 40\n-Ctra. arremetida: 60\n-DEF con sangre: 40\n-Arcano: 40\n-Fuego: 40\n-Rayo: 70\n-RES a env. lento: 12\n-RES env. rápido: 15\n-RES a frenesí: 13\n-Bestialidad: 16\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

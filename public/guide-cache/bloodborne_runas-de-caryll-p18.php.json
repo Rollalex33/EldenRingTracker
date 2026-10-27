@@ -1,0 +1,31 @@
+{
+  "title": "Cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p18.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cazador.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEsta runa manchada de rojo significa \"Cazador\" y ha sido adoptada por aquellos que tomaron el juramento de Cazador de cazadores.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"cazador\". Señal de un  Cazador de cazadores .",
+        "-Efecto:",
+        "Recuperar brío a + velocidad."
+      ],
+      "text": "Runa \"cazador\". Señal de un  Cazador de cazadores .\n-Efecto:\nRecuperar brío a + velocidad.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Te la da  Eileen  cuando completas su misión secundaria y te unes al juramento."
+      ],
+      "text": "Te la da  Eileen  cuando completas su misión secundaria y te unes al juramento.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Memoria de juramentos"
+}

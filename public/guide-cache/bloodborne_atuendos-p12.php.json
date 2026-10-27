@@ -1,0 +1,35 @@
+{
+  "title": "Pantalones de cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p12.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-de-cazador.jpg"
+  ],
+  "lore": "Uno de los artículos habituales en el atuendo de un cazador elaborado en el taller.\n\nEsta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.\n\nPermite acechar en secreto a las bestias, al amparo de la noche.",
+  "intro": [
+    "-Los encontrarás, junto con el resto del set, en un cadáver en la entrada de las Alcantarillas.",
+    "-También en un cadáver tras unas tumbas en el patio del Distrito de la Catedral, tras pasar por la puerta de la izquierda al inicio. Estará junto la Chistera y otras dos piezas del set de cazador: Guantes y Atuendo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 60",
+        "-Arcano: 50",
+        "-Fuego: 60",
+        "-Rayo: 50",
+        "-RES a env. lento: 10",
+        "-RES env. rápido: 19",
+        "-RES a frenesí: 30",
+        "-Bestialidad: 27s",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 60\n-Ctra. arremetida: 50\n-DEF con sangre: 60\n-Arcano: 50\n-Fuego: 60\n-Rayo: 50\n-RES a env. lento: 10\n-RES env. rápido: 19\n-RES a frenesí: 30\n-Bestialidad: 27s\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

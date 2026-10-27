@@ -1,0 +1,34 @@
+{
+  "title": "Máscara de pico",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p70.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-pico.jpg"
+  ],
+  "lore": "Máscara de madera de Eileen el Cuervo, cazadora de cazadores.\n\nEl pico lleva esencias para el olor a sangre y bestia. Los cazadores de cazadores se visten como cuervos para sugerir un entierro celestial. El primero vino de un país extranjero y eligió un rito funeral nativo en vez de imponer a los muertos la forma blasfema de Yharnam, con la esperanza de que sus compatriotas pudieran volver al cielo y encontrar descanso en un sueño del cazador.",
+  "intro": [
+    "-Te la venden los Mensajeros junto con el resto del set tras haber conseguido la Insignia de cazador de cuervo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 60",
+        "-Arcano: 30",
+        "-Fuego: 40",
+        "-Rayo: 30",
+        "-RES a env. lento: 8",
+        "-RES env. rápido: 10",
+        "-RES a frenesí: 40",
+        "-Bestialidad: 2",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 40\n-Ctra. arremetida: 40\n-DEF con sangre: 60\n-Arcano: 30\n-Fuego: 40\n-Rayo: 30\n-RES a env. lento: 8\n-RES env. rápido: 10\n-RES a frenesí: 40\n-Bestialidad: 2\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

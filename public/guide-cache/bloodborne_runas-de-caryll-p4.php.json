@@ -1,0 +1,33 @@
+{
+  "title": "Luna",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p4.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/luna.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de Byrgenwerth.\n\n \n\nUna transcripción de \"luna\", en la pronunciación de los Grandes que viven en la pesadilla.\n\n \n\nPermite conseguir más ecos de sangre.\n\n \n\nLos Grandes que habitan en la pesadilla son espíritus amistosos y suelen responder cuando se los llama.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"luna\". Consigue más ecos de sangre.",
+        "-Efecto:",
+        "Más ecos de enemigos caídos (10% / 20% / 30%)."
+      ],
+      "text": "Runa \"luna\". Consigue más ecos de sangre.\n-Efecto:\nMás ecos de enemigos caídos (10% / 20% / 30%).",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-(10%) En mitad de la sala grande con 2 \"hombres del saco\" en  Yahar'gul, la Aldea Invisible , y en donde también está la lámpara \"Cárcel hipógea\".",
+        "-(20%) Durante la batalla contra el boss  Micolash , al fondo de la escalera en espiral.",
+        "-(30%) Haciéndole el gesto \"Canalizar\" al Gran cerebro con ojos en la  Pesadilla de Mensis (segunda parte) . En esa sección de la guía ya te explicamos con más detalles cómo hacerlo."
+      ],
+      "text": "-(10%) En mitad de la sala grande con 2 \"hombres del saco\" en  Yahar'gul, la Aldea Invisible , y en donde también está la lámpara \"Cárcel hipógea\".\n-(20%) Durante la batalla contra el boss  Micolash , al fondo de la escalera en espiral.\n-(30%) Haciéndole el gesto \"Canalizar\" al Gran cerebro con ojos en la  Pesadilla de Mensis (segunda parte) . En esa sección de la guía ya te explicamos con más detalles cómo hacerlo.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

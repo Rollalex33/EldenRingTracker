@@ -1,0 +1,34 @@
+{
+  "title": "Sombrero de Iglesia blanco",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p47.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/sombrero-de-iglesia-blanco.jpg"
+  ],
+  "lore": "Atuendo de doctores especiales de la Iglesia.\n\n \n\nEstos doctores son superiores a los cazadores preventivos negros, y especialistas en trasvase de sangre apoyado por la experimentación y en la infección de la bestia.\n\n \n\nPiensan que la medicina no es una forma de tratar, sino un método de investigación, y que hay conocimientos que solo pueden obtenerse si uno se expone a la enfermedad.",
+  "intro": [
+    "-En un cadáver que está en el tejado de una casa en el Bosque prohibido, junto con el resto del set."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 30",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 60",
+        "-Arcano: 60",
+        "-Fuego: 60",
+        "-Rayo: 60",
+        "-RES a env. lento: 21",
+        "-RES env. rápido: 18",
+        "-RES a frenesí: 3",
+        "-Bestialidad: 12",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 30\n-Ctra. contund.: 40\n-Ctra. arremetida: 40\n-DEF con sangre: 60\n-Arcano: 60\n-Fuego: 60\n-Rayo: 60\n-RES a env. lento: 21\n-RES env. rápido: 18\n-RES a frenesí: 3\n-Bestialidad: 12\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

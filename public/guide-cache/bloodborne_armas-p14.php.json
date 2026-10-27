@@ -1,0 +1,62 @@
+{
+  "title": "Fusil de Ludwig",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p14.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/fusil-de-ludwig.jpg"
+  ],
+  "lore": "Un fusil usado habitualmente por cazadores de la Iglesia de la Sanación.\n\nSe dice que fue empleado por Ludwig, el primer cazador de la Iglesia. Su cañón largo y pesado compensa la lenta recarga con un gran alcance. El fusil de Ludwig muestra variaciones respecto al diseño del taller, lo que sugiere que la Iglesia esperaba bestias inhumanas mucho mayores.",
+  "intro": [
+    "Te lo venden los mensajeros cuando consigas la Insignia de cazador con espada radiante."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 9",
+        "Habilidad: 10",
+        "Viveza de sangre: 9"
+      ],
+      "text": "Fuerza: 9\nHabilidad: 10\nViveza de sangre: 9",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Viveza de sangre: E"
+      ],
+      "text": "Viveza de sangre: E",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 20",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 150",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: 20\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 150\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

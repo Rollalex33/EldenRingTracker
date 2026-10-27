@@ -1,0 +1,61 @@
+{
+  "title": "Antorcha de cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p10.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/antorcha-de-cazador.jpg"
+  ],
+  "lore": "Una antorcha hecha al enrollar una tela empapada en resina de pino en el extremo de un palo largo. Se usaba en el Viejo Yharnam.\n\nEstá diseñada para incinerar a bestias y víctimas afectadas por la infección. Su daño por fuego es altamente eficaz contra las bestias.",
+  "intro": [
+    "-En un cadáver de Viejo Yharnam, tras haberte dejado caer por los tejados cuando persigues al \"bicho que escapa\".",
+    "-Curiosamente también estaba a la venta en los Mensajeros, aunque en Eliteguias se desconoce el momento exacto de esto."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 6"
+      ],
+      "text": "Fuerza: 6",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Arcano: B"
+      ],
+      "text": "Arcano: B",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: 50",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 150",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: 50\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 150\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Pantalones extranjeros",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p4.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/pantalones-extranjeros.jpg"
+  ],
+  "lore": "Pantalones llevados al despertarse en la pesadilla de sangre y bestias.\n\n \n\nNo es la ropa típica de Yharnam.\n\nQuizá sea extranjera. Después de todo, se dice que el viajero llegó a Yharnam desde muy lejos.\n\n \n\nSin memoria, ¿quién llegará a saberlo?.",
+  "intro": [
+    "-Forma parte del equipo inicial."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 50",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 40",
+        "-Arcano: 50",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 16",
+        "-RES env. rápido: 11",
+        "-RES a frenesí: 16",
+        "-Bestialidad: 9",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 50\n-Ctra. arremetida: 40\n-DEF con sangre: 40\n-Arcano: 50\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 16\n-RES env. rápido: 11\n-RES a frenesí: 16\n-Bestialidad: 9\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

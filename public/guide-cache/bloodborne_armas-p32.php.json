@@ -1,0 +1,60 @@
+{
+  "title": "Sierra giratoria",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p32.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/sierra-giratoria.jpg"
+  ],
+  "lore": "Un arma con  truco creada por los Polvorillas, los herejes del taller, y la  preferida del viejo cazador Valtr, el devorador de bestias.\n\n \n\nEsta arma  machaca a las bestias en su forma de maza, pero su punto fuerte está  en las sierras mecánicas adjuntas.\n\nEstos discos con  dientes afilados giran a gran velocidad y convierten la carne de las  bestias en jirones.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "Se encuentra en un cadáver de la zona de Pesadilla del cazador, casi al final de todo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 18",
+        "Habilidad: 12"
+      ],
+      "text": "Fuerza: 18\nHabilidad: 12",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: B",
+        "Destreza: E",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: B\nDestreza: E\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 95",
+        "ATQ con sangre:  -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 230",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 95\nATQ con sangre:  -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 230\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Hoja de piedad",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p22.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/hoja-de-piedad.jpg"
+  ],
+  "lore": "Un arma con truco utilizada por cazadores de cazadores. Es una de las armas más antiguas del taller.\n\nSe divide en 2 al activarla. Las hojas torcidas están forjadas con siderita, un mineral exótico del cielo. Es muy eficaz en ataques rápidos, como despu&egrave;s de un paso rápido.",
+  "intro": [
+    "Te la venden los Mensajeros después de haber conseguido la Insignia de cazador de cuervo."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 7",
+        "Habilidad: 11"
+      ],
+      "text": "Fuerza: 7\nHabilidad: 11",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Habilidad: C",
+        "Arcano: D"
+      ],
+      "text": "Habilidad: C\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 60",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: 30",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 60\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: 30\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

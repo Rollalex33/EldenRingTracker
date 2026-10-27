@@ -1,0 +1,34 @@
+{
+  "title": "Guantes negros de Yahar'gul",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p35.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guantes-negros-de-yahar-gul.jpg"
+  ],
+  "lore": "Guantes negros y gruesos que llevan los cazadores de la Aldea Invisible.\n\nLos cazadores de yahar'gul responden ante los fundadores del pueblo, la Escuela de Mensis. Cazadores solo de nombre, estos secuestradores se funden en la noche llevando este atuendo.\n\nEstán pensados principalmente para defenderse de los ataques físicos.",
+  "intro": [
+    "-En un cadáver colgando de un carro por la parte donde aparece el primer cerdo en Yahar'gul, junto con el resto del set."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 60",
+        "-DEF con sangre: 50",
+        "-Arcano: 40",
+        "-Fuego: 40",
+        "-Rayo: 40",
+        "-RES a env. lento: 24",
+        "-RES env. rápido: 20",
+        "-RES a frenesí: 22",
+        "-Bestialidad: 20",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.: 60\n-Ctra. arremetida: 60\n-DEF con sangre: 50\n-Arcano: 40\n-Fuego: 40\n-Rayo: 40\n-RES a env. lento: 24\n-RES env. rápido: 20\n-RES a frenesí: 22\n-Bestialidad: 20\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

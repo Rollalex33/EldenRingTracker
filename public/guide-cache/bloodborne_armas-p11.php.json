@@ -1,0 +1,65 @@
+{
+  "title": "Lanza fusil",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p11.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/lanza-fusil.jpg"
+  ],
+  "lore": "Un arma con truco creada por los Polvorillas, los herejes del taller.\n\nEs un prototipo que sirve como arma de fuego y lanza, creado probablemente a imagen de un arma de Cainhurst.\n\nCarece de funciones destacadas, a excepción de ser la única arma con truco capaz de disparar.",
+  "intro": [
+    "-Te lo venden los mensajeros cuando consigas la Insignia de cazador de los Polvorillas.",
+    "-También lo puedes conseguir en un cadáver subiendo las esclaeras de un edificio a oscuras en Viejo Yharnam."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 10",
+        "Habilidad: 11"
+      ],
+      "text": "Fuerza: 10\nHabilidad: 11",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: E",
+        "Habilidad: D",
+        "Viveza de sangre: D",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: E\nHabilidad: D\nViveza de sangre: D\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 85",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 85",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 180",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 85\nContundente: -\nArremetida: -\nATQ con sangre: 85\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 180\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

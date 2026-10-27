@@ -1,0 +1,63 @@
+{
+  "title": "Evelyn",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p19.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/evelyn.jpg"
+  ],
+  "lore": "Una pistola especial que usan los caballeros de Cainhurst.\n\nLa Evelyn emplea balas de mercurio, como cualquier otra arma de fuego, pero la versión de Cainhurst depende más de la viveza de sangre.\n\nLos caballeros de Cainhurst adoraban las Evelyn, bautizadas en honor a una mujer y agraciadas con un diseño intrincado.",
+  "intro": [
+    "-Te la venden los mensajeros tras haber conseguido la Insignia de cainhurst.",
+    "-También se encuentra dentro de un cofre en la biblioteca del Castillo olvidado de Cainhurst."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 9",
+        "Habilidad: 11",
+        "Viveza de sangre: 18"
+      ],
+      "text": "Fuerza: 9\nHabilidad: 11\nViveza de sangre: 18",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Viveza de sangre: B"
+      ],
+      "text": "Viveza de sangre: B",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 60",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 100",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: 60\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 100\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

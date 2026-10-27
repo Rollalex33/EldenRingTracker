@@ -1,0 +1,42 @@
+{
+  "title": "Gran cáliz de Pthumeru Ihyll",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p122.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/gran-caliz-de-pthumeru-ihyll.jpg"
+  ],
+  "lore": "Un cáliz que rompe un sello del laberinto.\n\nLos grandes cálices abren lugares más profundos del laberinto. Pthumeru Ihyll era el nombre de la monarca pthumeria y de su capital.\n\nEsto revela que aunque los antiguos pthumerios no eran más que humildes guardianes de los Grandes durmientes, sus descendientes se sintieron con derecho a nombrar un líder.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Profundidad: 5",
+        "Área: Pthumeru"
+      ],
+      "text": "Profundidad: 5\nÁrea: Pthumeru",
+      "images": []
+    },
+    {
+      "heading": "Materiales",
+      "lines": [
+        "Ecos de sangre: 11500",
+        "Sangre ritual (5) : 9",
+        "Mermelada roja : 4",
+        "Neblina arcana : 25",
+        "Hilo viviente : 1"
+      ],
+      "text": "Ecos de sangre: 11500\nSangre ritual (5) : 9\nMermelada roja : 4\nNeblina arcana : 25\nHilo viviente : 1",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Se consigue como recompensa por derrotar al boss  Amygdala  en el nivel 3 de la mazmorra cáliz  Cáliz profanado ."
+      ],
+      "text": "Se consigue como recompensa por derrotar al boss  Amygdala  en el nivel 3 de la mazmorra cáliz  Cáliz profanado .",
+      "images": []
+    }
+  ],
+  "category": "calices",
+  "subcategory": "Cálices"
+}

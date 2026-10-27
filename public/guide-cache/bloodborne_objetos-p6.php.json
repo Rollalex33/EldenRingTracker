@@ -1,0 +1,39 @@
+{
+  "title": "Guijarro",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p6.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guijarro.jpg"
+  ],
+  "lore": "Pequeños guijarros que se encuentran por todo Yharnam.\n\nSe pueden tirar a los enemigos.\n\nMuy emocionante.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "Guijarros que se pueden lanzar a los objetivos."
+      ],
+      "text": "Guijarros que se pueden lanzar a los objetivos.",
+      "images": []
+    },
+    {
+      "heading": "Bono de Atributo",
+      "lines": [
+        "Fuerza: A",
+        "Habilidad: D"
+      ],
+      "text": "Fuerza: A\nHabilidad: D",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se encuentran en cadáveres a lo largo de Yarnham.",
+        "-Te los venden los  mensajeros ."
+      ],
+      "text": "-Se encuentran en cadáveres a lo largo de Yarnham.\n-Te los venden los  mensajeros .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Projectiles"
+}

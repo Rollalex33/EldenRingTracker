@@ -1,0 +1,58 @@
+{
+  "title": "Parásito de Kos",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p40.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/parasito-de-kos.jpg"
+  ],
+  "lore": "Cuando el  cadáver de Kos llegó a la costa, su interior estaba lleno de  minúsculos parásitos, distintos a los encontrados en humanos.\n\nEsta arma  atípica solo se puede agarrar con fuerza y usarla para golpear, pero  se dice que los parásitos de Kos estimulan a los fantasmas que  habitan en un lumentallo.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos  cazadores",
+    "Se consigue por  derrotar al boss final Huérfano de Kos."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Arcano: 20"
+      ],
+      "text": "Arcano: 20",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Arcano: A"
+      ],
+      "text": "Arcano: A",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: -",
+        "ATQ con sangre:  -",
+        "ATQ arcano: 30",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  2",
+        "Durabilidad: 600",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: -\nATQ con sangre:  -\nATQ arcano: 30\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  2\nDurabilidad: 600\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

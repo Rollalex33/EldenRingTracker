@@ -1,0 +1,34 @@
+{
+  "title": "Máscara de ceniza de hueso",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p79.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-ceniza-de-hueso.jpg"
+  ],
+  "lore": "Una máscara hecha de ceniza de hueso y usada por los protectores más antiguos.\n\nLos protectores, que cuidan de los Grandes durmientes, obtuvieron la vida eterna, preservados en forma de ceniza en una ceremonia de cremación del cuerpo y del alma. El sombrero largo y puntiagudo es un símbolo de los antiguos protectores y prueba de compañerismo forjado en un pecado.",
+  "intro": [
+    "-Te la venden los Mensajeros junto con el resto del set tras haber derrotado al boss Protector de los Antiguos Señores."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 30",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 20",
+        "-Arcano: 20",
+        "-Fuego: 60",
+        "-Rayo: 60",
+        "-RES a env. lento: 11",
+        "-RES env. rápido: 9",
+        "-RES a frenesí: 14",
+        "-Bestialidad: 8",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 30\n-Ctra. arremetida: 40\n-DEF con sangre: 20\n-Arcano: 20\n-Fuego: 60\n-Rayo: 60\n-RES a env. lento: 11\n-RES env. rápido: 9\n-RES a frenesí: 14\n-Bestialidad: 8\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

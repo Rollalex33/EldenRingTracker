@@ -32,11 +32,15 @@ export function parseGuideHtml(html, originalUrl) {
   
   const title = titleMatch ? decodeHtml(titleMatch[1].replace(/<[^>]+>/g, '').trim()) : '';
 
+  // Base guide URL
+  const isBloodborne = (originalUrl && originalUrl.includes('/b/bb/'));
+  const baseGuideUrl = isBloodborne ? 'https://www.eliteguias.com/guias/b/bb/' : 'https://www.eliteguias.com/guias/e/er/';
+
   // Extract all images
   const rawImgs = [...content.matchAll(/<img\s+[^>]*src=["']([^"']+)["'][^>]*>/gi)].map(m => m[1]);
   const images = [...new Set(rawImgs.map(src => {
     if (src.startsWith('/')) return 'https://www.eliteguias.com' + src;
-    if (!src.startsWith('http')) return 'https://www.eliteguias.com/guias/e/er/' + src;
+    if (!src.startsWith('http')) return baseGuideUrl + src;
     return src;
   }))].filter(s => !s.includes('ads') && !s.includes('layout') && !s.includes('logo') && !s.includes('caratulas') && !s.includes('foro'));
 
@@ -80,7 +84,7 @@ export function parseGuideHtml(html, originalUrl) {
     const secImgs = [...sectionBodyHtml.matchAll(/<img\s+[^>]*src=["']([^"']+)["'][^>]*>/gi)].map(m => {
       let src = m[1];
       if (src.startsWith('/')) return 'https://www.eliteguias.com' + src;
-      if (!src.startsWith('http')) return 'https://www.eliteguias.com/guias/e/er/' + src;
+      if (!src.startsWith('http')) return baseGuideUrl + src;
       return src;
     }).filter(s => !s.includes('ads') && !s.includes('layout') && !s.includes('foro'));
 

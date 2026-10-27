@@ -1,0 +1,29 @@
+{
+  "title": "Campana de viejo cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p132.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/campana-de-viejo-cazador.jpg"
+  ],
+  "lore": "Una de las  campanas resonantes que cruzan los espacios entre mundos.\n\nEsta está  rajada y manchada con sangre de bestias.\n\nLos humanos  deben usar lucidez para tocar esta misteriosa campana.\n\nLos viejos  cazadores, que dejaron atrás el sueño hace mucho tiempo pero no  pueden olvidar la sensación de la caza, dependen de los mensajeros  para transmitir sus pensamientos. Toca la campana a su lado y seguro  que te escucharán. Pues la noche de la caza es larga e inmutable.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "Consume lucidez  para llamar y pedir ayuda a viejos cazadores."
+      ],
+      "text": "Consume lucidez  para llamar y pedir ayuda a viejos cazadores.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Tras tener  instalado el parche 1.07 (no será necesario el DLC  Antiguos  cazadores ), sube las escaleras que llevan a la casa de  Sueño  del cazador  y la encontrarás allí como regalo de los  mensajeros, al tener al menos 1 de lucidez."
+      ],
+      "text": "Tras tener  instalado el parche 1.07 (no será necesario el DLC  Antiguos  cazadores ), sube las escaleras que llevan a la casa de  Sueño  del cazador  y la encontrarás allí como regalo de los  mensajeros, al tener al menos 1 de lucidez.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Multijugador"
+}

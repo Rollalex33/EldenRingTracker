@@ -1,0 +1,34 @@
+{
+  "title": "Yelmo de hierro de Yahar'gul",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p74.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/yelmo-de-hierro-de-yahar-gul.jpg"
+  ],
+  "lore": "Casco de hierro de los cazadorse de la Aldea Invisible.\n\nAl retirar la visera aparece algo que recuerda a un guerrero de una era anterior.\n\nEsta prenda es metálica, algo extraño entre cazadores, y tiene una defensa alta pero solo contra ataques físicos.",
+  "intro": [
+    "-En un cadáver en Yahar'gul (segunda visita)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 10",
+        "-DEF con sangre: 20",
+        "-Arcano: 20",
+        "-Fuego: 30",
+        "-Rayo: 10",
+        "-RES a env. lento: 5",
+        "-RES env. rápido: 7",
+        "-RES a frenesí: 9",
+        "-Bestialidad: 12",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 40\n-Ctra. arremetida: 10\n-DEF con sangre: 20\n-Arcano: 20\n-Fuego: 30\n-Rayo: 10\n-RES a env. lento: 5\n-RES env. rápido: 7\n-RES a frenesí: 9\n-Bestialidad: 12\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

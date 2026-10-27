@@ -1,0 +1,31 @@
+{
+  "title": "Lago disipado",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p13.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/lago-disipado.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEsta transcripción de las voces inhumanas de los Grandes ondula como un reflejo acuoso. Esta runa significa \"lago\" y quienes la memorizan disfrutan de una reducción del daño por rayo.\n\n \n\nGrandes volúmenes de agua sirven como baluarte que protege el sueño y como augurio de la verdad arcana.\n\n \n\nSupera este obstáculo y busca lo que te pertenece.\n\n ",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una runa \"lago\". Aumenta la reducción de daño por rayo.",
+        "-Efecto:",
+        "Reducción DÑO rayo +5%"
+      ],
+      "text": "Una runa \"lago\". Aumenta la reducción de daño por rayo.\n-Efecto:\nReducción DÑO rayo +5%",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Una versión (3) en el  Bosque prohibido , pasando por debajo de las raíces de un árbol cerca de la zona del lago de las luciérnagas."
+      ],
+      "text": "-Una versión (3) en el  Bosque prohibido , pasando por debajo de las raíces de un árbol cerca de la zona del lago de las luciérnagas.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

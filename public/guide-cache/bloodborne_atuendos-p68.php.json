@@ -1,0 +1,66 @@
+{
+  "title": "Uniforme de estudiante",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p68.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/uniforme-de-estudiante-2.jpg",
+    "https://www.eliteguias.com/img/juegos/bloodborne/uniforme-de-estudiante.jpg"
+  ],
+  "lore": "El uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño. Versión con capa gruesa.\n\nLa Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio que se inspira en el diseño de sus uniformes. El enfoque puesto no en el conocimiento ni en la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.\n\nEl uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño. Esta versión es sin capa.\n\n \n\nLa Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio qeu se inspira en el diseño de sus uniformes.\n\n \n\nEl enfoque puesto no en el conocimiento ni la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.",
+  "intro": [
+    "Hay dos versiones distintas de esta parte del set de estudiante y os detallamos las dos a continuación.",
+    "-El \"normal\" lo encontrarás junto con el resto del set (solo 2 piezas) dentro de un cofre en el interior de la mansión de Byrgenwerth.",
+    "-La segunda versión está en un cadáver en el Edificio lectivo."
+  ],
+  "sections": [
+    {
+      "heading": "Uniforme 1",
+      "lines": [
+        "El uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño. Versión con capa gruesa.",
+        "La Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio que se inspira en el diseño de sus uniformes. El enfoque puesto no en el conocimiento ni en la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.",
+        "Estadísticas    ",
+        "-DEF física: 70",
+        "-Ctra. contund.: 70",
+        "-Ctra. arremetida: 70",
+        "-DEF con sangre: 100",
+        "-Arcano: 140",
+        "-Fuego: 60",
+        "-Rayo: 70",
+        "-RES a env. lento: 42",
+        "-RES env. rápido: 31",
+        "-RES a frenesí: 35",
+        "-Bestialidad: 35"
+      ],
+      "text": "El uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño. Versión con capa gruesa.\nLa Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio que se inspira en el diseño de sus uniformes. El enfoque puesto no en el conocimiento ni en la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.\nEstadísticas    \n-DEF física: 70\n-Ctra. contund.: 70\n-Ctra. arremetida: 70\n-DEF con sangre: 100\n-Arcano: 140\n-Fuego: 60\n-Rayo: 70\n-RES a env. lento: 42\n-RES env. rápido: 31\n-RES a frenesí: 35\n-Bestialidad: 35",
+      "images": [
+        "https://www.eliteguias.com/img/juegos/bloodborne/uniforme-de-estudiante-2.jpg"
+      ]
+    },
+    {
+      "heading": "Uniforme 2",
+      "lines": [
+        "El uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño. Esta versión es sin capa.",
+        "La Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio qeu se inspira en el diseño de sus uniformes.",
+        "El enfoque puesto no en el conocimiento ni la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.",
+        "Estadísticas    ",
+        "-DEF física: 70",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 60",
+        "-DEF con sangre: 90",
+        "-Arcano: 140",
+        "-Fuego: 60",
+        "-Rayo: 70",
+        "-RES a env. lento: 42",
+        "-RES env. rápido: 31",
+        "-RES a frenesí: 35",
+        "-Bestialidad: 45",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "El uniforme de los estudiantes de Byrgenwerth, institución de enseñanza de antaño. Esta versión es sin capa.\nLa Iglesia de la Sanación tiene sus raíces en Byrgenwerth, y es obvio qeu se inspira en el diseño de sus uniformes.\nEl enfoque puesto no en el conocimiento ni la reflexión sino en la pura ostentación haría que el maestro Willem cayera presa de la desesperación.\nEstadísticas    \n-DEF física: 70\n-Ctra. contund.: 60\n-Ctra. arremetida: 60\n-DEF con sangre: 90\n-Arcano: 140\n-Fuego: 60\n-Rayo: 70\n-RES a env. lento: 42\n-RES env. rápido: 31\n-RES a frenesí: 35\n-Bestialidad: 45\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": [
+        "https://www.eliteguias.com/img/juegos/bloodborne/uniforme-de-estudiante.jpg"
+      ]
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

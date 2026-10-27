@@ -1,0 +1,40 @@
+{
+  "title": "Hueso de cazador viejo",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p41.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/hueso-de-cazador-viejo.jpg"
+  ],
+  "lore": "El hueso de un antiguo cazador cuyo nomber se ha perdido.\n\nSe dice que era un aprendiz del viejo Gehrman y practicante del arte del apresto, una técnica propia de los primeros cazadores.\n\nResulta muy apropiado que los cazadores que llevan la antorcha y se ven movidos por el sueño entresaquen un arte de sus restos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "El arte del apresto acelera el rodar y pasos rápidos.",
+        "Permite rodar más rápido y lejos, además de con una animación especial. No tiene más utilidad que esa, salvo la curiosidad de utilizarlo en PvP."
+      ],
+      "text": "El arte del apresto acelera el rodar y pasos rápidos.\nPermite rodar más rápido y lejos, además de con una animación especial. No tiene más utilidad que esa, salvo la curiosidad de utilizarlo en PvP.",
+      "images": []
+    },
+    {
+      "heading": "Características",
+      "lines": [
+        "Uso ilimitado.",
+        "Consume 6 balas de mercurio.",
+        "Requiere 15 de Arcano."
+      ],
+      "text": "Uso ilimitado.\nConsume 6 balas de mercurio.\nRequiere 15 de Arcano.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-En el  Antiguo taller abandonado ."
+      ],
+      "text": "-En el  Antiguo taller abandonado .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Consumibles"
+}

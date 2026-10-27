@@ -1,0 +1,34 @@
+{
+  "title": "Ropa sudada",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/ropa-sudada.jpg"
+  ],
+  "lore": "Ropa corriente de Yharnam.\n\nBastante usada y epapada de sudor.",
+  "intro": [
+    "-En el Taller de la Iglesia de la Sanación, cuando sales a la calle tras bajar por la torre, métete por el primer callejón a la izquierda y lo encontrarás en un cadáver, junto con un Sombrero arrugado de Yharnam."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 50",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 40",
+        "-Arcano: 40",
+        "-Fuego: 100",
+        "-Rayo: 60",
+        "-RES a env. lento: 27",
+        "-RES env. rápido: 35",
+        "-RES a frenesí: 38",
+        "-Bestialidad: 27",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 50\n-Ctra. arremetida: 50\n-DEF con sangre: 40\n-Arcano: 40\n-Fuego: 100\n-Rayo: 60\n-RES a env. lento: 27\n-RES env. rápido: 35\n-RES a frenesí: 38\n-Bestialidad: 27\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

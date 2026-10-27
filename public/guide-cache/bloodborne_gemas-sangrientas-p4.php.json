@@ -1,0 +1,49 @@
+{
+  "title": "Gema sangrienta competente",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_gemas-sangrientas-p4.php",
+  "images": [],
+  "lore": "Una gema sangrienta que fortalece armas y aporta diversas propiedades. Las gemas sangrientas son piedras de sangre muy exóticas que crecen en sangre fría.\n\n \n\nLas gemas sangrientas se incrustan en armas con herramientas del taller, pero solo si su forma coincide.\n\n \n\n-La mayoría de las gemas sangrientas radiales tienen efectos que influyen en los ataques físicos.\n\n-La mayoría de las gemas triangulares proporcionan bonos a los atributos y efectos adicionales.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "-Clasificación: 1",
+        "-Forma: Radial",
+        "ATQ contundente +0,8%",
+        "-Clasificación: 4",
+        "-Forma: Radial",
+        "ATQ con arremet. +7,2%",
+        "-Clasificación: 6",
+        "-Forma: Radial/Triangular",
+        "ATQ con arremet. +7,6%/+10,8%",
+        "Añade ATQ físico +4,2/+4,8",
+        "-Clasificación: 7",
+        "-Forma: Radial",
+        "ATQ contundente +12,6%",
+        "-Clasificación: 8",
+        "-Forma: Radial",
+        "ATQ con arremet. +14,4%",
+        "-Clasificación: 9",
+        "-Forma: Radial",
+        "QTQ contundente +11,3%/16,2%",
+        "durabilidad ARM +4,2"
+      ],
+      "text": "-Clasificación: 1\n-Forma: Radial\nATQ contundente +0,8%\n-Clasificación: 4\n-Forma: Radial\nATQ con arremet. +7,2%\n-Clasificación: 6\n-Forma: Radial/Triangular\nATQ con arremet. +7,6%/+10,8%\nAñade ATQ físico +4,2/+4,8\n-Clasificación: 7\n-Forma: Radial\nATQ contundente +12,6%\n-Clasificación: 8\n-Forma: Radial\nATQ con arremet. +14,4%\n-Clasificación: 9\n-Forma: Radial\nQTQ contundente +11,3%/16,2%\ndurabilidad ARM +4,2",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Las pueden soltar algunos enemigos como los encapuchados de  Viejo Yharnam .",
+        "-En un cadáver del granero en  Paso del Osario de Hemwick  encontrarás una de clasificación 4.",
+        "-Una versión (2) con clasificación 7 en un cadáver dentro de una pequeña cueva en el  Bosque prohibido .",
+        "-Una versión (2) con clasificación 6 la suelta el jefazo  Gigante no muerto ."
+      ],
+      "text": "-Las pueden soltar algunos enemigos como los encapuchados de  Viejo Yharnam .\n-En un cadáver del granero en  Paso del Osario de Hemwick  encontrarás una de clasificación 4.\n-Una versión (2) con clasificación 7 en un cadáver dentro de una pequeña cueva en el  Bosque prohibido .\n-Una versión (2) con clasificación 6 la suelta el jefazo  Gigante no muerto .",
+      "images": []
+    }
+  ],
+  "category": "gemas",
+  "subcategory": "Radial"
+}

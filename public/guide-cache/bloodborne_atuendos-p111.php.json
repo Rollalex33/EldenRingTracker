@@ -1,0 +1,35 @@
+{
+  "title": "Hakama púrpura",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p111.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/hakama-purpura.jpg"
+  ],
+  "lore": "Atuendo de una  lejana tierra oriental, usado por Yamamura, el Vagabundo.\n\nEste guerrero  oriental persiguió a una bestia por una venganza de honor, y luego  se convirtió en cazador de la Liga. Pero cuando miró directamente a  la impureza, enloqueció.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Te lo da Yamamura junto con el resto del set (Sombrero de cazador de Yamamura, Haori caqui y Vendas de viejo cazador) al  matarlo dentro de su celda."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.:  40",
+        "-Ctra.  arremetida: 50",
+        "-DEF con sangre:  50",
+        "-Arcano: 60",
+        "-Fuego: 90",
+        "-Rayo: 50",
+        "-RES a env.  lento: 21",
+        "-RES env.  rápido: 19",
+        "-RES a frenesí:  19",
+        "-Bestialidad: 15",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.:  40\n-Ctra.  arremetida: 50\n-DEF con sangre:  50\n-Arcano: 60\n-Fuego: 90\n-Rayo: 50\n-RES a env.  lento: 21\n-RES env.  rápido: 19\n-RES a frenesí:  19\n-Bestialidad: 15\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

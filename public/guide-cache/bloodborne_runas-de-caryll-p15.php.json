@@ -1,0 +1,32 @@
+{
+  "title": "Éxtasis de sangre",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p15.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/extasis-de-sangre.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\nEl \"éxtasis de sangre\" es la euforia pura de la calidez de la sangre.\n\nRepone PS con los ataques viscerales, una de las técnicas más oscuras de los cazadores.\n\n \n\nEsta runa resuena con los sirvientes de la reina, portadora del Hijo de la Sangre, quienes anhelan la sangre de su reina con pocas esperanzas de obtenerla. Encuentran consuelo en el \"éxtasis de sangre\", que les sirve como sustituto de sus deseos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"éxtasis de sangre\". Los ataques viscerales reponen PS.",
+        "-Efecto:",
+        "ATQ.V reponen PS +200/+300"
+      ],
+      "text": "Runa \"éxtasis de sangre\". Los ataques viscerales reponen PS.\n-Efecto:\nATQ.V reponen PS +200/+300",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +200 se consigue como recompensa por derrotar al boss  Sombra de Yharnam .",
+        "-La versión +300 se consigue al derrotar al último cazador de la misión secundaria de  Eileen ."
+      ],
+      "text": "-La versión +200 se consigue como recompensa por derrotar al boss  Sombra de Yharnam .\n-La versión +300 se consigue al derrotar al último cazador de la misión secundaria de  Eileen .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

@@ -35,8 +35,10 @@ function guideDetailPlugin() {
         return;
       }
 
-      // Fetch on demand from EliteGuías
-      const targetUrl = `https://www.eliteguias.com/guias/e/er/${cleanKey.endsWith('.php') ? cleanKey : cleanKey + '.php'}`;
+      // Fetch on demand from EliteGuías (Elden Ring e/er o Bloodborne b/bb)
+      const isBloodborne = cleanKey.startsWith('bloodborne');
+      const gameDir = isBloodborne ? 'b/bb' : 'e/er';
+      const targetUrl = `https://www.eliteguias.com/guias/${gameDir}/${cleanKey.endsWith('.php') ? cleanKey : cleanKey + '.php'}`;
       const response = await fetch(targetUrl, {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',

@@ -1,0 +1,34 @@
+{
+  "title": "Atuendo de caballero",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p54.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-caballero.jpg"
+  ],
+  "lore": "Atuendo de los caballeros de Cainhurst.\n\nUna majestuosa pieza adornada con trabajada orfebrería de oro.\n\nEl estilo de Cainhurst mezcla nostalgia y pomposidad.\n\nSe enorgullecen incluso de los cadáveres de las bestias que dejan a su paso, confiados en que permanecerán como ejemplos de arte decadente.",
+  "intro": [
+    "Dentro de un cofre en la biblioteca de Castillo olvidado de Cainhurst, junto con el resto del set, menos la parte de la cabeza que se encuentra aparte."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 90",
+        "-Ctra. contund.: 70",
+        "-Ctra. arremetida: 80",
+        "-DEF con sangre: 140",
+        "-Arcano: 40",
+        "-Fuego: 50",
+        "-Rayo: 80",
+        "-RES a env. lento: 26",
+        "-RES env. rápido: 43",
+        "-RES a frenesí: 40",
+        "-Bestialidad: 36",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 90\n-Ctra. contund.: 70\n-Ctra. arremetida: 80\n-DEF con sangre: 140\n-Arcano: 40\n-Fuego: 50\n-Rayo: 80\n-RES a env. lento: 26\n-RES env. rápido: 43\n-RES a frenesí: 40\n-Bestialidad: 36\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

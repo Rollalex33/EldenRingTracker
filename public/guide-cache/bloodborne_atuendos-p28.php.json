@@ -1,0 +1,34 @@
+{
+  "title": "Falda de muñeca",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p28.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/falda-de-muneca.jpg"
+  ],
+  "lore": "Falda de muñeca abandonada, como si fuera de reuesto.\n\nLa calidad de la mano de obra y el cuidado con el que ha sido conservada hacen intuir un profundo amor por la muñeca.\n\nRaya en lo maniático y desprende cierta calidez.",
+  "intro": [
+    "-En el interior de un cofre del Antiguo taller abandonado, junto con el resto del set. Aunque no sea muy buena en cuanto a defensa, la puedes vender por 7000 ecos de sangre."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 40",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 50",
+        "-Arcano: 50",
+        "-Fuego: 60",
+        "-Rayo: 50",
+        "-RES a env. lento: 24",
+        "-RES env. rápido: 18",
+        "-RES a frenesí: 22",
+        "-Bestialidad: 18",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 40\n-Ctra. arremetida: 40\n-DEF con sangre: 50\n-Arcano: 50\n-Fuego: 60\n-Rayo: 50\n-RES a env. lento: 24\n-RES env. rápido: 18\n-RES a frenesí: 22\n-Bestialidad: 18\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Piernas"
+}

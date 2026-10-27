@@ -1,0 +1,32 @@
+{
+  "title": "Heredero",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p5.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/heredero.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEl \"heredero\" ve sentimentalismo en la calidez de la sangre, y convierte los ataques viscerales en una de las técnicas más oscuras de los cazadores.\n\n \n\nOtorga más ecos de sangre por los ataques viscerales.\n\n \n\nEn cierta forma, el \"heredero\" es un cazador que porta el eco de los que vinieron antes que él.\n\n ",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"heredero\". Los ataq. visc. dan más ecos de sangre.",
+        "-Efecto:",
+        "Más ecos de sangre de ATQ.V (+20%/+40%)"
+      ],
+      "text": "Runa \"heredero\". Los ataq. visc. dan más ecos de sangre.\n-Efecto:\nMás ecos de sangre de ATQ.V (+20%/+40%)",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +20% se consigue derrotando a Henryk durante la misión secundaria de  Eileen .",
+        "-La versión +40% se consigue en un cadáver en  Yahar'gul (segunda visita) ."
+      ],
+      "text": "-La versión +20% se consigue derrotando a Henryk durante la misión secundaria de  Eileen .\n-La versión +40% se consigue en un cadáver en  Yahar'gul (segunda visita) .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

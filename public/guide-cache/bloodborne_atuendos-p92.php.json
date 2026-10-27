@@ -1,0 +1,37 @@
+{
+  "title": "Yelmo de hierro maestro",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p92.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/yelmo-de-hierro-maestro.jpg"
+  ],
+  "lore": "",
+  "intro": [
+    "Un yelmo de  hierro que parece un caldero del revés.",
+    "Un agujero  permite mirar solo con un ojo, que es lo que probablemente tenía su  propietario original.",
+    "El yelmo de  hierro ha sido pasado entre maestros de la Liga. Valtr ha perdido la  habilidad de ver Sabandijas hace tiempo.",
+    "-Introducido en  el Parche 1.07, lo recibes como recompensa por llegar al rango 3 en  el juramente de La Liga. Tiene mismas estadísticas y  apariencia que el Yelmo de hierro de un ojo, pero con una  descripción diferente."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 70",
+        "-Ctra. contund.:  20",
+        "-Ctra.  Arremetida: 50",
+        "-DEF con sangre:  50",
+        "-Arcano: 20",
+        "-Fuego: 30",
+        "-Rayo: 0",
+        "-RES a env.  lento: 6",
+        "-RES a env.  Rápido: 10",
+        "-RES a frenesí:  13",
+        "-Bestialidad: 23",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 70\n-Ctra. contund.:  20\n-Ctra.  Arremetida: 50\n-DEF con sangre:  50\n-Arcano: 20\n-Fuego: 30\n-Rayo: 0\n-RES a env.  lento: 6\n-RES a env.  Rápido: 10\n-RES a frenesí:  13\n-Bestialidad: 23\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

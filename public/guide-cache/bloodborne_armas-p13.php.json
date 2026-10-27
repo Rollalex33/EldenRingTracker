@@ -1,0 +1,63 @@
+{
+  "title": "Espada sagrada de Ludwig",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p13.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/espada-sagrada-de-ludwig.jpg"
+  ],
+  "lore": "Un arma con truco usada por la Iglesia de la Sanación.\n\nSe dice que la espada de plata fue empleada por Ludwig, primer cazador de la Iglesia. Al transformarla, se combina con su funda para formar un espadón.\n\nDifiere en varios aspectos del diseño del taller, lo que sugiere que la Iglesia esperaba bestias inhumanas mucho mayores.",
+  "intro": [
+    "Te lo venden los mensajeros cuando consigas la Insignia de cazador con espada radiante."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 16",
+        "Habilidad: 12"
+      ],
+      "text": "Fuerza: 16\nHabilidad: 12",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: D",
+        "Habilidad: D",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: D\nHabilidad: D\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 100",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 250",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 100\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 250\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

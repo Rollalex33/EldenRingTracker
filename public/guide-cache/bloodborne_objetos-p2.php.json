@@ -1,0 +1,30 @@
+{
+  "title": "Cuaderno",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p2.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cuaderno.jpg"
+  ],
+  "lore": "Los mensajeros son habitantes del sueño que veneran a los valientes cazadores. Úsalos para mandar mensajes a otros mundos.\n\n \n\nDeja notas con mensajeros, lee las notas dejadas a los mensajeros en otros mundos y evalúa las notas para comunicarte con cazadores de otros planos de la existencia.\n\n \n\nDe uso exclusivo online. Este objeto no se puede usar offline.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "Deja una nota por medio de un mensajero o lee una nota.",
+        "Uso ilimitado."
+      ],
+      "text": "Deja una nota por medio de un mensajero o lee una nota.\nUso ilimitado.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Te lo da uno de los  mensajeros  como regalo en tu primera visita a  Sueño del cazador ."
+      ],
+      "text": "Te lo da uno de los  mensajeros  como regalo en tu primera visita a  Sueño del cazador .",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Multijugador"
+}

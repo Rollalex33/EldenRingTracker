@@ -1,0 +1,32 @@
+{
+  "title": "Oedon retorcido",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p7.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/oedon-retorcido.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\n\"Retorcido\" ve una sutil mucosidad en la calidez de la sangre y convierte los ataques viscerales en una de las técnicas más oscuras de los cazadorse. Hace que los ataques viscerales repongan balas de mercurio.\n\n \n\nHumana o no, la sangre que fluye es un medio de la máxima calidad y la esencia del Grande sin forma, Oedon. Tanto Oedon como sus adoradores accidentales buscan subrepticiamente la preciada sangre.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"contacto\". Los ataq. viscerales reponen balas merc.",
+        "-Efecto:",
+        "ATQ.V dan balas MERC +1/+2"
+      ],
+      "text": "Runa \"contacto\". Los ataq. viscerales reponen balas merc.\n-Efecto:\nATQ.V dan balas MERC +1/+2",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +1 la suelta  Adella  cuando la matas.",
+        "-Si matas a  Iosefka  cuando  regresas a la clínica  desde el  Bosque prohibido , conseguirás la versión +2."
+      ],
+      "text": "-La versión +1 la suelta  Adella  cuando la matas.\n-Si matas a  Iosefka  cuando  regresas a la clínica  desde el  Bosque prohibido , conseguirás la versión +2.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Abrazo de la bestia",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p26.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/abrazo-de-la-bestia.jpg"
+  ],
+  "lore": "Tras repetidos  experimentos para controlar la infección de las bestias, se  descubrió la serena runa “abrazo”.\n\nCuando su  implementación fracasó, se convirtió en una runa prohibida, pero  este conocimiento pasó a ser un pilar en la Iglesia de la Sanación.\n\nLos que hagan  este juramento adquirirán una forma espectral y disfrutarán de  efectos de transformación acentuados, sobre todo al empuñar un arma  bestial.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa “abrazo”.  Asume la forma de una bestia espectral.",
+        "-Efecto:",
+        "Mej. temp.  transform. (+15)"
+      ],
+      "text": "Runa “abrazo”.  Asume la forma de una bestia espectral.\n-Efecto:\nMej. temp.  transform. (+15)",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Pertenece al DLC  Antiguos cazadores .",
+        "Se consigue  derrotando al jefazo  Laurence, el primer vicario ."
+      ],
+      "text": "-Pertenece al DLC  Antiguos cazadores .\nSe consigue  derrotando al jefazo  Laurence, el primer vicario .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "DLC - Antiguos cazadores"
+}

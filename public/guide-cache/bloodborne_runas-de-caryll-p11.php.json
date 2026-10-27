@@ -1,0 +1,31 @@
+{
+  "title": "Mar profundo",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p11.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mar-profundo.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEsta transcripción de las voces inhumanas de los Grandes describe corrientes profundas. Esta runa significa \"mar profundo\" y otorga resistencia aumentada al frenesí.\n\n \n\nGrandes volúmenes de agua sirven como baluarte que protege el sueño y como augurio de la verdad arcana.\n\n \n\nSupera este obstáculo y busca lo que te pertenece.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una runa \"mar profundo\". Aumenta resistencia a frenesí.",
+        "-Efecto:",
+        "Añade RES a frenesí +200"
+      ],
+      "text": "Una runa \"mar profundo\". Aumenta resistencia a frenesí.\n-Efecto:\nAñade RES a frenesí +200",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-En un cadáver del  Bosque prohibido  donde están 2 montones de serpientes gigantes juntos."
+      ],
+      "text": "-En un cadáver del  Bosque prohibido  donde están 2 montones de serpientes gigantes juntos.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

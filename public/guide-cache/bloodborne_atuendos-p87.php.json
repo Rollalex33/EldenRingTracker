@@ -1,0 +1,34 @@
+{
+  "title": "Capucha de loco",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p87.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/capucha-de-loco.jpg"
+  ],
+  "lore": "Casi todos los buscadores de tumbas, miembros de la Iglesia de la Sanación elegidos para explorar el antiguo laberinto, no soportan la carga del conocimiento antiguo y enloquecen.\n\nEste es el atuendo de esas almas perdidas.\n\nLa verdad se suele asemejar a la locura, inaccesible a los cerrados de mollera. Quienes enloquecen son almas juiciosas que no llegan a ninguna conclusión.",
+  "intro": [
+    "Te la venden los Mensajeros de lucidez junto con el resto del set después tras haber derrotado al boss Loco olvidado."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 30",
+        "-Ctra. arremetida: 40",
+        "-DEF con sangre: 40",
+        "-Arcano: 60",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 18",
+        "-RES env. rápido: 17",
+        "-RES a frenesí: 1",
+        "-Bestialidad: 9",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 30\n-Ctra. arremetida: 40\n-DEF con sangre: 40\n-Arcano: 60\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 18\n-RES env. rápido: 17\n-RES a frenesí: 1\n-Bestialidad: 9\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

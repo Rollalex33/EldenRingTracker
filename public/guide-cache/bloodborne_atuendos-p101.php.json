@@ -1,0 +1,35 @@
+{
+  "title": "Máscara de carnicero",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p101.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mascara-de-carnicero.jpg"
+  ],
+  "lore": "Máscara de los  gemelos Madras, habitantes del bosque prohibido. Probablemente,  perteneció al mayor.\n\nLos gemelos se  criaron con una serpiente venenosa en una afinidad silenciosa.  Terminaron por aprender las costumbres humanas y se convirtieron en  cazadores.\n\nDicen que,  cuando descubrieron sabandijas hasta en su querida serpiente, el  hermano menor asesinó al mayor.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "Junto con el  resto del set (Atuendo, Guantes y Pantalones) en  un cadáver de la zona de Pesadilla del cazador en donde están los  dos gigantes juntos."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.:  30",
+        "-Ctra.  arremetida: 50",
+        "-DEF con sangre:  30",
+        "-Arcano: 40",
+        "-Fuego: 30",
+        "-Rayo: 50",
+        "-RES a env.  lento: 20",
+        "-RES env.  rápido: 19",
+        "-RES a frenesí:  11",
+        "-Bestialidad: 9",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.:  30\n-Ctra.  arremetida: 50\n-DEF con sangre:  30\n-Arcano: 40\n-Fuego: 30\n-Rayo: 50\n-RES a env.  lento: 20\n-RES env.  rápido: 19\n-RES a frenesí:  11\n-Bestialidad: 9\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

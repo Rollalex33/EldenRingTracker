@@ -1,0 +1,63 @@
+{
+  "title": "Cuchilla dentada",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p1.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cuchilla-dentada.jpg"
+  ],
+  "lore": "Una de las armas con truco del taller, que suele ser usada por quienes se dedican a la caza.\n\n \n\nEsta sierra, efectiva para hacer sangrar alas bestias, se transforma en una larga cuchilla que se sirve de la fuerza centrífuga. La sierra, con sus sanguinarios dientes, se ha convertido en un símbolo de la caza y su eficacia aumenta cuanto más grotesca sea la bestia adversaria.",
+  "intro": [
+    "Te lo da uno de los mensajeros como regalo en tu primera visita a Sueño del cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 8",
+        "Habilidad: 7"
+      ],
+      "text": "Fuerza: 8\nHabilidad: 7",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: D",
+        "Habilidad: E",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: D\nHabilidad: E\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 90",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 90\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

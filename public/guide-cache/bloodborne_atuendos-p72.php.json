@@ -1,0 +1,34 @@
+{
+  "title": "Puños de plumas de cuervo",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p72.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/punos-de-plumas-de-cuervo.jpg"
+  ],
+  "lore": "Atuendo de Eileen el Cuervo, cazadora de cazadores.\n\nLos cazadores de cazadores se visten como cuervos para sugerir un entierro celestial. El primero vino de un país extranjero y eligió un rito funerla nativo en vez de imponer a los muertos la forma blasfema de Yarnam, con la esperanza de que sus compatriotas pudieran volver al cielo y encontrar descanso en un sueño del cazador.",
+  "intro": [
+    "-Te los venden los Mensajeros junto con el resto del set tras haber conseguido la Insignia de cazador de cuervo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 60",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 70",
+        "-Arcano: 50",
+        "-Fuego: 50",
+        "-Rayo: 50",
+        "-RES a env. lento: 15",
+        "-RES env. rápido: 20",
+        "-RES a frenesí: 25",
+        "-Bestialidad: 11",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 60\n-Ctra. arremetida: 50\n-DEF con sangre: 70\n-Arcano: 50\n-Fuego: 50\n-Rayo: 50\n-RES a env. lento: 15\n-RES env. rápido: 20\n-RES a frenesí: 25\n-Bestialidad: 11\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

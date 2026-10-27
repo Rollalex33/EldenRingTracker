@@ -1,0 +1,42 @@
+{
+  "title": "Gema sangrienta notable",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_gemas-sangrientas-p12.php",
+  "images": [],
+  "lore": "Una gema sangrienta que fortalece armas y aporta diversas propiedades. Las gemas sangrientas son piedras de sangre muy exóticas que crecen en sangre fría.\n\n \n\nLas gemas sangrientas se incrustan en armas con herramientas del taller, pero solo si su forma coincide.\n\n \n\n-La mayoría de gemas sangrientas radiales tienen efectos que influyen en los ataques físicos.\n\n-La mayoría de las gemas menguantes tienen efectos extraños exóticos, como fuego, rayos o curación.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "-Clasificación: 6",
+        "-Forma: Menguada",
+        "Añade ef. ven. lento +4,2",
+        "-Clasificación: 7",
+        "-Forma: Radial",
+        "Añade ef. ven. lento +3,1",
+        "ATQ cargado +2,8%",
+        "Añade ATQ físico +4,2",
+        "durabilidad ARM +2,8",
+        "-Clasificación: 8",
+        "-Forma: Radial",
+        "ATQ cargado +7,2%",
+        "Añade ATQ físico +4,2",
+        "Añade ef. ven. lento +1,6/+3,6",
+        "Añade enem. despro. +2,8%"
+      ],
+      "text": "-Clasificación: 6\n-Forma: Menguada\nAñade ef. ven. lento +4,2\n-Clasificación: 7\n-Forma: Radial\nAñade ef. ven. lento +3,1\nATQ cargado +2,8%\nAñade ATQ físico +4,2\ndurabilidad ARM +2,8\n-Clasificación: 8\n-Forma: Radial\nATQ cargado +7,2%\nAñade ATQ físico +4,2\nAñade ef. ven. lento +1,6/+3,6\nAñade enem. despro. +2,8%",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Una versión (3) (clasificación 8) la pueden soltar los enemigos a los que les salen serpientes de la cabeza.",
+        "-Una versión (2) (clasificación 6) la pueden soltar las bestias de  Frontera de la pesadilla ."
+      ],
+      "text": "-Una versión (3) (clasificación 8) la pueden soltar los enemigos a los que les salen serpientes de la cabeza.\n-Una versión (2) (clasificación 6) la pueden soltar las bestias de  Frontera de la pesadilla .",
+      "images": []
+    }
+  ],
+  "category": "gemas",
+  "subcategory": "Radial"
+}

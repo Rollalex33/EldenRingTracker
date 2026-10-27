@@ -1,0 +1,56 @@
+{
+  "title": "Cañón de la Iglesia",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p35.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/canon-de-la-iglesia.jpg"
+  ],
+  "lore": "Un arma  sobredimensionada que utiliza la Iglesia de la Sanación. Es un tipo  de cañón que dispara con trayectoria curva y causa una explosión  al impactar.\n\nOriginalmente  fue diseñada para ser usada por hombre fuertes con el cerebro  deteriorado, no por cazadores normales.\n\nPero los hombres  no tenían la inteligencia necesaria para manejar armas de fuego de  forma eficaz, así que terminó en el almacén.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Después de  haber cogido el Cráneo de Laurence en la catedral de Pila de cuerpos subterránea, acciona la manivela del altar y súbete  rápido a él para bajar en él y llegar al cofre que contiene este  arma."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 27",
+        "Viveza de  sangre: 16"
+      ],
+      "text": "Fuerza: 27\nViveza de  sangre: 16",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Viveza de  sangre: E"
+      ],
+      "text": "Viveza de  sangre: E",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: -",
+        "ATQ con sangre:  160",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: -\nATQ con sangre:  160\nATQ con fuego: -\nATQ rayo: -\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "DLC - Antiguos cazadores"
+}

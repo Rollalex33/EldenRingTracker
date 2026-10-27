@@ -1,0 +1,62 @@
+{
+  "title": "Hoja arco de Simon",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p38.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/hoja-arco-de-simon.jpg"
+  ],
+  "lore": "El arma favorita  de Simon, uno de los primeros cazadores de la Iglesia de la Sanación.\n\nSimon  despreciaba las armas de fuego, así que el taller de la Iglesia hizo  esta a su gusto. La enorme hoja curva sirve como arco cuando se  transforma.\n\nPero, aparte de  sus amigos más cercanos, el resto de la gente se burlaba de Simon.  ¿Quién iba querer enfrentarse a las bestias con un simple arco?.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "La suelta Simon al final de su historia personal."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 8",
+        "Habilidad: 15",
+        "Viveza de  sangre: 9"
+      ],
+      "text": "Fuerza: 8\nHabilidad: 15\nViveza de  sangre: 9",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Destreza: C",
+        "Viveza de  sangre: C",
+        "Arcano: D"
+      ],
+      "text": "Destreza: C\nViveza de  sangre: C\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 80",
+        "ATQ con sangre:  80",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  1",
+        "Durabilidad: 140",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 80\nATQ con sangre:  80\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  1\nDurabilidad: 140\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

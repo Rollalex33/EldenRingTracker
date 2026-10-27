@@ -1,0 +1,32 @@
+{
+  "title": "Mar profundo turbio",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p10.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/mar-profundo-turbio.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEsta transcripción de las voces inhumansa de los Grandes describe corrientes profundas. Esta runa significa \"mar profundo\" y otorga resistencia aumentada al veneno lento.\n\n \n\nGrandes volúmenes de agua sirven como baluarte que protege el sueño y como augurio de la verdad arcana.\n\n \n\nSupera este obstáculo y busca lo que te pertenece.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una runa \"mar profundo\". Aumenta resis. a veneno lento.",
+        "-Efecto:",
+        "Añade RES ven. lento +100/+200"
+      ],
+      "text": "Una runa \"mar profundo\". Aumenta resis. a veneno lento.\n-Efecto:\nAñade RES ven. lento +100/+200",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +100 está en un cadáver del  Bosque prohibido  donde aparece el primer grupo de serpientes gigante, tras la estructura de piedra.",
+        "-La versión +200 está en un cadáver de  Frontera de la pesadilla ."
+      ],
+      "text": "-La versión +100 está en un cadáver del  Bosque prohibido  donde aparece el primer grupo de serpientes gigante, tras la estructura de piedra.\n-La versión +200 está en un cadáver de  Frontera de la pesadilla .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

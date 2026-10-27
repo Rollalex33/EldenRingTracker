@@ -1,0 +1,62 @@
+{
+  "title": "Rociador de llamas",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p15.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/rociador-de-llamas.jpg"
+  ],
+  "lore": "Un arma especial usada por algunos miembros de la Iglesia de la Sanación. Escupe llamas gracias a las balas de mercurio imbuidas de sangre que utiliza como medio especial.\n\nNo es el arma más eficiente pero, a veces, un mar de llamas es lo más adecuado.\n\nAdemás, a las bestias de Yharnam no les viene mal un poco de purificación.",
+  "intro": [
+    "-Te la da Gilbert después de haber derrotado al boss Padre Gascoigne.",
+    "-En cierto momento del juego también la tendrán los Mensajeros a la venta."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Habilidad: 8",
+        "Arcano: 8"
+      ],
+      "text": "Habilidad: 8\nArcano: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Arcano: D"
+      ],
+      "text": "Arcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 45",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 1",
+        "Durabilidad: 100",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: 45\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 1\nDurabilidad: 100\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

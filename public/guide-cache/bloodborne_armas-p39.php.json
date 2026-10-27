@@ -1,0 +1,62 @@
+{
+  "title": "Flebotomista",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p39.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/flebotomista.jpg"
+  ],
+  "lore": "El arma de  cazador demente empuñada por Brador, el asesino de la Iglesia de la  Sanación.\n\nEl flebotomista  toma su auténtica y terrorífica forma cuando consume sangre de lo  más profundo del alma y del cuerpo del portador.\n\nEsta es la única  forma eficaz de expulsar la sangre corrupta, o eso es lo que seguía  pensando Brador, aislado en su celda.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores",
+    "La única forma  de conseguir esta arma es matando Brador en su celda de Pila de cuerpos subterránea. Ten en  cuenta que una vez lo mates, ya no te invadirá más su espíritu,  pero no te preocupes, por que puedes luchar igualmente contra las 4  invasiones y matarlo luego para conseguir el arma, no tienes por que  hacerlo al principio."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 14",
+        "Habilidad: 6",
+        "Viveza de  sangre: 16"
+      ],
+      "text": "Fuerza: 14\nHabilidad: 6\nViveza de  sangre: 16",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: C",
+        "Viveza de  sangre: B",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: C\nViveza de  sangre: B\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 90",
+        "ATQ con sangre:  90",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  -",
+        "Durabilidad: 270",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 90\nATQ con sangre:  90\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  -\nDurabilidad: 270\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

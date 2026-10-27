@@ -1,0 +1,67 @@
+{
+  "title": "Atuendo de cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p10.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-cazador_1.jpg",
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-cazador_2.jpg"
+  ],
+  "lore": "Uno de los artículos habituales en el atuendo de un cazador, elaborado en el taller y acompañado de una capa corta que limpia la sangre.\n\nEsta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.\n\nPermite acechar en secreto a las bestias, al amparo de la noche.\n\nUno de los artículos habituales en el atuendo de un cazador enlaborado en el taller, aunque va sin la capa corta que limpia la sangre.\n\nEsta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.\n\nPermite acechar en sereto a las bestias, al amparo de la noche.",
+  "intro": [
+    "Por lo visto hay dos versiones de este atuendo, una con capa y la otra sin ella. Aparte de la apariencia cambia algo la descripción y mínimamente las estadísticas. En Eliteguias os indicamos ambas, teniendo en cuenta que lo que te salga en cada localización es aleatorio, pudiendo salir con o sin capa.",
+    "-Lo encontrarás, junto con el resto del set, en un cadáver en la entrada de las Alcantarillas.",
+    "-También en un cadáver tras unas tumbas en el patio del Distrito de la Catedral, tras pasar por la puerta de la izquierda al inicio. Estará junto la Chistera y otras dos piezas del set de cazador: Guantes y Pantalones."
+  ],
+  "sections": [
+    {
+      "heading": "CON CAPA",
+      "lines": [
+        "Uno de los artículos habituales en el atuendo de un cazador, elaborado en el taller y acompañado de una capa corta que limpia la sangre.",
+        "Esta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.",
+        "Permite acechar en secreto a las bestias, al amparo de la noche.",
+        "Estadísticas    ",
+        "-DEF física: 110",
+        "-Ctra. contund.: 110",
+        "-Ctra. arremetida: 80",
+        "-DEF con sangre: 110",
+        "-Arcano: 40",
+        "-Fuego: 110",
+        "-Rayo: 70",
+        "-RES a env. lento: 17",
+        "-RES env. rápido: 33",
+        "-RES a frenesí: 48",
+        "-Bestialidad: 44"
+      ],
+      "text": "Uno de los artículos habituales en el atuendo de un cazador, elaborado en el taller y acompañado de una capa corta que limpia la sangre.\nEsta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.\nPermite acechar en secreto a las bestias, al amparo de la noche.\nEstadísticas    \n-DEF física: 110\n-Ctra. contund.: 110\n-Ctra. arremetida: 80\n-DEF con sangre: 110\n-Arcano: 40\n-Fuego: 110\n-Rayo: 70\n-RES a env. lento: 17\n-RES env. rápido: 33\n-RES a frenesí: 48\n-Bestialidad: 44",
+      "images": [
+        "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-cazador_1.jpg"
+      ]
+    },
+    {
+      "heading": "SIN  CAPA",
+      "lines": [
+        "Uno de los artículos habituales en el atuendo de un cazador enlaborado en el taller, aunque va sin la capa corta que limpia la sangre.",
+        "Esta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.",
+        "Permite acechar en sereto a las bestias, al amparo de la noche.",
+        "Estadísticas    ",
+        "-DEF física: 110",
+        "-Ctra. contund.: 100",
+        "-Ctra. arremetida: 80",
+        "-DEF con sangre: 110",
+        "-Arcano: 40",
+        "-Fuego: 110",
+        "-Rayo: 70",
+        "-RES a env. lento: 17",
+        "-RES env. rápido: 33",
+        "-RES a frenesí: 56",
+        "-Bestialidad: 58",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Uno de los artículos habituales en el atuendo de un cazador enlaborado en el taller, aunque va sin la capa corta que limpia la sangre.\nEsta útil prenda ofrece una defensa estable a quienes se enfrentan a la amenaza bestial de Yharnam.\nPermite acechar en sereto a las bestias, al amparo de la noche.\nEstadísticas    \n-DEF física: 110\n-Ctra. contund.: 100\n-Ctra. arremetida: 80\n-DEF con sangre: 110\n-Arcano: 40\n-Fuego: 110\n-Rayo: 70\n-RES a env. lento: 17\n-RES env. rápido: 33\n-RES a frenesí: 56\n-Bestialidad: 58\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": [
+        "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-cazador_2.jpg"
+      ]
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

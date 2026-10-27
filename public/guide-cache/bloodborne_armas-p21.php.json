@@ -1,0 +1,63 @@
+{
+  "title": "Cañón",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p21.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/canon.jpg"
+  ],
+  "lore": "Grandes prototipos de armas de fuego ideadas por los herejes del taller, los Polvorillas.\n\nUsar este arma es como llevar a una batalla un cañón de peso ridículo, pegada brutal y enorme gasto de balas de mercurio.\n\nTal monstruosidad estaba destinada a fracasar desde el principio. Y así fue: su desarrollo fue interrumpido. Sin embargo, frente a enemigos imposiblemente gigantescos, podría ser el arma adecuada.",
+  "intro": [
+    "-En el Bosque prohibido, dentro del edificio anterior a la enorme bestia, antes de cruzar la estructura, déjate caer a una de las plataformas de debajo y lo encontrarás allí en un cadáver.",
+    "-También lo vendenlos mensajeros de la fuente."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 30",
+        "Habilidad: 13"
+      ],
+      "text": "Fuerza: 30\nHabilidad: 13",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Viveza de sangre: E"
+      ],
+      "text": "Viveza de sangre: E",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: 200",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: 10",
+        "Durabilidad: 200",
+        "Combina este arma con  Ceniza de tuétano  y tendrás el arma perfecta para atizarle a los jefazos en sus puntos débiles, causándole así grandes cantidades de daño además de dejarlos preparados para un ataque visceral. Lo único malo es que consume muchas balas de mercurio.",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: 200\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: 10\nDurabilidad: 200\nCombina este arma con  Ceniza de tuétano  y tendrás el arma perfecta para atizarle a los jefazos en sus puntos débiles, causándole así grandes cantidades de daño además de dejarlos preparados para un ataque visceral. Lo único malo es que consume muchas balas de mercurio.\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "Armas de fuego"
+}

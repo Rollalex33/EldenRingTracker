@@ -1,0 +1,35 @@
+{
+  "title": "Atuendo de viejo cazador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p96.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-viejo-cazador.jpg"
+  ],
+  "lore": "Atuendo de viejo  cazador.\n\nUn día, los  cazadores desaparecieron y los yharnamitas empezaron a murmurar sobre  su pecado.\n\nBorrachos de  sangre, persiguiendo a las bestias, todos y cada uno de ellos  terminaron por pasar a la pesadilla.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "En un cadáver  de la zona de Pesadilla del cazador que está por la zona de  la escalera por la que cae la roca ardiendo."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física:  100",
+        "-Ctra. contund.:  70",
+        "-Ctra.  arremetida: 80",
+        "-DEF con sangre:  100",
+        "-Arcano: 70",
+        "-Fuego: 120",
+        "-Rayo: 50",
+        "-RES a env.  lento: 36",
+        "-RES env.  rápido: 19",
+        "-RES a frenesí:  44",
+        "-Bestialidad: 48",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física:  100\n-Ctra. contund.:  70\n-Ctra.  arremetida: 80\n-DEF con sangre:  100\n-Arcano: 70\n-Fuego: 120\n-Rayo: 50\n-RES a env.  lento: 36\n-RES env.  rápido: 19\n-RES a frenesí:  44\n-Bestialidad: 48\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

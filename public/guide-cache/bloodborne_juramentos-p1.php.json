@@ -1,0 +1,33 @@
+{
+  "title": "Sangrevil",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_juramentos-p1.php",
+  "images": [],
+  "lore": "",
+  "intro": [
+    "-Localización: Castillo olvidado de Cainhurst",
+    "-Cómo unirse: Simplemente habla con Annalise arrodillándote frente a ella y ya te ofrecerá unirte.",
+    "-Líder: Annalise",
+    "-Runa de Caryll: Corrupción"
+  ],
+  "sections": [
+    {
+      "heading": "Recompensas",
+      "lines": [
+        "-Al unirse:  Insignia de cainhurst  y el gesto \"Respeto\".",
+        "-Al engregarle 1 resto de sangre: Gesto \"Respeto profundo\"."
+      ],
+      "text": "-Al unirse:  Insignia de cainhurst  y el gesto \"Respeto\".\n-Al engregarle 1 resto de sangre: Gesto \"Respeto profundo\".",
+      "images": []
+    },
+    {
+      "heading": "Cómo aumentar de rango",
+      "lines": [
+        "Entregándole restos de sangre, los cuales se consiguen eliminando a otros cazadores mientras estás dentro de este juramento, aunque es probable que también los suelten los npcs siempre que tengas la runa  Corrupción  equipada."
+      ],
+      "text": "Entregándole restos de sangre, los cuales se consiguen eliminando a otros cazadores mientras estás dentro de este juramento, aunque es probable que también los suelten los npcs siempre que tengas la runa  Corrupción  equipada.",
+      "images": []
+    }
+  ],
+  "category": "juramentos",
+  "subcategory": "Listado de juramentos"
+}

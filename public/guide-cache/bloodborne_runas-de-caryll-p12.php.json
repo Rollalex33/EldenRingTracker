@@ -1,0 +1,33 @@
+{
+  "title": "Metamorfosis antihoraria",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p12.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/metamorfosis-antihoraria.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de byrgenwerth.\n\n \n\nLa cruz torcida significa \"Metamorfosis\".\n\n \n\nAl girar en sentido antihorario, esta runa aumenta el brío.\n\n \n\nEl descubrimiento de sangre hizo realidad su sueño evolutivo. La metamofrfosis, y los excesos y la desviación subsiguientes, no fueron más que el principio.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una de las runas \"metamorfosis\". Aumenta el brío.",
+        "-Efecto:",
+        "Potencia brío máximo +10%/+15%/+20%"
+      ],
+      "text": "Una de las runas \"metamorfosis\". Aumenta el brío.\n-Efecto:\nPotencia brío máximo +10%/+15%/+20%",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +10% está en un cadáver del  Bosque prohibido  por la zona donde aparecen los \"alienígenas\".",
+        "-La versión +15% te la dará  Patches  al hablar con él cara a cara en la  Segunda planta del edificio lectivo .",
+        "-La versión +20% la podrás encontrar en las  mazmorras cáliz ."
+      ],
+      "text": "-La versión +10% está en un cadáver del  Bosque prohibido  por la zona donde aparecen los \"alienígenas\".\n-La versión +15% te la dará  Patches  al hablar con él cara a cara en la  Segunda planta del edificio lectivo .\n-La versión +20% la podrás encontrar en las  mazmorras cáliz .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

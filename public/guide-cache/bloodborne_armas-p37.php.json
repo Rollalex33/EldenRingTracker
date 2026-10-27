@@ -1,0 +1,60 @@
+{
+  "title": "Rakuyo",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p37.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/rakuyo.jpg"
+  ],
+  "lore": "Arma de cazador  empuñada por lady Maria, de la torre del reloj astral.\n\nEs una espada  con truco originaria del mismo país que el chikage de Cainhurst,  solo que esta espada no se alimenta de sangre, sino que exige gran  destreza en su lugar.\n\nA lady Maria le  complacía este aspecto de Rakuyo, ya que las hojas de sangre no le  gustaban a pesar de ser pariente lejana de la reina.\n\nPero un día  abandonó su querido Rakuyo y lo arrojó a un pozo cuando ya no pudo  soportar más su presencia.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "Lo suelta uno de  los gigantes que están en el pozo de la Aldea pesquera."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 10",
+        "Habilidad: 20"
+      ],
+      "text": "Fuerza: 10\nHabilidad: 20",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Destreza: C",
+        "Arcano: D"
+      ],
+      "text": "Destreza: C\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 82",
+        "ATQ con sangre:  -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 82\nATQ con sangre:  -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "DLC - Antiguos cazadores"
+}

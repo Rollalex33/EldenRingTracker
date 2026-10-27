@@ -1,0 +1,29 @@
+{
+  "title": "Campana resonante siniestra",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p35.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/campana-resonante-siniestra.jpg"
+  ],
+  "lore": "Una campana manchada de sangre descubierta en el antiguo laberinto subterráneo.\n\nEs una de las campanas resonantes que cruzan los espacios entre mundos, pero esta avisa de infortunios y maldad.\n\nLa campana siniestra es un objeto de pensamientos oscuros.\n\nHazla sonar para convetirte en enemigo de un cazador en otro mundo.\n\nDe uso exclusivo online. Este objeto no se puede usar offline.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "Tócala para ser el enemigo de un cazador de otro mundo."
+      ],
+      "text": "Tócala para ser el enemigo de un cazador de otro mundo.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te la venden los  Mensajeros  de lucidez."
+      ],
+      "text": "-Te la venden los  Mensajeros  de lucidez.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Multijugador"
+}

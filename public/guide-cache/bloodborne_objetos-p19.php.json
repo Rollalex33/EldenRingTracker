@@ -1,0 +1,39 @@
+{
+  "title": "Cuchillo arrojadizo",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p19.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/cuchillo-arrojadizo.jpg"
+  ],
+  "lore": "Un cuchillo arrojadizo con un filo bien aserrado. Una de las armas favoritas de Henryk, el viejo cazador.\n\nNo inflige mucho daño a las bestias, pero si se usa con habilidad, puede distraer a los atacantes y mantenerlos a raya.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "Cuchillo arrojadizo con filo aserrado."
+      ],
+      "text": "Cuchillo arrojadizo con filo aserrado.",
+      "images": []
+    },
+    {
+      "heading": "Bono de Atributo",
+      "lines": [
+        "Fuerza: D",
+        "Habilidad: A"
+      ],
+      "text": "Fuerza: D\nHabilidad: A",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Se encuentran en cadáveres a lo largo de Yarnham.",
+        "-También lo pueden soltar algunos enemigos, como por ejemplo las ratas gigantes."
+      ],
+      "text": "-Se encuentran en cadáveres a lo largo de Yarnham.\n-También lo pueden soltar algunos enemigos, como por ejemplo las ratas gigantes.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Projectiles"
+}

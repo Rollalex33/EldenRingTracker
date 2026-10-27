@@ -1,0 +1,34 @@
+{
+  "title": "Atuendo de buscador de tumbas",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p30.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-del-buscador-de-tumbas.jpg"
+  ],
+  "lore": "Atuendo de buscadores de tumbas que exploran el antiguo laberinto de parte de la Iglesia de la Sanación.\n\nLas raíces de la Iglesia se remontan a Byrgenwerth, y es plenamente consciente de la importancia de las ruinas.\n\nContienen mucho más que simples baratijas de cazadores.\n\nDe hecho, ocultan los secretos de los Grandes, buscados por aquellos capaces de imaginar la grandeza.",
+  "intro": [
+    "Te lo venden los mensajeros por 18000 ecos de sangre junto con el resto del set, después de haber conseguido la Insignia de cazador con espada radiante."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 90",
+        "-Ctra. contund.: 90",
+        "-Ctra. arremetida: 100",
+        "-DEF con sangre: 90",
+        "-Arcano: 120",
+        "-Fuego: 100",
+        "-Rayo: 110",
+        "-RES a env. lento: 55",
+        "-RES env. rápido: 57",
+        "-RES a frenesí: 13",
+        "-Bestialidad: 45",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 90\n-Ctra. contund.: 90\n-Ctra. arremetida: 100\n-DEF con sangre: 90\n-Arcano: 120\n-Fuego: 100\n-Rayo: 110\n-RES a env. lento: 55\n-RES env. rápido: 57\n-RES a frenesí: 13\n-Bestialidad: 45\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Pecho"
+}

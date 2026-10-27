@@ -1,0 +1,35 @@
+{
+  "title": "Guantes de carnicero",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p103.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guantes-de-carnicero.jpg"
+  ],
+  "lore": "Guantes de los  gemelos Madaras, habitantes del bosque prohibido. Probablemente,  pertenecieron al mayor.\n\nLos dos gemelos  se convirtieron en cazadores, y trajeron y disecaron a sus presas  bestiales para apoyar a los lugareños en su investigación  prohibida.",
+  "intro": [
+    "-Perteneciente  al DLC Antiguos cazadores.",
+    "Junto con el  resto del set (Máscara, Atuendo y Pantalones)  en un cadáver de la zona de Pesadilla del cazador en donde están  los dos gigantes juntos."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.:  40",
+        "-Ctra.  arremetida: 60",
+        "-DEF con sangre:  40",
+        "-Arcano: 50",
+        "-Fuego: 40",
+        "-Rayo: 60",
+        "-RES a env.  lento: 27",
+        "-RES env.  rápido: 31",
+        "-RES a frenesí:  17",
+        "-Bestialidad: 15",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.:  40\n-Ctra.  arremetida: 60\n-DEF con sangre:  40\n-Arcano: 50\n-Fuego: 40\n-Rayo: 60\n-RES a env.  lento: 27\n-RES env.  rápido: 31\n-RES a frenesí:  17\n-Bestialidad: 15\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

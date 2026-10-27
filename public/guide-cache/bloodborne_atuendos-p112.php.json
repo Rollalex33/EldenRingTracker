@@ -1,0 +1,35 @@
+{
+  "title": "Gorra de cazador de Maria",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p112.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/gorra-de-cazador-de-maria.jpg"
+  ],
+  "lore": "Entre los  primeros cazadores, que eran todos estudiantes de Gehrman, estaba  lady Maria. Esta era su gorra de cazadora, fabricada en Cainhurst.\n\nMaria es familia  lejana de la reina no muerta, pero sentía gran admiración por  Gehrman, aunque desconocía su curiosa manía.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos  cazadores",
+    "Después de  derrotar al boss Lady Maria, estará disponible a la venta en  los mensajeros de lucidez junto con el resto del set (Atuendo, Guantes y Pantalones)."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.:  40",
+        "-Ctra.  arremetida: 40",
+        "-DEF con sangre:  70",
+        "-Arcano: 30",
+        "-Fuego: 40",
+        "-Rayo: 50",
+        "-RES a env.  lento: 6",
+        "-RES env.  rápido: 17",
+        "-RES a frenesí:  10",
+        "-Bestialidad: 4",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.:  40\n-Ctra.  arremetida: 40\n-DEF con sangre:  70\n-Arcano: 30\n-Fuego: 40\n-Rayo: 50\n-RES a env.  lento: 6\n-RES env.  rápido: 17\n-RES a frenesí:  10\n-Bestialidad: 4\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

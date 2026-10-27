@@ -1,0 +1,34 @@
+{
+  "title": "Jaula de Mensis",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p83.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/jaula-de-mensis.jpg"
+  ],
+  "lore": "La Escuela de Mensis controla la Aldea Invisible.\n\nEsta jaula de hierro exagonal indica lo raros que son. La jaula es un dispositivo que constriñe la voluntad de uno y le permite ver el mundo profano tal y como es.\n\nTambién sirve de antena que facilita el contacto con los Grandes del sueño.\n\nPero, para un observador, la jaula parece ser precisamente lo que los llevó a su angustiosa pesadilla.",
+  "intro": [
+    "-Se consigue como recompensa por derrotar al boss Micolash, huésped de la pesadilla."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 20",
+        "-Ctra. arremetida: 10",
+        "-DEF con sangre: 30",
+        "-Arcano: 40",
+        "-Fuego: 20",
+        "-Rayo: 10",
+        "-RES a env. lento: 8",
+        "-RES env. rápido: 13",
+        "-RES a frenesí: 2",
+        "-Bestialidad: 5",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 20\n-Ctra. arremetida: 10\n-DEF con sangre: 30\n-Arcano: 40\n-Fuego: 20\n-Rayo: 10\n-RES a env. lento: 8\n-RES env. rápido: 13\n-RES a frenesí: 2\n-Bestialidad: 5\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Cabeza"
+}

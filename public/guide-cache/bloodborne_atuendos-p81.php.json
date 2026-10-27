@@ -1,0 +1,34 @@
+{
+  "title": "Guanteletes de ceniza de hueso",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p81.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/guanteletes-de-ceniza-de-hueso.jpg"
+  ],
+  "lore": "Guanteletes de ceniza de hueso, usadas por los protectores más antiguos.\n\nLos protectores, que cuidan de los Grandes durmientes, obtuvieron la vida eterna, preservados en forma de ceniza en una ceremonia de cremación del cuerpo y del alma. Ahora, su frágil armadura es blanca y correosa, una ventana a un arcano arte perdido.",
+  "intro": [
+    "-Te los venden los Mensajeros junto con el resto del set tras haber derrotado al boss Protector de los Antiguos Señores."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 60",
+        "-Ctra. contund.: 30",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 30",
+        "-Arcano: 40",
+        "-Fuego: 70",
+        "-Rayo: 70",
+        "-RES a env. lento: 17",
+        "-RES env. rápido: 14",
+        "-RES a frenesí: 22",
+        "-Bestialidad: 13",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 60\n-Ctra. contund.: 30\n-Ctra. arremetida: 50\n-DEF con sangre: 30\n-Arcano: 40\n-Fuego: 70\n-Rayo: 70\n-RES a env. lento: 17\n-RES env. rápido: 14\n-RES a frenesí: 22\n-Bestialidad: 13\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}

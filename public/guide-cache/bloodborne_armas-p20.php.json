@@ -1,0 +1,63 @@
+{
+  "title": "Rueda de Logarius",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p20.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/rueda-de-logarius.jpg"
+  ],
+  "lore": "Arma de la banda de ejecutores del mártir Logarius.\n\nUtilizada para diezmar a los Sangrevil en Cainhurst, bañada en charcos de su sangre e impregnada de su ira para siempre.\n\nTransfórmala para liberar el poder de la rueda y manifestar la rabia subyacente en un espectáculo deslumbrante.",
+  "intro": [
+    "Te la venden los mensajeros cuando consigas la Insignia de cazador con rueda."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 20",
+        "Habilidad: 12",
+        "Arcano: 10"
+      ],
+      "text": "Fuerza: 20\nHabilidad: 12\nArcano: 10",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: C",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: C\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 100",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: 25",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 300",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 100\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: 25\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 300\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

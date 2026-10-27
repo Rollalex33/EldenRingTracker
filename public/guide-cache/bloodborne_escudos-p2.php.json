@@ -1,0 +1,53 @@
+{
+  "title": "Escudo del lago",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_escudos-p2.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/escudo-del-lago.jpg"
+  ],
+  "lore": "Un escudo  artesanal hecho de cristal azul.\n\n \n\nOriginalmente,  se usaba para proteger al líder que presidía las ceremonias  sagradas de la Iglesia de la Sanación. Más adelante, lo usaron los  buscadores de tumbas, sobre todo los que exploraban el laberinto de  Isz.\n\n \n\nEl azul está  inspirado en un lago, y el escudo reduce enormemente todas las formas  de daño no físico.",
+  "intro": [
+    "En un cadáver del Pabellón de investigación (DLC Antiguos cazadores) al que accedes después de haber subido el nivel de las escaleras."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 11",
+        "Habilidad: 8"
+      ],
+      "text": "Fuerza: 11\nHabilidad: 8",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: -",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 160",
+        "NOTA:    Si quieres saber más sobre las estadísticas de los escudos, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: -\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 160\nNOTA:    Si quieres saber más sobre las estadísticas de los escudos, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "escudos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

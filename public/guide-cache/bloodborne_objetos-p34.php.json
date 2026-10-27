@@ -1,0 +1,29 @@
+{
+  "title": "Campana resonante pequeña",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_objetos-p34.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/campana-resonante-pequena.jpg"
+  ],
+  "lore": "Pequeña campana descubierta en el laberinto subterráneo.\n\nSu tañido resuena entre los mundos, y el primer cazador la utilizó como señal para llamar a los cazadores de otros para que cruzaran la brecha y cooperaran.\n\nEsta campana resuena con su homóloga, la campana de convocación. Táñela para ayudar a los cazadores en otros mundos.\n\nDe uso exclusivo online. Este objeto no se puede usar offline.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Utilidad",
+      "lines": [
+        "Toca la campana para ayudar a cazadores de otros mundos."
+      ],
+      "text": "Toca la campana para ayudar a cazadores de otros mundos.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Te la venden los  Mensajeros  de lucidez."
+      ],
+      "text": "-Te la venden los  Mensajeros  de lucidez.",
+      "images": []
+    }
+  ],
+  "category": "objetos",
+  "subcategory": "Multijugador"
+}

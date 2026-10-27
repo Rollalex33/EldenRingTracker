@@ -1,0 +1,35 @@
+{
+  "title": "Testimonio de Brador",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p120.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/testimonio-de-brador.jpg"
+  ],
+  "lore": "La cabellera de  una horrible bestia clérigo que indica que el cazador Brador,  asesino de la Iglesia de la Sanación, había matado a un  compatriota.\n\nTras ello, se  puso la cabellera de su aliado y se escondió en las profundidades de  una celda. La Iglesia le proporcionó una campana de muerte sin  sonido para asegurar que sus secretos quedarían protegidos.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores",
+    "Lo suelta Brador cuando te invade en la zona de Pila de cuerpos subterránea."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 50",
+        "-Ctra. contund.:  60",
+        "-Ctra.  arremetida: 50",
+        "-DEF con sangre:  50",
+        "-Arcano: 20",
+        "-Fuego: 20",
+        "-Rayo: 30",
+        "-RES a env.  lento: 18",
+        "-RES env.  rápido: 10",
+        "-RES a frenesí:  6",
+        "-Bestialidad: 56",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 50\n-Ctra. contund.:  60\n-Ctra.  arremetida: 50\n-DEF con sangre:  50\n-Arcano: 20\n-Fuego: 20\n-Rayo: 30\n-RES a env.  lento: 18\n-RES env.  rápido: 10\n-RES a frenesí:  6\n-Bestialidad: 56\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

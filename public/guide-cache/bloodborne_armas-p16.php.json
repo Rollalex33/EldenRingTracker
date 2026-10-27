@@ -1,0 +1,64 @@
+{
+  "title": "Tonitrus",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p16.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/tonitrus.jpg"
+  ],
+  "lore": "Un arma con truco diseñada por Archibald, famoso excéntrico del taller de la Iglesia de la Sanación.\n\nGolpear con este látigo lucero del alba de hierro como una cerilla genera chispas azules como las bestias oscuras.\n\nNadie sabe por qué, pero a los cazadores de la época de Archibald este dispositivo no les hizo mucha gracia.",
+  "intro": [
+    "-En un cadáver en Yahar'gul, custodiado por dos perros y un Hombre del saco.",
+    "-También te lo venden los Mensajeros de la fuente después de haber conseguido la Insignia de cazador con chispa."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 12",
+        "Habilidad: 8"
+      ],
+      "text": "Fuerza: 12\nHabilidad: 8",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: D",
+        "Habiliad: E",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: D\nHabiliad: E\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma izquierda",
+        "ATQ Físico: 80",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: 40",
+        "Balas de merc.: -",
+        "Durabilidad: 100",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma izquierda\nATQ Físico: 80\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: 40\nBalas de merc.: -\nDurabilidad: 100\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

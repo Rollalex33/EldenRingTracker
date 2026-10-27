@@ -1,0 +1,31 @@
+{
+  "title": "Oedon sin forma",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p2.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/oedon-sin-forma.jpg"
+  ],
+  "lore": "Una runa de Caryll que transcribe sonidos inhumanos.\n\n \n\nEl Grande Oedon carece de forma, solo existe en voz, y esta runa lo simboliza. Quienes la memorizan disfrutan de un suministro mayor de balas de mercurio.\n\n \n\nHumana o no, la sangre que fluye es un medio de la máxima calidad y la esencia del Grande sin forma, Oedon.\n\nTanto Oedon como sus adoradores accidentales buscan subrepticiamente la preciada sangre.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Una de las runas \"Oedon\". Aumenta máx. balas de mercurio.",
+        "-Efecto:",
+        "Sube máx. balas MERC +4."
+      ],
+      "text": "Una de las runas \"Oedon\". Aumenta máx. balas de mercurio.\n-Efecto:\nSube máx. balas MERC +4.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-Dentro de un cofre en la parte alta de la iglesia a la que se accede desde el elevador que te lleva al  Taller de la Iglesia de la Sanación ."
+      ],
+      "text": "-Dentro de un cofre en la parte alta de la iglesia a la que se accede desde el elevador que te lleva al  Taller de la Iglesia de la Sanación .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

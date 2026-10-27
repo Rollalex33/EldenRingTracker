@@ -1,0 +1,32 @@
+{
+  "title": "Ojo",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p17.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/ojo.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de Byrgenwerth.\n\n \n\nUna transcripción de \"ojo\", en la pronunciación de los Grandes abandonados. Permite conseguir más descubrimientos.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"ojo\". Consigue más descubrimientos.",
+        "-Efecto:",
+        "Más objetos de enemigos caídos (+50/+70/+100)"
+      ],
+      "text": "Runa \"ojo\". Consigue más descubrimientos.\n-Efecto:\nMás objetos de enemigos caídos (+50/+70/+100)",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "-La versión +50 la encuentras en un cadáver en la  Pesadilla de Mensis .",
+        "-La versión +70 la suelta el Maestro Wilhelm en  Byrgenwerth  si lo matas."
+      ],
+      "text": "-La versión +50 la encuentras en un cadáver en la  Pesadilla de Mensis .\n-La versión +70 la suelta el Maestro Wilhelm en  Byrgenwerth  si lo matas.",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Listado de Runas de Caryll"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Vendas ensangrentadas",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p121.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/vendas-ensangrentadas.jpg"
+  ],
+  "lore": "Vendas  ensangrentadas.\n\nBrador se puso  la cabellera bestial y la piel de un compatriota mientras todavía  estaban empapadas de sangre.\n\nLa mayoría de  las manchas de sangre de esta piel son de ese día.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores",
+    "Lo suelta Brador cuando te invade en la zona de la Cabaña del faro, cerca de  la primera lámpara del mismo nombre."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 30",
+        "-Ctra. contund.:  40",
+        "-Ctra.  arremetida: 30",
+        "-DEF con sangre:  40",
+        "-Arcano: 40",
+        "-Fuego: 30",
+        "-Rayo: 40",
+        "-RES a env.  lento: 10",
+        "-RES env.  rápido: 14",
+        "-RES a frenesí:  14",
+        "-Bestialidad: 36",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 30\n-Ctra. contund.:  40\n-Ctra.  arremetida: 30\n-DEF con sangre:  40\n-Arcano: 40\n-Fuego: 30\n-Rayo: 40\n-RES a env.  lento: 10\n-RES env.  rápido: 14\n-RES a frenesí:  14\n-Bestialidad: 36\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

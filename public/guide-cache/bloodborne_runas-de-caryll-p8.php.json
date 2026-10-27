@@ -1,0 +1,31 @@
+{
+  "title": "Corrupción",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_runas-de-caryll-p8.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/corrupcion.jpg"
+  ],
+  "lore": "Símbolo secreto de Caryll, forjador de runas de Byrgenwerth.\n\n \n\nVarias runas contienen un matiz de \"sangre\", incluida la runa de \"corrupción\", asociada al juramento de los corruptos.\n\n \n\nLos que hacen este juramento son los Sangrevil de Cainhurst, cazadores de sangre que buscan residuos para su reina en la sangre fría, sobre todo en la de los cazadores.\n\nPero los corruptos son herejes ante los ojos de la Iglesia, y están sujetos a la ira de los ejecutores.",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Características",
+      "lines": [
+        "Runa \"corrupción\". Símbolo del juramento  Sangrevil .",
+        "-Efecto:",
+        "Curación a pto. morir +1."
+      ],
+      "text": "Runa \"corrupción\". Símbolo del juramento  Sangrevil .\n-Efecto:\nCuración a pto. morir +1.",
+      "images": []
+    },
+    {
+      "heading": "Localización",
+      "lines": [
+        "Te la da  Annalise  cuando hablas con ella para unirte al juramento  Sangrevil ."
+      ],
+      "text": "Te la da  Annalise  cuando hablas con ella para unirte al juramento  Sangrevil .",
+      "images": []
+    }
+  ],
+  "category": "runas_caryll",
+  "subcategory": "Memoria de juramentos"
+}

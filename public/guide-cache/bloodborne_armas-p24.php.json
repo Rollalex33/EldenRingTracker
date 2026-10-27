@@ -1,0 +1,63 @@
+{
+  "title": "Hoja de entierro",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p24.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/hoja-de-entierro.jpg"
+  ],
+  "lore": "Un arma con truco que llevaba Gehrman, el primer cazador.\n\nEs una obra maestra que definió toda la batería de armas que se crearon en el taller. Su hoja está forjada con siderita, que se dice que cayó de los cielos.\n\nSin duda Gehrman veía la caza como una especie de elegía de despedida en la que solo deseaba que su presa descansara en paz y nunca más se despertara en otra angustiosa pesadilla.",
+  "intro": [
+    "Te la venden los Mensajeros después de haber conseguido la Insignia de viejo cazador."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 10",
+        "Habilidad: 12"
+      ],
+      "text": "Fuerza: 10\nHabilidad: 12",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: E",
+        "Habilidad: C",
+        "Arcano: D"
+      ],
+      "text": "Fuerza: E\nHabilidad: C\nArcano: D",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno lento añadido a ATQ.: -",
+        "Fuerza de veneno rápido añadido a ATQ.: -",
+        "Aumento de ATQ contra semejante: 100",
+        "Aumento de ATQ contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno lento añadido a ATQ.: -\nFuerza de veneno rápido añadido a ATQ.: -\nAumento de ATQ contra semejante: 100\nAumento de ATQ contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "Categoría: Arma derecha",
+        "ATQ Físico: 80",
+        "Contundente: -",
+        "Arremetida: -",
+        "ATQ con sangre: -",
+        "ATQ arcano: 30",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.: -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "Categoría: Arma derecha\nATQ Físico: 80\nContundente: -\nArremetida: -\nATQ con sangre: -\nATQ arcano: 30\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.: -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_truco",
+  "subcategory": "Armas con truco"
+}

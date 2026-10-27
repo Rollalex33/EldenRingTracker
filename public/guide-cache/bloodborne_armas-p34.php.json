@@ -1,0 +1,60 @@
+{
+  "title": "Puño de Gratia",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_armas-p34.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/puno-de-gratia.jpg"
+  ],
+  "lore": "Un mazacote de  hierro con agujeros para los dedos.\n\nLa imponente  cazadora Simple Gratia, a la que se le daban fatal las armas de  fuego, prefería noquear a las bestias con este bloque de hierro que,  casualmente, hacía que se tambaleasen.\n\nGratia era una  cazadora temible y, para quienes la veían, sus golpes implacables  tenían algo de heroico. No es de extrañar que esta arma heredase su  nombre.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores.",
+    "En una de las  celdas en la zona de Pila de cuerpos subterránea."
+  ],
+  "sections": [
+    {
+      "heading": "Requisitos",
+      "lines": [
+        "Fuerza: 7",
+        "Habilidad: 9",
+        "Viveza de  sangre: 5"
+      ],
+      "text": "Fuerza: 7\nHabilidad: 9\nViveza de  sangre: 5",
+      "images": []
+    },
+    {
+      "heading": "Ataque especial",
+      "lines": [
+        "Fuerza de veneno  lento añadido a ATQ.: -",
+        "Fuerza de veneno  rápido añadido a ATQ.: -",
+        "Aumento de ATQ  contra semejante: 100",
+        "Aumento de ATQ  contra bestias gravemente transformadas: 100"
+      ],
+      "text": "Fuerza de veneno  lento añadido a ATQ.: -\nFuerza de veneno  rápido añadido a ATQ.: -\nAumento de ATQ  contra semejante: 100\nAumento de ATQ  contra bestias gravemente transformadas: 100",
+      "images": []
+    },
+    {
+      "heading": "Bonificaciones",
+      "lines": [
+        "Fuerza: D"
+      ],
+      "text": "Fuerza: D",
+      "images": []
+    },
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "ATQ físico: 60",
+        "ATQ con sangre:  -",
+        "ATQ arcano: -",
+        "ATQ con fuego: -",
+        "ATQ rayo: -",
+        "Balas de merc.:  -",
+        "Durabilidad: 200",
+        "NOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "ATQ físico: 60\nATQ con sangre:  -\nATQ arcano: -\nATQ con fuego: -\nATQ rayo: -\nBalas de merc.:  -\nDurabilidad: 200\nNOTA:    Si quieres saber más sobre las estadísticas de las armas, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "armas_fuego",
+  "subcategory": "DLC - Antiguos cazadores"
+}

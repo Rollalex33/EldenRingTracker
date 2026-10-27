@@ -1,0 +1,35 @@
+{
+  "title": "Atuendo de atormentado",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p117.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/atuendo-de-atormentado.jpg"
+  ],
+  "lore": "Algunos  cazadores de la Iglesia ofuscan sus identidades y se cuelan por los  recovecos de la ciudad.\n\nEste es el  atuendo que permite pasar desapercibidos a estos individuos  atormentados.\n\nEstos cazadores  buscan las primeras señales de la infección y sirven como primera  línea defensiva contra su propagación. O, a lo mejor, en el momento  adecuado, encuentran señales de la infección donde no las hay. Esto  solo demuestra que el mendigo de la esquina no es siempre lo que  parece.",
+  "intro": [
+    "-Pertenece al  DLC Antiguos cazadores",
+    "Lo encontrarás  junto con el resto del set (Capucha, Guantes y Pantalones) en un cadáver dentro de una casa de la Aldea pesquera."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física:  120",
+        "-Ctra. contund.:  80",
+        "-Ctra.  arremetida: 90",
+        "-DEF con sangre:  90",
+        "-Arcano: 110",
+        "-Fuego: 90",
+        "-Rayo: 110",
+        "-RES a env.  lento: 56",
+        "-RES env.  rápido: 58",
+        "-RES a frenesí:  9",
+        "-Bestialidad: 44",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física:  120\n-Ctra. contund.:  80\n-Ctra.  arremetida: 90\n-DEF con sangre:  90\n-Arcano: 110\n-Fuego: 90\n-Rayo: 110\n-RES a env.  lento: 56\n-RES env.  rápido: 58\n-RES a frenesí:  9\n-Bestialidad: 44\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "DLC - Antiguos cazadores"
+}

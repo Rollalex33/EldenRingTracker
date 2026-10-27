@@ -1,0 +1,34 @@
+{
+  "title": "Puños de vigilante sepulcral",
+  "originalUrl": "https://www.eliteguias.com/guias/b/bb/bloodborne_atuendos-p65.php",
+  "images": [
+    "https://www.eliteguias.com/img/juegos/bloodborne/punos-de-vigilante-sepulcral.jpg"
+  ],
+  "lore": "Puños de Dores, vigilante sepulcral del bosque prohibido.\n\nEstán cubiertos de sangre de rituales chapuceros.\n\nWillem tenía dos sirvientes leales en Byrgenwerth. Cuando fueron enviados al laberinto, se encontraron con la verdad arcana y enloquecieron. Uno se convirtió en protector de la contraseña, mientras que Dores se hizo vigilante sepulcral del bosque. A pesar de la locura, ambos siguieron siendo leales.",
+  "intro": [
+    "En un cadáver en el Bosque prohibido, después de cruzar un tronco de árbol cerca de donde está el cerdo gigante. Está junto con el resto del set, menos la parte de la cabeza, que se consigue aparte."
+  ],
+  "sections": [
+    {
+      "heading": "Estadísticas",
+      "lines": [
+        "-DEF física: 40",
+        "-Ctra. contund.: 50",
+        "-Ctra. arremetida: 50",
+        "-DEF con sangre: 50",
+        "-Arcano: 60",
+        "-Fuego: 50",
+        "-Rayo: 60",
+        "-RES a env. lento: 27",
+        "-RES env. rápido: 26",
+        "-RES a frenesí: 26",
+        "-Bestialidad: 22",
+        "NOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía."
+      ],
+      "text": "-DEF física: 40\n-Ctra. contund.: 50\n-Ctra. arremetida: 50\n-DEF con sangre: 50\n-Arcano: 60\n-Fuego: 50\n-Rayo: 60\n-RES a env. lento: 27\n-RES env. rápido: 26\n-RES a frenesí: 26\n-Bestialidad: 22\nNOTA:    Si quieres saber más sobre las estadísticas del equipo, consulta la sección de  Atributos  en la guía.",
+      "images": []
+    }
+  ],
+  "category": "atuendos",
+  "subcategory": "Manos"
+}
