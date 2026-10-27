@@ -12,6 +12,7 @@ import {
   TrendingUp,
   Zap,
 } from 'lucide-react';
+import { useTrackerStore } from '../../store/useTrackerStore';
 
 /**
  * Tabla auténtica y fórmula matemática de costo de runas por nivel en Elden Ring
@@ -64,46 +65,44 @@ export const GOLDEN_RUNES_DATA = [
 ];
 
 export function RuneCalculatorModal({ isOpen, onClose }) {
-  const [currentLevel, setCurrentLevel] = useState(1);
-  const [targetLevel, setTargetLevel] = useState(25);
-  const [heldRunes, setHeldRunes] = useState(0);
-  const [inventory, setInventory] = useState(() => {
-    try {
-      const saved = localStorage.getItem('er_rune_inventory');
-      return saved ? JSON.parse(saved) : {};
-    } catch {
-      return {};
-    }
-  });
+  const { character_elden, updateCharacterElden } = useTrackerStore();
+
+  const currentLevel = character_elden?.level || 1;
+  const targetLevel = character_elden?.targetLevel || 25;
+  const heldRunes = character_elden?.heldRunes || 0;
+  const inventory = character_elden?.runeInventory || {};
+
+  const setCurrentLevel = (updater) => {
+    const nextVal = typeof updater === 'function' ? updater(currentLevel) : updater;
+    updateCharacterElden({ level: nextVal });
+  };
+
+  const setTargetLevel = (updater) => {
+    const nextVal = typeof updater === 'function' ? updater(targetLevel) : updater;
+    updateCharacterElden({ targetLevel: nextVal });
+  };
+
+  const setHeldRunes = (val) => {
+    updateCharacterElden({ heldRunes: Math.max(0, val) });
+  };
 
   const handleUpdateItemCount = (id, delta) => {
-    setInventory((prev) => {
-      const current = prev[id] || 0;
-      const nextVal = Math.max(0, current + delta);
-      const updated = { ...prev, [id]: nextVal };
-      try {
-        localStorage.setItem('er_rune_inventory', JSON.stringify(updated));
-      } catch {}
-      return updated;
+    const current = inventory[id] || 0;
+    const nextVal = Math.max(0, current + delta);
+    updateCharacterElden({
+      runeInventory: { ...inventory, [id]: nextVal },
     });
   };
 
   const handleSetExactItemCount = (id, val) => {
     const num = Math.max(0, parseInt(val, 10) || 0);
-    setInventory((prev) => {
-      const updated = { ...prev, [id]: num };
-      try {
-        localStorage.setItem('er_rune_inventory', JSON.stringify(updated));
-      } catch {}
-      return updated;
+    updateCharacterElden({
+      runeInventory: { ...inventory, [id]: num },
     });
   };
 
   const handleClearInventory = () => {
-    setInventory({});
-    try {
-      localStorage.removeItem('er_rune_inventory');
-    } catch {}
+    updateCharacterElden({ runeInventory: {} });
   };
 
   // Cálculo de runas totales necesarias

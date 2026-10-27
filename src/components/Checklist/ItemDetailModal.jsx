@@ -12,13 +12,23 @@ import {
   ArrowLeft,
   TreePine,
   Sword,
+  Check,
 } from 'lucide-react';
 import { useTrackerStore } from '../../store/useTrackerStore';
 import { matchItemInLine, findLocationForItem } from '../../utils/itemLinker';
 import { LinkedItemBadge } from './LinkedItemBadge';
 
 export function ItemDetailModal({ item, onClose }) {
-  const { isCompletado, toggleCompletado, setViewMode, setMapaActivo, enfocarUbicacion, setSelectedLocation } = useTrackerStore();
+  const {
+    isCompletado,
+    toggleCompletado,
+    setViewMode,
+    setMapaActivo,
+    enfocarUbicacion,
+    setSelectedLocation,
+    character_elden,
+    equipItemElden,
+  } = useTrackerStore();
 
   // Soporte de navegación histórica dentro del modal
   const [history, setHistory] = useState([]);
@@ -35,6 +45,29 @@ export function ItemDetailModal({ item, onClose }) {
   }, [item]);
 
   const completed = currentItem ? isCompletado(currentItem.id) : false;
+
+  const getEquipSlot = () => {
+    if (!currentItem) return null;
+    if (currentItem.category === 'armas') return 'mainWeapon';
+    if (currentItem.category === 'escudos') return 'offhandWeapon';
+    if (currentItem.category === 'talismanes') return 'talismans';
+    if (currentItem.category === 'armaduras') {
+      const sub = (currentItem.subcategory || '').toLowerCase();
+      if (sub.includes('casco') || sub.includes('cabeza')) return 'armorHead';
+      if (sub.includes('guantelete') || sub.includes('manos')) return 'armorHands';
+      if (sub.includes('grebas') || sub.includes('piernas')) return 'armorLegs';
+      return 'armorChest';
+    }
+    return null;
+  };
+
+  const equipSlot = getEquipSlot();
+  const equipped = character_elden?.equipped || {};
+  const isCurrentlyEquipped = equipSlot && (
+    equipSlot === 'talismans'
+      ? (equipped.talismans || []).some((t) => t?.id === currentItem.id)
+      : equipped[equipSlot]?.id === currentItem.id
+  );
 
   // Cargar detalles del ítem activo (pre-cacheados o vía API)
   useEffect(() => {
@@ -186,7 +219,7 @@ export function ItemDetailModal({ item, onClose }) {
   return (
     <div
       id="modal-overlay"
-      className="fixed inset-0 z-[100] flex items-end sm:items-center justify-center p-0 sm:p-5 bg-black/85 backdrop-blur-md animate-fadeIn"
+      className="fixed inset-0 z-[160] flex items-end sm:items-center justify-center p-0 sm:p-5 bg-black/85 backdrop-blur-md animate-fadeIn"
       onClick={(e) => {
         if (e.target.id === 'modal-overlay') handleClose();
       }}
@@ -513,6 +546,22 @@ export function ItemDetailModal({ item, onClose }) {
           </div>
 
           <div className="flex items-center gap-2">
+            {equipSlot && (
+              <button
+                type="button"
+                onClick={() => equipItemElden(equipSlot, currentItem)}
+                disabled={isCurrentlyEquipped}
+                className={`px-3 py-1.5 rounded-lg font-serif text-xs font-semibold flex items-center gap-1.5 transition border ${
+                  isCurrentlyEquipped
+                    ? 'bg-amber-950/60 text-amber-300 border-amber-500/40 cursor-default'
+                    : 'bg-elden-850 hover:bg-elden-800 text-amber-200 border-amber-500/50 shadow-sm active:scale-95'
+                }`}
+              >
+                {isCurrentlyEquipped ? <Check className="w-3.5 h-3.5 text-amber-400" /> : <Sword className="w-3.5 h-3.5 text-amber-300" />}
+                <span>{isCurrentlyEquipped ? 'Equipado en Build' : 'Equipar en Build'}</span>
+              </button>
+            )}
+
             <a
               id={`modal-source-link-${currentItem.id}`}
               href={currentItem.url}

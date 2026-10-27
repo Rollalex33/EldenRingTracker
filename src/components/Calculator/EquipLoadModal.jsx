@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import {
   X,
   Shield,
@@ -13,8 +13,10 @@ import {
   Search,
   Scale,
   Zap,
+  RefreshCw,
 } from 'lucide-react';
 import checklistCatalog from '../../data/checklistCatalog.json';
+import { useTrackerStore } from '../../store/useTrackerStore';
 
 /**
  * Curvas oficiales de Elden Ring para Carga Máxima según Aguante (Endurance)
@@ -49,12 +51,22 @@ const TALISMAN_PRESETS = [
 ];
 
 export function EquipLoadModal({ isOpen, onClose }) {
-  const [endurance, setEndurance] = useState(25);
+  const { character_elden, updateCharacterElden } = useTrackerStore();
+
+  const endurance = character_elden?.stats?.agu || 25;
+  const setEndurance = (updater) => {
+    const nextVal = typeof updater === 'function' ? updater(endurance) : updater;
+    updateCharacterElden((c) => ({
+      ...c,
+      stats: { ...(c.stats || {}), agu: Math.min(99, Math.max(1, nextVal)) },
+    }));
+  };
+
   const [selectedTalismans, setSelectedTalismans] = useState([]);
   const [manualWeight, setManualWeight] = useState(38.5);
   const [useSlotsMode, setUseSlotsMode] = useState(false);
 
-  // Slots de equipamiento
+  // Slots de equipamiento sincronizados con la build activa
   const [equippedSlots, setEquippedSlots] = useState({
     rh1: null,
     rh2: null,
@@ -65,6 +77,22 @@ export function EquipLoadModal({ isOpen, onClose }) {
     arms: null,
     legs: null,
   });
+
+  // Al abrir o montar, sincronizar los slots de la build activa si existen
+  useEffect(() => {
+    if (isOpen && character_elden?.equipped) {
+      const eq = character_elden.equipped;
+      setEquippedSlots((prev) => ({
+        ...prev,
+        rh1: eq.mainWeapon || prev.rh1,
+        lh1: eq.offhandWeapon || prev.lh1,
+        head: eq.armorHead || prev.head,
+        chest: eq.armorChest || prev.chest,
+        arms: eq.armorHands || prev.arms,
+        legs: eq.armorLegs || prev.legs,
+      }));
+    }
+  }, [isOpen, character_elden?.equipped]);
 
   const [activeSlotSearch, setActiveSlotSearch] = useState(null);
   const [slotSearchQuery, setSlotSearchQuery] = useState('');

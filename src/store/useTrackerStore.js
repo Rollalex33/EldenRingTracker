@@ -2,6 +2,48 @@ import { create } from 'zustand';
 import { persist, createJSONStorage } from 'zustand/middleware';
 import { locations, questlines } from '../data/mockData';
 
+export const defaultCharacterElden = {
+  name: 'Sinluz',
+  startingClass: 'vagabond',
+  level: 9,
+  targetLevel: 150,
+  heldRunes: 0,
+  stats: { vig: 15, mte: 10, agu: 11, fue: 14, des: 13, int: 9, fe: 9, arc: 7 },
+  equipped: {
+    mainWeapon: null,
+    offhandWeapon: null,
+    armorHead: null,
+    armorChest: null,
+    armorHands: null,
+    armorLegs: null,
+    talismans: [null, null, null, null],
+  },
+  talismanMultiplier: 1.0,
+  runeInventory: {},
+};
+
+export const defaultCharacterBB = {
+  name: 'Cazador',
+  origin: 'lone_survivor',
+  level: 10,
+  targetLevel: 120,
+  heldEchoes: 0,
+  stats: { vit: 14, res: 11, fue: 11, hab: 10, viv: 7, arc: 7 },
+  equipped: {
+    trickWeapon1: null,
+    trickWeapon2: null,
+    firearm1: null,
+    firearm2: null,
+    attireHead: null,
+    attireChest: null,
+    attireHands: null,
+    attireLegs: null,
+    carylRunes: [null, null, null],
+    oathRune: null,
+  },
+  coldbloodInventory: {},
+};
+
 /**
  * Zustand Store con middleware de persistencia en LocalStorage ('elden-ring-tracker-state')
  * Gestiona ítems completados con Set (serializado a Array para almacenamiento),
@@ -37,6 +79,110 @@ export const useTrackerStore = create(
       quickMarkChecklist: false, // Tocar la fila alterna el estado sin abrir el modal
       agruparSetsChecklist: true, // Agrupar armaduras por set
       modalItemDetalle: null,
+      modalItemDetalleBB: null,
+
+      // Perfiles centralizados y duraderos de personaje y build activa
+      character_elden: defaultCharacterElden,
+      character_bb: defaultCharacterBB,
+
+      abrirModalDetalle: (item) => set({ modalItemDetalle: item }),
+      cerrarModalDetalle: () => set({ modalItemDetalle: null }),
+      abrirModalDetalleBB: (item) => set({ modalItemDetalleBB: item }),
+      cerrarModalDetalleBB: () => set({ modalItemDetalleBB: null }),
+
+      // Gestión de Personaje Elden Ring (Persistente)
+      updateCharacterElden: (patch) =>
+        set((state) => ({
+          character_elden: {
+            ...state.character_elden,
+            ...(typeof patch === 'function' ? patch(state.character_elden) : patch),
+          },
+        })),
+
+      equipItemElden: (slot, item) =>
+        set((state) => {
+          const currentEquipped = { ...state.character_elden.equipped };
+          if (slot === 'talismans') {
+            const arr = [...(currentEquipped.talismans || [null, null, null, null])];
+            const emptyIdx = arr.findIndex((t) => !t);
+            if (emptyIdx !== -1) arr[emptyIdx] = item;
+            else arr[0] = item;
+            currentEquipped.talismans = arr;
+          } else {
+            currentEquipped[slot] = item;
+          }
+          return {
+            character_elden: {
+              ...state.character_elden,
+              equipped: currentEquipped,
+            },
+          };
+        }),
+
+      unequipItemElden: (slot, index = null) =>
+        set((state) => {
+          const currentEquipped = { ...state.character_elden.equipped };
+          if (slot === 'talismans' && index !== null) {
+            const arr = [...(currentEquipped.talismans || [null, null, null, null])];
+            arr[index] = null;
+            currentEquipped.talismans = arr;
+          } else {
+            currentEquipped[slot] = null;
+          }
+          return {
+            character_elden: {
+              ...state.character_elden,
+              equipped: currentEquipped,
+            },
+          };
+        }),
+
+      // Gestión de Personaje Bloodborne (Persistente)
+      updateCharacterBB: (patch) =>
+        set((state) => ({
+          character_bb: {
+            ...state.character_bb,
+            ...(typeof patch === 'function' ? patch(state.character_bb) : patch),
+          },
+        })),
+
+      equipItemBB: (slot, item) =>
+        set((state) => {
+          const currentEquipped = { ...state.character_bb.equipped };
+          if (slot === 'carylRunes') {
+            const arr = [...(currentEquipped.carylRunes || [null, null, null])];
+            const emptyIdx = arr.findIndex((r) => !r);
+            if (emptyIdx !== -1) arr[emptyIdx] = item;
+            else arr[0] = item;
+            currentEquipped.carylRunes = arr;
+          } else {
+            currentEquipped[slot] = item;
+          }
+          return {
+            character_bb: {
+              ...state.character_bb,
+              equipped: currentEquipped,
+            },
+          };
+        }),
+
+      unequipItemBB: (slot, index = null) =>
+        set((state) => {
+          const currentEquipped = { ...state.character_bb.equipped };
+          if (slot === 'carylRunes' && index !== null) {
+            const arr = [...(currentEquipped.carylRunes || [null, null, null])];
+            arr[index] = null;
+            currentEquipped.carylRunes = arr;
+          } else {
+            currentEquipped[slot] = null;
+          }
+          return {
+            character_bb: {
+              ...state.character_bb,
+              equipped: currentEquipped,
+            },
+          };
+        }),
 
       // Estados de navegación e interacción
       selectedLocationId: null,
@@ -252,9 +398,12 @@ export const useTrackerStore = create(
           fechaLegible: new Date().toLocaleString(),
           totalCompletados: state.itemsCompletados.size,
           itemsCompletados: Array.from(state.itemsCompletados),
+          itemsCompletados_bb: Array.from(state.itemsCompletados_bb || []),
           filtrosActivos: state.filtrosActivos,
           selectedQuestlineId: state.selectedQuestlineId,
           soloPerdibles: state.soloPerdibles,
+          character_elden: state.character_elden,
+          character_bb: state.character_bb,
         };
 
         const jsonString = JSON.stringify(exportData, null, 2);
@@ -306,6 +455,15 @@ export const useTrackerStore = create(
             itemsCompletados: newSet,
           };
 
+          if (Array.isArray(data.itemsCompletados_bb)) {
+            updates.itemsCompletados_bb = new Set(data.itemsCompletados_bb);
+          }
+          if (data.character_elden) {
+            updates.character_elden = { ...defaultCharacterElden, ...data.character_elden };
+          }
+          if (data.character_bb) {
+            updates.character_bb = { ...defaultCharacterBB, ...data.character_bb };
+          }
           if (Array.isArray(data.filtrosActivos) && data.filtrosActivos.length > 0) {
             updates.filtrosActivos = data.filtrosActivos;
           }
@@ -393,6 +551,8 @@ export const useTrackerStore = create(
         sortOrderChecklist: state.sortOrderChecklist,
         quickMarkChecklist: state.quickMarkChecklist,
         agruparSetsChecklist: state.agruparSetsChecklist,
+        character_elden: state.character_elden,
+        character_bb: state.character_bb,
       }),
       // De-serializar Array a Set al rehidratar sin romper reactividad
       merge: (persistedState, currentState) => {
@@ -437,6 +597,34 @@ export const useTrackerStore = create(
           sortOrderChecklist: persistedState?.sortOrderChecklist || 'game',
           quickMarkChecklist: Boolean(persistedState?.quickMarkChecklist),
           agruparSetsChecklist: persistedState?.agruparSetsChecklist ?? true,
+          character_elden: persistedState?.character_elden
+            ? {
+                ...defaultCharacterElden,
+                ...persistedState.character_elden,
+                stats: {
+                  ...defaultCharacterElden.stats,
+                  ...(persistedState.character_elden.stats || {}),
+                },
+                equipped: {
+                  ...defaultCharacterElden.equipped,
+                  ...(persistedState.character_elden.equipped || {}),
+                },
+              }
+            : defaultCharacterElden,
+          character_bb: persistedState?.character_bb
+            ? {
+                ...defaultCharacterBB,
+                ...persistedState.character_bb,
+                stats: {
+                  ...defaultCharacterBB.stats,
+                  ...(persistedState.character_bb.stats || {}),
+                },
+                equipped: {
+                  ...defaultCharacterBB.equipped,
+                  ...(persistedState.character_bb.equipped || {}),
+                },
+              }
+            : defaultCharacterBB,
         };
       },
     }

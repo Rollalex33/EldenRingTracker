@@ -15,37 +15,40 @@ import {
   getBloodEchoCost,
   getTotalEchoesBetween,
 } from '../../data/bloodborneData';
+import { useTrackerStore } from '../../store/useTrackerStore';
 
 export function BloodborneEchoesModal({ isOpen, onClose }) {
-  const [currentLevel, setCurrentLevel] = useState(10);
-  const [targetLevel, setTargetLevel] = useState(50);
-  const [heldEchoes, setHeldEchoes] = useState(0);
-  const [inventory, setInventory] = useState(() => {
-    try {
-      const saved = localStorage.getItem('bb_coldblood_inventory');
-      return saved ? JSON.parse(saved) : {};
-    } catch {
-      return {};
-    }
-  });
+  const { character_bb, updateCharacterBB } = useTrackerStore();
+
+  const currentLevel = character_bb?.level || 10;
+  const targetLevel = character_bb?.targetLevel || 50;
+  const heldEchoes = character_bb?.heldEchoes || 0;
+  const inventory = character_bb?.coldbloodInventory || {};
+
+  const setCurrentLevel = (updater) => {
+    const nextVal = typeof updater === 'function' ? updater(currentLevel) : updater;
+    updateCharacterBB({ level: nextVal });
+  };
+
+  const setTargetLevel = (updater) => {
+    const nextVal = typeof updater === 'function' ? updater(targetLevel) : updater;
+    updateCharacterBB({ targetLevel: nextVal });
+  };
+
+  const setHeldEchoes = (val) => {
+    updateCharacterBB({ heldEchoes: Math.max(0, val) });
+  };
 
   const handleUpdateItem = (id, delta) => {
-    setInventory((prev) => {
-      const count = prev[id] || 0;
-      const nextVal = Math.max(0, count + delta);
-      const updated = { ...prev, [id]: nextVal };
-      try {
-        localStorage.setItem('bb_coldblood_inventory', JSON.stringify(updated));
-      } catch {}
-      return updated;
+    const count = inventory[id] || 0;
+    const nextVal = Math.max(0, count + delta);
+    updateCharacterBB({
+      coldbloodInventory: { ...inventory, [id]: nextVal },
     });
   };
 
   const handleClearInventory = () => {
-    setInventory({});
-    try {
-      localStorage.removeItem('bb_coldblood_inventory');
-    } catch {}
+    updateCharacterBB({ coldbloodInventory: {} });
   };
 
   const totalNeeded = useMemo(() => {

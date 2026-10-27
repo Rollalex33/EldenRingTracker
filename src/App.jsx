@@ -36,6 +36,8 @@ import { BloodborneBuildModal } from './components/Bloodborne/BloodborneBuildMod
 import { BloodborneEchoesModal } from './components/Bloodborne/BloodborneEchoesModal';
 import { BloodborneChaliceModal } from './components/Bloodborne/BloodborneChaliceModal';
 import { BloodborneQuestsModal } from './components/Bloodborne/BloodborneQuestsModal';
+import { ItemDetailModal } from './components/Checklist/ItemDetailModal';
+import { BloodborneItemDetailModal } from './components/Bloodborne/BloodborneItemDetailModal';
 
 /**
  * Layout Principal con Split-Screen UI y Modo Checklist Compendio
@@ -68,12 +70,17 @@ export function App() {
     setActiveGame,
     itemsCompletados,
     itemsCompletados_bb,
+    toggleCompletadoBB,
     questlines,
     selectedQuestlineId,
     locations,
     soloPerdibles,
     viewMode,
     setViewMode,
+    modalItemDetalle,
+    cerrarModalDetalle,
+    modalItemDetalleBB,
+    cerrarModalDetalleBB,
   } = useTrackerStore();
 
   const isHelpRef = useRef(isHelpOpen);
@@ -254,6 +261,16 @@ export function App() {
           <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
           <BloodborneQuestsModal isOpen={isBBQuestsOpen} onClose={() => setIsBBQuestsOpen(false)} />
           <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
+
+          {modalItemDetalleBB && (
+            <BloodborneItemDetailModal
+              item={modalItemDetalleBB}
+              isOpen={Boolean(modalItemDetalleBB)}
+              onClose={cerrarModalDetalleBB}
+              isDone={modalItemDetalleBB ? itemsCompletados_bb.has(modalItemDetalleBB.id) : false}
+              onToggle={toggleCompletadoBB}
+            />
+          )}
         </div>
       );
     }
@@ -274,6 +291,16 @@ export function App() {
         <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
         <BloodborneQuestsModal isOpen={isBBQuestsOpen} onClose={() => setIsBBQuestsOpen(false)} />
         <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
+
+        {modalItemDetalleBB && (
+          <BloodborneItemDetailModal
+            item={modalItemDetalleBB}
+            isOpen={Boolean(modalItemDetalleBB)}
+            onClose={cerrarModalDetalleBB}
+            isDone={modalItemDetalleBB ? itemsCompletados_bb.has(modalItemDetalleBB.id) : false}
+            onToggle={toggleCompletadoBB}
+          />
+        )}
       </div>
     );
   }
@@ -318,13 +345,30 @@ export function App() {
           isOpen={isProgressionOpen}
           onClose={() => setIsProgressionOpen(false)}
         />
+
+        {modalItemDetalle && (
+          <ItemDetailModal
+            item={modalItemDetalle}
+            onClose={cerrarModalDetalle}
+          />
+        )}
       </div>
     );
   }
 
   // Si el usuario está en modo Checklist Compendio, renderizar la vista dedicada
   if (viewMode === 'checklist') {
-    return <ChecklistCompendium />;
+    return (
+      <>
+        <ChecklistCompendium />
+        {modalItemDetalle && (
+          <ItemDetailModal
+            item={modalItemDetalle}
+            onClose={cerrarModalDetalle}
+          />
+        )}
+      </>
+    );
   }
 
   // Contadores para badges en las pestañas
@@ -638,6 +682,14 @@ export function App() {
         onOpenProgression={() => setIsProgressionOpen(true)}
         onOpenSettings={() => setIsSettingsOpen(true)}
       />
+
+      {/* Modal de Detalle de Ítem Global */}
+      {modalItemDetalle && (
+        <ItemDetailModal
+          item={modalItemDetalle}
+          onClose={cerrarModalDetalle}
+        />
+      )}
     </div>
   );
 }

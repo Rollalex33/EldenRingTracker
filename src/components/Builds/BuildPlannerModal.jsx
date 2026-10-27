@@ -35,6 +35,7 @@ import checklistCatalog from '../../data/checklistCatalog.json';
 import itemRequirements from '../../data/itemRequirements.json';
 import { calcMaxEquipLoad } from '../Calculator/EquipLoadModal';
 import { getItemById, findLocationForItem } from '../../utils/itemLinker';
+import { calcEldenLevel } from '../../utils/characterCalculators';
 
 export const STARTING_CLASSES = [
   { id: 'vagabond', name: 'Vagabundo', level: 9, desc: 'Caballero con armadura pesada y alto vigor/fuerza.', stats: { vig: 15, mte: 10, agu: 11, fue: 14, des: 13, int: 9, fe: 9, arc: 7 } },
@@ -163,24 +164,40 @@ function calcStamina(agu) {
 }
 
 export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
-  const { itemsCompletados, toggleCompletado, setMapaActivo, enfocarUbicacion, setSelectedLocation, setViewMode } = useTrackerStore();
+  const {
+    itemsCompletados,
+    toggleCompletado,
+    setMapaActivo,
+    enfocarUbicacion,
+    setSelectedLocation,
+    setViewMode,
+    character_elden,
+    updateCharacterElden,
+    equipItemElden,
+    unequipItemElden,
+    abrirModalDetalle,
+  } = useTrackerStore();
 
-  const [selectedClassId, setSelectedClassId] = useState('vagabond');
+  const selectedClassId = character_elden?.startingClass || 'vagabond';
   const baseClass = useMemo(
     () => STARTING_CLASSES.find((c) => c.id === selectedClassId) || STARTING_CLASSES[0],
     [selectedClassId]
   );
 
-  // Estadísticas asignadas
-  const [stats, setStats] = useState({ ...baseClass.stats });
+  // Estadísticas asignadas persistidas en character_elden
+  const stats = useMemo(() => {
+    return character_elden?.stats || { ...baseClass.stats };
+  }, [character_elden?.stats, baseClass]);
 
-  // Loadout Activo de la Build
+  // Loadout Activo de la Build sincronizado con character_elden.equipped
+  const equipped = character_elden?.equipped || {};
+  const mainWeapon = equipped.mainWeapon || null;
+  const offhandWeapon = equipped.offhandWeapon || null;
+  const equippedTalismans = equipped.talismans || [null, null, null, null];
+  const equippedArmor = equipped.armorChest || null;
+
   const [buildName, setBuildName] = useState('Mi Build Personalizada');
-  const [mainWeapon, setMainWeapon] = useState(null);
-  const [offhandWeapon, setOffhandWeapon] = useState(null);
   const [selectedAffinity, setSelectedAffinity] = useState('standard');
-  const [equippedTalismans, setEquippedTalismans] = useState([null, null, null, null]);
-  const [equippedArmor, setEquippedArmor] = useState(null);
 
   // Pestaña y filtros del recomendador
   const [activeTab, setActiveTab] = useState('armas');
@@ -200,54 +217,62 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
 
   const handleSelectClass = (classId) => {
     const newClass = STARTING_CLASSES.find((c) => c.id === classId) || STARTING_CLASSES[0];
-    setSelectedClassId(classId);
-    setStats((prev) => {
-      const updated = { ...prev };
-      Object.keys(newClass.stats).forEach((k) => {
-        updated[k] = Math.max(newClass.stats[k], updated[k] || newClass.stats[k]);
-      });
-      return updated;
+    const updated = { ...stats };
+    Object.keys(newClass.stats).forEach((k) => {
+      updated[k] = Math.max(newClass.stats[k], updated[k] || newClass.stats[k]);
+    });
+    const newLvl = calcEldenLevel(classId, updated);
+    updateCharacterElden({
+      startingClass: classId,
+      stats: updated,
+      level: newLvl,
     });
   };
 
   const applyPreset = (preset) => {
-    setStats((prev) => {
-      const merged = { ...prev };
-      Object.keys(preset.targetStats).forEach((k) => {
-        merged[k] = Math.max(baseClass.stats[k], preset.targetStats[k]);
-      });
-      return merged;
+    const merged = { ...stats };
+    Object.keys(preset.targetStats).forEach((k) => {
+      merged[k] = Math.max(baseClass.stats[k], preset.targetStats[k]);
     });
     setBuildName(preset.name);
     if (preset.mainWeaponId) {
       const w = getItemById(preset.mainWeaponId);
-      if (w) setMainWeapon(w);
+      if (w) equipItemElden('mainWeapon', w);
     }
     if (preset.affinity) {
       const aff = WEAPON_AFFINITIES.find((a) => a.name.toLowerCase() === preset.affinity.toLowerCase());
       if (aff) setSelectedAffinity(aff.id);
     }
+    const newLvl = calcEldenLevel(selectedClassId, merged);
+    updateCharacterElden({
+      stats: merged,
+      level: newLvl,
+    });
   };
 
   const handleStatChange = (statKey, delta) => {
-    setStats((prev) => {
-      const current = prev[statKey] || baseClass.stats[statKey];
-      const minVal = baseClass.stats[statKey];
-      const newVal = Math.min(99, Math.max(minVal, current + delta));
-      return { ...prev, [statKey]: newVal };
+    const current = stats[statKey] || baseClass.stats[statKey];
+    const minVal = baseClass.stats[statKey];
+    const newVal = Math.min(99, Math.max(minVal, current + delta));
+    const nextStats = { ...stats, [statKey]: newVal };
+    const nextLvl = calcEldenLevel(selectedClassId, nextStats);
+    updateCharacterElden({
+      stats: nextStats,
+      level: nextLvl,
+    });
+  };
+
+  const handleResetToOrigin = () => {
+    updateCharacterElden({
+      stats: { ...baseClass.stats },
+      level: baseClass.level,
     });
   };
 
   // Cálculo del Nivel de Personaje
   const characterLevel = useMemo(() => {
-    let baseSum = 0;
-    let currentSum = 0;
-    Object.keys(baseClass.stats).forEach((k) => {
-      baseSum += baseClass.stats[k];
-      currentSum += stats[k] || baseClass.stats[k];
-    });
-    return baseClass.level + (currentSum - baseSum);
-  }, [baseClass, stats]);
+    return calcEldenLevel(selectedClassId, stats);
+  }, [selectedClassId, stats]);
 
   // Derivadas
   const hp = useMemo(() => calcHP(stats.vig), [stats.vig]);
@@ -369,22 +394,22 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
 
   const handleEquipItem = (item) => {
     if (activeTab === 'armas') {
-      setMainWeapon(item);
+      equipItemElden('mainWeapon', item);
     } else if (activeTab === 'escudos') {
-      setOffhandWeapon(item);
+      equipItemElden('offhandWeapon', item);
     } else if (activeTab === 'talismanes') {
-      setEquippedTalismans((prev) => {
-        const next = [...prev];
-        const emptyIdx = next.findIndex((t) => t === null);
-        if (emptyIdx !== -1) {
-          next[emptyIdx] = item;
-        } else {
-          next[0] = item;
-        }
-        return next;
-      });
+      equipItemElden('talismans', item);
     } else if (activeTab === 'armaduras') {
-      setEquippedArmor(item);
+      const sub = (item.subcategory || '').toLowerCase();
+      if (sub.includes('casco') || sub.includes('cabeza')) {
+        equipItemElden('armorHead', item);
+      } else if (sub.includes('guantelete') || sub.includes('manos')) {
+        equipItemElden('armorHands', item);
+      } else if (sub.includes('grebas') || sub.includes('piernas')) {
+        equipItemElden('armorLegs', item);
+      } else {
+        equipItemElden('armorChest', item);
+      }
     }
   };
 
@@ -411,16 +436,24 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
   };
 
   const handleLoadBuild = (saved) => {
-    setSelectedClassId(saved.classId || 'vagabond');
-    setStats({ ...saved.stats });
+    const newClassId = saved.classId || 'vagabond';
+    const newStats = { ...saved.stats };
     setBuildName(saved.name);
     setSelectedAffinity(saved.affinity || 'standard');
-    if (saved.mainWeaponId) setMainWeapon(getItemById(saved.mainWeaponId));
-    if (saved.offhandWeaponId) setOffhandWeapon(getItemById(saved.offhandWeaponId));
-    if (saved.armorId) setEquippedArmor(getItemById(saved.armorId));
-    if (Array.isArray(saved.talismans)) {
-      setEquippedTalismans(saved.talismans.map((tid) => (tid ? getItemById(tid) : null)));
-    }
+    const newEquipped = {
+      mainWeapon: saved.mainWeaponId ? getItemById(saved.mainWeaponId) : null,
+      offhandWeapon: saved.offhandWeaponId ? getItemById(saved.offhandWeaponId) : null,
+      armorChest: saved.armorId ? getItemById(saved.armorId) : null,
+      talismans: Array.isArray(saved.talismans)
+        ? saved.talismans.map((tid) => (tid ? getItemById(tid) : null))
+        : [null, null, null, null],
+    };
+    updateCharacterElden({
+      startingClass: newClassId,
+      stats: newStats,
+      level: calcEldenLevel(newClassId, newStats),
+      equipped: { ...(character_elden?.equipped || {}), ...newEquipped },
+    });
   };
 
   const handleDeleteBuild = (id, e) => {
@@ -529,7 +562,7 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
             </button>
 
             <button
-              onClick={() => setStats({ ...baseClass.stats })}
+              onClick={handleResetToOrigin}
               className="px-2.5 py-1.5 rounded-xl bg-elden-850 hover:bg-elden-800 text-slate-400 hover:text-white border border-slate-700 text-xs font-serif flex items-center gap-1.5 transition active:scale-95"
               title="Restablecer atributos a la clase inicial"
             >
@@ -579,19 +612,38 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
               </span>
               <div className="grid grid-cols-2 sm:grid-cols-5 gap-1.5">
                 {BUILD_PRESETS.map((pst) => (
-                  <button
+                  <div
                     key={pst.id}
-                    type="button"
                     onClick={() => applyPreset(pst)}
-                    className="p-1.5 rounded-xl bg-elden-900/90 hover:bg-elden-850 border border-slate-800 hover:border-elden-gold/60 text-left transition flex flex-col justify-between group"
+                    className="p-1.5 rounded-xl bg-elden-900/90 hover:bg-elden-850 border border-slate-800 hover:border-elden-gold/60 text-left transition flex flex-col justify-between group cursor-pointer"
                   >
-                    <span className="text-[11px] font-serif font-bold text-amber-200 group-hover:text-amber-100 truncate block">
-                      {pst.name}
-                    </span>
-                    <span className="text-[9px] font-mono text-slate-400 truncate block">
-                      {pst.archetype}
-                    </span>
-                  </button>
+                    <div>
+                      <span className="text-[11px] font-serif font-bold text-amber-200 group-hover:text-amber-100 truncate block">
+                        {pst.name}
+                      </span>
+                      <span className="text-[9px] font-mono text-slate-400 truncate block">
+                        {pst.archetype}
+                      </span>
+                    </div>
+
+                    {pst.mainWeaponId && (
+                      <button
+                        type="button"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          const it = getItemById(pst.mainWeaponId);
+                          if (it) abrirModalDetalle(it);
+                        }}
+                        className="mt-1 text-[9px] font-serif px-1.5 py-0.5 rounded bg-elden-950 hover:bg-amber-950 text-amber-300 border border-slate-800 hover:border-amber-500/40 transition flex items-center gap-1 w-fit max-w-full"
+                        title="Ver guía y estadísticas del arma recomendada"
+                      >
+                        <Sword className="w-2.5 h-2.5 text-amber-400 flex-shrink-0" />
+                        <span className="truncate max-w-[90px]">
+                          {getItemById(pst.mainWeaponId)?.name || 'Arma'}
+                        </span>
+                      </button>
+                    )}
+                  </div>
                 ))}
               </div>
             </div>
@@ -758,14 +810,20 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
                     <div className="flex items-center justify-between text-[10px] font-serif text-amber-300/80 mb-1">
                       <span>Arma Ppal.</span>
                       {mainWeapon && (
-                        <button onClick={() => setMainWeapon(null)} className="text-slate-500 hover:text-rose-400">
+                        <button onClick={() => unequipItemElden('mainWeapon')} className="text-slate-500 hover:text-rose-400">
                           <X className="w-3 h-3" />
                         </button>
                       )}
                     </div>
                     {mainWeapon ? (
-                      <div className="flex items-center gap-1.5">
-                        <span className="font-serif font-bold text-amber-100 truncate text-[11px]">{mainWeapon.name}</span>
+                      <div
+                        onClick={() => abrirModalDetalle(mainWeapon)}
+                        className="flex items-center gap-1.5 cursor-pointer group"
+                        title="Haz clic para ver la guía y estadísticas del arma"
+                      >
+                        <span className="font-serif font-bold text-amber-100 group-hover:text-amber-300 transition truncate text-[11px] underline decoration-amber-500/40">
+                          {mainWeapon.name}
+                        </span>
                       </div>
                     ) : (
                       <span className="text-[10px] text-slate-500 italic">Haz clic en un arma abajo</span>
@@ -795,13 +853,21 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
                     <div className="flex items-center justify-between text-[10px] font-serif text-amber-300/80 mb-1">
                       <span>Mano Izq. / Escudo</span>
                       {offhandWeapon && (
-                        <button onClick={() => setOffhandWeapon(null)} className="text-slate-500 hover:text-rose-400">
+                        <button onClick={() => unequipItemElden('offhandWeapon')} className="text-slate-500 hover:text-rose-400">
                           <X className="w-3 h-3" />
                         </button>
                       )}
                     </div>
                     {offhandWeapon ? (
-                      <span className="font-serif font-bold text-amber-100 truncate block text-[11px]">{offhandWeapon.name}</span>
+                      <div
+                        onClick={() => abrirModalDetalle(offhandWeapon)}
+                        className="cursor-pointer group"
+                        title="Haz clic para ver la guía del escudo"
+                      >
+                        <span className="font-serif font-bold text-amber-100 group-hover:text-amber-300 transition truncate block text-[11px] underline decoration-amber-500/40">
+                          {offhandWeapon.name}
+                        </span>
+                      </div>
                     ) : (
                       <span className="text-[10px] text-slate-500 italic">Haz clic en un escudo abajo</span>
                     )}
@@ -812,14 +878,26 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
                     <div className="flex items-center justify-between text-[9px] text-slate-400 mb-0.5">
                       <span>Armadura:</span>
                       {equippedArmor && (
-                        <button onClick={() => setEquippedArmor(null)} className="text-slate-500 hover:text-rose-400">
+                        <button onClick={() => unequipItemElden('armorChest')} className="text-slate-500 hover:text-rose-400">
                           <X className="w-2.5 h-2.5" />
                         </button>
                       )}
                     </div>
-                    <span className="text-[10px] text-amber-100 truncate block font-serif">
-                      {equippedArmor ? equippedArmor.name : 'Ninguna (Ligero)'}
-                    </span>
+                    {equippedArmor ? (
+                      <div
+                        onClick={() => abrirModalDetalle(equippedArmor)}
+                        className="cursor-pointer group"
+                        title="Haz clic para ver la guía de la armadura"
+                      >
+                        <span className="text-[10px] text-amber-100 group-hover:text-amber-300 transition truncate block font-serif underline decoration-amber-500/40">
+                          {equippedArmor.name}
+                        </span>
+                      </div>
+                    ) : (
+                      <span className="text-[10px] text-amber-100 truncate block font-serif">
+                        Ninguna (Ligero)
+                      </span>
+                    )}
                   </div>
                 </div>
               </div>
@@ -835,18 +913,22 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
                       key={idx}
                       className="p-1.5 rounded-lg bg-elden-950/90 border border-slate-800 flex items-center justify-between gap-1 text-[10px]"
                     >
-                      <span className="truncate text-amber-100 font-serif">
-                        {tal ? tal.name : `Talisman ${idx + 1}`}
-                      </span>
+                      {tal ? (
+                        <span
+                          onClick={() => abrirModalDetalle(tal)}
+                          className="truncate text-amber-100 hover:text-amber-300 font-serif cursor-pointer underline decoration-amber-500/40"
+                          title="Haz clic para ver la guía del talismán"
+                        >
+                          {tal.name}
+                        </span>
+                      ) : (
+                        <span className="truncate text-slate-500 font-serif">
+                          Talisman {idx + 1}
+                        </span>
+                      )}
                       {tal && (
                         <button
-                          onClick={() => {
-                            setEquippedTalismans((prev) => {
-                              const next = [...prev];
-                              next[idx] = null;
-                              return next;
-                            });
-                          }}
+                          onClick={() => unequipItemElden('talismans', idx)}
                           className="text-slate-500 hover:text-rose-400 flex-shrink-0"
                         >
                           <X className="w-3 h-3" />
@@ -953,8 +1035,12 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
                         )}
                       </div>
 
-                      <div className="min-w-0 flex-1">
-                        <div className="font-serif text-xs font-bold text-amber-100 truncate">
+                      <div
+                        className="min-w-0 flex-1 cursor-pointer group"
+                        onClick={() => abrirModalDetalle(item)}
+                        title="Haz clic para ver la guía y detalles del objeto"
+                      >
+                        <div className="font-serif text-xs font-bold text-amber-100 group-hover:text-amber-300 transition truncate underline decoration-amber-500/20">
                           {item.name}
                         </div>
                         <div className="flex items-center gap-1.5 text-[10px] font-mono text-slate-400 mt-0.5">
@@ -1021,8 +1107,8 @@ export function BuildPlannerModal({ isOpen, onClose, onOpenItem }) {
                       <button
                         type="button"
                         onClick={() => {
-                          onClose();
-                          onOpenItem(item);
+                          if (onOpenItem) onOpenItem(item);
+                          abrirModalDetalle(item);
                         }}
                         className="p-1 rounded-lg bg-elden-950 text-slate-400 hover:text-white border border-slate-700 transition"
                         title="Ver guía"

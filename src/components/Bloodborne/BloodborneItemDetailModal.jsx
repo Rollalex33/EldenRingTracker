@@ -16,7 +16,10 @@ import {
   Crosshair,
   Layers,
   ChevronRight,
+  Check,
 } from 'lucide-react';
+import { useTrackerStore } from '../../store/useTrackerStore';
+import { normalizeStr } from '../../utils/gameOrder';
 
 export function BloodborneItemDetailModal({
   item,
@@ -124,12 +127,39 @@ export function BloodborneItemDetailModal({
     (s) => s !== reqSection && s !== bonSection && s !== statSection && s !== locSection
   );
 
+  const { character_bb, equipItemBB } = useTrackerStore();
+
+  const getEquipSlot = () => {
+    if (!item) return null;
+    if (item.category === 'armas_truco') return 'trickWeapon1';
+    if (item.category === 'armas_fuego') return 'firearm1';
+    if (item.category === 'runas') return 'carylRunes';
+    if (item.category === 'atuendos') {
+      const sub = normalizeStr(item.subcategory || '');
+      const nm = normalizeStr(item.name || '');
+      if (sub.includes('cabeza') || nm.includes('sombrero') || nm.includes('capucha') || nm.includes('mascara') || nm.includes('casco') || nm.includes('venda')) return 'attireHead';
+      if (sub.includes('pecho') || nm.includes('atuendo') || nm.includes('chaqueta') || nm.includes('abrigo') || nm.includes('armadura') || nm.includes('tunica') || nm.includes('haori') || nm.includes('traje')) return 'attireChest';
+      if (sub.includes('manos') || nm.includes('guantes') || nm.includes('brazaletes')) return 'attireHands';
+      if (sub.includes('piernas') || nm.includes('pantalones') || nm.includes('botas') || nm.includes('faldas') || nm.includes('hakama')) return 'attireLegs';
+      return 'attireChest';
+    }
+    return null;
+  };
+
+  const equipSlot = getEquipSlot();
+  const equipped = character_bb?.equipped || {};
+  const isCurrentlyEquipped = equipSlot && (
+    equipSlot === 'carylRunes'
+      ? (equipped.carylRunes || []).some((r) => r?.id === item.id)
+      : equipped[equipSlot]?.id === item.id
+  );
+
   const images = (data?.images && data.images.length > 0) ? data.images : (item.image ? [item.image] : []);
   const currentImage = images[activeImageIndex] || images[0];
 
   return (
     <div
-      className="fixed inset-0 z-50 bg-black/85 backdrop-blur-md flex items-center justify-center p-2 sm:p-4 animate-fadeIn"
+      className="fixed inset-0 z-[160] bg-black/85 backdrop-blur-md flex items-center justify-center p-2 sm:p-4 animate-fadeIn"
       onClick={onClose}
     >
       <div
@@ -407,8 +437,8 @@ export function BloodborneItemDetailModal({
           )}
         </div>
 
-        {/* Footer con Toggle de Estado */}
-        <div className="px-5 py-3.5 border-t border-rose-950/80 bg-black/60 flex items-center justify-between gap-3 flex-shrink-0">
+        {/* Footer con Toggle de Estado y Equipar */}
+        <div className="px-5 py-3.5 border-t border-rose-950/80 bg-black/60 flex flex-wrap items-center justify-between gap-2.5 flex-shrink-0">
           <a
             href={item.url || data?.originalUrl || `https://www.eliteguias.com/guias/b/bb/bloodborne.php`}
             target="_blank"
@@ -419,28 +449,46 @@ export function BloodborneItemDetailModal({
             <ExternalLink className="w-3.5 h-3.5" />
           </a>
 
-          <button
-            onClick={() => {
-              onToggle(item.id);
-            }}
-            className={`px-4 py-2 rounded-xl font-serif text-xs font-bold transition flex items-center gap-2 active:scale-95 shadow-md ${
-              isDone
-                ? 'bg-emerald-600 hover:bg-emerald-500 text-stone-950 shadow-[0_0_12px_rgba(16,185,129,0.4)]'
-                : 'bg-rose-600 hover:bg-rose-500 text-stone-950 shadow-[0_0_12px_rgba(225,29,72,0.4)]'
-            }`}
-          >
-            {isDone ? (
-              <>
-                <CheckCircle2 className="w-4 h-4" />
-                <span>Obtenido (Desmarcar)</span>
-              </>
-            ) : (
-              <>
-                <Circle className="w-4 h-4" />
-                <span>Marcar como Conseguido</span>
-              </>
+          <div className="flex items-center gap-2">
+            {equipSlot && (
+              <button
+                type="button"
+                onClick={() => equipItemBB(equipSlot, item)}
+                disabled={isCurrentlyEquipped}
+                className={`px-3 py-2 rounded-xl font-serif text-xs font-bold transition flex items-center gap-1.5 active:scale-95 ${
+                  isCurrentlyEquipped
+                    ? 'bg-rose-950/60 text-rose-300 border border-rose-500/40 cursor-default'
+                    : 'bg-rose-900/80 hover:bg-rose-800 text-rose-100 border border-rose-500/60 shadow-md'
+                }`}
+              >
+                {isCurrentlyEquipped ? <Check className="w-3.5 h-3.5 text-rose-400" /> : <Sword className="w-3.5 h-3.5 text-rose-300" />}
+                <span>{isCurrentlyEquipped ? 'Equipado en Cazador' : 'Equipar en Cazador'}</span>
+              </button>
             )}
-          </button>
+
+            <button
+              onClick={() => {
+                onToggle(item.id);
+              }}
+              className={`px-4 py-2 rounded-xl font-serif text-xs font-bold transition flex items-center gap-2 active:scale-95 shadow-md ${
+                isDone
+                  ? 'bg-emerald-600 hover:bg-emerald-500 text-stone-950 shadow-[0_0_12px_rgba(16,185,129,0.4)]'
+                  : 'bg-rose-600 hover:bg-rose-500 text-stone-950 shadow-[0_0_12px_rgba(225,29,72,0.4)]'
+              }`}
+            >
+              {isDone ? (
+                <>
+                  <CheckCircle2 className="w-4 h-4" />
+                  <span>Obtenido</span>
+                </>
+              ) : (
+                <>
+                  <Circle className="w-4 h-4" />
+                  <span>Marcar</span>
+                </>
+              )}
+            </button>
+          </div>
         </div>
       </div>
     </div>
