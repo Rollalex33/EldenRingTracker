@@ -12,12 +12,14 @@ import {
   Crown,
   Eye,
   RotateCcw,
+  Compass,
 } from 'lucide-react';
 import { useTrackerStore } from '../../store/useTrackerStore';
 import bloodborneCatalog from '../../data/bloodborneCatalog.json';
 
 export function BloodborneHub({
   onNavigate,
+  onOpenRoute,
   onOpenBuilds,
   onOpenEchoes,
   onOpenChalice,
@@ -51,6 +53,17 @@ export function BloodborneHub({
 
   const modules = [
     {
+      id: 'route',
+      title: 'Ruta Óptima de Zonas & Mejoras +10',
+      tagline: '18 Zonas, Fases Lunares & Objetos +10',
+      desc: 'Ruta paso a paso ordenada por Nivel de Sangre (BL), lámparas, debilidades de jefes, los 47 bloques de sangre del juego base y lectura directa de EliteGuías.',
+      icon: Compass,
+      badge: '18 Zonas & DLC',
+      badgeStyle: 'bg-rose-950 text-rose-300 border-rose-500/40',
+      actionLabel: 'Ver Ruta y Mejoras',
+      onClick: () => onOpenRoute(),
+    },
+    {
       id: 'compendium',
       title: 'Compendio de Yharnam',
       tagline: 'Compendio 100% de 457 Ítems, Atuendos, Cálices & Guía',
@@ -60,6 +73,17 @@ export function BloodborneHub({
       badgeStyle: 'bg-rose-950 text-rose-300 border-rose-500/40',
       actionLabel: 'Abrir Compendio',
       onClick: () => onNavigate('checklist'),
+    },
+    {
+      id: 'quests',
+      title: 'Historias de NPCs, Decisiones & Finales',
+      tagline: '19 Personajes, Dilemas Éticos & 3 Finales',
+      desc: 'Rastrea las misiones de los 19 NPCs de EliteGuías, consecuencias de salvar refugiados (Capilla vs Clínica), 4 cordones umbilicales y los 3 finales del Cazador.',
+      icon: BookOpen,
+      badge: '19 NPCs & 3 Finales',
+      badgeStyle: 'bg-purple-950 text-purple-300 border-purple-500/40',
+      actionLabel: 'Ver Historias y Secretos',
+      onClick: () => onOpenQuests(),
     },
     {
       id: 'builds',
@@ -93,17 +117,6 @@ export function BloodborneHub({
       badgeStyle: 'bg-rose-950 text-rose-300 border-rose-500/40',
       actionLabel: 'Ver Mazmorras del Cáliz',
       onClick: () => onOpenChalice(),
-    },
-    {
-      id: 'quests',
-      title: 'Cordones Umbilicales & Refugiados',
-      tagline: 'Final Secreto de la Presencia Lunar & NPCs',
-      desc: 'Control de los 4 tercios de cordón umbilical, matriz de supervivientes (Capilla de Oedon vs Clínica de Iosefka) y efectos de la Lucidez.',
-      icon: BookOpen,
-      badge: 'Final Verdadero',
-      badgeStyle: 'bg-purple-950 text-purple-300 border-purple-500/40',
-      actionLabel: 'Ver Historias y Secretos',
-      onClick: () => onOpenQuests(),
     },
     {
       id: 'settings',

@@ -59,6 +59,7 @@ const CATEGORY_ICONS = {
 };
 
 export function BloodborneCompendium({
+  onOpenRoute,
   onOpenBuilds,
   onOpenEchoes,
   onOpenChalice,
@@ -270,6 +271,15 @@ export function BloodborneCompendium({
                   <Sparkles className="w-2.5 h-2.5 text-rose-400 animate-pulse" />
                   <span>COMPENDIO 100% CAZADOR</span>
                 </span>
+                <button
+                  type="button"
+                  onClick={onOpenRoute}
+                  className="text-[10px] sm:text-[11px] font-serif px-2.5 py-0.5 rounded-full bg-rose-950/60 hover:bg-rose-900/80 text-rose-300 border border-rose-500/50 hover:border-rose-400 transition flex items-center gap-1 active:scale-95 shadow-sm"
+                  title="Abrir Ruta Óptima de Zonas y Objetos +10"
+                >
+                  <Compass className="w-3 h-3 text-rose-400" />
+                  <span>Ruta de Zonas</span>
+                </button>
                 <a
                   href="https://www.eliteguias.com/guias/b/bb/bloodborne.php"
                   target="_blank"
@@ -329,18 +339,16 @@ export function BloodborneCompendium({
         {/* Pestaña: Todas las Categorías */}
         <button
           onClick={() => handleCategoryChange('all')}
-          className={`px-3 py-1.5 rounded-xl font-serif text-xs font-bold transition flex items-center gap-2 whitespace-nowrap border flex-shrink-0 active:scale-95 ${
-            activeCategory === 'all'
+          className={`px-3 py-1.5 rounded-xl font-serif text-xs font-bold transition flex items-center gap-2 whitespace-nowrap border flex-shrink-0 active:scale-95 ${activeCategory === 'all'
               ? 'bg-rose-600 text-stone-950 border-rose-400 shadow-[0_0_12px_rgba(225,29,72,0.5)]'
               : 'bg-stone-900/80 text-stone-300 border-stone-800 hover:border-rose-500/40'
-          }`}
+            }`}
         >
           <Layers className="w-3.5 h-3.5" />
           <span>Todas ({totalCatalog})</span>
           <span
-            className={`text-[10px] font-mono px-1.5 py-0.2 rounded-full ${
-              activeCategory === 'all' ? 'bg-black/30 text-stone-950 font-bold' : 'bg-black/40 text-stone-400'
-            }`}
+            className={`text-[10px] font-mono px-1.5 py-0.2 rounded-full ${activeCategory === 'all' ? 'bg-black/30 text-stone-950 font-bold' : 'bg-black/40 text-stone-400'
+              }`}
           >
             {completedCount}
           </span>
@@ -356,18 +364,16 @@ export function BloodborneCompendium({
             <button
               key={cat.id}
               onClick={() => handleCategoryChange(cat.id)}
-              className={`px-3 py-1.5 rounded-xl font-serif text-xs font-bold transition flex items-center gap-2 whitespace-nowrap border flex-shrink-0 active:scale-95 ${
-                isSelected
+              className={`px-3 py-1.5 rounded-xl font-serif text-xs font-bold transition flex items-center gap-2 whitespace-nowrap border flex-shrink-0 active:scale-95 ${isSelected
                   ? 'bg-rose-600 text-stone-950 border-rose-400 shadow-[0_0_12px_rgba(225,29,72,0.5)]'
                   : 'bg-stone-900/80 text-stone-300 border-stone-800 hover:border-rose-500/40'
-              }`}
+                }`}
             >
               <Icon className="w-3.5 h-3.5" />
               <span>{cat.name}</span>
               <span
-                className={`text-[10px] font-mono px-1.5 py-0.2 rounded-full ${
-                  isSelected ? 'bg-black/30 text-stone-950 font-bold' : 'bg-black/40 text-stone-400'
-                }`}
+                className={`text-[10px] font-mono px-1.5 py-0.2 rounded-full ${isSelected ? 'bg-black/30 text-stone-950 font-bold' : 'bg-black/40 text-stone-400'
+                  }`}
               >
                 {catDone}/{catTotal}
               </span>
@@ -384,11 +390,10 @@ export function BloodborneCompendium({
           </span>
           <button
             onClick={() => setActiveSubcategory('all')}
-            className={`px-2.5 py-1 rounded-lg text-xs font-serif transition whitespace-nowrap border ${
-              activeSubcategory === 'all'
+            className={`px-2.5 py-1 rounded-lg text-xs font-serif transition whitespace-nowrap border ${activeSubcategory === 'all'
                 ? 'bg-rose-950/80 border-rose-500/60 text-rose-200 font-bold'
                 : 'bg-transparent border-stone-800 text-stone-400 hover:text-stone-200'
-            }`}
+              }`}
           >
             Todas ({bloodborneCatalog.items.filter((i) => i.category === activeCategory).length})
           </button>
@@ -400,11 +405,10 @@ export function BloodborneCompendium({
               <button
                 key={sub}
                 onClick={() => setActiveSubcategory(sub)}
-                className={`px-2.5 py-1 rounded-lg text-xs font-serif transition whitespace-nowrap border ${
-                  activeSubcategory === sub
+                className={`px-2.5 py-1 rounded-lg text-xs font-serif transition whitespace-nowrap border ${activeSubcategory === sub
                     ? 'bg-rose-950/80 border-rose-500/60 text-rose-200 font-bold'
                     : 'bg-transparent border-stone-800 text-stone-400 hover:text-stone-200'
-                }`}
+                  }`}
               >
                 {sub} ({count})
               </button>
@@ -441,31 +445,28 @@ export function BloodborneCompendium({
           <div className="flex rounded-xl bg-[#0d090f] border border-stone-800 p-0.5 text-xs font-mono">
             <button
               onClick={() => setExpansionFilter('all')}
-              className={`px-2 py-1 rounded-lg transition ${
-                expansionFilter === 'all'
+              className={`px-2 py-1 rounded-lg transition ${expansionFilter === 'all'
                   ? 'bg-rose-500 text-stone-950 font-bold'
                   : 'text-stone-400 hover:text-stone-200'
-              }`}
+                }`}
             >
               Todo
             </button>
             <button
               onClick={() => setExpansionFilter('base')}
-              className={`px-2 py-1 rounded-lg transition ${
-                expansionFilter === 'base'
+              className={`px-2 py-1 rounded-lg transition ${expansionFilter === 'base'
                   ? 'bg-rose-500 text-stone-950 font-bold'
                   : 'text-stone-400 hover:text-stone-200'
-              }`}
+                }`}
             >
               Base
             </button>
             <button
               onClick={() => setExpansionFilter('dlc')}
-              className={`px-2 py-1 rounded-lg transition ${
-                expansionFilter === 'dlc'
+              className={`px-2 py-1 rounded-lg transition ${expansionFilter === 'dlc'
                   ? 'bg-rose-500 text-stone-950 font-bold'
                   : 'text-stone-400 hover:text-stone-200'
-              }`}
+                }`}
             >
               DLC
             </button>
@@ -475,31 +476,28 @@ export function BloodborneCompendium({
           <div className="flex rounded-xl bg-[#0d090f] border border-stone-800 p-0.5 text-xs font-mono">
             <button
               onClick={() => setStatusFilter('all')}
-              className={`px-2 py-1 rounded-lg transition ${
-                statusFilter === 'all'
+              className={`px-2 py-1 rounded-lg transition ${statusFilter === 'all'
                   ? 'bg-rose-500 text-stone-950 font-bold'
                   : 'text-stone-400 hover:text-stone-200'
-              }`}
+                }`}
             >
               Todos ({contextTotal})
             </button>
             <button
               onClick={() => setStatusFilter('pending')}
-              className={`px-2 py-1 rounded-lg transition ${
-                statusFilter === 'pending'
+              className={`px-2 py-1 rounded-lg transition ${statusFilter === 'pending'
                   ? 'bg-rose-500 text-stone-950 font-bold'
                   : 'text-stone-400 hover:text-stone-200'
-              }`}
+                }`}
             >
               Pendientes ({contextPending})
             </button>
             <button
               onClick={() => setStatusFilter('completed')}
-              className={`px-2 py-1 rounded-lg transition ${
-                statusFilter === 'completed'
+              className={`px-2 py-1 rounded-lg transition ${statusFilter === 'completed'
                   ? 'bg-rose-500 text-stone-950 font-bold'
                   : 'text-stone-400 hover:text-stone-200'
-              }`}
+                }`}
             >
               Hechos ({contextCompleted})
             </button>
@@ -521,18 +519,16 @@ export function BloodborneCompendium({
           <div className="flex rounded-xl bg-[#0d090f] border border-stone-800 p-0.5 text-stone-400">
             <button
               onClick={() => setDisplayMode('grid')}
-              className={`p-1 rounded-lg transition ${
-                displayMode === 'grid' ? 'bg-rose-950 text-rose-300 border border-rose-500/40' : 'hover:text-stone-200'
-              }`}
+              className={`p-1 rounded-lg transition ${displayMode === 'grid' ? 'bg-rose-950 text-rose-300 border border-rose-500/40' : 'hover:text-stone-200'
+                }`}
               title="Vista en Cuadrícula"
             >
               <LayoutGrid className="w-3.5 h-3.5" />
             </button>
             <button
               onClick={() => setDisplayMode('list')}
-              className={`p-1 rounded-lg transition ${
-                displayMode === 'list' ? 'bg-rose-950 text-rose-300 border border-rose-500/40' : 'hover:text-stone-200'
-              }`}
+              className={`p-1 rounded-lg transition ${displayMode === 'list' ? 'bg-rose-950 text-rose-300 border border-rose-500/40' : 'hover:text-stone-200'
+                }`}
               title="Vista Compacta en Lista"
             >
               <List className="w-3.5 h-3.5" />
@@ -542,11 +538,10 @@ export function BloodborneCompendium({
           {/* Toggle de Modo Marcar Rápido */}
           <button
             onClick={() => setQuickMark(!quickMark)}
-            className={`px-2 py-1 rounded-xl border text-xs font-serif transition flex items-center gap-1.5 ${
-              quickMark
+            className={`px-2 py-1 rounded-xl border text-xs font-serif transition flex items-center gap-1.5 ${quickMark
                 ? 'bg-rose-950 border-rose-500 text-rose-200 font-bold shadow-[0_0_8px_rgba(225,29,72,0.3)]'
                 : 'bg-[#0d090f] border-stone-800 text-stone-400 hover:text-stone-200'
-            }`}
+              }`}
             title={quickMark ? 'Modo rápido activado (tocar tarjeta marca ítem)' : 'Modo normal (tocar tarjeta abre ficha)'}
           >
             <Zap className={`w-3 h-3 ${quickMark ? 'text-rose-400 fill-rose-400' : 'text-stone-500'}`} />
@@ -599,11 +594,10 @@ export function BloodborneCompendium({
                       setSelectedItemForModal(item);
                     }
                   }}
-                  className={`group relative p-3 sm:p-3.5 rounded-2xl border transition duration-200 cursor-pointer select-none flex flex-col justify-between hover:scale-[1.01] active:scale-[0.99] shadow-sm ${
-                    isDone
+                  className={`group relative p-3 sm:p-3.5 rounded-2xl border transition duration-200 cursor-pointer select-none flex flex-col justify-between hover:scale-[1.01] active:scale-[0.99] shadow-sm ${isDone
                       ? 'bg-emerald-950/20 border-emerald-500/40 text-emerald-200'
                       : 'bg-[#0d090f] border-stone-800/80 hover:border-rose-500/50 hover:bg-[#130a11] text-stone-300'
-                  }`}
+                    }`}
                 >
                   <div>
                     {/* Fila superior: Checkbox + Thumbnail + Nombre + DLC badge */}
@@ -643,9 +637,8 @@ export function BloodborneCompendium({
 
                         <div className="min-w-0 flex-1">
                           <h3
-                            className={`font-serif font-bold text-sm tracking-wide truncate ${
-                              isDone ? 'line-through text-stone-400' : 'text-stone-100 group-hover:text-rose-200'
-                            }`}
+                            className={`font-serif font-bold text-sm tracking-wide truncate ${isDone ? 'line-through text-stone-400' : 'text-stone-100 group-hover:text-rose-200'
+                              }`}
                           >
                             {item.name}
                           </h3>
@@ -723,11 +716,10 @@ export function BloodborneCompendium({
                       setSelectedItemForModal(item);
                     }
                   }}
-                  className={`group relative rounded-xl border px-3 py-2 transition duration-150 cursor-pointer select-none flex items-center justify-between gap-3 ${
-                    isDone
+                  className={`group relative rounded-xl border px-3 py-2 transition duration-150 cursor-pointer select-none flex items-center justify-between gap-3 ${isDone
                       ? 'bg-emerald-950/20 border-emerald-500/40 text-emerald-200'
                       : 'bg-[#0d090f] border-stone-800/80 hover:border-rose-500/50 hover:bg-[#130a11] text-stone-300'
-                  }`}
+                    }`}
                 >
                   <div className="flex items-center gap-2.5 min-w-0 flex-1">
                     {/* Checkbox botón */}
@@ -765,9 +757,8 @@ export function BloodborneCompendium({
                     <div className="min-w-0 flex-1">
                       <div className="flex items-center gap-2">
                         <span
-                          className={`font-serif font-bold text-xs sm:text-sm tracking-wide truncate ${
-                            isDone ? 'line-through text-stone-400' : 'text-stone-100 group-hover:text-rose-200'
-                          }`}
+                          className={`font-serif font-bold text-xs sm:text-sm tracking-wide truncate ${isDone ? 'line-through text-stone-400' : 'text-stone-100 group-hover:text-rose-200'
+                            }`}
                         >
                           {item.name}
                         </span>
@@ -860,6 +851,20 @@ export function BloodborneCompendium({
       <footer className="px-4 py-2 border-t border-rose-950/80 bg-[#060508] flex items-center justify-between text-xs text-stone-400 font-serif flex-shrink-0">
         <div className="flex items-center gap-2 flex-wrap">
           <button
+            onClick={onOpenRoute}
+            className="hover:text-rose-300 transition text-rose-300 font-bold"
+          >
+            🗺️ Ruta & Mejoras +10
+          </button>
+          <span>•</span>
+          <button
+            onClick={onOpenQuests}
+            className="hover:text-rose-300 transition"
+          >
+            🩸 Misiones de NPCs
+          </button>
+          <span>•</span>
+          <button
             onClick={onOpenBuilds}
             className="hover:text-rose-300 transition"
           >
@@ -878,13 +883,6 @@ export function BloodborneCompendium({
             className="hover:text-rose-300 transition"
           >
             🕯️ Mazmorras Cáliz
-          </button>
-          <span>•</span>
-          <button
-            onClick={onOpenQuests}
-            className="hover:text-rose-300 transition"
-          >
-            🩸 Misiones de Yharnam
           </button>
         </div>
 

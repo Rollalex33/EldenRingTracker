@@ -32,6 +32,7 @@ import { FloatingQuickHUD } from './components/Navigation/FloatingQuickHUD';
 import { HubHome } from './components/Hub/HubHome';
 import { BloodborneHub } from './components/Bloodborne/BloodborneHub';
 import { BloodborneCompendium } from './components/Bloodborne/BloodborneCompendium';
+import { BloodborneRouteModal } from './components/Bloodborne/BloodborneRouteModal';
 import { BloodborneBuildModal } from './components/Bloodborne/BloodborneBuildModal';
 import { BloodborneEchoesModal } from './components/Bloodborne/BloodborneEchoesModal';
 import { BloodborneChaliceModal } from './components/Bloodborne/BloodborneChaliceModal';
@@ -60,6 +61,7 @@ export function App() {
   const [isProgressionOpen, setIsProgressionOpen] = useState(false);
 
   // Estados de Modales para Bloodborne
+  const [isBBRouteOpen, setIsBBRouteOpen] = useState(false);
   const [isBBBuildOpen, setIsBBBuildOpen] = useState(false);
   const [isBBEchoesOpen, setIsBBEchoesOpen] = useState(false);
   const [isBBChaliceOpen, setIsBBChaliceOpen] = useState(false);
@@ -250,16 +252,26 @@ export function App() {
       return (
         <div className="h-screen w-screen overflow-hidden flex flex-col bg-[#060508]">
           <BloodborneCompendium
+            onOpenRoute={() => setIsBBRouteOpen(true)}
             onOpenBuilds={() => setIsBBBuildOpen(true)}
             onOpenEchoes={() => setIsBBEchoesOpen(true)}
             onOpenChalice={() => setIsBBChaliceOpen(true)}
             onOpenQuests={() => setIsBBQuestsOpen(true)}
             onSwitchGame={() => setActiveGame('elden')}
           />
+          <BloodborneRouteModal
+            isOpen={isBBRouteOpen}
+            onClose={() => setIsBBRouteOpen(false)}
+            onInspectItem={abrirModalDetalleBB}
+          />
           <BloodborneBuildModal isOpen={isBBBuildOpen} onClose={() => setIsBBBuildOpen(false)} />
           <BloodborneEchoesModal isOpen={isBBEchoesOpen} onClose={() => setIsBBEchoesOpen(false)} />
           <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
-          <BloodborneQuestsModal isOpen={isBBQuestsOpen} onClose={() => setIsBBQuestsOpen(false)} />
+          <BloodborneQuestsModal
+            isOpen={isBBQuestsOpen}
+            onClose={() => setIsBBQuestsOpen(false)}
+            onInspectItem={abrirModalDetalleBB}
+          />
           <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
 
           {modalItemDetalleBB && (
@@ -279,6 +291,7 @@ export function App() {
       <div className="h-screen w-screen overflow-hidden flex flex-col bg-[#060508]">
         <BloodborneHub
           onNavigate={(target) => setViewMode(target)}
+          onOpenRoute={() => setIsBBRouteOpen(true)}
           onOpenBuilds={() => setIsBBBuildOpen(true)}
           onOpenEchoes={() => setIsBBEchoesOpen(true)}
           onOpenChalice={() => setIsBBChaliceOpen(true)}
@@ -286,10 +299,19 @@ export function App() {
           onOpenSettings={openSettings}
           onSwitchGame={() => setActiveGame('elden')}
         />
+        <BloodborneRouteModal
+          isOpen={isBBRouteOpen}
+          onClose={() => setIsBBRouteOpen(false)}
+          onInspectItem={abrirModalDetalleBB}
+        />
         <BloodborneBuildModal isOpen={isBBBuildOpen} onClose={() => setIsBBBuildOpen(false)} />
         <BloodborneEchoesModal isOpen={isBBEchoesOpen} onClose={() => setIsBBEchoesOpen(false)} />
         <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
-        <BloodborneQuestsModal isOpen={isBBQuestsOpen} onClose={() => setIsBBQuestsOpen(false)} />
+        <BloodborneQuestsModal
+          isOpen={isBBQuestsOpen}
+          onClose={() => setIsBBQuestsOpen(false)}
+          onInspectItem={abrirModalDetalleBB}
+        />
         <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
 
         {modalItemDetalleBB && (
@@ -331,11 +353,11 @@ export function App() {
 
         <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
         <EquipLoadModal isOpen={isEquipLoadOpen} onClose={closeEquipLoad} />
-        <PlatinumModal isOpen={isPlatinumOpen} onClose={closePlatinum} onOpenItem={() => {}} />
+        <PlatinumModal isOpen={isPlatinumOpen} onClose={closePlatinum} onOpenItem={() => { }} />
         <BuildPlannerModal
           isOpen={isBuildPlannerOpen}
           onClose={() => setIsBuildPlannerOpen(false)}
-          onOpenItem={() => {}}
+          onOpenItem={() => { }}
         />
         <RuneCalculatorModal
           isOpen={isRuneCalcOpen}
@@ -390,11 +412,10 @@ export function App() {
 
       {/* 1. Panel Izquierdo / Desplegable (Split-Screen Sidebar) */}
       <aside
-        className={`h-full flex flex-col z-40 transition-all duration-300 ease-in-out border-r border-elden-border bg-elden-900 shadow-2xl fixed md:relative inset-y-0 left-0 max-w-[90vw] md:max-w-none ${
-          isPanelOpen
+        className={`h-full flex flex-col z-40 transition-all duration-300 ease-in-out border-r border-elden-border bg-elden-900 shadow-2xl fixed md:relative inset-y-0 left-0 max-w-[90vw] md:max-w-none ${isPanelOpen
             ? 'w-full sm:w-[420px] md:w-[460px] lg:w-[480px] opacity-100 translate-x-0'
             : 'w-0 sm:w-0 overflow-hidden opacity-0 -translate-x-full md:translate-x-0 pointer-events-none'
-        }`}
+          }`}
       >
         {/* Barra superior de navegación por pestañas dentro del Panel */}
         <div className="px-3 pt-3 pb-2 bg-elden-950 border-b border-elden-border flex items-center justify-between gap-2">
@@ -402,21 +423,19 @@ export function App() {
           <div className="flex bg-elden-900 p-1 rounded-lg border border-slate-800 flex-1 max-w-[340px]">
             <button
               onClick={() => setActiveTab('guide')}
-              className={`flex-1 flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-md text-xs font-serif font-bold transition ${
-                activeTab === 'guide'
+              className={`flex-1 flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-md text-xs font-serif font-bold transition ${activeTab === 'guide'
                   ? 'bg-elden-gold text-elden-950 shadow-gold-glow'
                   : 'text-slate-400 hover:text-slate-200'
-              }`}
+                }`}
             >
               <BookOpen className="w-3.5 h-3.5" />
               <span>Guía de Quests</span>
               {activeQuest && (
                 <span
-                  className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${
-                    activeTab === 'guide'
+                  className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${activeTab === 'guide'
                       ? 'bg-elden-950/20 text-elden-950'
                       : 'bg-elden-800 text-slate-400'
-                  }`}
+                    }`}
                 >
                   {activeQuestPasosDone}/{activeQuest.pasos.length}
                 </span>
@@ -425,20 +444,18 @@ export function App() {
 
             <button
               onClick={() => setActiveTab('filters')}
-              className={`flex-1 flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-md text-xs font-serif font-bold transition ${
-                activeTab === 'filters'
+              className={`flex-1 flex items-center justify-center gap-1.5 py-1.5 px-3 rounded-md text-xs font-serif font-bold transition ${activeTab === 'filters'
                   ? 'bg-elden-gold text-elden-950 shadow-gold-glow'
                   : 'text-slate-400 hover:text-slate-200'
-              }`}
+                }`}
             >
               <Filter className="w-3.5 h-3.5" />
               <span>Filtros y Mapa</span>
               <span
-                className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${
-                  activeTab === 'filters'
+                className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono ${activeTab === 'filters'
                     ? 'bg-elden-950/20 text-elden-950'
                     : 'bg-elden-800 text-slate-400'
-                }`}
+                  }`}
               >
                 {locations.length}
               </span>
@@ -644,7 +661,7 @@ export function App() {
       <PlatinumModal
         isOpen={isPlatinumOpen}
         onClose={closePlatinum}
-        onOpenItem={() => {}}
+        onOpenItem={() => { }}
       />
 
       {/* Menú Principal Gracia Perdida */}
@@ -658,7 +675,7 @@ export function App() {
       <BuildPlannerModal
         isOpen={isBuildPlannerOpen}
         onClose={() => setIsBuildPlannerOpen(false)}
-        onOpenItem={() => {}}
+        onOpenItem={() => { }}
       />
 
       {/* Calculadora de Runas & Zurrón */}

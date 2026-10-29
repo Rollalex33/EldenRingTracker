@@ -391,14 +391,34 @@ export const useTrackerStore = create(
        */
       exportarProgreso: () => {
         const state = get();
+
+        let bbRouteMilestones = {};
+        let bbCollectedChunks = {};
+        let bbNpcQuestSteps = {};
+        let bbUmbilicalCords = {};
+        let bbChaliceSteps = {};
+        try {
+          bbRouteMilestones = JSON.parse(localStorage.getItem('bb_route_milestones') || '{}');
+          bbCollectedChunks = JSON.parse(localStorage.getItem('bb_collected_chunks') || '{}');
+          bbNpcQuestSteps = JSON.parse(localStorage.getItem('bb_npc_quest_steps') || '{}');
+          bbUmbilicalCords = JSON.parse(localStorage.getItem('bb_umbilical_cords') || '{}');
+          bbChaliceSteps = JSON.parse(localStorage.getItem('bb_chalice_steps') || '{}');
+        } catch (e) { }
+
         const exportData = {
-          app: 'Elden Ring Interactive Tracker',
-          version: '1.0',
+          app: 'Elden Ring & Bloodborne Interactive Tracker',
+          version: '2.0',
           fechaExportacion: new Date().toISOString(),
           fechaLegible: new Date().toLocaleString(),
           totalCompletados: state.itemsCompletados.size,
+          totalCompletados_bb: (state.itemsCompletados_bb || new Set()).size,
           itemsCompletados: Array.from(state.itemsCompletados),
           itemsCompletados_bb: Array.from(state.itemsCompletados_bb || []),
+          bb_route_milestones: bbRouteMilestones,
+          bb_collected_chunks: bbCollectedChunks,
+          bb_npc_quest_steps: bbNpcQuestSteps,
+          bb_umbilical_cords: bbUmbilicalCords,
+          bb_chalice_steps: bbChaliceSteps,
           filtrosActivos: state.filtrosActivos,
           selectedQuestlineId: state.selectedQuestlineId,
           soloPerdibles: state.soloPerdibles,
@@ -474,6 +494,24 @@ export const useTrackerStore = create(
             updates.soloPerdibles = data.soloPerdibles;
           }
 
+          try {
+            if (data.bb_route_milestones && typeof data.bb_route_milestones === 'object') {
+              localStorage.setItem('bb_route_milestones', JSON.stringify(data.bb_route_milestones));
+            }
+            if (data.bb_collected_chunks && typeof data.bb_collected_chunks === 'object') {
+              localStorage.setItem('bb_collected_chunks', JSON.stringify(data.bb_collected_chunks));
+            }
+            if (data.bb_npc_quest_steps && typeof data.bb_npc_quest_steps === 'object') {
+              localStorage.setItem('bb_npc_quest_steps', JSON.stringify(data.bb_npc_quest_steps));
+            }
+            if (data.bb_umbilical_cords && typeof data.bb_umbilical_cords === 'object') {
+              localStorage.setItem('bb_umbilical_cords', JSON.stringify(data.bb_umbilical_cords));
+            }
+            if (data.bb_chalice_steps && typeof data.bb_chalice_steps === 'object') {
+              localStorage.setItem('bb_chalice_steps', JSON.stringify(data.bb_chalice_steps));
+            }
+          } catch (e) { }
+
           set(updates);
 
           return {
@@ -496,6 +534,7 @@ export const useTrackerStore = create(
       reiniciarProgreso: () => {
         set({
           itemsCompletados: new Set(),
+          itemsCompletados_bb: new Set(),
           pasoSeleccionadoId: null,
           coordenadasEnfocadas: null,
           soloPerdibles: false,
@@ -504,6 +543,11 @@ export const useTrackerStore = create(
         try {
           localStorage.removeItem('elden-ring-tracker-state');
           localStorage.removeItem('elden_ring_tracker_completed_v1');
+          localStorage.removeItem('bb_route_milestones');
+          localStorage.removeItem('bb_collected_chunks');
+          localStorage.removeItem('bb_npc_quest_steps');
+          localStorage.removeItem('bb_umbilical_cords');
+          localStorage.removeItem('bb_chalice_steps');
         } catch (e) {
           console.error('Error al limpiar localStorage:', e);
         }
@@ -573,7 +617,7 @@ export const useTrackerStore = create(
                 itemsSet = new Set(legacyParsed);
               }
             }
-          } catch (e) {}
+          } catch (e) { }
         }
 
         const itemsSetBB = new Set(
@@ -599,31 +643,31 @@ export const useTrackerStore = create(
           agruparSetsChecklist: persistedState?.agruparSetsChecklist ?? true,
           character_elden: persistedState?.character_elden
             ? {
-                ...defaultCharacterElden,
-                ...persistedState.character_elden,
-                stats: {
-                  ...defaultCharacterElden.stats,
-                  ...(persistedState.character_elden.stats || {}),
-                },
-                equipped: {
-                  ...defaultCharacterElden.equipped,
-                  ...(persistedState.character_elden.equipped || {}),
-                },
-              }
+              ...defaultCharacterElden,
+              ...persistedState.character_elden,
+              stats: {
+                ...defaultCharacterElden.stats,
+                ...(persistedState.character_elden.stats || {}),
+              },
+              equipped: {
+                ...defaultCharacterElden.equipped,
+                ...(persistedState.character_elden.equipped || {}),
+              },
+            }
             : defaultCharacterElden,
           character_bb: persistedState?.character_bb
             ? {
-                ...defaultCharacterBB,
-                ...persistedState.character_bb,
-                stats: {
-                  ...defaultCharacterBB.stats,
-                  ...(persistedState.character_bb.stats || {}),
-                },
-                equipped: {
-                  ...defaultCharacterBB.equipped,
-                  ...(persistedState.character_bb.equipped || {}),
-                },
-              }
+              ...defaultCharacterBB,
+              ...persistedState.character_bb,
+              stats: {
+                ...defaultCharacterBB.stats,
+                ...(persistedState.character_bb.stats || {}),
+              },
+              equipped: {
+                ...defaultCharacterBB.equipped,
+                ...(persistedState.character_bb.equipped || {}),
+              },
+            }
             : defaultCharacterBB,
         };
       },
