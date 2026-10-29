@@ -1,100 +1,170 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
-import { useTrackerStore } from '../store/useTrackerStore';
 
 /**
  * useAppBackHandler
  *
- * Hook para interceptar la navegación hacia atrás de Android y del navegador (botón Atrás / gesto de deslizar).
+ * Hook universal para interceptar la navegación hacia atrás de Android y del navegador
+ * (botón Atrás físico/virtual y gesto de deslizar del borde).
+ *
  * Evita que el usuario salga involuntariamente de la aplicación web:
  * 1. Si un modal de ítem está abierto: el botón atrás cierra el modal.
- * 2. Si el modal de ajustes está abierto: cierra el modal de ajustes.
- * 3. Si hay una búsqueda activa: limpia la búsqueda.
- * 4. Si está en la raíz: muestra aviso "Presiona atrás de nuevo para salir de la web" y solo sale si se pulsa dos veces en 2.5 segundos.
+ * 2. Si un modal de funcionalidad (Ruta, Builds, Misiones, Ajustes...) está abierto: lo cierra.
+ * 3. Si hay una búsqueda activa: la limpia.
+ * 4. Si está en una subvista (Checklist o Mapa): regresa a la vista anterior o al Hub.
+ * 5. Si está en Bloodborne Hub: regresa a Elden Ring Hub.
+ * 6. Si está en el nivel raíz (Elden Ring Hub sin modales): muestra aviso "Presiona atrás de nuevo para salir",
+ *    permitiendo salir solo si se pulsa dos veces en 2 segundos.
  */
-export function useAppBackHandler({
-  activeItemForModal,
-  setActiveItemForModal,
-  isSettingsOpen,
-  setIsSettingsOpen,
-}) {
-  const {
-    busquedaChecklist,
-    setBusquedaChecklist,
-  } = useTrackerStore();
-
+export function useAppBackHandler(options = {}) {
   const [toastMessage, setToastMessage] = useState('');
   const toastTimeoutRef = useRef(null);
   const lastBackPressRef = useRef(0);
   const isExitingRef = useRef(false);
   const isProgrammaticBackRef = useRef(false);
 
-  // Mantener referencias actualizadas para los event listeners de popstate
-  const activeItemRef = useRef(activeItemForModal);
-  activeItemRef.current = activeItemForModal;
-
-  const isSettingsRef = useRef(isSettingsOpen);
-  isSettingsRef.current = isSettingsOpen;
-
-  const busquedaRef = useRef(busquedaChecklist);
-  busquedaRef.current = busquedaChecklist;
+  // Mantener referencias actualizadas para que popstate acceda siempre a los estados más recientes sin recrear listeners
+  const optionsRef = useRef(options);
+  optionsRef.current = options;
 
   const showToast = useCallback((msg) => {
     setToastMessage(msg);
     if (toastTimeoutRef.current) clearTimeout(toastTimeoutRef.current);
     toastTimeoutRef.current = setTimeout(() => {
       setToastMessage('');
-    }, 2500);
+    }, 2000);
   }, []);
 
-  // Inicializar el historial para atrapar el botón atrás de forma segura
+  // 1. Inicializar el estado de historial para que siempre exista un buffer protector
   useEffect(() => {
     if (typeof window === 'undefined') return;
 
-    // Asegurar que exista un estado base para atrapar el gesto 'Atrás'
     if (!window.history.state || !window.history.state.erApp) {
       window.history.replaceState({ erApp: 'root' }, '');
       window.history.pushState({ erApp: 'main' }, '');
     }
 
-    const handlePopState = (event) => {
-      // Si el usuario ya confirmó que desea salir con doble toque, no interceptar
+    const handlePopState = () => {
       if (isExitingRef.current) return;
 
-      // Si el retroceso fue disparado programáticamente desde la UI (botón X o backdrop), consumir y omitir
       if (isProgrammaticBackRef.current) {
         isProgrammaticBackRef.current = false;
         return;
       }
 
-      // 1. Si el modal de ítem está abierto: cerrarlo
-      if (activeItemRef.current) {
-        setActiveItemForModal(null);
+      const opts = optionsRef.current;
+
+      // 1. Modales de detalle de ítem (máxima prioridad)
+      if (opts.modalItemDetalleBB) {
+        if (opts.cerrarModalDetalleBB) opts.cerrarModalDetalleBB();
+        return;
+      }
+      if (opts.activeItemForModal) {
+        if (opts.setActiveItemForModal) opts.setActiveItemForModal(null);
+        return;
+      }
+      if (opts.modalItemDetalle) {
+        if (opts.cerrarModalDetalle) opts.cerrarModalDetalle();
         return;
       }
 
-      // 2. Si el modal de ajustes está abierto: cerrarlo
-      if (isSettingsRef.current) {
-        setIsSettingsOpen(false);
+      // 2. Modales de Bloodborne
+      if (opts.isBBRouteOpen) {
+        if (opts.setIsBBRouteOpen) opts.setIsBBRouteOpen(false);
+        return;
+      }
+      if (opts.isBBQuestsOpen) {
+        if (opts.setIsBBQuestsOpen) opts.setIsBBQuestsOpen(false);
+        return;
+      }
+      if (opts.isBBChaliceOpen) {
+        if (opts.setIsBBChaliceOpen) opts.setIsBBChaliceOpen(false);
+        return;
+      }
+      if (opts.isBBEchoesOpen) {
+        if (opts.setIsBBEchoesOpen) opts.setIsBBEchoesOpen(false);
+        return;
+      }
+      if (opts.isBBBuildOpen) {
+        if (opts.setIsBBBuildOpen) opts.setIsBBBuildOpen(false);
         return;
       }
 
-      // 3. Si hay búsqueda activa: limpiar la búsqueda
-      if (busquedaRef.current && busquedaRef.current.trim() !== '') {
-        setBusquedaChecklist('');
+      // 3. Modales de Elden Ring
+      if (opts.isHubMenuOpen) {
+        if (opts.setIsHubMenuOpen) opts.setIsHubMenuOpen(false);
+        return;
+      }
+      if (opts.isBuildPlannerOpen) {
+        if (opts.setIsBuildPlannerOpen) opts.setIsBuildPlannerOpen(false);
+        return;
+      }
+      if (opts.isRuneCalcOpen) {
+        if (opts.setIsRuneCalcOpen) opts.setIsRuneCalcOpen(false);
+        return;
+      }
+      if (opts.isProgressionOpen) {
+        if (opts.setIsProgressionOpen) opts.setIsProgressionOpen(false);
+        return;
+      }
+      if (opts.isPlatinumOpen) {
+        if (opts.setIsPlatinumOpen) opts.setIsPlatinumOpen(false);
+        return;
+      }
+      if (opts.isEquipLoadOpen) {
+        if (opts.setIsEquipLoadOpen) opts.setIsEquipLoadOpen(false);
+        return;
+      }
+      if (opts.isSettingsOpen) {
+        if (opts.setIsSettingsOpen) opts.setIsSettingsOpen(false);
+        return;
+      }
+      if (opts.isHelpOpen) {
+        if (opts.setIsHelpOpen) opts.setIsHelpOpen(false);
+        return;
+      }
+
+      // 4. Si hay búsqueda activa en checklist: limpiar la búsqueda antes de retroceder de vista
+      if (opts.busquedaChecklist && opts.busquedaChecklist.trim() !== '') {
+        if (opts.setBusquedaChecklist) opts.setBusquedaChecklist('');
         window.history.pushState({ erApp: 'main' }, '');
         return;
       }
 
-      // 4. En el nivel raíz: doble pulsación requerida para salir
+      // 5. Callback explícito de retorno al Hub (para ChecklistCompendium)
+      if (opts.onBackToHub) {
+        opts.onBackToHub();
+        return;
+      }
+
+      // 6. Subvistas en App.jsx
+      if (opts.activeGame === 'bloodborne') {
+        if (opts.viewMode === 'checklist') {
+          if (opts.setViewMode) opts.setViewMode('hub');
+          return;
+        }
+        if (opts.viewMode === 'hub') {
+          if (opts.setActiveGame) opts.setActiveGame('elden');
+          return;
+        }
+      } else {
+        if (opts.viewMode === 'map') {
+          if (opts.setViewMode) opts.setViewMode('checklist');
+          return;
+        }
+        if (opts.viewMode === 'checklist') {
+          if (opts.setViewMode) opts.setViewMode('hub');
+          return;
+        }
+      }
+
+      // 7. Nivel raíz absoluto (Elden Ring Hub sin modales): doble toque para salir
       const now = Date.now();
-      if (now - lastBackPressRef.current < 2500) {
-        // Segunda pulsación rápida: permitir salida del sitio
+      if (now - lastBackPressRef.current < 2000) {
         isExitingRef.current = true;
         window.history.back();
       } else {
         lastBackPressRef.current = now;
-        showToast('Presiona atrás de nuevo para salir de la web');
-        // Restaurar estado en historial para que el próximo toque funcione
+        showToast('Presiona atrás de nuevo para salir');
         window.history.pushState({ erApp: 'main' }, '');
       }
     };
@@ -104,63 +174,118 @@ export function useAppBackHandler({
       window.removeEventListener('popstate', handlePopState);
       if (toastTimeoutRef.current) clearTimeout(toastTimeoutRef.current);
     };
-  }, [
-    setActiveItemForModal,
-    setIsSettingsOpen,
-    setBusquedaChecklist,
-    showToast,
-  ]);
+  }, [showToast]);
 
-  // Al abrir el modal de ítem manualmente, registrar entrada en historial
-  const openItemModal = useCallback(
-    (item) => {
-      setActiveItemForModal(item);
-      if (typeof window !== 'undefined') {
-        window.history.pushState({ erApp: 'modal-item', id: item.id }, '');
-      }
-    },
-    [setActiveItemForModal]
-  );
+  // 2. Auto-push de historial cada vez que se abre un modal
+  const prevModalCountRef = useRef(0);
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
 
-  // Al cerrar el modal de ítem manualmente (botón X o backdrop)
-  const closeItemModal = useCallback(
-    (subSteps = 0) => {
-      setActiveItemForModal(null);
-      if (typeof window !== 'undefined' && window.history.state?.erApp?.startsWith('modal-item')) {
-        isProgrammaticBackRef.current = true;
-        const totalSteps = 1 + (typeof subSteps === 'number' ? subSteps : 0);
-        if (totalSteps > 1) {
-          window.history.go(-totalSteps);
-        } else {
-          window.history.back();
-        }
-      }
-    },
-    [setActiveItemForModal]
-  );
+    const opts = optionsRef.current;
+    const count = [
+      opts.modalItemDetalleBB,
+      opts.modalItemDetalle,
+      opts.activeItemForModal,
+      opts.isBBRouteOpen,
+      opts.isBBQuestsOpen,
+      opts.isBBChaliceOpen,
+      opts.isBBEchoesOpen,
+      opts.isBBBuildOpen,
+      opts.isHubMenuOpen,
+      opts.isBuildPlannerOpen,
+      opts.isRuneCalcOpen,
+      opts.isProgressionOpen,
+      opts.isPlatinumOpen,
+      opts.isEquipLoadOpen,
+      opts.isSettingsOpen,
+      opts.isHelpOpen,
+    ].filter(Boolean).length;
 
-  // Al abrir ajustes manualmente
-  const openSettings = useCallback(() => {
-    setIsSettingsOpen(true);
-    if (typeof window !== 'undefined') {
-      window.history.pushState({ erApp: 'modal-settings' }, '');
+    if (count > prevModalCountRef.current) {
+      window.history.pushState({ erApp: 'modal', depth: count }, '');
     }
-  }, [setIsSettingsOpen]);
+    prevModalCountRef.current = count;
+  });
 
-  // Al cerrar ajustes manualmente
-  const closeSettings = useCallback(() => {
-    setIsSettingsOpen(false);
-    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-settings') {
+  // Funciones auxiliares para abrir/cerrar programáticamente sin romper el stack de historial
+  const openItemModal = useCallback((item) => {
+    if (optionsRef.current.setActiveItemForModal) {
+      optionsRef.current.setActiveItemForModal(item);
+    } else if (optionsRef.current.abrirModalDetalleBB) {
+      optionsRef.current.abrirModalDetalleBB(item);
+    } else if (optionsRef.current.abrirModalDetalle) {
+      optionsRef.current.abrirModalDetalle(item);
+    }
+  }, []);
+
+  const closeItemModal = useCallback(() => {
+    if (optionsRef.current.setActiveItemForModal) {
+      optionsRef.current.setActiveItemForModal(null);
+    }
+    if (optionsRef.current.cerrarModalDetalleBB) {
+      optionsRef.current.cerrarModalDetalleBB();
+    }
+    if (optionsRef.current.cerrarModalDetalle) {
+      optionsRef.current.cerrarModalDetalle();
+    }
+    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal') {
       isProgrammaticBackRef.current = true;
       window.history.back();
     }
-  }, [setIsSettingsOpen]);
+  }, []);
+
+  const safeCloseModal = useCallback((closeFn) => {
+    if (closeFn) closeFn();
+    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal') {
+      isProgrammaticBackRef.current = true;
+      window.history.back();
+    }
+  }, []);
+
+  const safeNavigateView = useCallback((targetView) => {
+    if (targetView === optionsRef.current.viewMode) return;
+    if (typeof window !== 'undefined') {
+      window.history.pushState({ erApp: 'view', view: targetView }, '');
+    }
+    if (optionsRef.current.setViewMode) {
+      optionsRef.current.setViewMode(targetView);
+    }
+  }, []);
+
+  const safeSwitchGame = useCallback((targetGame) => {
+    if (targetGame === optionsRef.current.activeGame) return;
+    if (typeof window !== 'undefined') {
+      window.history.pushState({ erApp: 'game', game: targetGame }, '');
+    }
+    if (optionsRef.current.setActiveGame) {
+      optionsRef.current.setActiveGame(targetGame);
+    }
+  }, []);
+
+  const openSettings = useCallback(() => {
+    if (optionsRef.current.setIsSettingsOpen) {
+      optionsRef.current.setIsSettingsOpen(true);
+    }
+  }, []);
+
+  const closeSettings = useCallback(() => {
+    if (optionsRef.current.setIsSettingsOpen) {
+      optionsRef.current.setIsSettingsOpen(false);
+    }
+    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal') {
+      isProgrammaticBackRef.current = true;
+      window.history.back();
+    }
+  }, []);
 
   return {
     openItemModal,
     closeItemModal,
     openSettings,
     closeSettings,
+    safeCloseModal,
+    safeNavigateView,
+    safeSwitchGame,
     toastMessage,
   };
 }

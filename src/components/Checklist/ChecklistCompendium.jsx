@@ -142,6 +142,21 @@ export function ChecklistCompendium() {
     setActiveItemForModal,
     isSettingsOpen,
     setIsSettingsOpen,
+    isEquipLoadOpen,
+    setIsEquipLoadOpen,
+    isPlatinumOpen,
+    setIsPlatinumOpen,
+    isHubMenuOpen,
+    setIsHubMenuOpen,
+    isBuildPlannerOpen,
+    setIsBuildPlannerOpen,
+    isRuneCalcOpen,
+    setIsRuneCalcOpen,
+    isProgressionOpen,
+    setIsProgressionOpen,
+    busquedaChecklist,
+    setBusquedaChecklist,
+    onBackToHub: () => setViewMode('hub'),
   });
 
   // Sistema de notificación con opción "Deshacer"

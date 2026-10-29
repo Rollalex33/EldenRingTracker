@@ -89,6 +89,31 @@ export function BloodborneCompendium({
   const mainScrollRef = useRef(null);
   const undoTimerRef = useRef(null);
 
+  // Interceptar navegación Atrás cuando la ficha del ítem está abierta
+  useEffect(() => {
+    if (!selectedItemForModal) return;
+
+    if (typeof window !== 'undefined') {
+      window.history.pushState({ erApp: 'item-compendium-bb' }, '');
+    }
+
+    const handlePop = () => {
+      setSelectedItemForModal(null);
+    };
+
+    window.addEventListener('popstate', handlePop);
+    return () => {
+      window.removeEventListener('popstate', handlePop);
+    };
+  }, [selectedItemForModal]);
+
+  const handleCloseItemModal = () => {
+    setSelectedItemForModal(null);
+    if (typeof window !== 'undefined' && window.history.state?.erApp === 'item-compendium-bb') {
+      window.history.back();
+    }
+  };
+
   const totalCatalog = bloodborneCatalog.items.length;
   const completedCount = bloodborneCatalog.items.filter((i) => itemsCompletados_bb.has(i.id)).length;
   const progressPct = ((completedCount / (totalCatalog || 1)) * 100).toFixed(1);
@@ -895,7 +920,7 @@ export function BloodborneCompendium({
       <BloodborneItemDetailModal
         item={selectedItemForModal}
         isOpen={Boolean(selectedItemForModal)}
-        onClose={() => setSelectedItemForModal(null)}
+        onClose={handleCloseItemModal}
         isDone={selectedItemForModal ? itemsCompletados_bb.has(selectedItemForModal.id) : false}
         onToggle={toggleCompletadoBB}
       />

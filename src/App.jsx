@@ -39,6 +39,7 @@ import { BloodborneChaliceModal } from './components/Bloodborne/BloodborneChalic
 import { BloodborneQuestsModal } from './components/Bloodborne/BloodborneQuestsModal';
 import { ItemDetailModal } from './components/Checklist/ItemDetailModal';
 import { BloodborneItemDetailModal } from './components/Bloodborne/BloodborneItemDetailModal';
+import { useAppBackHandler } from './hooks/useAppBackHandler';
 
 /**
  * Layout Principal con Split-Screen UI y Modo Checklist Compendio
@@ -86,79 +87,63 @@ export function App() {
     cerrarModalDetalleBB,
   } = useTrackerStore();
 
-  const isHelpRef = useRef(isHelpOpen);
-  isHelpRef.current = isHelpOpen;
-  const isSettingsRef = useRef(isSettingsOpen);
-  isSettingsRef.current = isSettingsOpen;
-  const isEquipLoadRef = useRef(isEquipLoadOpen);
-  isEquipLoadRef.current = isEquipLoadOpen;
-  const isPlatinumRef = useRef(isPlatinumOpen);
-  isPlatinumRef.current = isPlatinumOpen;
-  const isHubMenuRef = useRef(isHubMenuOpen);
-  isHubMenuRef.current = isHubMenuOpen;
-  const isBuildPlannerRef = useRef(isBuildPlannerOpen);
-  isBuildPlannerRef.current = isBuildPlannerOpen;
-  const isRuneCalcRef = useRef(isRuneCalcOpen);
-  isRuneCalcRef.current = isRuneCalcOpen;
-  const isProgressionRef = useRef(isProgressionOpen);
-  isProgressionRef.current = isProgressionOpen;
+  const {
+    openItemModal,
+    closeItemModal,
+    safeCloseModal,
+    safeNavigateView,
+    safeSwitchGame,
+    toastMessage,
+  } = useAppBackHandler({
+    // Modales Bloodborne
+    modalItemDetalleBB,
+    cerrarModalDetalleBB,
+    isBBRouteOpen,
+    setIsBBRouteOpen,
+    isBBQuestsOpen,
+    setIsBBQuestsOpen,
+    isBBChaliceOpen,
+    setIsBBChaliceOpen,
+    isBBEchoesOpen,
+    setIsBBEchoesOpen,
+    isBBBuildOpen,
+    setIsBBBuildOpen,
 
-  // Interceptar navegación atrás cuando se está en la vista de Mapa
-  useEffect(() => {
-    if (viewMode !== 'map') return;
+    // Modales Elden Ring
+    modalItemDetalle,
+    cerrarModalDetalle,
+    isHubMenuOpen,
+    setIsHubMenuOpen,
+    isBuildPlannerOpen,
+    setIsBuildPlannerOpen,
+    isRuneCalcOpen,
+    setIsRuneCalcOpen,
+    isProgressionOpen,
+    setIsProgressionOpen,
+    isPlatinumOpen,
+    setIsPlatinumOpen,
+    isEquipLoadOpen,
+    setIsEquipLoadOpen,
+    isSettingsOpen,
+    setIsSettingsOpen,
+    isHelpOpen,
+    setIsHelpOpen,
 
-    if (window.history.state?.erApp !== 'map') {
-      window.history.pushState({ erApp: 'map' }, '');
-    }
-
-    const handleMapPop = () => {
-      if (isHubMenuRef.current) {
-        setIsHubMenuOpen(false);
-        return;
-      }
-      if (isBuildPlannerRef.current) {
-        setIsBuildPlannerOpen(false);
-        return;
-      }
-      if (isRuneCalcRef.current) {
-        setIsRuneCalcOpen(false);
-        return;
-      }
-      if (isProgressionRef.current) {
-        setIsProgressionOpen(false);
-        return;
-      }
-      if (isHelpRef.current) {
-        setIsHelpOpen(false);
-        return;
-      }
-      if (isSettingsRef.current) {
-        setIsSettingsOpen(false);
-        return;
-      }
-      if (isEquipLoadRef.current) {
-        setIsEquipLoadOpen(false);
-        return;
-      }
-      if (isPlatinumRef.current) {
-        setIsPlatinumOpen(false);
-        return;
-      }
-      setViewMode('checklist');
-    };
-
-    window.addEventListener('popstate', handleMapPop);
-    return () => window.removeEventListener('popstate', handleMapPop);
-  }, [viewMode, setViewMode]);
+    // Vistas y Juego Activo
+    viewMode,
+    setViewMode,
+    activeGame,
+    setActiveGame,
+  });
 
   const handleHubNavigate = (target) => {
     setIsHubMenuOpen(false);
     switch (target) {
       case 'checklist':
-        setViewMode('checklist');
+        safeNavigateView('checklist');
         break;
       case 'map':
-        setViewMode('map');
+        safeNavigateView('map');
         break;
       case 'builds':
         setIsBuildPlannerOpen(true);
@@ -188,64 +173,20 @@ export function App() {
   };
 
   const handleReturnToChecklist = () => {
-    if (window.history.state?.erApp === 'map') {
-      window.history.back();
-    } else {
-      setViewMode('checklist');
-    }
+    safeNavigateView('checklist');
   };
 
-  const openHelp = () => {
-    setIsHelpOpen(true);
-    if (typeof window !== 'undefined') {
-      window.history.pushState({ erApp: 'modal-help' }, '');
-    }
-  };
-  const closeHelp = () => {
-    setIsHelpOpen(false);
-    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-help') {
-      window.history.back();
-    }
-  };
+  const openHelp = () => setIsHelpOpen(true);
+  const closeHelp = () => safeCloseModal(() => setIsHelpOpen(false));
 
-  const openSettings = () => {
-    setIsSettingsOpen(true);
-    if (typeof window !== 'undefined') {
-      window.history.pushState({ erApp: 'modal-settings' }, '');
-    }
-  };
-  const closeSettings = () => {
-    setIsSettingsOpen(false);
-    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-settings') {
-      window.history.back();
-    }
-  };
+  const openSettings = () => setIsSettingsOpen(true);
+  const closeSettings = () => safeCloseModal(() => setIsSettingsOpen(false));
 
-  const openEquipLoad = () => {
-    setIsEquipLoadOpen(true);
-    if (typeof window !== 'undefined') {
-      window.history.pushState({ erApp: 'modal-equipload' }, '');
-    }
-  };
-  const closeEquipLoad = () => {
-    setIsEquipLoadOpen(false);
-    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-equipload') {
-      window.history.back();
-    }
-  };
+  const openEquipLoad = () => setIsEquipLoadOpen(true);
+  const closeEquipLoad = () => safeCloseModal(() => setIsEquipLoadOpen(false));
 
-  const openPlatinum = () => {
-    setIsPlatinumOpen(true);
-    if (typeof window !== 'undefined') {
-      window.history.pushState({ erApp: 'modal-platinum' }, '');
-    }
-  };
-  const closePlatinum = () => {
-    setIsPlatinumOpen(false);
-    if (typeof window !== 'undefined' && window.history.state?.erApp === 'modal-platinum') {
-      window.history.back();
-    }
-  };
+  const openPlatinum = () => setIsPlatinumOpen(true);
+  const closePlatinum = () => safeCloseModal(() => setIsPlatinumOpen(false));
 
   // VISTA DEDICADA DE BLOODBORNE (Sin mapa, con todas las herramientas góticas)
   if (activeGame === 'bloodborne') {
@@ -258,19 +199,28 @@ export function App() {
             onOpenEchoes={() => setIsBBEchoesOpen(true)}
             onOpenChalice={() => setIsBBChaliceOpen(true)}
             onOpenQuests={() => setIsBBQuestsOpen(true)}
-            onSwitchGame={() => setActiveGame('elden')}
+            onSwitchGame={() => safeSwitchGame('elden')}
           />
           <BloodborneRouteModal
             isOpen={isBBRouteOpen}
-            onClose={() => setIsBBRouteOpen(false)}
+            onClose={() => safeCloseModal(() => setIsBBRouteOpen(false))}
             onInspectItem={abrirModalDetalleBB}
           />
-          <BloodborneBuildModal isOpen={isBBBuildOpen} onClose={() => setIsBBBuildOpen(false)} />
-          <BloodborneEchoesModal isOpen={isBBEchoesOpen} onClose={() => setIsBBEchoesOpen(false)} />
-          <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
+          <BloodborneBuildModal
+            isOpen={isBBBuildOpen}
+            onClose={() => safeCloseModal(() => setIsBBBuildOpen(false))}
+          />
+          <BloodborneEchoesModal
+            isOpen={isBBEchoesOpen}
+            onClose={() => safeCloseModal(() => setIsBBEchoesOpen(false))}
+          />
+          <BloodborneChaliceModal
+            isOpen={isBBChaliceOpen}
+            onClose={() => safeCloseModal(() => setIsBBChaliceOpen(false))}
+          />
           <BloodborneQuestsModal
             isOpen={isBBQuestsOpen}
-            onClose={() => setIsBBQuestsOpen(false)}
+            onClose={() => safeCloseModal(() => setIsBBQuestsOpen(false))}
             onInspectItem={abrirModalDetalleBB}
           />
           <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
@@ -279,10 +229,16 @@ export function App() {
             <BloodborneItemDetailModal
               item={modalItemDetalleBB}
               isOpen={Boolean(modalItemDetalleBB)}
-              onClose={cerrarModalDetalleBB}
+              onClose={() => safeCloseModal(cerrarModalDetalleBB)}
               isDone={modalItemDetalleBB ? itemsCompletados_bb.has(modalItemDetalleBB.id) : false}
               onToggle={toggleCompletadoBB}
             />
+          )}
+
+          {toastMessage && (
+            <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[9999] px-4 py-2.5 rounded-full bg-stone-900/95 border border-rose-500/60 text-rose-200 text-xs font-serif font-bold shadow-2xl backdrop-blur-md animate-fadeIn pointer-events-none flex items-center gap-2">
+              <span>{toastMessage}</span>
+            </div>
           )}
         </div>
       );
@@ -291,26 +247,35 @@ export function App() {
     return (
       <div className="h-screen w-screen overflow-hidden flex flex-col bg-[#060508]">
         <BloodborneHub
-          onNavigate={(target) => setViewMode(target)}
+          onNavigate={(target) => safeNavigateView(target)}
           onOpenRoute={() => setIsBBRouteOpen(true)}
           onOpenBuilds={() => setIsBBBuildOpen(true)}
           onOpenEchoes={() => setIsBBEchoesOpen(true)}
           onOpenChalice={() => setIsBBChaliceOpen(true)}
           onOpenQuests={() => setIsBBQuestsOpen(true)}
           onOpenSettings={openSettings}
-          onSwitchGame={() => setActiveGame('elden')}
+          onSwitchGame={() => safeSwitchGame('elden')}
         />
         <BloodborneRouteModal
           isOpen={isBBRouteOpen}
-          onClose={() => setIsBBRouteOpen(false)}
+          onClose={() => safeCloseModal(() => setIsBBRouteOpen(false))}
           onInspectItem={abrirModalDetalleBB}
         />
-        <BloodborneBuildModal isOpen={isBBBuildOpen} onClose={() => setIsBBBuildOpen(false)} />
-        <BloodborneEchoesModal isOpen={isBBEchoesOpen} onClose={() => setIsBBEchoesOpen(false)} />
-        <BloodborneChaliceModal isOpen={isBBChaliceOpen} onClose={() => setIsBBChaliceOpen(false)} />
+        <BloodborneBuildModal
+          isOpen={isBBBuildOpen}
+          onClose={() => safeCloseModal(() => setIsBBBuildOpen(false))}
+        />
+        <BloodborneEchoesModal
+          isOpen={isBBEchoesOpen}
+          onClose={() => safeCloseModal(() => setIsBBEchoesOpen(false))}
+        />
+        <BloodborneChaliceModal
+          isOpen={isBBChaliceOpen}
+          onClose={() => safeCloseModal(() => setIsBBChaliceOpen(false))}
+        />
         <BloodborneQuestsModal
           isOpen={isBBQuestsOpen}
-          onClose={() => setIsBBQuestsOpen(false)}
+          onClose={() => safeCloseModal(() => setIsBBQuestsOpen(false))}
           onInspectItem={abrirModalDetalleBB}
         />
         <SettingsModal isOpen={isSettingsOpen} onClose={closeSettings} />
@@ -319,10 +284,16 @@ export function App() {
           <BloodborneItemDetailModal
             item={modalItemDetalleBB}
             isOpen={Boolean(modalItemDetalleBB)}
-            onClose={cerrarModalDetalleBB}
+            onClose={() => safeCloseModal(cerrarModalDetalleBB)}
             isDone={modalItemDetalleBB ? itemsCompletados_bb.has(modalItemDetalleBB.id) : false}
             onToggle={toggleCompletadoBB}
           />
+        )}
+
+        {toastMessage && (
+          <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[9999] px-4 py-2.5 rounded-full bg-stone-900/95 border border-rose-500/60 text-rose-200 text-xs font-serif font-bold shadow-2xl backdrop-blur-md animate-fadeIn pointer-events-none flex items-center gap-2">
+            <span>{toastMessage}</span>
+          </div>
         )}
       </div>
     );
@@ -341,7 +312,7 @@ export function App() {
             } else if (target === 'progression') {
               setIsProgressionOpen(true);
             } else {
-              setViewMode(target);
+              safeNavigateView(target);
             }
           }}
           onOpenSettings={openSettings}
@@ -357,23 +328,29 @@ export function App() {
         <PlatinumModal isOpen={isPlatinumOpen} onClose={closePlatinum} onOpenItem={() => { }} />
         <BuildPlannerModal
           isOpen={isBuildPlannerOpen}
-          onClose={() => setIsBuildPlannerOpen(false)}
+          onClose={() => safeCloseModal(() => setIsBuildPlannerOpen(false))}
           onOpenItem={() => { }}
         />
         <RuneCalculatorModal
           isOpen={isRuneCalcOpen}
-          onClose={() => setIsRuneCalcOpen(false)}
+          onClose={() => safeCloseModal(() => setIsRuneCalcOpen(false))}
         />
         <ProgressionRouteModal
           isOpen={isProgressionOpen}
-          onClose={() => setIsProgressionOpen(false)}
+          onClose={() => safeCloseModal(() => setIsProgressionOpen(false))}
         />
 
         {modalItemDetalle && (
           <ItemDetailModal
             item={modalItemDetalle}
-            onClose={cerrarModalDetalle}
+            onClose={() => safeCloseModal(cerrarModalDetalle)}
           />
+        )}
+
+        {toastMessage && (
+          <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[9999] px-4 py-2.5 rounded-full bg-elden-900/95 border border-amber-500/60 text-amber-200 text-xs font-serif font-bold shadow-2xl backdrop-blur-md animate-fadeIn pointer-events-none flex items-center gap-2">
+            <span>{toastMessage}</span>
+          </div>
         )}
       </div>
     );
@@ -668,27 +645,27 @@ export function App() {
       {/* Menú Principal Gracia Perdida */}
       <AppHubMenu
         isOpen={isHubMenuOpen}
-        onClose={() => setIsHubMenuOpen(false)}
+        onClose={() => safeCloseModal(() => setIsHubMenuOpen(false))}
         onNavigate={handleHubNavigate}
       />
 
       {/* Constructor de Builds & Recomendador de Equipo */}
       <BuildPlannerModal
         isOpen={isBuildPlannerOpen}
-        onClose={() => setIsBuildPlannerOpen(false)}
+        onClose={() => safeCloseModal(() => setIsBuildPlannerOpen(false))}
         onOpenItem={() => { }}
       />
 
       {/* Calculadora de Runas & Zurrón */}
       <RuneCalculatorModal
         isOpen={isRuneCalcOpen}
-        onClose={() => setIsRuneCalcOpen(false)}
+        onClose={() => safeCloseModal(() => setIsRuneCalcOpen(false))}
       />
 
       {/* Ruta Óptima de Progresión */}
       <ProgressionRouteModal
         isOpen={isProgressionOpen}
-        onClose={() => setIsProgressionOpen(false)}
+        onClose={() => safeCloseModal(() => setIsProgressionOpen(false))}
       />
 
       {/* Dock Rápido Flotante */}
@@ -705,8 +682,17 @@ export function App() {
       {modalItemDetalle && (
         <ItemDetailModal
           item={modalItemDetalle}
-          onClose={cerrarModalDetalle}
+          onClose={() => safeCloseModal(cerrarModalDetalle)}
         />
+      )}
+
+      {toastMessage && (
+        <div
+          id="back-exit-toast"
+          className="fixed bottom-6 left-1/2 -translate-x-1/2 z-[9999] px-4 py-2.5 rounded-full bg-elden-900/95 border border-amber-500/60 text-amber-200 text-xs font-serif font-bold shadow-2xl backdrop-blur-md animate-fadeIn pointer-events-none flex items-center gap-2"
+        >
+          <span>{toastMessage}</span>
+        </div>
       )}
     </div>
   );
