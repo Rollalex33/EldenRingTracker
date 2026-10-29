@@ -1,5 +1,5 @@
 import React from 'react';
-import { AlertTriangle, RotateCcw } from 'lucide-react';
+import { AlertTriangle, RefreshCw, ShieldCheck } from 'lucide-react';
 
 export class ErrorBoundary extends React.Component {
   constructor(props) {
@@ -15,10 +15,8 @@ export class ErrorBoundary extends React.Component {
     console.error('ErrorBoundary caught an error:', error, errorInfo);
   }
 
-  handleReset = () => {
-    try {
-      localStorage.removeItem('elden-ring-tracker-state');
-    } catch (e) {}
+  handleReload = () => {
+    // Recarga segura: NUNCA borra ni altera el almacenamiento de progreso
     window.location.reload();
   };
 
@@ -33,20 +31,27 @@ export class ErrorBoundary extends React.Component {
             <h2 className="text-xl font-serif font-bold text-amber-200">
               Ocurrió un problema al cargar
             </h2>
-            <p className="text-xs text-slate-400">
-              Se ha detectado un error inesperado al renderizar la aplicación. Pulsa el botón para restablecer la vista.
+            <p className="text-xs text-slate-400 leading-relaxed">
+              Se ha detectado un error al renderizar la aplicación. Pulsa para recargar.
             </p>
+
+            <div className="flex items-center justify-center gap-1.5 text-[11px] text-emerald-400 font-mono bg-emerald-950/40 border border-emerald-500/30 py-1.5 px-3 rounded-lg">
+              <ShieldCheck className="w-4 h-4 text-emerald-400 flex-shrink-0" />
+              <span>Tus datos y progreso guardados están 100% seguros</span>
+            </div>
+
             {this.state.error && (
               <pre className="text-[10px] text-red-300 bg-black/40 p-2.5 rounded-lg text-left overflow-x-auto max-h-32 custom-scrollbar font-mono">
                 {String(this.state.error?.message || this.state.error)}
               </pre>
             )}
+
             <button
-              onClick={this.handleReset}
-              className="w-full py-2.5 px-4 rounded-xl bg-elden-gold hover:bg-amber-400 text-elden-950 font-serif font-bold text-sm shadow-gold-glow transition flex items-center justify-center gap-2"
+              onClick={this.handleReload}
+              className="w-full py-2.5 px-4 rounded-xl bg-elden-gold hover:bg-amber-400 text-elden-950 font-serif font-bold text-sm shadow-gold-glow transition flex items-center justify-center gap-2 active:scale-95"
             >
-              <RotateCcw className="w-4 h-4" />
-              <span>Restablecer y Recargar</span>
+              <RefreshCw className="w-4 h-4" />
+              <span>Recargar Página (Sin perder datos)</span>
             </button>
           </div>
         </div>

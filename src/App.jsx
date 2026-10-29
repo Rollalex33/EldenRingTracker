@@ -82,6 +82,7 @@ export function App() {
     modalItemDetalle,
     cerrarModalDetalle,
     modalItemDetalleBB,
+    abrirModalDetalleBB,
     cerrarModalDetalleBB,
   } = useTrackerStore();
 
